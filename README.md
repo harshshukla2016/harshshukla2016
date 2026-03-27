@@ -11,7 +11,7 @@
 <a href="https://github.com/harshshukla2016">
 <img src="https://img.shields.io/badge/⚡_STATUS-OPEN_TO_COLLABORATE-00d4aa?style=for-the-badge&labelColor=1a1b27" alt="Status"/>
 </a>
-
+<br/>
 <br/>
 <br/>
 <!-- ═══ TYPING SVG ═══ -->
