@@ -1,23 +1,38 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  🚀 HARSH KUMAR SHUKLA — The Extravagant Portfolio README          ║ -->
+<!-- ║  🎨 Optimized for BOTH Dark & Light GitHub Themes                  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,30&height=300&section=header&text=Harsh%20Kumar%20Shukla&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✦%20Software%20Engineer%20✦%20AI/ML%20Enthusiast%20✦%20SAP%20SD%20Consultant%20✦&descSize=18&descColor=b8c0e0&descAlignY=55)
+<!-- ═══ HEADER: Dark/Light Adaptive ═══ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,30&height=300&section=header&text=Harsh%20Kumar%20Shukla&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✦%20Software%20Engineer%20✦%20AI/ML%20Enthusiast%20✦%20SAP%20SD%20Consultant%20✦&descSize=18&descColor=b8c0e0&descAlignY=55"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24,25,30&height=300&section=header&text=Harsh%20Kumar%20Shukla&fontSize=60&fontColor=1a1b27&animation=twinkling&fontAlignY=35&desc=✦%20Software%20Engineer%20✦%20AI/ML%20Enthusiast%20✦%20SAP%20SD%20Consultant%20✦&descSize=18&descColor=4a4e69&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,30&height=300&section=header&text=Harsh%20Kumar%20Shukla&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✦%20Software%20Engineer%20✦%20AI/ML%20Enthusiast%20✦%20SAP%20SD%20Consultant%20✦&descSize=18&descColor=b8c0e0&descAlignY=55" alt="Header"/>
+</picture>
 
 <a href="https://github.com/harshshukla2016">
-<img src="https://img.shields.io/badge/⚡_STATUS-OPEN_TO_COLLABORATE-00d4aa?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+<img src="https://img.shields.io/badge/⚡_STATUS-OPEN_TO_COLLABORATE-00d4aa?style=for-the-badge&labelColor=1a1b27" alt="Status"/>
 </a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=B8C0E0&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E+console.log(%22Hello+World!+%F0%9F%91%8B%22);+Building+intelligent+systems...;%3E+const+passion+%3D+%5B%22AI%22%2C+%22Robotics%22%2C+%22Full-Stack%22%5D;+Crafting+the+future...;%3E+while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D)](https://git.io/typing-svg)
+<!-- ═══ TYPING SVG: Dark/Light Adaptive ═══ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=B8C0E0&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E+console.log(%22Hello+World!+%F0%9F%91%8B%22);+Building+intelligent+systems...;%3E+const+passion+%3D+%5B%22AI%22%2C+%22Robotics%22%2C+%22Full-Stack%22%5D;+Crafting+the+future...;%3E+while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2d3142&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E+console.log(%22Hello+World!+%F0%9F%91%8B%22);+Building+intelligent+systems...;%3E+const+passion+%3D+%5B%22AI%22%2C+%22Robotics%22%2C+%22Full-Stack%22%5D;+Crafting+the+future...;%3E+while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=B8C0E0&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E+console.log(%22Hello+World!+%F0%9F%91%8B%22);+Building+intelligent+systems...;%3E+const+passion+%3D+%5B%22AI%22%2C+%22Robotics%22%2C+%22Full-Stack%22%5D;+Crafting+the+future...;%3E+while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D" alt="Typing SVG"/>
+</picture>
 
 </div>
 
-<!-- ═══════════════ WAVE DIVIDER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=2" width="100%"/>
+<!-- ═══ DIVIDER: Dark/Light Adaptive ═══ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,30&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=2" width="100%"/>
+</picture>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🔗 CONNECT BAR                                                     -->
@@ -56,7 +71,11 @@
 <!-- 💫 ABOUT ME                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,30&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+</picture>
 
 <div align="center">
 <h2>
@@ -125,7 +144,11 @@ const harsh = {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,30&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+</picture>
 
 <br/>
 
@@ -165,7 +188,11 @@ const harsh = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,30&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+</picture>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ TECH ARSENAL                                                    -->
@@ -192,7 +219,11 @@ const harsh = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,30&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+</picture>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🚀 FEATURED PROJECTS                                               -->
@@ -301,7 +332,11 @@ const harsh = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,30&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+</picture>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS                                                -->
@@ -313,17 +348,31 @@ const harsh = {
 &nbsp;GitHub Analytics
 </h2>
 
-<img src="https://streak-stats.demolab.com/?user=harshshukla2016&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c3ad1&ring=6c3ad1&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=b8c0e0&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="55%"/>
+<!-- ═══ STREAK: Dark/Light Adaptive ═══ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=harshshukla2016&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c3ad1&ring=6c3ad1&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=b8c0e0&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=harshshukla2016&theme=default&hide_border=true&background=ffffff&stroke=e4e2e2&ring=6c3ad1&fire=ff6b6b&currStreakLabel=6c3ad1&sideLabels=2d3142&currStreakNum=2d3142&sideNums=2d3142&dates=6b7280"/>
+  <img src="https://streak-stats.demolab.com/?user=harshshukla2016&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c3ad1&ring=6c3ad1&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=b8c0e0&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="55%" alt="GitHub Streak"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshshukla2016&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=b8c0e0&line=6c3ad1&point=ff6b6b&area=true&area_color=6c3ad1" width="95%"/>
+<!-- ═══ ACTIVITY GRAPH: Dark/Light Adaptive ═══ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=harshshukla2016&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=b8c0e0&line=6c3ad1&point=ff6b6b&area=true&area_color=6c3ad1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=harshshukla2016&theme=minimal&hide_border=true&bg_color=ffffff&color=2d3142&line=6c3ad1&point=ff6b6b&area=true&area_color=c4b5fd"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshshukla2016&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=b8c0e0&line=6c3ad1&point=ff6b6b&area=true&area_color=6c3ad1" width="95%" alt="Activity Graph"/>
+</picture>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,30&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+</picture>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🎓 EDUCATION & CERTS                                               -->
@@ -373,7 +422,11 @@ const harsh = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,30&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+</picture>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🎯 FUN FACTS                                                       -->
@@ -412,7 +465,11 @@ const harsh = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,30&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+</picture>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 📬 CONNECT                                                         -->
@@ -433,7 +490,12 @@ const harsh = {
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="500"/>
+<!-- ═══ DEV QUOTE: Dark/Light Adaptive ═══ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&border=true"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="500" alt="Dev Quote"/>
+</picture>
 
 <br/><br/>
 
@@ -441,7 +503,12 @@ const harsh = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,30&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=b8c0e0&fontAlignY=72&animation=twinkling"/>
+<!-- ═══ FOOTER: Dark/Light Adaptive ═══ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,30&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=b8c0e0&fontAlignY=72&animation=twinkling"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,30&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=2d3142&fontAlignY=72&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,30&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=b8c0e0&fontAlignY=72&animation=twinkling" alt="Footer"/>
+</picture>
 
 </div>
 
