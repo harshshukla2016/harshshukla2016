@@ -1,173 +1,208 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 HARSH KUMAR SHUKLA — GitHub Profile README                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║  🚀 HARSH KUMAR SHUKLA — The Extravagant Portfolio README          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ───────────────── HEADER BANNER ───────────────── -->
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,30&height=300&section=header&text=Harsh%20Kumar%20Shukla&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✦%20Software%20Engineer%20✦%20AI/ML%20Enthusiast%20✦%20SAP%20SD%20Consultant%20✦&descSize=18&descColor=b8c0e0&descAlignY=55)
 
-![Harsh Kumar Shukla Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c3ad1&height=220&section=header&text=Harsh%20Kumar%20Shukla&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20Enthusiast%20%7C%20SAP%20SD%20Consultant&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn)
+<a href="https://github.com/harshshukla2016">
+<img src="https://img.shields.io/badge/⚡_STATUS-OPEN_TO_COLLABORATE-00d4aa?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+</a>
 
-<!-- ───────────────── TYPING ANIMATION ───────────────── -->
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Building+intelligent+systems+%F0%9F%A7%A0;Crafting+scalable+enterprise+solutions+%E2%9A%A1;Turning+ideas+into+reality+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<!-- ───────────────── SOCIAL BADGES ───────────────── -->
-
-<p>
-<a href="https://linkedin.com/in/harsh-kumar-shukla-a42aa4138"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://github.com/harshshukla2016"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="mailto:harshshukla2017@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://harsh-kumar-shukla-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6c3ad1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="https://twitter.com/_shuklaa_jii_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=harshshukla2016&style=for-the-badge&color=6c3ad1&label=PROFILE+VIEWS" alt="Profile Views"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=B8C0E0&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E+console.log(%22Hello+World!+%F0%9F%91%8B%22);+Building+intelligent+systems...;%3E+const+passion+%3D+%5B%22AI%22%2C+%22Robotics%22%2C+%22Full-Stack%22%5D;+Crafting+the+future...;%3E+while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D)](https://git.io/typing-svg)
 
 </div>
 
----
+<!-- ═══════════════ WAVE DIVIDER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=2" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 👨‍💻 ABOUT ME                                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🔗 CONNECT BAR                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 👨‍💻 &nbsp;About Me
+<div align="center">
 
-```yaml
-name: Harsh Kumar Shukla
-location: New Delhi, India 🇮🇳
-current_role: SAP SD Consultant @ Cognizant
-education: MCA (AI/ML) — Amity University Online
-birthday: August 14, 2003
-passions:
-  - Building intelligent AI systems
-  - Enterprise software solutions
-  - Robotics & IoT innovation
-  - Open source contribution
-motto: "Code with purpose, build with passion."
-```
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/harsh-kumar-shukla-a42aa4138"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</td>
+<td align="center">
+<a href="https://harsh-kumar-shukla-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-6c3ad1?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+</td>
+<td align="center">
+<a href="mailto:harshshukla2017@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</td>
+<td align="center">
+<a href="https://twitter.com/_shuklaa_jii_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</td>
+<td align="center">
+<a href="https://github.com/harshshukla2016"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</td>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=harshshukla2016&style=for-the-badge&color=6c3ad1&label=VISITORS" alt="Profile Views"/>
+</td>
+</tr>
+</table>
 
-- 🏢 &nbsp;Currently working as **SAP SD Consultant** at **Cognizant**
-- 🎓 &nbsp;Pursuing **MCA in AI/ML** from **Amity University Online**
-- 🎯 &nbsp;Graduated **BCA** from **Dr. Virendra Swaroop Institute** (73%)
-- 🤖 &nbsp;Passionate about **Robotics**, **AI/ML** & **IoT**
-- 🐶 &nbsp;Proud dog dad & animal welfare volunteer
-- 🌐 &nbsp;Portfolio: [**harsh-kumar-shukla-portfolio.vercel.app**](https://harsh-kumar-shukla-portfolio.vercel.app)
-- 📫 &nbsp;Reach me at **harshshukla2017@gmail.com**
-- 🗣️ &nbsp;Languages: **English** (Professional) · **Hindi** (Native)
+</div>
 
-<br clear="both"/>
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 💫 ABOUT ME                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 💼 PROFESSIONAL EXPERIENCE                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
 
-## 💼 &nbsp;Professional Experience
+<div align="center">
+<h2>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+&nbsp;Who Am I?
+</h2>
+</div>
 
 <table>
 <tr>
-<td width="100" align="center">
-<img src="https://img.shields.io/badge/Cognizant-0033A1?style=for-the-badge&logo=cognizant&logoColor=white" alt="Cognizant"/>
+<td width="55%" valign="top">
+
+```js
+// 🧑‍💻 harsh_kumar_shukla.js
+
+const harsh = {
+  pronouns: "he" | "him",
+  location: "New Delhi, India 🇮🇳",
+  birthday: "August 14, 2003 🎂",
+  
+  currentRole: {
+    title: "SAP SD Consultant",
+    company: "Cognizant",
+    focus: "Enterprise Solutions"
+  },
+  
+  education: {
+    pursuing: "MCA (AI/ML) @ Amity University",
+    completed: "BCA @ Dr. Virendra Swaroop Institute"
+  },
+  
+  skills: ["Python", "React.js", "Flask", "SAP",
+           "AWS", "Oracle", "RHEL", "C++", "JS"],
+  
+  passions: ["🤖 Robotics", "🧠 AI/ML", 
+             "🌐 Full-Stack", "🐶 Dog Dad"],
+  
+  motto: "Code with purpose, build with passion. 🚀"
+};
+```
+
 </td>
-<td>
+<td width="45%" valign="top">
 
-### 🔹 SAP SD Consultant — Cognizant
-**📍 India** &nbsp;|&nbsp; **📅 Current**
+<div align="center">
 
-> Working on SAP Sales & Distribution module, managing enterprise-level business processes including order-to-cash cycles, pricing, shipping, and billing configurations for large-scale clients.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
 
-</td>
-</tr>
-<tr>
-<td width="100" align="center">
-<img src="https://img.shields.io/badge/Organewood-2ECC71?style=for-the-badge&logoColor=white" alt="Organewood Labs"/>
-</td>
-<td>
+<br/><br/>
 
-### 🔹 Software Development Engineer Intern — Organewood Labs
-**📍 Noida, India** &nbsp;|&nbsp; **📅 April 2024 – October 2024**
+**🏢 Currently:** SAP SD Consultant @ **Cognizant**
 
-> - Developed & integrated a robust **industrial palletization system** with a user-friendly UI using **React.js** and a **Flask** backend
-> - Ensured **real-time communication** and enhanced **automation efficiency**
-> - Continuously enhanced skills in **React.js**, **Flask**, and **real-time data communication**
+**🎓 Studying:** MCA in AI/ML @ **Amity University**
 
-</td>
-</tr>
-<tr>
-<td width="100" align="center">
-<img src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture"/>
-</td>
-<td>
+**🔭 Building:** Intelligent automation systems
 
-### 🔹 Associate Software Engineer — Accenture
-**📍 Gurugram, India** &nbsp;|&nbsp; **📅 Nov 2023 – April 2024**
+**🌱 Learning:** Deep Learning & NLP
 
-> - Managed **Red Hat Enterprise Linux**, **Oracle DB Administration**, and **AWS Administration**
-> - Supported and enhanced **enterprise-level IT infrastructure**
-> - Ensured **optimal performance and reliability** of production systems
+**🐕 Fun fact:** Proud dad of 2 dogs & street dog volunteer!
+
+**🌐 Portfolio:** [**Visit My Portfolio →**](https://harsh-kumar-shukla-portfolio.vercel.app)
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK                                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<br/>
 
-## 🛠️ &nbsp;Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 💼 EXPERIENCE TIMELINE                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+&nbsp;Professional Journey
+</h2>
+</div>
+
+```
+  🟣 2024 - Present ─────── SAP SD Consultant @ Cognizant
+  │                         ├─ SAP Sales & Distribution Module
+  │                         ├─ Order-to-Cash Cycles & Pricing
+  │                         └─ Enterprise Business Solutions
+  │
+  🔵 Apr 2024 - Oct 2024 ── SDE Intern @ Organewood Labs, Noida
+  │                         ├─ Industrial Palletization System (React + Flask)
+  │                         ├─ Real-time Communication Systems
+  │                         └─ Automation Efficiency Enhancement
+  │
+  🟢 Nov 2023 - Apr 2024 ── Associate Software Engineer @ Accenture, Gurugram
+  │                         ├─ Red Hat Enterprise Linux Administration
+  │                         ├─ Oracle Database Administration
+  │                         └─ AWS Cloud Infrastructure Management
+  │
+  🎓 2020 - 2023 ────────── BCA @ Dr. Virendra Swaroop Institute, Kanpur (73%)
+  │                         └─ Software Dev • Database Mgmt • Web Technologies
+  │
+  🎓 2024 - Present ─────── MCA (AI/ML) @ Amity University Online
+                            └─ Deep Learning • NLP • Predictive Analytics
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH ARSENAL                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/>
+&nbsp;Tech Arsenal
+</h2>
+</div>
 
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🧰 Frameworks & Tools
-<p>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white"/>
-</p>
-
-### 🎨 Design & Misc
-<p>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-<img src="https://img.shields.io/badge/CorelDRAW-72B53A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+| **Category** | **Technologies** |
+|---|---|
+| **💻 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **⚡ Frameworks** | ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SAP](https://img.shields.io/badge/SAP_SD-0FAAFF?style=flat-square&logo=sap&logoColor=white) |
+| **☁️ Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![RHEL](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **🎨 Design & IoT** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![IoT](https://img.shields.io/badge/IoT_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-72B53A?style=flat-square&logoColor=white) |
+| **🧠 Soft Skills** | `⏱️ Time Management` `🤝 Teamwork` `🧩 Problem Solving` `📝 Documentation` `🎤 Presentations` |
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED PROJECTS                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
 
-## 🚀 &nbsp;Featured Projects
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED PROJECTS                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+&nbsp;Featured Projects
+</h2>
 
 <a href="https://github.com/harshshukla2016/Palletizer-reach-checker"><img src="https://img.shields.io/badge/🔧_Palletizer_Reach_Checker-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Palletizer"/></a>&nbsp;
 <a href="https://github.com/harshshukla2016/Industrial-Palletisation-System"><img src="https://img.shields.io/badge/🏭_Industrial_Palletisation-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Palletisation"/></a>&nbsp;
@@ -184,212 +219,221 @@ motto: "Code with purpose, build with passion."
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🤖 Robotic Arm Jogging System
-<img src="https://img.shields.io/badge/Status-Completed-2ECC71?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Robotics-FF6F00?style=flat-square"/>
 
-> Programmed a robotic arm using **Python** and **Elite Co-bot SDK**, enabling precise control via 3D mouse, joysticks, and keyboard.
+</div>
 
-**🎯 Key Achievements:**
-- ⚡ Control latency of **200ms**
-- 🎯 Accuracy rate of **95%**
-- 🕹️ Multi-input support (3D mouse, joysticks, keyboard)
+<img src="https://img.shields.io/badge/✅_Completed-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Robotics-FF6F00?style=flat-square"/>
 
-`Python` `Elite Co-bot SDK` `Robotics` `Real-time Control`
+> 🕹️ Programmed a robotic arm using **Python** and **Elite Co-bot SDK**, enabling precise control via 3D mouse, joysticks, and keyboard.
+
+| Metric | Result |
+|---|---|
+| ⚡ Control Latency | **200ms** |
+| 🎯 Accuracy Rate | **95%** |
+| 🕹️ Input Methods | 3D Mouse, Joysticks, Keyboard |
 
 </td>
 <td width="50%" valign="top">
+
+<div align="center">
 
 ### 🏭 Industrial Palletization System
-<img src="https://img.shields.io/badge/Status-Completed-2ECC71?style=flat-square"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
-> Full-stack palletization system with real-time communication for industrial automation at **Organewood Labs**.
+</div>
 
-**🎯 Key Features:**
-- 🖥️ User-friendly **React.js** UI
-- ⚙️ **Flask** backend integration
-- 📡 Real-time data communication
-- 📦 Automation efficiency boost
+<img src="https://img.shields.io/badge/✅_Completed-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
-`React.js` `Flask` `Real-time` `Automation`
+> 📦 Full-stack palletization system with **real-time communication** for industrial automation at **Organewood Labs**.
+
+| Feature | Tech |
+|---|---|
+| 🖥️ Frontend | **React.js** |
+| ⚙️ Backend | **Flask** |
+| 📡 Communication | **Real-time** |
+| 📦 Purpose | **Industrial Automation** |
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<div align="center">
 
 ### 🌱 AI Plant Caretaker
-<img src="https://img.shields.io/badge/Status-Completed-2ECC71?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-> Developed an AI model for **intelligent plant care**, using agricultural data to enhance effectiveness.
+</div>
 
-**🎯 Key Features:**
-- 🧠 ML-powered plant health analysis
-- 📊 Continuous data collection & improvement
-- 🌿 Agricultural data integration
-- 📈 Iterative accuracy enhancement
+<img src="https://img.shields.io/badge/✅_Completed-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-`Python` `Machine Learning` `Agriculture` `Data Science`
+> 🧠 AI model for **intelligent plant care**, using agricultural data with continuous learning for improved accuracy.
+
+| Feature | Detail |
+|---|---|
+| 🧠 Core | **ML-powered** plant health analysis |
+| 📊 Data | **Agricultural** datasets |
+| 📈 Learning | **Continuous** improvement |
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🌐 Responsive Web Designs
-<img src="https://img.shields.io/badge/Status-Completed-2ECC71?style=flat-square"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-> Certified by **freeCodeCamp** in responsive web design — creating visually appealing websites that adapt seamlessly.
+</div>
 
-**🎯 Key Highlights:**
-- 📱 Mobile-first responsive design
-- 🎨 Visually appealing interfaces
-- ✅ freeCodeCamp certified
-- 🖥️ Cross-device compatibility
+<img src="https://img.shields.io/badge/✅_Completed-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-`HTML` `CSS` `JavaScript` `Responsive Design`
+> 🏆 Certified by **freeCodeCamp** — creating visually appealing websites that adapt seamlessly across all devices.
+
+| Feature | Detail |
+|---|---|
+| 📱 Design | **Mobile-first** responsive |
+| 🎨 Quality | **Visually** appealing |
+| ✅ Certified | **freeCodeCamp** |
 
 </td>
 </tr>
 </table>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎓 EDUCATION                                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## 🎓 &nbsp;Education
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/2024--Present-6c3ad1?style=for-the-badge"/>
-</td>
-<td>
-
-**🎓 Masters of Computer Application (MCA) — AI / Machine Learning**
-<br/>*Amity University Online*
 <br/>
-<br/>📚 Deep Learning • Natural Language Processing • Predictive Analytics • Intelligent Systems
 
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/2020--2023-58a6ff?style=for-the-badge"/>
-</td>
-<td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
 
-**🎓 Bachelors of Computer Application (BCA)** — **73%**
-<br/>*Dr. Virendra Swaroop Institute of Computer Studies, Kanpur, UP*
-<br/>
-<br/>📚 Software Development • Database Management • Web Technologies • Problem Solving
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS                                                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Analytics
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+<h2>
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"/>
+&nbsp;GitHub Analytics
+</h2>
 
-<img src="https://streak-stats.demolab.com/?user=harshshukla2016&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1b27&ring=6c3ad1&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=harshshukla2016&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c3ad1&ring=6c3ad1&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=b8c0e0&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="55%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshshukla2016&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=6c3ad1&point=58a6ff&area=true&area_color=6c3ad1" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshshukla2016&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=b8c0e0&line=6c3ad1&point=ff6b6b&area=true&area_color=6c3ad1" width="95%"/>
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 CERTIFICATIONS                                                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
 
-## 🏆 &nbsp;Certifications & Achievements
-
-<div align="center">
-
-| 🏅 Certificate | 🏛️ Issuer | 📅 Date |
-|---|---|---|
-| **Responsive Web Design** | freeCodeCamp | June 2022 |
-| **Emerging IT Trends & Technology** | Academic Project | Aug 2022 |
-| **Red Hat Enterprise Linux** | Accenture Training | 2023 |
-| **Oracle Database Administration** | Accenture Training | 2023 |
-| **AWS Administration** | Accenture Training | 2023 |
-| **DevOps Essentials** | Accenture Training | 2023 |
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌟 SOFT SKILLS & INTERESTS                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## 🌟 &nbsp;Beyond Code
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🎓 EDUCATION & CERTS                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-### 💡 Soft Skills
-
-<p>
-<img src="https://img.shields.io/badge/⏱️_Time_Management-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤝_Teamwork-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧩_Problem_Solving-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📝_Documentation-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎤_Engaging_Presentations-0d1117?style=for-the-badge"/>
-</p>
-
-### 🎯 Interests
-
+<h2>
+🎓 &nbsp;Education & Certifications
+</h2>
 </div>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Robotics & IoT
-Passionate about creating useful things with sensors.
-<br/>Involved in several hardware + software projects.
+### 📚 Education
+
+```
+🎓 MCA — Artificial Intelligence / Machine Learning
+   📍 Amity University Online
+   📅 Jan 2024 - Present
+   📖 Deep Learning • NLP • Predictive Analytics
+   
+🎓 BCA — Computer Application (73%)
+   📍 Dr. Virendra Swaroop Institute, Kanpur
+   📅 2020 - 2023
+   📖 Software Dev • Database Mgmt • Web Tech
+```
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🐶 Pet Care & Animal Welfare
-Proud parent of two dogs.
-<br/>Active volunteer helping street dogs.
+### 🏆 Certifications
+
+| 🏅 Certificate | 📅 Year |
+|---|---|
+| **Responsive Web Design** — freeCodeCamp | 2022 |
+| **Emerging IT Trends** — Academic | 2022 |
+| **Red Hat Enterprise Linux** — Accenture | 2023 |
+| **Oracle DB Administration** — Accenture | 2023 |
+| **AWS Administration** — Accenture | 2023 |
+| **DevOps Essentials** — Accenture | 2023 |
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📬 CONNECT WITH ME                                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
 
-## 📬 &nbsp;Let's Connect!
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🎯 FUN FACTS                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+<h2>
+⚡ &nbsp;Fun Facts About Me
+</h2>
+</div>
 
-<a href="mailto:harshshukla2017@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>&nbsp;
-<a href="https://linkedin.com/in/harsh-kumar-shukla-a42aa4138"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
-<a href="https://github.com/harshshukla2016"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70"/><br/>
+<b>🐍 Python Lover</b><br/>
+<sub>My go-to for everything from AI models to robotic arms</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="70"/><br/>
+<b>🤖 Robotics Geek</b><br/>
+<sub>Passionate about sensors, co-bots & IoT projects</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="70"/><br/>
+<b>🐶 Dog Dad</b><br/>
+<sub>Proud parent of 2 dogs & street dog volunteer</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="70"/><br/>
+<b>☕ Chai > Coffee</b><br/>
+<sub>Fueled by masala chai & late-night debugging</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,30&height=1" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 📬 CONNECT                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/>
+&nbsp;Let's Build Something Amazing Together!
+</h2>
+
+<br/>
+
+<a href="mailto:harshshukla2017@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38"/></a>&nbsp;
+<a href="https://linkedin.com/in/harsh-kumar-shukla-a42aa4138"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/></a>&nbsp;
+<a href="https://harsh-kumar-shukla-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-6c3ad1?style=for-the-badge&logoColor=white" height="38"/></a>&nbsp;
+<a href="https://twitter.com/_shuklaa_jii_"><img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="38"/></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="500"/>
 
 <br/><br/>
 
@@ -397,10 +441,10 @@ Proud parent of two dogs.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c3ad1&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,30&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=b8c0e0&fontAlignY=72&animation=twinkling"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ⭐ If you found my profile interesting, consider giving a star to my repos!    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ⭐ Star my repos if you found something interesting!               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
