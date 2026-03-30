@@ -15,8 +15,7 @@
 <br/>
 
 <!-- ═══ TYPING SVG ═══ -->
-<a href="https://github.com/harshshukla2016"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6c3ad1&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Software+Engineer+%7C+AI%2FML+Enthusiast+%7C+SAP+Consultant;Building+intelligent+systems+with+passion+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%E2%80%A2+Repeat+%F0%9F%94%81" alt="Typing SVG"/></a>
-
+<a href="https://github.com/harshshukla2016"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6c3ad1&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Software+Engineer+%7C+SAP+SD+Consultant;AI%2FML+Enthusiast+%7C+Full-Stack+Dev;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG"/></a>
 
 </div>
 
