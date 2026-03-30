@@ -15,7 +15,7 @@
 
 <br/>
 <!-- ═══ TYPING SVG ═══ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=6c3ad1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+console.log(%22Hello+World!+%F0%9F%91%8B%22);+Building+intelligent+systems...;%3E+const+passion+%3D+%5B%22AI%22%2C+%22Robotics%22%2C+%22Full-Stack%22%5D;+Crafting+the+future...;%3E+while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=6c3ad1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E+console.log(%22Hello+World!+%F0%9F%91%8B%22);+Building+intelligent+systems...;%3E+const+passion+%3D+%5B%22AI%22%2C+%22Robotics%22%2C+%22Full-Stack%22%5D;+Crafting+the+future...;%3E+while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D" alt="Typing SVG"/></a>
 
 </div>
 
