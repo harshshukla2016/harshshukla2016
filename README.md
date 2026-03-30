@@ -39,6 +39,32 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 📰 DAILY TECH NEWS                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>
+📰 &nbsp;Today's Tech Pulse
+</h2>
+<sub>🔄 Auto-updated daily via GitHub Actions</sub>
+</div>
+
+<!-- TECH_NEWS_START -->
+| # | **Trending in Tech Today** | **Tags** | **Link** |
+|:---:|---|---|:---:|
+| 🔥 | **CodePen TV secrets** | `codepen`, `css`, `cssart` | [Read →](https://dev.to/ivorjetski/codepen-tv-secrets-fib) |
+| ⚡ | **NoteRunway: Because Your Notion Workspace Deserves an Elite Crew** | `devchallenge`, `notionchallenge`, `mcp` | [Read →](https://dev.to/georgekobaidze/noterunway-because-your-notion-workspace-deserves-an-elite-crew-53bk) |
+| 🚀 | **What are your goals for the week? #172** | `career`, `discuss`, `productivity` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) |
+| 💡 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) |
+| 🧠 | **When Debugging Became Belonging: What Nearly 15 Years of Helpi...** | `devchallenge`, `wecoded`, `dei` | [Read →](https://dev.to/darkbranchcore/when-debugging-became-belonging-what-nearly-15-years-of-helping-developers-taught-me-3amg) |
+| 🌐 | **I Built a Local AI Agent That Audits My Own Articles. It Flagg...** | `python`, `automation`, `ai` | [Read →](https://dev.to/dannwaneri/i-built-a-local-ai-agent-that-audits-my-own-articles-it-flagged-every-single-one-pkh) |
+
+<p align="center"><sub>⏰ Last updated: March 31, 2026 • 12:20 AM IST • Source: Dev.to & HackerNews (auto-fetched, no API key)</sub></p>
+<!-- TECH_NEWS_END -->
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 💫 ABOUT ME                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 

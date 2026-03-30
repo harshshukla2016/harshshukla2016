@@ -1,0 +1,33 @@
+name: 📰 Daily Tech News Update
+
+on:
+  schedule:
+    # Runs every day at 1:00 AM IST (7:30 PM UTC previous day)
+    - cron: '30 19 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📰 Fetch & Update Tech News
+        run: python scripts/update_news.py
+
+      - name: 📤 Commit & Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet --cached || git commit -m "📰 Daily tech news update - $(date +'%B %d, %Y')"
+          git push
