@@ -15,7 +15,8 @@
 <br/>
 
 <!-- ═══ TYPING SVG ═══ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6c3ad1&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%3E+console.log(%22Hello+World!+%F0%9F%91%8B%22);+Building+intelligent+systems...;%3E+const+passion+%3D+%5B%22AI%22%2C+%22Robotics%22%2C+%22Full-Stack%22%5D;+;%3E+while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D" alt="Typing SVG"/></a>
+<a href="https://github.com/harshshukla2016"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6c3ad1&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Software+Engineer+%7C+AI%2FML+Enthusiast+%7C+SAP+Consultant;Building+intelligent+systems+with+passion+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%E2%80%A2+Repeat+%F0%9F%94%81" alt="Typing SVG"/></a>
+
 
 </div>
 
