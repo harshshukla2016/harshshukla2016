@@ -52,14 +52,14 @@
 <!-- TECH_NEWS_START -->
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **A Year of Change and Persistence** | `devchallenge`, `wecoded`, `career` | [Read →](https://dev.to/jess/a-year-of-change-and-persistence-19cf) |
-| ⚡ | **Surviving as a Human in the Age of AI** | `ai`, `programming`, `career` | [Read →](https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b) |
-| 🚀 | **How I Search 10,000+ AWS GitHub Repos in 10 Seconds** | `aws`, `ai`, `devtools` | [Read →](https://dev.to/aws-builders/how-i-search-10000-aws-github-repos-in-10-seconds-4hi2) |
-| 💡 | **I'm such a slow typer** | `tech` | [Read →](https://dev.to/ben/im-such-a-slow-typer-361f) |
-| 🧠 | **How a Payment Problem Unexpectedly Changed My Career Path in Tech** | `devchallenge`, `wecoded`, `dei` | [Read →](https://dev.to/hadil/how-a-payment-problem-unexpectedly-changed-my-career-path-in-tech-1oon) |
-| 🌐 | **Big performance upgrade in DEV/Forem tag queries shipped yeste...** | `database`, `news`, `performance` | [Read →](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) |
+| 🔥 | **Join our April Fools Challenge for a chance at TEA-RRIFIC priz...** | `devchallenge`, `418challenge` | [Read →](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) |
+| ⚡ | **The Great Claude Code Leak of 2026: Accident, Incompetence, or...** | `webdev`, `ai`, `programming` | [Read →](https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm) |
+| 🚀 | **Trading My Body for Logic: The Physical Decay We Ignore** | `discuss`, `mentalhealth`, `career` | [Read →](https://dev.to/the_nortern_dev/trading-my-body-for-logic-the-physical-decay-we-ignore-3c4i) |
+| 💡 | **3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic ...** | `ai`, `discuss`, `mlh` | [Read →](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln) |
+| 🧠 | **When Claude Acts Like a Clod: Catching AI Fabrications: A QA E...** | `ai`, `llm`, `python` | [Read →](https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2) |
+| 🌐 | **The Curated, Automated Open Source Portfolio: How It’s Going** | `opensource`, `ai`, `vibecoding` | [Read →](https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98) |
 
-<p align="center"><sub>⏰ Last updated: April 01, 2026 • 01:34 AM IST • Source: Dev.to & HackerNews (auto-fetched, no API key)</sub></p>
+<p align="center"><sub>⏰ Last updated: April 02, 2026 • 01:36 AM IST • Source: Dev.to & HackerNews (auto-fetched, no API key)</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
