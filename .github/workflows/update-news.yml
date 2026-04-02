@@ -1,33 +1,54 @@
-name: 📰 Daily Tech News Update
+name: 📰 Daily Profile Auto-Update
 
 on:
   schedule:
-    # Runs every day at 1:00 AM IST (7:30 PM UTC previous day)
-    - cron: '30 19 * * *'
+    # 🕐 Run 3 times a day (IST times) — ensures 2-3 green commits daily
+    - cron: '0 1 * * *'    # 6:30 AM IST  — Morning refresh
+    - cron: '0 9 * * *'    # 2:30 PM IST  — Afternoon refresh
+    - cron: '0 16 * * *'   # 9:30 PM IST  — Evening refresh
   workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write
 
 jobs:
-  update-news:
+  update-profile:
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: 📰 Fetch & Update Tech News
+      - name: 📰 Fetch & Update Content
         run: python scripts/update_news.py
 
       - name: 📤 Commit & Push Changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "harshshukla2017@gmail.com"
+          git config --local user.name "Harsh Kumar Shukla"
           git add README.md
-          git diff --quiet --cached || git commit -m "📰 Daily tech news update - $(date +'%B %d, %Y')"
+          
+          # Get IST timestamp for commit message
+          TIMESTAMP=$(TZ='Asia/Kolkata' date +'%B %d, %Y • %I:%M %p IST')
+          HOUR=$(TZ='Asia/Kolkata' date +'%H')
+          
+          # Dynamic commit message based on time of day
+          if [ "$HOUR" -lt 12 ]; then
+            EMOJI="🌅"
+            PERIOD="Morning"
+          elif [ "$HOUR" -lt 18 ]; then
+            EMOJI="☀️"
+            PERIOD="Afternoon"
+          else
+            EMOJI="🌙"
+            PERIOD="Evening"
+          fi
+          
+          git diff --quiet --cached || git commit -m "${EMOJI} ${PERIOD} update — ${TIMESTAMP}"
           git push
