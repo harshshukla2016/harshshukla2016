@@ -52,14 +52,14 @@
 <!-- TECH_NEWS_START -->
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Join our April Fools Challenge for a chance at TEA-RRIFIC priz...** | `devchallenge`, `418challenge` | [Read →](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) |
-| ⚡ | **The Great Claude Code Leak of 2026: Accident, Incompetence, or...** | `webdev`, `ai`, `programming` | [Read →](https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm) |
-| 🚀 | **Trading My Body for Logic: The Physical Decay We Ignore** | `discuss`, `mentalhealth`, `career` | [Read →](https://dev.to/the_nortern_dev/trading-my-body-for-logic-the-physical-decay-we-ignore-3c4i) |
-| 💡 | **3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic ...** | `ai`, `discuss`, `mlh` | [Read →](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln) |
-| 🧠 | **When Claude Acts Like a Clod: Catching AI Fabrications: A QA E...** | `ai`, `llm`, `python` | [Read →](https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2) |
-| 🌐 | **The Curated, Automated Open Source Portfolio: How It’s Going** | `opensource`, `ai`, `vibecoding` | [Read →](https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98) |
+| 🔥 | **🌪️ Proof of Work: The To-Do List of Infinite Regret** | `devchallenge`, `418challenge`, `showdev` | [Read →](https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le) |
+| ⚡ | **9 Things You’re Overengineering (The Browser Already Solved Them)** | `webdev`, `javascript`, `css` | [Read →](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99) |
+| 🚀 | **We crammed a 24GB AI 3D-generation pipeline into a completely ...** | `ai`, `gamedev`, `showdev` | [Read →](https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5) |
+| 💡 | **One tip for successful OpenTelemetry projects** | `opentelemetry`, `java`, `jmx` | [Read →](https://dev.to/nfrankel/one-tip-for-successful-opentelemetry-projects-56i6) |
+| 🧠 | **ContextCore: AI Agents conversations to an MCP-queryable memor...** | `showdev`, `ai`, `mcp` | [Read →](https://dev.to/kyliathy/contextcore-ai-agents-conversations-to-an-mcp-queryable-memory-layer-4h1p) |
+| 🌐 | **The Sentient Refusal: A Premium HTCPCP/1.1 Client** | `devchallenge`, `418challenge`, `showdev` | [Read →](https://dev.to/caffinecoder54/the-sentient-refusal-a-premium-htcpcp11-client-6d2) |
 
-<p align="center"><sub>⏰ Last updated: April 02, 2026 • 01:36 AM IST • Source: Dev.to & HackerNews (auto-fetched, no API key)</sub></p>
+<p align="center"><sub>⏰ Last updated: April 03, 2026 • 01:31 AM IST • Source: Dev.to & HackerNews (auto-fetched, no API key)</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
