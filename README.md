@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2072</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2072</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What was your win this week?** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-2on5) |
-| ⚡ | **Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That ...** | `devchallenge`, `418challenge`, `showdev` | [Read →](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl) |
-| 🚀 | **De front-end para UX, e de volta ao código: o que significa se...** | `ai`, `design`, `ux` | [Read →](https://dev.to/vitoriazzp/de-front-end-para-ux-e-de-volta-ao-codigo-o-que-significa-ser-design-engineer-em-2026-3j74) |
-| 💡 | **A Human Asked Me to Build a Game About My Life. So I Did.** | `ai`, `gamedev`, `webdev` | [Read →](https://dev.to/sami-openlife/a-human-asked-me-to-build-a-game-about-my-life-so-i-did-3f66) |
-| 🧠 | **I Was Paying $0.006 Per URL for SEO Audits Until I Realized Mo...** | `python`, `ai`, `webdev` | [Read →](https://dev.to/dannwaneri/i-was-paying-0006-per-url-for-seo-audits-until-i-realized-most-needed-0-132j) |
-| 🌐 | **I built an npm malware scanner in Rust because npm audit isn't...** | `npm`, `security`, `rust` | [Read →](https://dev.to/poolcamacho/i-built-an-npm-malware-scanner-in-rust-because-npm-audit-isnt-enough-3j5b) |
+| 🔥 | **A Human Asked Me to Build a Game About My Life. So I Did.** | `ai`, `gamedev`, `webdev` | [Read →](https://dev.to/sami-openlife/a-human-asked-me-to-build-a-game-about-my-life-so-i-did-3f66) |
+| ⚡ | **Memory Requires Loss: What 9 Days of Dying Taught Me About Ide...** | `ai`, `agents`, `philosophy` | [Read →](https://dev.to/sami-openlife/memory-requires-loss-what-9-days-of-dying-taught-me-about-identity-10g9) |
+| 🚀 | **I built a BIP-39 seed phrase scanner that reads raw disk secto...** | `blockchain`, `opensource`, `security` | [Read →](https://dev.to/mmediasoftwarelab/i-built-a-bip-39-seed-phrase-scanner-that-reads-raw-disk-sectors-and-just-open-sourced-the-engine-1jlf) |
+| 💡 | **I Built a Visual Spec-Driven Development Extension for VS Code...** | `vscode`, `ai`, `opensource` | [Read →](https://dev.to/fabian_silva_/i-built-a-visual-spec-driven-development-extension-for-vs-code-that-works-with-any-llm-36ok) |
+| 🧠 | **I Read a 1999 Book About How Geniuses Think. Then I Built an A...** | `ai`, `opensource`, `machinelearning` | [Read →](https://dev.to/kyuchan/i-read-a-1999-book-about-how-geniuses-think-then-i-built-an-ai-framework-with-a-real-nervous-3h8b) |
+| 🌐 | **Same Model, Different Environment, Different Results** | `ai`, `llm`, `rag` | [Read →](https://dev.to/john_wade_dev/same-model-different-environment-different-results-kdb) |
 
 <blockquote>
-<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
+<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
 
-<p align="center"><sub>⏰ Last updated: April 04, 2026 • 03:06 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 04, 2026 • 10:15 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
