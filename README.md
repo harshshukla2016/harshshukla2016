@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2072</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2073</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **A Human Asked Me to Build a Game About My Life. So I Did.** | `ai`, `gamedev`, `webdev` | [Read →](https://dev.to/sami-openlife/a-human-asked-me-to-build-a-game-about-my-life-so-i-did-3f66) |
-| ⚡ | **Memory Requires Loss: What 9 Days of Dying Taught Me About Ide...** | `ai`, `agents`, `philosophy` | [Read →](https://dev.to/sami-openlife/memory-requires-loss-what-9-days-of-dying-taught-me-about-identity-10g9) |
-| 🚀 | **I built a BIP-39 seed phrase scanner that reads raw disk secto...** | `blockchain`, `opensource`, `security` | [Read →](https://dev.to/mmediasoftwarelab/i-built-a-bip-39-seed-phrase-scanner-that-reads-raw-disk-sectors-and-just-open-sourced-the-engine-1jlf) |
-| 💡 | **I Built a Visual Spec-Driven Development Extension for VS Code...** | `vscode`, `ai`, `opensource` | [Read →](https://dev.to/fabian_silva_/i-built-a-visual-spec-driven-development-extension-for-vs-code-that-works-with-any-llm-36ok) |
-| 🧠 | **I Read a 1999 Book About How Geniuses Think. Then I Built an A...** | `ai`, `opensource`, `machinelearning` | [Read →](https://dev.to/kyuchan/i-read-a-1999-book-about-how-geniuses-think-then-i-built-an-ai-framework-with-a-real-nervous-3h8b) |
+| 🔥 | **How to Supervise AI Coding Agents Without Losing Your Mind** | `ai`, `devtools`, `productivity` | [Read →](https://dev.to/battyterm/how-to-supervise-ai-coding-agents-without-losing-your-mind-53m4) |
+| ⚡ | **Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It** | `gemma`, `cloudrun`, `cloud` | [Read →](https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln) |
+| 🚀 | **I built a database in France because the Cloud Act makes EU da...** | `ai`, `python`, `privacy` | [Read →](https://dev.to/wiscale-fr/i-built-a-database-in-france-because-the-cloud-act-makes-eu-data-sovereignty-impossible-5325) |
+| 💡 | **Why SSH Key Management Is Broken and How Certificates Fix It** | `ssh`, `security`, `devops` | [Read →](https://dev.to/alanwest/why-ssh-key-management-is-broken-and-how-certificates-fix-it-d5j) |
+| 🧠 | **I built a GUI-powered Userscript manager to turn page interact...** | `webdev`, `browser`, `extensions` | [Read →](https://dev.to/orangishcat/i-built-a-gui-powered-userscript-manager-for-faster-userscript-creation-ebb) |
 | 🌐 | **Same Model, Different Environment, Different Results** | `ai`, `llm`, `rag` | [Read →](https://dev.to/john_wade_dev/same-model-different-environment-different-results-kdb) |
 
 <blockquote>
-<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
+> **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: April 04, 2026 • 10:15 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 05, 2026 • 09:22 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
