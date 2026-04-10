@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2078</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2078</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **You’re a Real Software Developer Only If…** | `jokes`, `devlive` | [Read →](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8) |
-| ⚡ | **Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Nich...** | `sideprojects`, `ai`, `vibecoding` | [Read →](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5) |
-| 🚀 | **TigerFS: A Filesystem Backed by PostgreSQL** | `postgres`, `database`, `devtools` | [Read →](https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i) |
-| 💡 | **There's an Entire Ecosystem Yet to Be Built** | `entire`, `ai`, `tools` | [Read →](https://dev.to/dayhaysoos/theres-an-entire-ecosystem-yet-to-be-built-b6k) |
-| 🧠 | **When Your UX Only Fits Two Sizes** | `watercooler`, `dei`, `career` | [Read →](https://dev.to/phalkmin/when-your-ux-only-fits-two-sizes-3a1e) |
-| 🌐 | **Skills Are the New CLI** | `ai`, `development`, `software` | [Read →](https://dev.to/helderberto/skills-are-the-new-cli-225e) |
+| ⚡ | **What was your win this week??** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-3df3) |
+| 🚀 | **I tried to make DevFest Ireland accessible - and ended up buil...** | `a11y`, `saas`, `showdev` | [Read →](https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87) |
+| 💡 | **A simple React hook for running local LLMs via WebGPU** | `ai`, `webdev`, `react` | [Read →](https://dev.to/rahul_80cfa43302b/a-simple-react-hook-for-running-local-llms-via-webgpu-5234) |
+| 🧠 | **Candy Barbecue and the Universal Problem of Metric Corruption** | `ai`, `machinelearning`, `analytics` | [Read →](https://dev.to/vibeagentmaking/candy-barbecue-and-the-universal-problem-of-metric-corruption-2lgf) |
+| 🌐 | **I Crashed My Mac 5 Times So You Don't Have To: Mounting S3 Fil...** | `aws`, `showdev`, `tooling` | [Read →](https://dev.to/aws-heroes/i-crashed-my-mac-5-times-so-you-dont-have-to-mounting-s3-files-on-macos-3nmp) |
 
 <blockquote>
-<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
+<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
 
-<p align="center"><sub>⏰ Last updated: April 10, 2026 • 03:37 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 10, 2026 • 10:27 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
