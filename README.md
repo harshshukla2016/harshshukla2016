@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2079</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2079</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What was your win this week??** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-3df3) |
-| ⚡ | **I tried to make DevFest Ireland accessible - and ended up buil...** | `a11y`, `saas`, `showdev` | [Read →](https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87) |
-| 🚀 | **I'm a bit lost.** | `jobs`, `career`, `jobmarket` | [Read →](https://dev.to/hubedav/im-a-bit-lost-2dko) |
-| 💡 | **EasyPollVote [Dev Log #1]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-1-n7j) |
-| 🧠 | **The Formula Was Exact. The Assumption Was Wrong. That's Not an...** | `ai`, `webdev`, `career` | [Read →](https://dev.to/dannwaneri/the-formula-was-exact-the-assumption-was-wrong-thats-not-an-ai-problem-58dm) |
-| 🌐 | **I code-reviewed 3 "vibe-coded" PRs last week. Every one had ha...** | `python`, `javascript`, `opensource` | [Read →](https://dev.to/wd400/i-code-reviewed-3-vibe-coded-prs-last-week-every-one-had-hardcoded-api-keys-so-i-built-a-grader-21ii) |
+| 🔥 | **EasyPollVote [Dev Log #1]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-1-n7j) |
+| ⚡ | **Build a Desktop File Organizer in 35 Lines of Python — Weekend...** | `python`, `automation`, `beginners` | [Read →](https://dev.to/automate-archit/build-a-desktop-file-organizer-in-35-lines-of-python-weekend-project-3o4h) |
+| 🚀 | **I code-reviewed 3 "vibe-coded" PRs last week. Every one had ha...** | `python`, `javascript`, `opensource` | [Read →](https://dev.to/wd400/i-code-reviewed-3-vibe-coded-prs-last-week-every-one-had-hardcoded-api-keys-so-i-built-a-grader-21ii) |
+| 💡 | **I got mass-flagged by GPTZero for my own writing. So I built a...** | `python`, `ai`, `opensource` | [Read →](https://dev.to/wd400/i-got-mass-flagged-by-gptzero-for-my-own-writing-so-i-built-an-open-source-alternative-in-pure-5aj2) |
+| 🧠 | **Title: The Overthinking Machine — I Built an AI That Turns "Te...** | `418challenge`, `devchallenge`, `showdev` | [Read →](https://dev.to/pulkit_barola/title-the-overthinking-machine-i-built-an-ai-that-turns-tea-or-coffee-into-an-existential-380n) |
+| 🌐 | **The Feature Creep** | `software`, `productdesign`, `webdev` | [Read →](https://dev.to/vivian-voss/the-feature-creep-3n20) |
 
 <blockquote>
-<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
 
-<p align="center"><sub>⏰ Last updated: April 11, 2026 • 03:08 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 11, 2026 • 10:18 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
