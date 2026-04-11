@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2078</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2079</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **You’re a Real Software Developer Only If…** | `jokes`, `devlive` | [Read →](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8) |
-| ⚡ | **What was your win this week??** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-3df3) |
-| 🚀 | **I tried to make DevFest Ireland accessible - and ended up buil...** | `a11y`, `saas`, `showdev` | [Read →](https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87) |
-| 💡 | **A simple React hook for running local LLMs via WebGPU** | `ai`, `webdev`, `react` | [Read →](https://dev.to/rahul_80cfa43302b/a-simple-react-hook-for-running-local-llms-via-webgpu-5234) |
-| 🧠 | **Candy Barbecue and the Universal Problem of Metric Corruption** | `ai`, `machinelearning`, `analytics` | [Read →](https://dev.to/vibeagentmaking/candy-barbecue-and-the-universal-problem-of-metric-corruption-2lgf) |
+| 🔥 | **What was your win this week??** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-3df3) |
+| ⚡ | **I tried to make DevFest Ireland accessible - and ended up buil...** | `a11y`, `saas`, `showdev` | [Read →](https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87) |
+| 🚀 | **I'm a bit lost.** | `jobs`, `career`, `jobmarket` | [Read →](https://dev.to/hubedav/im-a-bit-lost-2dko) |
+| 💡 | **EasyPollVote [Dev Log #1]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-1-n7j) |
+| 🧠 | **The Formula Was Exact. The Assumption Was Wrong. That's Not an...** | `ai`, `webdev`, `career` | [Read →](https://dev.to/dannwaneri/the-formula-was-exact-the-assumption-was-wrong-thats-not-an-ai-problem-58dm) |
 | 🌐 | **I Crashed My Mac 5 Times So You Don't Have To: Mounting S3 Fil...** | `aws`, `showdev`, `tooling` | [Read →](https://dev.to/aws-heroes/i-crashed-my-mac-5-times-so-you-dont-have-to-mounting-s3-files-on-macos-3nmp) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
+> **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
 
-<p align="center"><sub>⏰ Last updated: April 10, 2026 • 10:27 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 11, 2026 • 09:05 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
