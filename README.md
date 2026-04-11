@@ -51,7 +51,7 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2079</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2079</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
@@ -61,15 +61,15 @@
 | 🚀 | **I'm a bit lost.** | `jobs`, `career`, `jobmarket` | [Read →](https://dev.to/hubedav/im-a-bit-lost-2dko) |
 | 💡 | **EasyPollVote [Dev Log #1]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-1-n7j) |
 | 🧠 | **The Formula Was Exact. The Assumption Was Wrong. That's Not an...** | `ai`, `webdev`, `career` | [Read →](https://dev.to/dannwaneri/the-formula-was-exact-the-assumption-was-wrong-thats-not-an-ai-problem-58dm) |
-| 🌐 | **I Crashed My Mac 5 Times So You Don't Have To: Mounting S3 Fil...** | `aws`, `showdev`, `tooling` | [Read →](https://dev.to/aws-heroes/i-crashed-my-mac-5-times-so-you-dont-have-to-mounting-s3-files-on-macos-3nmp) |
+| 🌐 | **I code-reviewed 3 "vibe-coded" PRs last week. Every one had ha...** | `python`, `javascript`, `opensource` | [Read →](https://dev.to/wd400/i-code-reviewed-3-vibe-coded-prs-last-week-every-one-had-hardcoded-api-keys-so-i-built-a-grader-21ii) |
 
 <blockquote>
-<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
+<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
 
-<p align="center"><sub>⏰ Last updated: April 11, 2026 • 09:05 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 11, 2026 • 03:08 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
