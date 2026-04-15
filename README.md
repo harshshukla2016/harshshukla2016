@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2083</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2083</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38) |
-| ⚡ | **Your Job Isn't Going Away. But Someone's Fundraise Depends on ...** | `ai`, `programming`, `beginners` | [Read →](https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el) |
-| 🚀 | **From Software Engineer to Developer Advocate: The Silent Trans...** | `webdev`, `productivity`, `showdev` | [Read →](https://dev.to/ceohitchcock/from-software-engineer-to-developer-advocate-the-silent-transition-ive-been-making-for-years-4jc6) |
-| 💡 | **Things You're Overengineering in Your AI Agent (The LLM Alread...** | `ai`, `llm`, `javascript` | [Read →](https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop) |
+| ⚡ | **Amazon Bedrock for Beginners From First Prompt to AI Agent (Fu...** | `ai`, `aws`, `agents` | [Read →](https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln) |
+| 🚀 | **Things You're Overengineering in Your AI Agent (The LLM Alread...** | `ai`, `llm`, `javascript` | [Read →](https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop) |
+| 💡 | **Lost in the AI Hype, I Started Small** | `ai`, `beginners`, `productivity` | [Read →](https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72) |
 | 🧠 | **Why Build a Local MCP Server (And How to Do It in 15 Minutes)** | `ai`, `programming`, `python` | [Read →](https://dev.to/evanlausier/why-build-a-local-mcp-server-and-how-to-do-it-in-15-minutes-1423) |
-| 🌐 | **The Backyard Quarry, Part 5: Digital Twins for Physical Objects** | `architecture`, `datascience`, `ai` | [Read →](https://dev.to/kenwalger/the-backyard-quarry-part-5-digital-twins-for-physical-objects-5a9i) |
+| 🌐 | **I Shrunk My Docker Image From 1.58GB to 186MB. Then I Had to E...** | `docker`, `webdev`, `programming` | [Read →](https://dev.to/arbythecoder/i-shrunk-my-docker-image-from-158gb-to-186mb-then-i-had-to-explain-what-i-actually-broke-34be) |
 
 <blockquote>
-<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
+<p>💬 <em>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
 
-<p align="center"><sub>⏰ Last updated: April 15, 2026 • 03:45 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 15, 2026 • 10:44 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
