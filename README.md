@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2083</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2084</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38) |
-| ⚡ | **Amazon Bedrock for Beginners From First Prompt to AI Agent (Fu...** | `ai`, `aws`, `agents` | [Read →](https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln) |
-| 🚀 | **Things You're Overengineering in Your AI Agent (The LLM Alread...** | `ai`, `llm`, `javascript` | [Read →](https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop) |
-| 💡 | **Lost in the AI Hype, I Started Small** | `ai`, `beginners`, `productivity` | [Read →](https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72) |
-| 🧠 | **Why Build a Local MCP Server (And How to Do It in 15 Minutes)** | `ai`, `programming`, `python` | [Read →](https://dev.to/evanlausier/why-build-a-local-mcp-server-and-how-to-do-it-in-15-minutes-1423) |
-| 🌐 | **I Shrunk My Docker Image From 1.58GB to 186MB. Then I Had to E...** | `docker`, `webdev`, `programming` | [Read →](https://dev.to/arbythecoder/i-shrunk-my-docker-image-from-158gb-to-186mb-then-i-had-to-explain-what-i-actually-broke-34be) |
+| 🔥 | **Lost in the AI Hype, I Started Small** | `ai`, `beginners`, `productivity` | [Read →](https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72) |
+| ⚡ | **How to prompt Gemini 3.1's new text to speech model** | `ai`, `gemini`, `promptengineering` | [Read →](https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb) |
+| 🚀 | **How I'm using ASTs and Gemini to solve the "Codebase Onboardin...** | `ai`, `productivity`, `webdev` | [Read →](https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9) |
+| 💡 | **Local AI Will Save Us All (The Math Says So, Trust Me)** | `ai`, `mba`, `operations` | [Read →](https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22) |
+| 🧠 | **Why I Picked Rust for a Production-Ready Micro SaaS** | `rust`, `saas`, `webdev` | [Read →](https://dev.to/hauju/why-i-picked-rust-for-a-production-ready-micro-saas-3bjg) |
+| 🌐 | **How I Ran a Live Production Upgrade in 24 Minutes Without Taki...** | `database`, `devops`, `webdev` | [Read →](https://dev.to/rokcso/how-i-ran-a-live-production-upgrade-in-24-minutes-without-taking-the-site-down-4hcn) |
 
 <blockquote>
-<p>💬 <em>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
+> **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
 
-<p align="center"><sub>⏰ Last updated: April 15, 2026 • 10:44 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 16, 2026 • 09:43 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
