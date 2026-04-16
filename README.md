@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2084</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2084</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Lost in the AI Hype, I Started Small** | `ai`, `beginners`, `productivity` | [Read →](https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72) |
-| ⚡ | **How to prompt Gemini 3.1's new text to speech model** | `ai`, `gemini`, `promptengineering` | [Read →](https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb) |
-| 🚀 | **How I'm using ASTs and Gemini to solve the "Codebase Onboardin...** | `ai`, `productivity`, `webdev` | [Read →](https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9) |
-| 💡 | **Local AI Will Save Us All (The Math Says So, Trust Me)** | `ai`, `mba`, `operations` | [Read →](https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22) |
-| 🧠 | **Why I Picked Rust for a Production-Ready Micro SaaS** | `rust`, `saas`, `webdev` | [Read →](https://dev.to/hauju/why-i-picked-rust-for-a-production-ready-micro-saas-3bjg) |
-| 🌐 | **How I Ran a Live Production Upgrade in 24 Minutes Without Taki...** | `database`, `devops`, `webdev` | [Read →](https://dev.to/rokcso/how-i-ran-a-live-production-upgrade-in-24-minutes-without-taking-the-site-down-4hcn) |
+| ⚡ | **Turning the Raspberry Pi Zero into a Hacking Gadget** | `raspberrypi`, `raspberryzero` | [Read →](https://dev.to/admantium/turning-the-raspberry-pi-zero-into-a-hacking-gadget-2ekl) |
+| 🚀 | **Local AI Will Save Us All (The Math Says So, Trust Me)** | `ai`, `mba`, `operations` | [Read →](https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22) |
+| 💡 | **How to prompt Gemini 3.1's new text to speech model** | `ai`, `gemini`, `promptengineering` | [Read →](https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb) |
+| 🧠 | **How I'm using ASTs and Gemini to solve the "Codebase Onboardin...** | `ai`, `productivity`, `webdev` | [Read →](https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9) |
+| 🌐 | **A GitHub agentic workflow** | `github`, `githubcopilot`, `githubactions` | [Read →](https://dev.to/nfrankel/a-github-agentic-workflow-9b7) |
 
 <blockquote>
-<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
 
-<p align="center"><sub>⏰ Last updated: April 16, 2026 • 09:43 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 16, 2026 • 03:44 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
