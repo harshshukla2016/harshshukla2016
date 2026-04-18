@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2086</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2086</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What was your win this week?!** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-28fb) |
-| ⚡ | **Congrats to the Notion MCP Challenge Winners!** | `devchallenge`, `notionchallenge`, `mcp` | [Read →](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab) |
-| 🚀 | **100 Daily Challenges to Learn Web3 and Solana** | `web3`, `solana`, `programming` | [Read →](https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i) |
-| 💡 | **EasyPollVote [Dev Log #2]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-2-4g80) |
-| 🧠 | **How We Built Our Own DNS Server** | `cloud`, `devops`, `docker` | [Read →](https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k) |
-| 🌐 | **Intro to tc Cloud Functors: A Graph-First Mental Model for the...** | `aws`, `serverless`, `devops` | [Read →](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17) |
+| 🔥 | **EasyPollVote [Dev Log #2]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-2-4g80) |
+| ⚡ | **How We Built Our Own DNS Server** | `cloud`, `devops`, `docker` | [Read →](https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k) |
+| 🚀 | **Intro to tc Cloud Functors: A Graph-First Mental Model for the...** | `aws`, `serverless`, `devops` | [Read →](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17) |
+| 💡 | **master git with these 12 commands and forget** | `webdev`, `beginners`, `git` | [Read →](https://dev.to/codewithshahan/mastering-git-github-12-most-useful-git-commands-3l70) |
+| 🧠 | **🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Ea...** | `devchallenge`, `weekendchallenge`, `earthday` | [Read →](https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846) |
+| 🌐 | **GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mi...** | `devchallenge`, `weekendchallenge`, `agriculture` | [Read →](https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934) |
 
 <blockquote>
-<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
+<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: April 18, 2026 • 03:15 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 18, 2026 • 10:22 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
