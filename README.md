@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2091</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2091</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Tune In and Join the Google Cloud NEXT '26 Writing Challenge: ...** | `devchallenge`, `googlecloud`, `cloudnextchallenge` | [Read →](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) |
-| ⚡ | **Announcing ObjeX - We Built Our Own S3** | `opensource`, `dotnet`, `startup` | [Read →](https://dev.to/meritonaliu/announcing-objex-we-built-our-own-s3-459l) |
-| 🚀 | **Building a coding course generator in public #2: what I learned** | `buildinpublic`, `opensource`, `ai` | [Read →](https://dev.to/javz/building-a-coding-course-generator-in-public-2-what-i-learned-49o6) |
-| 💡 | **I Spent a Week Inside OpenClaw. Here Is What Broke Me (and Wha...** | `devchallenge`, `openclawchallenge`, `ai` | [Read →](https://dev.to/onirestart/i-spent-a-week-inside-openclaw-here-is-what-broke-me-and-what-blew-my-mind-4746) |
-| 🧠 | **Privacy-first mind mapping app. Part 1: Constraints Before Tech** | `privacy`, `productivity`, `mindmap` | [Read →](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-1-constraints-before-tech-50p3) |
-| 🌐 | **I built a messaging app where everything disappears (and why)** | `privacy`, `showdev`, `sideprojects` | [Read →](https://dev.to/sonu_samrat_a10b0defcb70f/i-built-a-messaging-app-where-everything-disappears-and-why-12dm) |
+| 🔥 | **I created my first game and decided to leave GameDev** | `gamedev`, `godot`, `discuss` | [Read →](https://dev.to/embernoglow/i-created-my-first-game-and-decided-to-leave-gamedev-o9n) |
+| ⚡ | **So, what am I doing after 22 years in tech?** | `discuss`, `career`, `watercooler` | [Read →](https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic) |
+| 🚀 | **I Built a Local AI VRAM Calculator & GPU Planner (Beta)** | `ai`, `gpu`, `ollama` | [Read →](https://dev.to/logarithmicspirals/i-built-a-local-ai-vram-calculator-gpu-planner-beta-g7b) |
+| 💡 | **I let a kosher lobster run my Shabbat automations** | `devchallenge`, `openclawchallenge` | [Read →](https://dev.to/bengreenberg/i-let-a-kosher-lobster-run-my-shabbat-automations-5aln) |
+| 🧠 | **Why I spent years trying to make CSS states predictable** | `css`, `webdev`, `frontend` | [Read →](https://dev.to/tenphi/why-i-spent-years-trying-to-make-css-states-predictable-a9c) |
+| 🌐 | **Announcing ObjeX - We Built Our Own S3** | `opensource`, `dotnet`, `startup` | [Read →](https://dev.to/meritonaliu/announcing-objex-we-built-our-own-s3-459l) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"Simplicity is the soul of efficiency."</em> — <strong>Austin Freeman</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Stack Overflow is visited by 50 million developers every month 📚
 
-<p align="center"><sub>⏰ Last updated: April 23, 2026 • 03:50 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 23, 2026 • 10:57 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
