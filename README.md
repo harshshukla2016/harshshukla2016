@@ -51,7 +51,7 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2092</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2092</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
@@ -60,16 +60,16 @@
 | ⚡ | **Congrats to the April Fools Challenge Winners!!** | `devchallenge`, `418challenge`, `jokes` | [Read →](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f) |
 | 🚀 | **How My Coworker Who Didn't Know 'cd' Shipped to Production** | `webdev`, `ai`, `devops` | [Read →](https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j) |
 | 💡 | **FOMO as a Developer: You're Not Behind, You're Just Human** | `fomo`, `productivity`, `beginners` | [Read →](https://dev.to/nikola/fomo-as-a-developer-youre-not-behind-youre-just-human-1ggp) |
-| 🧠 | **I Built a Local AI VRAM Calculator & GPU Planner (Beta)** | `ai`, `gpu`, `ollama` | [Read →](https://dev.to/logarithmicspirals/i-built-a-local-ai-vram-calculator-gpu-planner-beta-g7b) |
+| 🧠 | **I Used to Love Coding. Now I Just Prompt.** | `ai`, `career`, `discuss` | [Read →](https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l) |
 | 🌐 | **Forget the Flashy Keynote — The A2A Protocol Is the Real Revol...** | `devchallenge`, `cloudnextchallenge`, `googlecloud` | [Read →](https://dev.to/nilambuilds/forget-the-flashy-keynote-the-a2a-protocol-is-the-real-revolution-from-google-cloud-next-26-1c5l) |
 
 <blockquote>
-<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: April 24, 2026 • 09:46 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 24, 2026 • 03:49 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
