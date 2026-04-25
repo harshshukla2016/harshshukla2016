@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2093</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2093</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **What was your win this week!?** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-8ep) |
 | ⚡ | **I'm Running Gemini as an Autonomous Coding Agent. Here's What ...** | `devchallenge`, `cloudnextchallenge`, `googlecloud` | [Read →](https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2) |
-| 🚀 | **I Used to Love Coding. Now I Just Prompt.** | `ai`, `career`, `discuss` | [Read →](https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l) |
-| 💡 | **EasyPollVote [Dev Log #3]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-3-5hn4) |
-| 🧠 | **A Practical Guide to Flutter Accessibility Part 2: Hiding Nois...** | `flutter`, `a11y`, `mobile` | [Read →](https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i) |
-| 🌐 | **I'm 17, Built a Devtool Solo, and Here's Everything That Almos...** | `buildinpublic`, `devtool`, `ai` | [Read →](https://dev.to/sarkar_305d0d2ab4f21cebb7/im-17-built-a-devtool-solo-and-heres-everything-that-almost-killed-it-49j7) |
+| 🚀 | **EasyPollVote [Dev Log #3]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-3-5hn4) |
+| 💡 | **How I learn in the age of Ai coding** | `ai`, `learning`, `productivity` | [Read →](https://dev.to/hoomanaskari/how-i-learn-in-the-age-of-ai-coding-53p9) |
+| 🧠 | **The Vonage Dev Discussion: Making mistakes** | `security`, `discuss`, `python` | [Read →](https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc) |
+| 🌐 | **A Practical Guide to Flutter Accessibility Part 2: Hiding Nois...** | `flutter`, `a11y`, `mobile` | [Read →](https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i) |
 
 <blockquote>
-<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
+<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Email existed before the World Wide Web 📧
 
-<p align="center"><sub>⏰ Last updated: April 25, 2026 • 09:20 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 25, 2026 • 03:21 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
