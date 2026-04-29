@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2097</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2097</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **How I used Gemini CLI to orchestrate a complex RAG migration** | `gemini`, `agents`, `programming` | [Read →](https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga) |
-| ⚡ | **Are We Using AI at the Wrong Scale?** | `ai`, `discuss`, `llm` | [Read →](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo) |
-| 🚀 | **🗓️ Monthly Dev Report: April 2026** | `discuss`, `devjournal`, `programming` | [Read →](https://dev.to/francistrdev/monthly-dev-report-april-2026-nak) |
+| ⚡ | **🗓️ Monthly Dev Report: April 2026** | `discuss`, `devjournal`, `programming` | [Read →](https://dev.to/francistrdev/monthly-dev-report-april-2026-nak) |
+| 🚀 | **Are We Using AI at the Wrong Scale?** | `ai`, `discuss`, `llm` | [Read →](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo) |
 | 💡 | **My Incredible Google Cloud Next 26 Experience as a GDE** | `googlecloud`, `googlecloudnext`, `gde` | [Read →](https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo) |
-| 🧠 | **Weekly Dev Log 2026-W03** | `beginners`, `devjournal`, `security` | [Read →](https://dev.to/umitomo-lab/weekly-dev-log-2026-w03-30a6) |
+| 🧠 | **Automation is a trade-off** | `ai`, `webdev`, `lowcode` | [Read →](https://dev.to/suesmith/automation-is-a-trade-off-2fh8) |
 | 🌐 | **Founder Patterns That Kill a Launch – And What AI Has To Do Wi...** | `ai`, `programming`, `mvp` | [Read →](https://dev.to/vorniches/founder-patterns-that-kill-a-launch-and-what-ai-has-to-do-with-it-4mf) |
 
 <blockquote>
-<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
+<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
 
-<p align="center"><sub>⏰ Last updated: April 29, 2026 • 09:57 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 29, 2026 • 04:25 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
