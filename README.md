@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2097</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2097</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **How I used Gemini CLI to orchestrate a complex RAG migration** | `gemini`, `agents`, `programming` | [Read →](https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga) |
+| 🔥 | **Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVID...** | `gemma`, `machinelearning`, `googlecloud` | [Read →](https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib) |
 | ⚡ | **🗓️ Monthly Dev Report: April 2026** | `discuss`, `devjournal`, `programming` | [Read →](https://dev.to/francistrdev/monthly-dev-report-april-2026-nak) |
-| 🚀 | **Are We Using AI at the Wrong Scale?** | `ai`, `discuss`, `llm` | [Read →](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo) |
-| 💡 | **My Incredible Google Cloud Next 26 Experience as a GDE** | `googlecloud`, `googlecloudnext`, `gde` | [Read →](https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo) |
-| 🧠 | **Automation is a trade-off** | `ai`, `webdev`, `lowcode` | [Read →](https://dev.to/suesmith/automation-is-a-trade-off-2fh8) |
-| 🌐 | **Founder Patterns That Kill a Launch – And What AI Has To Do Wi...** | `ai`, `programming`, `mvp` | [Read →](https://dev.to/vorniches/founder-patterns-that-kill-a-launch-and-what-ai-has-to-do-with-it-4mf) |
+| 🚀 | **Cold Starts Are Dead** | `serverless`, `aws`, `lambda` | [Read →](https://dev.to/aws/cold-starts-are-dead-5fod) |
+| 💡 | **Everyone's Talking About Gemini. The Real Story at Google Clou...** | `cloudnextchallenge`, `googlecloud`, `ai` | [Read →](https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2) |
+| 🧠 | **What I’ve Been Building: Systems, AI, and Real-World Data** | `ai`, `data`, `mcp` | [Read →](https://dev.to/kenwalger/what-ive-been-building-systems-ai-and-real-world-data-426a) |
+| 🌐 | **Prompt Caching With the Claude API: A Practical Guide** | `ai`, `anthropic`, `api` | [Read →](https://dev.to/thegdsks/prompt-caching-with-the-claude-api-a-practical-guide-14ce) |
 
 <blockquote>
-<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
 
-<p align="center"><sub>⏰ Last updated: April 29, 2026 • 04:25 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 29, 2026 • 11:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
