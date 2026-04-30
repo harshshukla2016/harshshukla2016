@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2097</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2098</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVID...** | `gemma`, `machinelearning`, `googlecloud` | [Read →](https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib) |
-| ⚡ | **🗓️ Monthly Dev Report: April 2026** | `discuss`, `devjournal`, `programming` | [Read →](https://dev.to/francistrdev/monthly-dev-report-april-2026-nak) |
-| 🚀 | **Cold Starts Are Dead** | `serverless`, `aws`, `lambda` | [Read →](https://dev.to/aws/cold-starts-are-dead-5fod) |
-| 💡 | **Everyone's Talking About Gemini. The Real Story at Google Clou...** | `cloudnextchallenge`, `googlecloud`, `ai` | [Read →](https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2) |
-| 🧠 | **What I’ve Been Building: Systems, AI, and Real-World Data** | `ai`, `data`, `mcp` | [Read →](https://dev.to/kenwalger/what-ive-been-building-systems-ai-and-real-world-data-426a) |
-| 🌐 | **Prompt Caching With the Claude API: A Practical Guide** | `ai`, `anthropic`, `api` | [Read →](https://dev.to/thegdsks/prompt-caching-with-the-claude-api-a-practical-guide-14ce) |
+| 🔥 | **Forking Paseo: Mobile vibe coding for me** | `ai`, `agents`, `vibecoding` | [Read →](https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa) |
+| ⚡ | **How I Used AI to Fix Our E2E Test Architecture** | `testing`, `e2e`, `playwright` | [Read →](https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a) |
+| 🚀 | **I'm a Red Teamer. Here's How I'd Go After Google's Agentic Def...** | `devchallenge`, `cloudnextchallenge`, `googlecloud` | [Read →](https://dev.to/rajputs_027/im-a-red-teamer-heres-how-id-go-after-googles-agentic-defense-5fl8) |
+| 💡 | **What I’ve Been Building: Systems, AI, and Real-World Data** | `ai`, `data`, `mcp` | [Read →](https://dev.to/kenwalger/what-ive-been-building-systems-ai-and-real-world-data-426a) |
+| 🧠 | **Everyone's Talking About Gemini. The Real Story at Google Clou...** | `cloudnextchallenge`, `googlecloud`, `ai` | [Read →](https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2) |
+| 🌐 | **My wife convinced me to finally ship the app we’ve been using ...** | `showdev`, `ios`, `swift` | [Read →](https://dev.to/stokry/my-wife-convinced-me-to-finally-ship-the-app-weve-been-using-for-years-1pcd) |
 
 <blockquote>
-<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
+> **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
 
-<p align="center"><sub>⏰ Last updated: April 29, 2026 • 11:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: April 30, 2026 • 10:00 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
