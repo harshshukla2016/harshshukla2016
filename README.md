@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2098</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2099</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Is Software Development Just a Side Quest? A Jira Story** | `discuss`, `productivity` | [Read →](https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3) |
-| ⚡ | **Forking Paseo: Mobile vibe coding for me** | `ai`, `agents`, `vibecoding` | [Read →](https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa) |
-| 🚀 | **How I Used AI to Fix Our E2E Test Architecture** | `testing`, `e2e`, `playwright` | [Read →](https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a) |
+| 🔥 | **Announcing the Winners of the DEV Weekend Challenge: Earth Day...** | `devchallenge`, `weekendchallenge` | [Read →](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4) |
+| ⚡ | **Is Software Development Just a Side Quest? A Jira Story** | `discuss`, `productivity` | [Read →](https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3) |
+| 🚀 | **Stop Using Your Clipboard to Share Context** | `ai`, `agents`, `mcp` | [Read →](https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941) |
 | 💡 | **More Accessible Focus Indicators with Compose** | `android`, `a11y`, `mobile` | [Read →](https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4) |
-| 🧠 | **Terminal Art** | `terminal`, `showdev`, `c` | [Read →](https://dev.to/wbf22/terminal-art-1j6n) |
-| 🌐 | **Three Mastodon issues because of Cloudflare Bot protection** | `cloudflare`, `mastodon`, `fediverse` | [Read →](https://dev.to/nfrankel/three-mastodon-issues-because-of-cloudflare-bot-protection-1el3) |
+| 🧠 | **vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (Wi...** | `tpu`, `googlecloud`, `googledevs` | [Read →](https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k) |
+| 🌐 | **Function Calling Harness 2: CoT Compliance from 9.91% to 100%** | `ai`, `typescript`, `programming` | [Read →](https://dev.to/samchon/function-calling-harness-2-cot-compliance-from-991-to-100-4f0h) |
 
 <blockquote>
 <p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
+> **🧪 Did You Know?** Google's first tweet was in binary: 'I'm feeling lucky' 🔍
 
-<p align="center"><sub>⏰ Last updated: April 30, 2026 • 11:08 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 01, 2026 • 10:16 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
