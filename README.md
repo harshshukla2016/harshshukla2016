@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2099</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2100</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Announcing the Winners of the DEV Weekend Challenge: Earth Day...** | `devchallenge`, `weekendchallenge` | [Read →](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4) |
-| ⚡ | **The Emotional Lifecycle of Every Side Project (A Map)** | `career`, `beginners`, `productivity` | [Read →](https://dev.to/_boweii/the-emotional-lifecycle-of-every-side-project-a-map-3gbc) |
-| 🚀 | **I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Rig...** | `machinelearning`, `python`, `ai` | [Read →](https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641) |
-| 💡 | **EasyPollVote [Dev Log #4]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-4-5a02) |
-| 🧠 | **My LLM assistant's new buzzword is starting responses with "be...** | `ai`, `discuss`, `llm` | [Read →](https://dev.to/ben/my-llm-assistants-new-buzzword-is-starting-responses-with-be-completely-candid-very-grating-11df) |
-| 🌐 | **How I built the fastest color manipulation library in TypeScri...** | `webdev`, `programming`, `javascript` | [Read →](https://dev.to/dkryaklin/how-i-built-the-fastest-color-manipulation-library-in-typescript-and-the-optimization-techniques-i-56al) |
+| 🔥 | **EasyPollVote [Dev Log #4]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-4-5a02) |
+| ⚡ | **I Don't Like Tailwind. Sorry Not Sorry** | `css`, `webdev`, `discuss` | [Read →](https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5) |
+| 🚀 | **I Am Starting Over in Public** | `ai`, `webdev`, `career` | [Read →](https://dev.to/mohan-01/i-am-starting-over-in-public-25n1) |
+| 💡 | **My LLM assistant's new buzzword is starting responses with "be...** | `ai`, `discuss`, `llm` | [Read →](https://dev.to/ben/my-llm-assistants-new-buzzword-is-starting-responses-with-be-completely-candid-very-grating-11df) |
+| 🧠 | **The AI Harness: why your AI coding agent is only as smart as t...** | `ai`, `productivity`, `agentskills` | [Read →](https://dev.to/louaiboumediene/the-ai-harness-why-your-ai-coding-agent-is-only-as-smart-as-the-repo-you-put-it-in-cml) |
+| 🌐 | **Why I'm Learning ROS 2 as a Database Person** | `ros2`, `robotics`, `timeseries` | [Read →](https://dev.to/mattstratton/why-im-learning-ros-2-as-a-database-person-3cce) |
 
 <blockquote>
-<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Google's first tweet was in binary: 'I'm feeling lucky' 🔍
+> **🧪 Did You Know?** Email existed before the World Wide Web 📧
 
-<p align="center"><sub>⏰ Last updated: May 01, 2026 • 10:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 02, 2026 • 09:46 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
