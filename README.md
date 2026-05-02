@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2100</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2100</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **EasyPollVote [Dev Log #4]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-4-5a02) |
-| ⚡ | **I Don't Like Tailwind. Sorry Not Sorry** | `css`, `webdev`, `discuss` | [Read →](https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5) |
+| 🔥 | **I Don't Like Tailwind. Sorry Not Sorry** | `css`, `webdev`, `discuss` | [Read →](https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5) |
+| ⚡ | **EasyPollVote [Dev Log #4]** | `discuss`, `easypvdevlog`, `nextjs` | [Read →](https://dev.to/francistrdev/easypollvote-dev-log-4-5a02) |
 | 🚀 | **I Am Starting Over in Public** | `ai`, `webdev`, `career` | [Read →](https://dev.to/mohan-01/i-am-starting-over-in-public-25n1) |
 | 💡 | **My LLM assistant's new buzzword is starting responses with "be...** | `ai`, `discuss`, `llm` | [Read →](https://dev.to/ben/my-llm-assistants-new-buzzword-is-starting-responses-with-be-completely-candid-very-grating-11df) |
 | 🧠 | **The AI Harness: why your AI coding agent is only as smart as t...** | `ai`, `productivity`, `agentskills` | [Read →](https://dev.to/louaiboumediene/the-ai-harness-why-your-ai-coding-agent-is-only-as-smart-as-the-repo-you-put-it-in-cml) |
-| 🌐 | **Why I'm Learning ROS 2 as a Database Person** | `ros2`, `robotics`, `timeseries` | [Read →](https://dev.to/mattstratton/why-im-learning-ros-2-as-a-database-person-3cce) |
+| 🌐 | **The O(n^2) Bug That Looked Like Clean Code** | `javascript`, `performance`, `webdev` | [Read →](https://dev.to/aralroca/the-on2-bug-that-looked-like-clean-code-3556) |
 
 <blockquote>
-<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Email existed before the World Wide Web 📧
 
-<p align="center"><sub>⏰ Last updated: May 02, 2026 • 09:46 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 02, 2026 • 03:27 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
