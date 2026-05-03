@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2100</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2101</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Am Starting Over in Public** | `ai`, `webdev`, `career` | [Read →](https://dev.to/mohan-01/i-am-starting-over-in-public-25n1) |
-| ⚡ | **The O(n^2) Bug That Looked Like Clean Code** | `javascript`, `performance`, `webdev` | [Read →](https://dev.to/aralroca/the-on2-bug-that-looked-like-clean-code-3556) |
-| 🚀 | **Write Code That's Easy to Delete: The Art of Impermanent Software** | `programming`, `webdev`, `productivity` | [Read →](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1) |
-| 💡 | **The AI Harness: why your AI coding agent is only as smart as t...** | `ai`, `productivity`, `agentskills` | [Read →](https://dev.to/louaiboumediene/the-ai-harness-why-your-ai-coding-agent-is-only-as-smart-as-the-repo-you-put-it-in-cml) |
-| 🧠 | **Why I'm Learning ROS 2 as a Database Person** | `ros2`, `robotics`, `timeseries` | [Read →](https://dev.to/mattstratton/why-im-learning-ros-2-as-a-database-person-3cce) |
-| 🌐 | **I Threw Away My ILIKE Queries and My Search Bar Finally Works ...** | `rust`, `nextjs`, `node` | [Read →](https://dev.to/codexam/i-threw-away-my-ilike-queries-and-my-search-bar-finally-works-meilisearch-gg4) |
+| 🔥 | **Write Code That's Easy to Delete: The Art of Impermanent Software** | `programming`, `webdev`, `productivity` | [Read →](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1) |
+| ⚡ | **AI Isn't Stupid. Your Setup Is. 🛠️** | `ai`, `agents`, `productivity` | [Read →](https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn) |
+| 🚀 | **GitHub Broke Git: The Merge Queue Bug That Silently Deleted Yo...** | `webdev`, `git`, `github` | [Read →](https://dev.to/varshithvhegde/github-broke-git-the-merge-queue-bug-that-silently-deleted-your-code-4f7i) |
+| 💡 | **Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading** | `ai`, `api`, `gemini` | [Read →](https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9) |
+| 🧠 | **GCP in Action: Migrating a LINE Bot from AI Studio to Vertex A...** | `ai`, `googlecloud`, `python` | [Read →](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo) |
+| 🌐 | **GCP in Action: Building a Persistent AI Assistant with GCE, He...** | `agents`, `ai`, `googlecloud` | [Read →](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg) |
 
 <blockquote>
-<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
+<p>💬 <em>"Simplicity is the soul of efficiency."</em> — <strong>Austin Freeman</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Email existed before the World Wide Web 📧
+> **🧪 Did You Know?** Google's first tweet was in binary: 'I'm feeling lucky' 🔍
 
-<p align="center"><sub>⏰ Last updated: May 02, 2026 • 10:28 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 03, 2026 • 10:08 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
