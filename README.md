@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2102</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2102</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Built a Mobile App in 3 Days. The Hard Part Was Keeping It C...** | `ai`, `mobile`, `showdev` | [Read →](https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda) |
-| ⚡ | **I Love Tailwind. Sorry Not Sorry** | `css`, `tailwindcss`, `frontend` | [Read →](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) |
-| 🚀 | **Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖** | `ai`, `devjournal`, `javascript` | [Read →](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) |
-| 💡 | **How to Build a Custom AI Quality Gate on Cloud Run (From Zero ...** | `architecture`, `googlecloud`, `tutorial` | [Read →](https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp) |
-| 🧠 | **AI Deleted My Tests and Said 'All Tests Pass' — A Horror Story...** | `ai`, `vibecoding`, `typescript` | [Read →](https://dev.to/samchon/ai-deleted-my-tests-and-said-all-tests-pass-a-horror-story-from-porting-typia-from-typescript-2bmf) |
-| 🌐 | **How I Built an Offline AI Assistant in Python - No OpenAI, No ...** | `python`, `ai`, `tutorial` | [Read →](https://dev.to/huckler/how-i-built-an-offline-ai-assistant-in-python-no-openai-no-langchain-no-dependencies-4523) |
+| 🔥 | **I Love Tailwind. Sorry Not Sorry** | `css`, `tailwindcss`, `frontend` | [Read →](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) |
+| ⚡ | **The 4 Cognitive Archetypes of Developers Using AI** | `ai`, `productivity`, `learning` | [Read →](https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n) |
+| 🚀 | **I Built a Mobile App in 3 Days. The Hard Part Was Keeping It C...** | `ai`, `mobile`, `showdev` | [Read →](https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda) |
+| 💡 | **What are your goals for the week? #177** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-177-2ka7) |
+| 🧠 | **You got selected for GSoC 2026, now what?** | `opensource`, `gsoc`, `ai` | [Read →](https://dev.to/kaleman15/you-got-selected-for-gsoc-2026-now-what-1bdc) |
+| 🌐 | **AI Agents vs Code Vulnerabilities: Was Anthropic Mythos a Big ...** | `ai`, `security`, `webdev` | [Read →](https://dev.to/maximsaplin/ai-agents-vs-code-vulnerabilities-was-anthropic-mythos-a-big-deal-or-fear-mongering-8ci) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer mouse was made of wood 🖱️
 
-<p align="center"><sub>⏰ Last updated: May 04, 2026 • 04:33 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 04, 2026 • 11:17 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
