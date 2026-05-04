@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2101</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2102</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **AI Isn't Stupid. Your Setup Is. 🛠️** | `ai`, `agents`, `productivity` | [Read →](https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn) |
-| ⚡ | **GitHub Broke Git: The Merge Queue Bug That Silently Deleted Yo...** | `webdev`, `git`, `github` | [Read →](https://dev.to/varshithvhegde/github-broke-git-the-merge-queue-bug-that-silently-deleted-your-code-4f7i) |
-| 🚀 | **Every developer deserves end credits** | `opensource`, `go`, `cli` | [Read →](https://dev.to/higangssh/every-developer-deserves-end-credits-oh6) |
-| 💡 | **I Built a Free Invoice Generator, Resume Builder, and Cover Le...** | `webdev`, `showdev`, `javascript` | [Read →](https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81) |
-| 🧠 | **AI Deleted My Tests and Said 'All Tests Pass' — A Horror Story...** | `ai`, `vibecoding`, `typescript` | [Read →](https://dev.to/samchon/ai-deleted-my-tests-and-said-all-tests-pass-a-horror-story-from-porting-typia-from-typescript-2bmf) |
-| 🌐 | **How to Win a Hackathon** | `career`, `community`, `programming` | [Read →](https://dev.to/cloudinary/how-to-win-a-hackathon-1377) |
+| 🔥 | **I Built a Mobile App in 3 Days. The Hard Part Was Keeping It C...** | `ai`, `mobile`, `showdev` | [Read →](https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda) |
+| ⚡ | **Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖** | `ai`, `devjournal`, `javascript` | [Read →](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) |
+| 🚀 | **AI Deleted My Tests and Said 'All Tests Pass' — A Horror Story...** | `ai`, `vibecoding`, `typescript` | [Read →](https://dev.to/samchon/ai-deleted-my-tests-and-said-all-tests-pass-a-horror-story-from-porting-typia-from-typescript-2bmf) |
+| 💡 | **How I Built an Offline AI Assistant in Python - No OpenAI, No ...** | `python`, `ai`, `tutorial` | [Read →](https://dev.to/huckler/how-i-built-an-offline-ai-assistant-in-python-no-openai-no-langchain-no-dependencies-4523) |
+| 🧠 | **I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔** | `api`, `javascript`, `mobile` | [Read →](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd) |
+| 🌐 | **I Built a Mood Ring for the Internet in 24 Hours** | `showdev`, `hackathon`, `ai` | [Read →](https://dev.to/acode123/i-built-a-mood-ring-for-the-internet-in-24-hours-3d5n) |
 
 <blockquote>
-<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
+<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Google's first tweet was in binary: 'I'm feeling lucky' 🔍
+> **🧪 Did You Know?** The first computer mouse was made of wood 🖱️
 
-<p align="center"><sub>⏰ Last updated: May 03, 2026 • 10:30 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 04, 2026 • 10:08 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
