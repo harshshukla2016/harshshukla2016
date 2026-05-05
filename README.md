@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2102</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2103</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **I Love Tailwind. Sorry Not Sorry** | `css`, `tailwindcss`, `frontend` | [Read →](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) |
 | ⚡ | **The 4 Cognitive Archetypes of Developers Using AI** | `ai`, `productivity`, `learning` | [Read →](https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n) |
-| 🚀 | **I Built a Mobile App in 3 Days. The Hard Part Was Keeping It C...** | `ai`, `mobile`, `showdev` | [Read →](https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda) |
-| 💡 | **What are your goals for the week? #177** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-177-2ka7) |
-| 🧠 | **You got selected for GSoC 2026, now what?** | `opensource`, `gsoc`, `ai` | [Read →](https://dev.to/kaleman15/you-got-selected-for-gsoc-2026-now-what-1bdc) |
-| 🌐 | **AI Agents vs Code Vulnerabilities: Was Anthropic Mythos a Big ...** | `ai`, `security`, `webdev` | [Read →](https://dev.to/maximsaplin/ai-agents-vs-code-vulnerabilities-was-anthropic-mythos-a-big-deal-or-fear-mongering-8ci) |
+| 🚀 | **A LinkedIn Recruiter Sent Me Malware Disguised as a "Pre-Inter...** | `security`, `webdev`, `javascript` | [Read →](https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j) |
+| 💡 | **How to Build a Custom AI Quality Gate on Cloud Run (From Zero ...** | `architecture`, `googlecloud`, `tutorial` | [Read →](https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp) |
+| 🧠 | **What are your goals for the week? #177** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-177-2ka7) |
+| 🌐 | **You got selected for GSoC 2026, now what?** | `opensource`, `gsoc`, `software` | [Read →](https://dev.to/kaleman15/you-got-selected-for-gsoc-2026-now-what-1bdc) |
 
 <blockquote>
-<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
+<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first computer mouse was made of wood 🖱️
+> **🧪 Did You Know?** The first Apple logo featured Isaac Newton sitting under a tree 🍏
 
-<p align="center"><sub>⏰ Last updated: May 04, 2026 • 11:17 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 05, 2026 • 09:44 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
