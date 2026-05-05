@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2103</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2103</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Love Tailwind. Sorry Not Sorry** | `css`, `tailwindcss`, `frontend` | [Read →](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) |
-| ⚡ | **The 4 Cognitive Archetypes of Developers Using AI** | `ai`, `productivity`, `learning` | [Read →](https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n) |
-| 🚀 | **A LinkedIn Recruiter Sent Me Malware Disguised as a "Pre-Inter...** | `security`, `webdev`, `javascript` | [Read →](https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j) |
-| 💡 | **How to Build a Custom AI Quality Gate on Cloud Run (From Zero ...** | `architecture`, `googlecloud`, `tutorial` | [Read →](https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp) |
-| 🧠 | **What are your goals for the week? #177** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-177-2ka7) |
-| 🌐 | **You got selected for GSoC 2026, now what?** | `opensource`, `gsoc`, `software` | [Read →](https://dev.to/kaleman15/you-got-selected-for-gsoc-2026-now-what-1bdc) |
+| 🔥 | **The 4 Cognitive Archetypes of Developers Using AI** | `ai`, `productivity`, `learning` | [Read →](https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n) |
+| ⚡ | **A LinkedIn Recruiter Sent Me Malware Disguised as a "Pre-Inter...** | `security`, `webdev`, `javascript` | [Read →](https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j) |
+| 🚀 | **What are your goals for the week? #177** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-177-2ka7) |
+| 💡 | **Managing 150+ AI Agent Skills at Scale — What Broke, What I Built** | `ai`, `python`, `opensource` | [Read →](https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73) |
+| 🧠 | **I built a 4-week hackathon focused entirely on real-world debu...** | `programming`, `opensource`, `hackathon` | [Read →](https://dev.to/vulcanwm/i-built-a-4-week-hackathon-focused-entirely-on-real-world-debugging-instead-of-leetcode-problems-2dgp) |
+| 🌐 | **I Tested Chunking on Docs, PDFs, and Code. The Winner Changed ...** | `ai`, `discuss`, `programming` | [Read →](https://dev.to/ayanarshad02/i-tested-chunking-on-docs-pdfs-and-code-the-winner-changed-every-time-1lof) |
 
 <blockquote>
-<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
+<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first Apple logo featured Isaac Newton sitting under a tree 🍏
 
-<p align="center"><sub>⏰ Last updated: May 05, 2026 • 09:44 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 05, 2026 • 04:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
