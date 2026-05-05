@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2103</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2103</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The 4 Cognitive Archetypes of Developers Using AI** | `ai`, `productivity`, `learning` | [Read →](https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n) |
-| ⚡ | **A LinkedIn Recruiter Sent Me Malware Disguised as a "Pre-Inter...** | `security`, `webdev`, `javascript` | [Read →](https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j) |
-| 🚀 | **What are your goals for the week? #177** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-177-2ka7) |
-| 💡 | **Managing 150+ AI Agent Skills at Scale — What Broke, What I Built** | `ai`, `python`, `opensource` | [Read →](https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73) |
-| 🧠 | **I built a 4-week hackathon focused entirely on real-world debu...** | `programming`, `opensource`, `hackathon` | [Read →](https://dev.to/vulcanwm/i-built-a-4-week-hackathon-focused-entirely-on-real-world-debugging-instead-of-leetcode-problems-2dgp) |
-| 🌐 | **I Tested Chunking on Docs, PDFs, and Code. The Winner Changed ...** | `ai`, `discuss`, `programming` | [Read →](https://dev.to/ayanarshad02/i-tested-chunking-on-docs-pdfs-and-code-the-winner-changed-every-time-1lof) |
+| 🔥 | **Am I a Developer or Just a Prompt Engineer?** | `ai`, `career`, `programming` | [Read →](https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece) |
+| ⚡ | **The Next Casualty of the GenAI Revolution** | `ai`, `cloud`, `aws` | [Read →](https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7) |
+| 🚀 | **Build a Streaming Gemini Chat in Angular with Signals — Then S...** | `angular`, `gemini`, `googlecloud` | [Read →](https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc) |
+| 💡 | **[Google Cloud Next '26 Recap #4] Live Report from the Two Keyn...** | `googlecloud`, `gemini`, `claude` | [Read →](https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb) |
+| 🧠 | **Blue Ridge Ruby 2026: A Conference About the Long Game** | `ruby`, `techtalks`, `workplace` | [Read →](https://dev.to/cseeman/blue-ridge-ruby-2026-a-conference-about-the-long-game-357a) |
+| 🌐 | **I Built a Minecraft Mod Where Every Sword is an AWS Service — ...** | `ai`, `aws`, `gamedev` | [Read →](https://dev.to/aws-heroes/i-built-a-minecraft-mod-where-every-sword-is-an-aws-service-heres-how-we-coded-it-with-ai-4epc) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first Apple logo featured Isaac Newton sitting under a tree 🍏
 
-<p align="center"><sub>⏰ Last updated: May 05, 2026 • 04:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 05, 2026 • 11:13 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
