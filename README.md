@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2105</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2105</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) |
-| ⚡ | **Build Your Own AI Butler - A Scheduled Agent That Runs Itself!** | `aws`, `ai`, `agents` | [Read →](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) |
-| 🚀 | **I Programmed an AI in 6502 Assembly - It Worked** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi) |
-| 💡 | **AI vs Non-AI: Building the Same Project Twice** | `ai`, `softwareengineering`, `discuss` | [Read →](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073) |
+| ⚡ | **Designing a team of agents** | `agents`, `agentskills`, `ai` | [Read →](https://dev.to/nfrankel/designing-a-team-of-agents-j1b) |
+| 🚀 | **[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a ...** | `ai`, `gemini`, `googlecloud` | [Read →](https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi) |
+| 💡 | **I built a 200 line AI router in TypeScript. My monthly bill dr...** | `typescript`, `ai`, `webdev` | [Read →](https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok) |
 | 🧠 | **Gemma 4: Why Local AI is Finally Becoming Personal** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/syedahmershah/gemma-4-why-local-ai-is-finally-becoming-personal-1ba5) |
-| 🌐 | **Not Open Source Not Interested** | `discuss`, `opensource`, `software` | [Read →](https://dev.to/geraldew/not-open-source-not-interested-52hf) |
+| 🌐 | **Mac-Only? Just Fork It** | `agents`, `linux`, `ai` | [Read →](https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka) |
 
 <blockquote>
-<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
+<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** There are about 700 programming languages in existence today 💻
 
-<p align="center"><sub>⏰ Last updated: May 07, 2026 • 04:38 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 07, 2026 • 11:24 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
