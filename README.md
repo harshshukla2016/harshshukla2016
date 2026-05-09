@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2107</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2107</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What was your win this week??** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-96l) |
-| ⚡ | **5 types of engineers I met as a Technical Writer** | `watercooler`, `technicalwriting`, `discuss` | [Read →](https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak) |
-| 🚀 | **I built a Ruby gem so I don't have to squint at hash dumps any...** | `ruby`, `cli`, `rubygems` | [Read →](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha) |
-| 💡 | **Error Handling in Go: Stop Panicking, Start Wrapping** | `webdev`, `programming`, `beginners` | [Read →](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d) |
-| 🧠 | **Why does AI lie? Hallucinations explained simply** | `ai`, `beginners`, `aws` | [Read →](https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g) |
-| 🌐 | **Gemma 4 Has Four Models. Here's Which One You Actually Need** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/nirbhay_gautam/gemma-4-has-four-models-heres-which-one-you-actually-need-1057) |
+| 🔥 | **Error Handling in Go: Stop Panicking, Start Wrapping** | `webdev`, `programming`, `beginners` | [Read →](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d) |
+| ⚡ | **How to Find the Postgres Indexes Your Planner Never Picks (I F...** | `postgres`, `database`, `performance` | [Read →](https://dev.to/alimafana/postgres-tells-you-your-query-was-slow-not-which-index-was-wasted-171g) |
+| 🚀 | **Building a Systemic Autonomy Agent: OpenClaw + Gemma 4 & Turbo...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/kheai/building-a-systemic-autonomy-agent-openclaw-gemma-4-turboquant-on-raspberry-pi-4b-49jk) |
+| 💡 | **Initiating the DEVengers org. Check out our Introduction!** | `community`, `developer`, `news` | [Read →](https://dev.to/francistrdev/initiating-the-devengers-org-check-out-our-introduction-4lpn) |
+| 🧠 | **AI-Powered ERP System with Gemma 26B MoE** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/kheai/ai-powered-erp-system-with-gemma-26b-moe-2l5i) |
+| 🌐 | **Go forth and `git rm -f` 🚀** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/simbo1905/go-forth-and-git-rm-f-nmc) |
 
 <blockquote>
-<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
+<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: May 09, 2026 • 03:34 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 09, 2026 • 10:32 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
