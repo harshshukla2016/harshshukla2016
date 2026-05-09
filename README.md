@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2107</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2107</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **What was your win this week??** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-96l) |
-| ⚡ | **The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Maratho...** | `ai`, `gemma`, `devchallenge` | [Read →](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9) |
-| 🚀 | **5 types of engineers I met as a Technical Writer** | `watercooler`, `technicalwriting`, `discuss` | [Read →](https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak) |
-| 💡 | **I Built My Mom an AI Recipe Helper for Mother's Day** | `aws`, `ai`, `agents` | [Read →](https://dev.to/aws/i-built-my-mom-an-ai-recipe-helper-for-mothers-day-2hc5) |
-| 🧠 | **I built a Ruby gem so I don't have to squint at hash dumps any...** | `ruby`, `cli`, `rubygems` | [Read →](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha) |
-| 🌐 | **Using Claude Code with Docker Model Runner** | `ai`, `docker`, `programming` | [Read →](https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo) |
+| ⚡ | **5 types of engineers I met as a Technical Writer** | `watercooler`, `technicalwriting`, `discuss` | [Read →](https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak) |
+| 🚀 | **I built a Ruby gem so I don't have to squint at hash dumps any...** | `ruby`, `cli`, `rubygems` | [Read →](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha) |
+| 💡 | **Error Handling in Go: Stop Panicking, Start Wrapping** | `webdev`, `programming`, `beginners` | [Read →](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d) |
+| 🧠 | **Why does AI lie? Hallucinations explained simply** | `ai`, `beginners`, `aws` | [Read →](https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g) |
+| 🌐 | **Gemma 4 Has Four Models. Here's Which One You Actually Need** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/nirbhay_gautam/gemma-4-has-four-models-heres-which-one-you-actually-need-1057) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: May 09, 2026 • 09:51 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 09, 2026 • 03:34 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
