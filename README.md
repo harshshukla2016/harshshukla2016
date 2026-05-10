@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2107</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2108</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Error Handling in Go: Stop Panicking, Start Wrapping** | `webdev`, `programming`, `beginners` | [Read →](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d) |
-| ⚡ | **How to Find the Postgres Indexes Your Planner Never Picks (I F...** | `postgres`, `database`, `performance` | [Read →](https://dev.to/alimafana/postgres-tells-you-your-query-was-slow-not-which-index-was-wasted-171g) |
-| 🚀 | **Building a Systemic Autonomy Agent: OpenClaw + Gemma 4 & Turbo...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/kheai/building-a-systemic-autonomy-agent-openclaw-gemma-4-turboquant-on-raspberry-pi-4b-49jk) |
-| 💡 | **Initiating the DEVengers org. Check out our Introduction!** | `community`, `developer`, `news` | [Read →](https://dev.to/francistrdev/initiating-the-devengers-org-check-out-our-introduction-4lpn) |
-| 🧠 | **AI-Powered ERP System with Gemma 26B MoE** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/kheai/ai-powered-erp-system-with-gemma-26b-moe-2l5i) |
-| 🌐 | **Go forth and `git rm -f` 🚀** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/simbo1905/go-forth-and-git-rm-f-nmc) |
+| 🔥 | **How CLAUDE.md actually works** | `claude`, `ai` | [Read →](https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e) |
+| ⚡ | **@supports Lies: When CSS Says 'Yes' but Browsers Say 'LOL No'** | `css`, `webdev` | [Read →](https://dev.to/alvaromontoro/supports-lies-when-css-says-yes-but-browsers-say-lol-no-2bjh) |
+| 🚀 | **How to Find the Postgres Indexes Your Planner Never Picks (I F...** | `postgres`, `database`, `performance` | [Read →](https://dev.to/alimafana/postgres-tells-you-your-query-was-slow-not-which-index-was-wasted-171g) |
+| 💡 | **Building a Systemic Autonomy Agent: OpenClaw + Gemma 4 & Turbo...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/kheai/building-a-systemic-autonomy-agent-openclaw-gemma-4-turboquant-on-raspberry-pi-4b-49jk) |
+| 🧠 | **Say It With Flowers: BouqAIs with the Tussie-Mussie Generator** | `ai`, `gemini`, `astro` | [Read →](https://dev.to/cloudinary/say-it-with-flowers-bouqais-with-the-tussie-mussie-generator-3do0) |
+| 🌐 | **Building an AI-Powered ERP System with Gemma 26B MoE, .NET 8, ...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/kheai/building-an-ai-powered-erp-system-with-gemma-26b-moe-net-8-python-react-3noh) |
 
 <blockquote>
-<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
+> **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: May 09, 2026 • 10:32 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 10, 2026 • 10:11 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
