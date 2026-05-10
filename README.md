@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2108</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2108</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **@supports Lies: When CSS Says 'Yes' but Browsers Say 'LOL No'** | `css`, `webdev` | [Read →](https://dev.to/alvaromontoro/supports-lies-when-css-says-yes-but-browsers-say-lol-no-2bjh) |
-| ⚡ | **How to Find the Postgres Indexes Your Planner Never Picks (I F...** | `postgres`, `database`, `performance` | [Read →](https://dev.to/alimafana/postgres-tells-you-your-query-was-slow-not-which-index-was-wasted-171g) |
-| 🚀 | **I Embedded Gemma 4 Into a Real Desktop App — Here's Exactly Wh...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/uday_dolas_08/i-embedded-gemma-4-into-a-real-desktop-app-heres-exactly-what-i-learned-3a72) |
-| 💡 | **Say It With Flowers: BouqAIs with the Tussie-Mussie Generator** | `ai`, `gemini`, `astro` | [Read →](https://dev.to/cloudinary/say-it-with-flowers-bouqais-with-the-tussie-mussie-generator-3do0) |
-| 🧠 | **Stop hand-drawing skeletons. Let your UI trace itself magically.** | `webdev`, `productivity`, `react` | [Read →](https://dev.to/jeetvora331/stop-hand-drawing-skeletons-let-your-ui-trace-itself-magically-3pga) |
-| 🌐 | **I Gave My Newsletter a Voice (Literally)** | `livekit`, `voiceai`, `rag` | [Read →](https://dev.to/andreagriffiths11/i-gave-my-newsletter-a-voice-literally-3k5p) |
+| 🔥 | **How Python's GIL actually works (and when it bites you)** | `webdev`, `productivity`, `programming` | [Read →](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) |
+| ⚡ | **I Embedded Gemma 4 Into a Real Desktop App — Here's Exactly Wh...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/uday_dolas_08/i-embedded-gemma-4-into-a-real-desktop-app-heres-exactly-what-i-learned-3a72) |
+| 🚀 | **Say It With Flowers: BouqAIs with the Tussie-Mussie Generator** | `ai`, `gemini`, `astro` | [Read →](https://dev.to/cloudinary/say-it-with-flowers-bouqais-with-the-tussie-mussie-generator-3do0) |
+| 💡 | **Code with Claude Extended SF: Heck yeah and then wait, what?** | `ai`, `claude`, `beginners` | [Read →](https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd) |
+| 🧠 | **Building in public, week 8: impressions exploded 71% and I thi...** | `webdev`, `seo`, `buildinpublic` | [Read →](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-8-impressions-exploded-71-and-i-think-i-know-why-54ab) |
+| 🌐 | **I built a tool to generate academic PDFs from Markdown without...** | `python`, `opensource`, `docker` | [Read →](https://dev.to/devrio/i-built-a-tool-to-generate-academic-pdfs-from-markdown-without-installing-latex-5f80) |
 
 <blockquote>
-<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: May 10, 2026 • 03:42 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 10, 2026 • 10:32 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
