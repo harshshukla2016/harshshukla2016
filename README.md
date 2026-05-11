@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2108</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2109</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **How Python's GIL actually works (and when it bites you)** | `webdev`, `productivity`, `programming` | [Read →](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2) |
-| ⚡ | **I Embedded Gemma 4 Into a Real Desktop App — Here's Exactly Wh...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/uday_dolas_08/i-embedded-gemma-4-into-a-real-desktop-app-heres-exactly-what-i-learned-3a72) |
-| 🚀 | **Say It With Flowers: BouqAIs with the Tussie-Mussie Generator** | `ai`, `gemini`, `astro` | [Read →](https://dev.to/cloudinary/say-it-with-flowers-bouqais-with-the-tussie-mussie-generator-3do0) |
-| 💡 | **Code with Claude Extended SF: Heck yeah and then wait, what?** | `ai`, `claude`, `beginners` | [Read →](https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd) |
-| 🧠 | **Building in public, week 8: impressions exploded 71% and I thi...** | `webdev`, `seo`, `buildinpublic` | [Read →](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-8-impressions-exploded-71-and-i-think-i-know-why-54ab) |
-| 🌐 | **I built a tool to generate academic PDFs from Markdown without...** | `python`, `opensource`, `docker` | [Read →](https://dev.to/devrio/i-built-a-tool-to-generate-academic-pdfs-from-markdown-without-installing-latex-5f80) |
+| ⚡ | **The first time you watch an AI agent buy something, you will f...** | `ai`, `agents`, `cloudflare` | [Read →](https://dev.to/thegdsks/the-first-time-you-watch-an-ai-agent-buy-something-you-will-feel-something-you-cannot-name-35f3) |
+| 🚀 | **How I Got Into Google Summer of Code (GSoC) 2026 as a Tier-3 M...** | `opensource`, `career`, `webdev` | [Read →](https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017) |
+| 💡 | **Diagnosis Didn't Change My Leadership. Ownership Did.** | `leadership`, `productivity`, `mentalhealth` | [Read →](https://dev.to/jonoherrington/diagnosis-didnt-change-my-leadership-ownership-did-3ll5) |
+| 🧠 | **Your AWS bill is lying to you — it shows services, not features** | `devops`, `aws`, `cloud` | [Read →](https://dev.to/arpitstack/your-aws-bill-is-lying-to-you-it-shows-services-not-features-5817) |
+| 🌐 | **Building in public, week 8: impressions exploded 71% and I thi...** | `webdev`, `seo`, `buildinpublic` | [Read →](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-8-impressions-exploded-71-and-i-think-i-know-why-54ab) |
 
 <blockquote>
-<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
+> **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
 
-<p align="center"><sub>⏰ Last updated: May 10, 2026 • 10:32 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 11, 2026 • 10:26 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
