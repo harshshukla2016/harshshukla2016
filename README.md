@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2109</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2110</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4nik) |
+| 🔥 | **Does AI Behave Like a Toxic Ex?** | `ai`, `webdev`, `discuss` | [Read →](https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n) |
 | ⚡ | **What are your goals for the week? #178** | `discuss`, `motivation`, `watercooler` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp) |
-| 🚀 | **Meme Monday** | `discuss`, `watercooler`, `jokes` | [Read →](https://dev.to/ben/meme-monday-55e2) |
-| 💡 | **How I Stopped Despairing Over the Backyard Mess and Started an...** | `devjournal`, `ai`, `buildinpublic` | [Read →](https://dev.to/cathylai/how-i-stopped-despairing-over-the-backyard-mess-and-started-an-ai-side-project-3f9a) |
+| 🚀 | **My fully offline AI-assisted Linux development machine** | `linux`, `archlinux`, `development` | [Read →](https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl) |
+| 💡 | **The missing layer in prompt engineering: thinking quality** | `ai`, `softwareengineering`, `productivity` | [Read →](https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j) |
 | 🧠 | **Tracking my cardio with OpenClaw and Gemma 4** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/fdocr/tracking-my-cardio-with-openclaw-and-gemma-4-3dka) |
-| 🌐 | **Arc 3 Catch-Up: Solana Transactions Explained for Web2 Developers** | `100daysofsolana`, `web3`, `blockchain` | [Read →](https://dev.to/100daysofsolana/arc-3-catch-up-solana-transactions-explained-for-web2-developers-4f5i) |
+| 🌐 | **⚔️ Go vs Java: The Minimalist vs The Enterprise Veteran** | `programming`, `java`, `go` | [Read →](https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3) |
 
 <blockquote>
-<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
+<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
+> **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
 
-<p align="center"><sub>⏰ Last updated: May 11, 2026 • 11:29 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 12, 2026 • 10:03 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
