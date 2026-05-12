@@ -51,7 +51,7 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2110</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2110</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
@@ -61,15 +61,15 @@
 | 🚀 | **My fully offline AI-assisted Linux development machine** | `linux`, `archlinux`, `development` | [Read →](https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl) |
 | 💡 | **The missing layer in prompt engineering: thinking quality** | `ai`, `softwareengineering`, `productivity` | [Read →](https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j) |
 | 🧠 | **Tracking my cardio with OpenClaw and Gemma 4** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/fdocr/tracking-my-cardio-with-openclaw-and-gemma-4-3dka) |
-| 🌐 | **⚔️ Go vs Java: The Minimalist vs The Enterprise Veteran** | `programming`, `java`, `go` | [Read →](https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3) |
+| 🌐 | **Arc 3 Catch-Up: Solana Transactions Explained for Web2 Developers** | `100daysofsolana`, `web3`, `blockchain` | [Read →](https://dev.to/100daysofsolana/arc-3-catch-up-solana-transactions-explained-for-web2-developers-4f5i) |
 
 <blockquote>
-<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
+<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
 
-<p align="center"><sub>⏰ Last updated: May 12, 2026 • 10:03 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 12, 2026 • 04:50 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
