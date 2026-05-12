@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2110</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2110</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Does AI Behave Like a Toxic Ex?** | `ai`, `webdev`, `discuss` | [Read →](https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n) |
-| ⚡ | **What are your goals for the week? #178** | `discuss`, `motivation`, `watercooler` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp) |
-| 🚀 | **My fully offline AI-assisted Linux development machine** | `linux`, `archlinux`, `development` | [Read →](https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl) |
-| 💡 | **The missing layer in prompt engineering: thinking quality** | `ai`, `softwareengineering`, `productivity` | [Read →](https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j) |
-| 🧠 | **Tracking my cardio with OpenClaw and Gemma 4** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/fdocr/tracking-my-cardio-with-openclaw-and-gemma-4-3dka) |
-| 🌐 | **Arc 3 Catch-Up: Solana Transactions Explained for Web2 Developers** | `100daysofsolana`, `web3`, `blockchain` | [Read →](https://dev.to/100daysofsolana/arc-3-catch-up-solana-transactions-explained-for-web2-developers-4f5i) |
+| ⚡ | **My fully offline AI-assisted Linux development machine** | `linux`, `archlinux`, `development` | [Read →](https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl) |
+| 🚀 | **It's live. Tollere is on the App Store.** | `showdev`, `ios`, `swift` | [Read →](https://dev.to/stokry/its-live-tollere-is-on-the-app-store-581o) |
+| 💡 | **I Slashed My AI Trading Agent Token Costs by 80% — Here's the ...** | `ai`, `automation`, `hermes` | [Read →](https://dev.to/j_dev28/i-slashed-my-ai-trading-agent-token-costs-by-80-heres-the-architecture-5292) |
+| 🧠 | **Run Claude Code Locally for Free with Docker Model Runner** | `docker`, `ai`, `development` | [Read →](https://dev.to/pradumnasaraf/run-claude-code-locally-for-free-with-docker-model-runner-3o27) |
+| 🌐 | **I Stopped Fighting React Server Components — Here's What Final...** | `react`, `nextjs`, `webdev` | [Read →](https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
 
-<p align="center"><sub>⏰ Last updated: May 12, 2026 • 04:50 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 12, 2026 • 11:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
