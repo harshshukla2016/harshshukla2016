@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2111</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2111</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **It's live. Tollere is on the App Store.** | `showdev`, `ios`, `swift` | [Read →](https://dev.to/stokry/its-live-tollere-is-on-the-app-store-581o) |
-| ⚡ | **Open Vibe -- Ship your SaaS with AI. Without getting stuck.** | `webdev`, `ai`, `saas` | [Read →](https://dev.to/wasp/open-vibe-ship-your-saas-with-ai-without-getting-stuck-e2h) |
-| 🚀 | **The Language Wars Are Over. The Ground Shifted Without You.** | `ai`, `discuss`, `programming` | [Read →](https://dev.to/dannwaneri/the-language-wars-are-over-the-ground-shifted-without-you-49pb) |
-| 💡 | **Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2** | `python`, `ai`, `videogen` | [Read →](https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn) |
-| 🧠 | **Engineering Agent Memory** | `agents`, `ai`, `llm` | [Read →](https://dev.to/kenwalger/engineering-agent-memory-4a42) |
-| 🌐 | **I Stopped Fighting React Server Components — Here's What Final...** | `react`, `nextjs`, `webdev` | [Read →](https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho) |
+| 🔥 | **Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2** | `python`, `ai`, `videogen` | [Read →](https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn) |
+| ⚡ | **React is Overkill: Why Python + HTMX is Dominating in 2026** | `python`, `react`, `javascript` | [Read →](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib) |
+| 🚀 | **From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Proble...** | `programming`, `leetcode`, `python` | [Read →](https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2) |
+| 💡 | **Engineering Agent Memory** | `agents`, `ai`, `llm` | [Read →](https://dev.to/kenwalger/engineering-agent-memory-4a42) |
+| 🧠 | **Two DEV Users. Two Countries. One Weird Little Avatar Project.** | `webdev`, `nextjs`, `sideprojects` | [Read →](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3) |
+| 🌐 | **Prompting Is Not Magic. It Is Control.** | `promptengineering`, `ai`, `security` | [Read →](https://dev.to/gnomeman4201/a-prompt-is-a-control-surface-not-a-magic-spell-239i) |
 
 <blockquote>
-<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
+<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: May 13, 2026 • 10:10 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 13, 2026 • 04:59 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
