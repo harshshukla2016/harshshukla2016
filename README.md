@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2110</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2111</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Does AI Behave Like a Toxic Ex?** | `ai`, `webdev`, `discuss` | [Read →](https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n) |
-| ⚡ | **My fully offline AI-assisted Linux development machine** | `linux`, `archlinux`, `development` | [Read →](https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl) |
-| 🚀 | **It's live. Tollere is on the App Store.** | `showdev`, `ios`, `swift` | [Read →](https://dev.to/stokry/its-live-tollere-is-on-the-app-store-581o) |
-| 💡 | **I Slashed My AI Trading Agent Token Costs by 80% — Here's the ...** | `ai`, `automation`, `hermes` | [Read →](https://dev.to/j_dev28/i-slashed-my-ai-trading-agent-token-costs-by-80-heres-the-architecture-5292) |
-| 🧠 | **Run Claude Code Locally for Free with Docker Model Runner** | `docker`, `ai`, `development` | [Read →](https://dev.to/pradumnasaraf/run-claude-code-locally-for-free-with-docker-model-runner-3o27) |
+| 🔥 | **It's live. Tollere is on the App Store.** | `showdev`, `ios`, `swift` | [Read →](https://dev.to/stokry/its-live-tollere-is-on-the-app-store-581o) |
+| ⚡ | **Open Vibe -- Ship your SaaS with AI. Without getting stuck.** | `webdev`, `ai`, `saas` | [Read →](https://dev.to/wasp/open-vibe-ship-your-saas-with-ai-without-getting-stuck-e2h) |
+| 🚀 | **The Language Wars Are Over. The Ground Shifted Without You.** | `ai`, `discuss`, `programming` | [Read →](https://dev.to/dannwaneri/the-language-wars-are-over-the-ground-shifted-without-you-49pb) |
+| 💡 | **Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2** | `python`, `ai`, `videogen` | [Read →](https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn) |
+| 🧠 | **Engineering Agent Memory** | `agents`, `ai`, `llm` | [Read →](https://dev.to/kenwalger/engineering-agent-memory-4a42) |
 | 🌐 | **I Stopped Fighting React Server Components — Here's What Final...** | `react`, `nextjs`, `webdev` | [Read →](https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho) |
 
 <blockquote>
-<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
+> **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: May 12, 2026 • 11:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 13, 2026 • 10:10 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
