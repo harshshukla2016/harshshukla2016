@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2111</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2112</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Two DEV Users. Two Countries. One Weird Little Avatar Project.** | `webdev`, `nextjs`, `sideprojects` | [Read →](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3) |
 | ⚡ | **React is Overkill: Why Python + HTMX is Dominating in 2026** | `python`, `react`, `javascript` | [Read →](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib) |
-| 🚀 | **From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Proble...** | `programming`, `leetcode`, `python` | [Read →](https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2) |
-| 💡 | **Lambda Just Got a File System. I Put AI Agents on It.** | `serverless`, `aws`, `lambda` | [Read →](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8) |
-| 🧠 | **Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode'...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop) |
-| 🌐 | **What Burnout Actually Feels Like (Not What Instagram Tells You)** | `burnout`, `career`, `discuss` | [Read →](https://dev.to/harsh2644/what-burnout-actually-feels-like-not-what-instagram-tells-you-3ffh) |
+| 🚀 | **What Burnout Actually Feels Like (Not What Instagram Tells You)** | `burnout`, `career`, `discuss` | [Read →](https://dev.to/harsh2644/what-burnout-actually-feels-like-not-what-instagram-tells-you-3ffh) |
+| 💡 | **From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Proble...** | `programming`, `leetcode`, `python` | [Read →](https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2) |
+| 🧠 | **Lambda Just Got a File System. I Put AI Agents on It.** | `serverless`, `aws`, `lambda` | [Read →](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8) |
+| 🌐 | **My GitHub Graveyard has 27 dead projects. Here is the brutal t...** | `webdev`, `beginners`, `productivity` | [Read →](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
+> **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
 
-<p align="center"><sub>⏰ Last updated: May 13, 2026 • 11:36 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 14, 2026 • 10:10 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
