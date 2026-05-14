@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2112</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2112</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Claude for Small Business** | `hackernews` | [Read →](https://www.anthropic.com/news/claude-for-small-business) |
-| ⚡ | **Scorched Earth 2000 – Web** | `hackernews` | [Read →](http://www.scorch2000.com/web/) |
-| 🚀 | **Linux gaming is faster because Windows APIs are becoming Linux...** | `hackernews` | [Read →](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) |
-| 💡 | **Show HN: Running the second public ODoH relay** | `hackernews` | [Read →](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html) |
-| 🧠 | **Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7** | `hackernews` | [Read →](https://classic7.lol/) |
-| 🌐 | **Setting up a free *.city.state.us locality domain (2025)** | `hackernews` | [Read →](https://fredchan.org/blog/locality-domains-guide/) |
+| 🔥 | **My GitHub Graveyard has 27 dead projects. Here is the brutal t...** | `webdev`, `beginners`, `productivity` | [Read →](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) |
+| ⚡ | **Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6) |
+| 🚀 | **4 Tiny Mistakes That Secretly Destroy App Performance** | `javascript`, `angular`, `react` | [Read →](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo) |
+| 💡 | **Agent Factory Recap: How Gemma 4 Taught Itself Physics** | `ai`, `gemma`, `agents` | [Read →](https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6) |
+| 🧠 | **GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Le...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba) |
+| 🌐 | **onclick is great, actually** | `javascript`, `html` | [Read →](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p) |
 
 <blockquote>
-<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
+<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
 
-<p align="center"><sub>⏰ Last updated: May 14, 2026 • 04:42 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 14, 2026 • 11:29 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
