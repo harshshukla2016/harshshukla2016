@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2113</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2113</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6) |
-| ⚡ | **4 Tiny Mistakes That Secretly Destroy App Performance** | `javascript`, `angular`, `react` | [Read →](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo) |
-| 🚀 | **Tokensparsamkeit for coding assistants** | `ai`, `tokens`, `budget` | [Read →](https://dev.to/nfrankel/tokensparsamkeit-for-coding-assistants-al2) |
-| 💡 | **Building a custom launcher for ChromeOS** | `android`, `chromeos`, `ui` | [Read →](https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7) |
-| 🧠 | **The new Agent Toolkit for AWS includes 20+ agent skills, but y...** | `agentskills`, `aws`, `mcp` | [Read →](https://dev.to/aws/the-new-agent-toolkit-for-aws-includes-20-agent-skills-but-your-agent-might-never-load-them-1p6d) |
-| 🌐 | **[Workshop][Gemini CLI] Building with AI 2026: Hands-on with Ge...** | `cli`, `gemini`, `mcp` | [Read →](https://dev.to/gde/workshopgemini-cli-building-with-ai-2026-hands-on-with-gemini-cli-and-official-mcp-to-launch-a-296d) |
+| 🔥 | **The new Agent Toolkit for AWS includes 20+ agent skills, but y...** | `agentskills`, `aws`, `mcp` | [Read →](https://dev.to/aws/the-new-agent-toolkit-for-aws-includes-20-agent-skills-but-your-agent-might-never-load-them-1p6d) |
+| ⚡ | **AI Can Write the Code. It Still Forgets the Decisions That Mat...** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/restofstack/ai-can-write-the-code-it-still-forgets-the-decisions-that-matter-20b8) |
+| 🚀 | **AI Didn't Make Software Engineering Easier. It Made the Hard P...** | `discuss`, `ai`, `webdev` | [Read →](https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4) |
+| 💡 | **[Workshop][Gemini CLI] Building with AI 2026: Hands-on with Ge...** | `cli`, `gemini`, `mcp` | [Read →](https://dev.to/gde/workshopgemini-cli-building-with-ai-2026-hands-on-with-gemini-cli-and-official-mcp-to-launch-a-296d) |
+| 🧠 | **OpenSEO Has 1.7k GitHub Stars. I Built the Same Thing for $0.** | `seo`, `opensource`, `python` | [Read →](https://dev.to/dannwaneri/openseo-has-17k-github-stars-i-built-the-same-thing-for-0-1dip) |
+| 🌐 | **Vibe Coding, Demystified** | `vibecoding`, `learning`, `codenewbie` | [Read →](https://dev.to/mlh/vibe-coding-demystified-169b) |
 
 <blockquote>
-<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
+<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer programmer was Ada Lovelace, in the 1840s 👩‍💻
 
-<p align="center"><sub>⏰ Last updated: May 15, 2026 • 10:16 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 15, 2026 • 04:50 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
