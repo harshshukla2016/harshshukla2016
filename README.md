@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2112</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2113</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **My GitHub Graveyard has 27 dead projects. Here is the brutal t...** | `webdev`, `beginners`, `productivity` | [Read →](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) |
-| ⚡ | **Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6) |
-| 🚀 | **4 Tiny Mistakes That Secretly Destroy App Performance** | `javascript`, `angular`, `react` | [Read →](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo) |
-| 💡 | **Agent Factory Recap: How Gemma 4 Taught Itself Physics** | `ai`, `gemma`, `agents` | [Read →](https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6) |
-| 🧠 | **GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Le...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba) |
-| 🌐 | **onclick is great, actually** | `javascript`, `html` | [Read →](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p) |
+| 🔥 | **Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6) |
+| ⚡ | **4 Tiny Mistakes That Secretly Destroy App Performance** | `javascript`, `angular`, `react` | [Read →](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo) |
+| 🚀 | **Tokensparsamkeit for coding assistants** | `ai`, `tokens`, `budget` | [Read →](https://dev.to/nfrankel/tokensparsamkeit-for-coding-assistants-al2) |
+| 💡 | **Building a custom launcher for ChromeOS** | `android`, `chromeos`, `ui` | [Read →](https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7) |
+| 🧠 | **The new Agent Toolkit for AWS includes 20+ agent skills, but y...** | `agentskills`, `aws`, `mcp` | [Read →](https://dev.to/aws/the-new-agent-toolkit-for-aws-includes-20-agent-skills-but-your-agent-might-never-load-them-1p6d) |
+| 🌐 | **[Workshop][Gemini CLI] Building with AI 2026: Hands-on with Ge...** | `cli`, `gemini`, `mcp` | [Read →](https://dev.to/gde/workshopgemini-cli-building-with-ai-2026-hands-on-with-gemini-cli-and-official-mcp-to-launch-a-296d) |
 
 <blockquote>
-<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
+> **🧪 Did You Know?** The first computer programmer was Ada Lovelace, in the 1840s 👩‍💻
 
-<p align="center"><sub>⏰ Last updated: May 14, 2026 • 11:29 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 15, 2026 • 10:16 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
