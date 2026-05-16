@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2114</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2114</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What was your win this week?!** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-110l) |
-| ⚡ | **Building "Sweets Vault" - a multimodal Gemini Agent with physi...** | `ai`, `gemini`, `agents` | [Read →](https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh) |
-| 🚀 | **You don't 3D print a house. You print your tools.** | `ai`, `vibecoding` | [Read →](https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00) |
-| 💡 | **AI slop is everywhere. Here's what I keep coming back to.** | `discuss`, `productivity`, `ai` | [Read →](https://dev.to/marvsonhelbs/ai-slop-is-everywhere-heres-what-i-keep-coming-back-to-1i42) |
-| 🧠 | **Day 100 of #100DaysOfCode — What I Built, What I Learned, and ...** | `webdev`, `buildinpublic`, `100daysofcode` | [Read →](https://dev.to/m_saad_ahmad/day-100-of-100daysofcode-what-i-built-what-i-learned-and-whats-next-2007) |
-| 🌐 | **GemmaFin - Breaking the Cycle of Debt with Conversational AI** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n) |
+| 🔥 | **I Gave Hermes Agent 5 Impossible Tasks** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/syedahmershah/i-gave-hermes-agent-5-impossible-tasks-1k16) |
+| ⚡ | **Chat to build and schedule your own personal Hacker News email...** | `showdev`, `react`, `opensource` | [Read →](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4) |
+| 🚀 | **I Ran Hermes Agent on the Same Task for 7 Days. The Skill File...** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/sreejit_/i-ran-hermes-agent-on-the-same-task-for-7-days-the-skill-file-on-day-7-looked-nothing-like-day-1-2oa8) |
+| 💡 | **I Added Three Rules to Gemma 4. The MoE Searched. The Dense Mo...** | `ai`, `llm`, `opensource` | [Read →](https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18) |
+| 🧠 | **Building a Ride Analysis Web App with Antigravity and the Stra...** | `cycling`, `nextjs`, `googlecloud` | [Read →](https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g) |
+| 🌐 | **The Last Developer Museum: From Stack Overflow to AI** | `discuss`, `programming`, `career` | [Read →](https://dev.to/hemapriya_kanagala/the-last-developer-museum-from-stack-overflow-to-ai-2lm2) |
 
 <blockquote>
-<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first YouTube video was uploaded on April 23, 2005 🎬
 
-<p align="center"><sub>⏰ Last updated: May 16, 2026 • 03:43 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 16, 2026 • 10:36 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
