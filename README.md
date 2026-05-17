@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2115</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2115</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Chat to build and schedule your own personal Hacker News email...** | `showdev`, `react`, `opensource` | [Read →](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4) |
-| ⚡ | **I Built a Desktop App That Ends My “Open 7 Terminals and Pray”...** | `ai`, `programming`, `typescript` | [Read →](https://dev.to/trojanmocx/-i-built-a-desktop-app-that-ends-my-open-7-terminals-and-pray-routine-1kb8) |
-| 🚀 | **🐝 Real-Life Debugging Story + Home Network Analysis: Peekyport 🫣** | `java`, `network`, `javafx` | [Read →](https://dev.to/annavi11arrea1/real-life-debugging-story-home-network-analysis-peekyport-a10) |
-| 💡 | **How to read any legacy codebase. The archaeology playbook.** | `webdev`, `programming`, `tutorial` | [Read →](https://dev.to/thegdsks/how-to-read-any-legacy-codebase-the-archaeology-playbook-19bh) |
-| 🧠 | **I Added Three Rules to Gemma 4. The MoE Searched. The Dense Mo...** | `ai`, `llm`, `opensource` | [Read →](https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18) |
-| 🌐 | **Building a Ride Analysis Web App with Antigravity and the Stra...** | `cycling`, `nextjs`, `googlecloud` | [Read →](https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g) |
+| 🔥 | **Gemma 4 vs Claude vs Llama: Which Model Wins for Devs** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/syedahmershah/gemma-4-vs-claude-vs-llama-which-model-wins-for-devs-4p9) |
+| ⚡ | **How to read any legacy codebase. The archaeology playbook.** | `webdev`, `programming`, `tutorial` | [Read →](https://dev.to/thegdsks/how-to-read-any-legacy-codebase-the-archaeology-playbook-19bh) |
+| 🚀 | **I Built a Desktop App That Ends My “Open 7 Terminals and Pray”...** | `ai`, `programming`, `typescript` | [Read →](https://dev.to/trojanmocx/-i-built-a-desktop-app-that-ends-my-open-7-terminals-and-pray-routine-1kb8) |
+| 💡 | **I Got Tired of Docker Eating My Raspberry Pi's RAM — So I Buil...** | `containers`, `security`, `raspberrypi` | [Read →](https://dev.to/zrouga/i-got-tired-of-docker-eating-my-raspberry-pis-ram-so-i-built-my-own-container-orchestrator-3j3n) |
+| 🧠 | **Building a 3D engine from scratch with C++ and Vulkan for web ...** | `cpp`, `gamedev`, `webdev` | [Read →](https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap) |
+| 🌐 | **I Tested Gemma 4 E4B vs 31B on 50 Real Student Career Queries ...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/sreejit_/i-tested-gemma-4-e4b-vs-31b-on-50-real-student-career-queries-the-results-surprised-me-kbi) |
 
 <blockquote>
-<p>💬 <em>"Programming isn't about what you know; it's about what you can figure out."</em> — <strong>Chris Pine</strong></p>
+<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: May 17, 2026 • 03:51 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 17, 2026 • 10:34 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
