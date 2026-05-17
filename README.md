@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2114</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2115</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Gave Hermes Agent 5 Impossible Tasks** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/syedahmershah/i-gave-hermes-agent-5-impossible-tasks-1k16) |
-| ⚡ | **Chat to build and schedule your own personal Hacker News email...** | `showdev`, `react`, `opensource` | [Read →](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4) |
-| 🚀 | **I Ran Hermes Agent on the Same Task for 7 Days. The Skill File...** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/sreejit_/i-ran-hermes-agent-on-the-same-task-for-7-days-the-skill-file-on-day-7-looked-nothing-like-day-1-2oa8) |
-| 💡 | **I Added Three Rules to Gemma 4. The MoE Searched. The Dense Mo...** | `ai`, `llm`, `opensource` | [Read →](https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18) |
-| 🧠 | **Building a Ride Analysis Web App with Antigravity and the Stra...** | `cycling`, `nextjs`, `googlecloud` | [Read →](https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g) |
-| 🌐 | **The Last Developer Museum: From Stack Overflow to AI** | `discuss`, `programming`, `career` | [Read →](https://dev.to/hemapriya_kanagala/the-last-developer-museum-from-stack-overflow-to-ai-2lm2) |
+| 🔥 | **Chat to build and schedule your own personal Hacker News email...** | `showdev`, `react`, `opensource` | [Read →](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4) |
+| ⚡ | **I Gave Hermes Agent 5 Impossible Tasks** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/syedahmershah/i-gave-hermes-agent-5-impossible-tasks-1k16) |
+| 🚀 | **I Built a Desktop App That Ends My “Open 7 Terminals and Pray”...** | `ai`, `programming`, `typescript` | [Read →](https://dev.to/trojanmocx/-i-built-a-desktop-app-that-ends-my-open-7-terminals-and-pray-routine-1kb8) |
+| 💡 | **🐝 Real-Life Debugging Story + Home Network Analysis: Peekyport 🫣** | `java`, `network`, `javafx` | [Read →](https://dev.to/annavi11arrea1/real-life-debugging-story-home-network-analysis-peekyport-a10) |
+| 🧠 | **I Added Three Rules to Gemma 4. The MoE Searched. The Dense Mo...** | `ai`, `llm`, `opensource` | [Read →](https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18) |
+| 🌐 | **Observable Adversarial Behavior, Not Portable Adversarial Proc...** | `security`, `blueteam`, `python` | [Read →](https://dev.to/gnomeman4201/observable-adversarial-behavior-not-portable-adversarial-procedure-4mo6) |
 
 <blockquote>
-<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
+<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first YouTube video was uploaded on April 23, 2005 🎬
+> **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: May 16, 2026 • 10:36 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 17, 2026 • 10:21 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
