@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2115</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2116</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Gemma 4 vs Claude vs Llama: Which Model Wins for Devs** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/syedahmershah/gemma-4-vs-claude-vs-llama-which-model-wins-for-devs-4p9) |
-| ⚡ | **How to read any legacy codebase. The archaeology playbook.** | `webdev`, `programming`, `tutorial` | [Read →](https://dev.to/thegdsks/how-to-read-any-legacy-codebase-the-archaeology-playbook-19bh) |
-| 🚀 | **I Built a Desktop App That Ends My “Open 7 Terminals and Pray”...** | `ai`, `programming`, `typescript` | [Read →](https://dev.to/trojanmocx/-i-built-a-desktop-app-that-ends-my-open-7-terminals-and-pray-routine-1kb8) |
-| 💡 | **I Got Tired of Docker Eating My Raspberry Pi's RAM — So I Buil...** | `containers`, `security`, `raspberrypi` | [Read →](https://dev.to/zrouga/i-got-tired-of-docker-eating-my-raspberry-pis-ram-so-i-built-my-own-container-orchestrator-3j3n) |
-| 🧠 | **Building a 3D engine from scratch with C++ and Vulkan for web ...** | `cpp`, `gamedev`, `webdev` | [Read →](https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap) |
-| 🌐 | **I Tested Gemma 4 E4B vs 31B on 50 Real Student Career Queries ...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/sreejit_/i-tested-gemma-4-e4b-vs-31b-on-50-real-student-career-queries-the-results-surprised-me-kbi) |
+| 🔥 | **I built a real-time ASL interpreter for the Gemma4 challenge, ...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj) |
+| ⚡ | **I Ran AI Models Directly in the Browser and Measured What It D...** | `webdev`, `ai`, `webvitals` | [Read →](https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj) |
+| 🚀 | **The Delusion of Infinite Compute: Running Gemma 4 on an i5 CPU** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/kaushikcoderpy/the-delusion-of-infinite-compute-running-gemma-4-on-an-i5-cpu-3gip) |
+| 💡 | **Building a 3D engine from scratch with C++ and Vulkan for web ...** | `cpp`, `gamedev`, `webdev` | [Read →](https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap) |
+| 🧠 | **What I actually learned using Gemma 4 for ASL recognition (spo...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/cbms26/what-i-actually-learned-using-gemma-4-for-asl-recognition-spoiler-d-kept-showing-up-as-1-1ek4) |
+| 🌐 | **Vayal AI: Tamil Voice + Vision Crop Advisory for Farmers Using...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/ragasudha/vayal-ai-tamil-voice-vision-crop-advisory-for-farmers-using-gemma-4-5534) |
 
 <blockquote>
-<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
+<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
+> **🧪 Did You Know?** About 90% of the world's data was created in just the last 2 years 📊
 
-<p align="center"><sub>⏰ Last updated: May 17, 2026 • 10:34 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 18, 2026 • 10:34 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
