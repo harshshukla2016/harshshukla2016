@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2116</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2116</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I built a real-time ASL interpreter for the Gemma4 challenge, ...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/cbms26/i-built-a-real-time-asl-interpreter-for-the-gemma4-challenge-no-cloud-needed-5gdj) |
-| ⚡ | **I Ran AI Models Directly in the Browser and Measured What It D...** | `webdev`, `ai`, `webvitals` | [Read →](https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj) |
-| 🚀 | **The Delusion of Infinite Compute: Running Gemma 4 on an i5 CPU** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/kaushikcoderpy/the-delusion-of-infinite-compute-running-gemma-4-on-an-i5-cpu-3gip) |
-| 💡 | **Building a 3D engine from scratch with C++ and Vulkan for web ...** | `cpp`, `gamedev`, `webdev` | [Read →](https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap) |
-| 🧠 | **What I actually learned using Gemma 4 for ASL recognition (spo...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/cbms26/what-i-actually-learned-using-gemma-4-for-asl-recognition-spoiler-d-kept-showing-up-as-1-1ek4) |
-| 🌐 | **Vayal AI: Tamil Voice + Vision Crop Advisory for Farmers Using...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/ragasudha/vayal-ai-tamil-voice-vision-crop-advisory-for-farmers-using-gemma-4-5534) |
+| 🔥 | **DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody ...** | `ai`, `opensource`, `transparency` | [Read →](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47) |
+| ⚡ | **The Delusion of Infinite Compute: Running Gemma 4 on an i5 CPU** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/kaushikcoderpy/the-delusion-of-infinite-compute-running-gemma-4-on-an-i5-cpu-3gip) |
+| 🚀 | **GemmaLink: Your Private Eye Assistant** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/bumbulik0/gemmalink-your-private-eye-assistant-3fgg) |
+| 💡 | **I gave Claude six months of our retros. It found three things ...** | `ai`, `mcp`, `productivity` | [Read →](https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p) |
+| 🧠 | **From logic Apps to Workflows and what it means** | `powerautomate`, `powerplatform`, `copilotstudio` | [Read →](https://dev.to/wyattdave/from-logic-apps-to-workflows-and-what-it-means-4ook) |
+| 🌐 | **Everyone's Talking About Bigger AI Models. I Built a Gemma 4 F...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/sreejit_/everyones-talking-about-bigger-ai-models-i-built-a-gemma-4-farm-doctor-that-works-when-the-3j1b) |
 
 <blockquote>
-<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
+<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** About 90% of the world's data was created in just the last 2 years 📊
 
-<p align="center"><sub>⏰ Last updated: May 18, 2026 • 10:34 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 18, 2026 • 05:57 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
