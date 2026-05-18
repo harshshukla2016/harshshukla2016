@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2116</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2116</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody ...** | `ai`, `opensource`, `transparency` | [Read →](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47) |
-| ⚡ | **The Delusion of Infinite Compute: Running Gemma 4 on an i5 CPU** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/kaushikcoderpy/the-delusion-of-infinite-compute-running-gemma-4-on-an-i5-cpu-3gip) |
-| 🚀 | **GemmaLink: Your Private Eye Assistant** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/bumbulik0/gemmalink-your-private-eye-assistant-3fgg) |
-| 💡 | **I gave Claude six months of our retros. It found three things ...** | `ai`, `mcp`, `productivity` | [Read →](https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p) |
-| 🧠 | **From logic Apps to Workflows and what it means** | `powerautomate`, `powerplatform`, `copilotstudio` | [Read →](https://dev.to/wyattdave/from-logic-apps-to-workflows-and-what-it-means-4ook) |
-| 🌐 | **Everyone's Talking About Bigger AI Models. I Built a Gemma 4 F...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/sreejit_/everyones-talking-about-bigger-ai-models-i-built-a-gemma-4-farm-doctor-that-works-when-the-3j1b) |
+| ⚡ | **What are your goals this week? #139** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-this-week-139-4oc2) |
+| 🚀 | **I gave Claude six months of our retros. It found three things ...** | `ai`, `mcp`, `productivity` | [Read →](https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p) |
+| 💡 | **Bidet AI — on-device Gemma 4 turns a messy brain-dump into cle...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/mark_barnett_a50bc71e7433/bidet-ai-on-device-gemma-4-turns-a-messy-brain-dump-into-clean-writing-4256) |
+| 🧠 | **Rediscovering Domain-Driven Design, one MCP server at a time** | `ai`, `architecture`, `mcp` | [Read →](https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79) |
+| 🌐 | **🚀 Democratizing Frontier AI for Bharat: Gemma 4’s Edge Capabil...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/pravesh_sudha_3c2b0c2b5e0/democratizing-frontier-ai-for-bharat-gemma-4s-edge-capabilities-in-low-resource-environments-b34) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** About 90% of the world's data was created in just the last 2 years 📊
 
-<p align="center"><sub>⏰ Last updated: May 18, 2026 • 05:57 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 18, 2026 • 11:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
