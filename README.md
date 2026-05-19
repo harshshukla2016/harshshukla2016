@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2117</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2117</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd) |
-| ⚡ | **Honesty is the best Policy. The Secret Wars on the use of AI o...** | `discuss`, `community`, `ai` | [Read →](https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606) |
-| 🚀 | **Your Codebase Has Technical Debt. But Does Your Team Have Comp...** | `ai`, `softwareengineering`, `engineeringmanagement` | [Read →](https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f) |
-| 💡 | **What are your goals this week? #139** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-this-week-139-4oc2) |
-| 🧠 | **The Promotion Happened. The Job Did Not.** | `leadership`, `career`, `discuss` | [Read →](https://dev.to/jonoherrington/the-promotion-happened-the-job-did-not-7i6) |
-| 🌐 | **Orchestrated Multi-Agent Safety & Test Oversight - AKA "`O MASTO"** | `ai`, `vibecoding`, `sdd` | [Read →](https://dev.to/marcosomma/orchestrated-multi-agent-safety-test-oversight-aka-o-masto-5hje) |
+| 🔥 | **Demystifying AI Agents with Turtle & Gemma** | `turtle`, `gemma`, `ai` | [Read →](https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj) |
+| ⚡ | **Cloudflare Deprecated My Production Model. The Recommended Upg...** | `gemmachallenge`, `gemma`, `devchallenge` | [Read →](https://dev.to/dannwaneri/cloudflare-deprecated-my-production-model-the-recommended-upgrade-costs-4m-tokens-gemma-4-moe-3hd7) |
+| 🚀 | **Great Little Software: Rackula** | `showdev`, `webdev`, `devjournal` | [Read →](https://dev.to/valeriavg/great-little-software-rackula-1pa1) |
+| 💡 | **The portfolio math. When 30 small apps beat 1 big one.** | `webdev`, `indiehackers`, `startup` | [Read →](https://dev.to/thegdsks/the-portfolio-math-when-30-small-apps-beat-1-big-one-41ai) |
+| 🧠 | **Hermes Just Killed OpenClaw (Here's Why)** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23) |
+| 🌐 | **What If Every Phone in the Room Was a Game Controller — in the...** | `opensource`, `react`, `ai` | [Read →](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g) |
 
 <blockquote>
-<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
+<p>💬 <em>"Programming isn't about what you know; it's about what you can figure out."</em> — <strong>Chris Pine</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: May 19, 2026 • 05:38 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 19, 2026 • 11:40 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
