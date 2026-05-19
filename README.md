@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2116</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2117</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody ...** | `ai`, `opensource`, `transparency` | [Read →](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47) |
+| 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd) |
 | ⚡ | **What are your goals this week? #139** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-this-week-139-4oc2) |
-| 🚀 | **I gave Claude six months of our retros. It found three things ...** | `ai`, `mcp`, `productivity` | [Read →](https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p) |
-| 💡 | **Bidet AI — on-device Gemma 4 turns a messy brain-dump into cle...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/mark_barnett_a50bc71e7433/bidet-ai-on-device-gemma-4-turns-a-messy-brain-dump-into-clean-writing-4256) |
-| 🧠 | **Rediscovering Domain-Driven Design, one MCP server at a time** | `ai`, `architecture`, `mcp` | [Read →](https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79) |
-| 🌐 | **🚀 Democratizing Frontier AI for Bharat: Gemma 4’s Edge Capabil...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/pravesh_sudha_3c2b0c2b5e0/democratizing-frontier-ai-for-bharat-gemma-4s-edge-capabilities-in-low-resource-environments-b34) |
+| 🚀 | **DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody ...** | `ai`, `opensource`, `transparency` | [Read →](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47) |
+| 💡 | **Honesty is the best Policy. The Secret Wars on the use of AI o...** | `discuss`, `community`, `ai` | [Read →](https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606) |
+| 🧠 | **Your Codebase Has Technical Debt. But Does Your Team Have Comp...** | `ai`, `softwareengineering`, `engineeringmanagement` | [Read →](https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f) |
+| 🌐 | **I gave Claude six months of our retros. It found three things ...** | `ai`, `mcp`, `productivity` | [Read →](https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p) |
 
 <blockquote>
-<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
+<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** About 90% of the world's data was created in just the last 2 years 📊
+> **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: May 18, 2026 • 11:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 19, 2026 • 10:27 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
