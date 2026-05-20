@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2118</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2118</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What Happens When You Run `npm run dev`** | `webdev`, `programming`, `javascript` | [Read →](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9) |
-| ⚡ | **Great Little Software: Rackula** | `showdev`, `webdev`, `devjournal` | [Read →](https://dev.to/valeriavg/great-little-software-rackula-1pa1) |
-| 🚀 | **Cloudflare Deprecated My Production Model. The Recommended Upg...** | `gemmachallenge`, `gemma`, `devchallenge` | [Read →](https://dev.to/dannwaneri/cloudflare-deprecated-my-production-model-the-recommended-upgrade-costs-4m-tokens-gemma-4-moe-3hd7) |
-| 💡 | **Hermes Just Killed OpenClaw (Here's Why)** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23) |
-| 🧠 | **How one bad prompt burned $40 of my Claude budget in 18 minutes** | `hermesagent`, `ai`, `llm` | [Read →](https://dev.to/mukundakatta/how-one-bad-prompt-burned-40-of-my-claude-budget-in-18-minutes-lha) |
-| 🌐 | **Gemma-San — A Teacher in Every Pocket.** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/thecodedaniel/gemma-san-a-teacher-in-every-pocket-16g6) |
+| 🔥 | **Found a Coordinated GitHub Follow Botnet Hiding in My Followers?** | `security`, `github`, `python` | [Read →](https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl) |
+| ⚡ | **Google I/O 2026 - Day 1 - Live from the Front Row** | `devchallenge`, `googleiochallenge` | [Read →](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji) |
+| 🚀 | **Working With Japanese Clients Humbled Me Faster Than I Expected** | `learning`, `leadership`, `career` | [Read →](https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da) |
+| 💡 | **I decided to build a Kubernetes alternative. Yes, I know I'm c...** | `opensource`, `kubernetes`, `devops` | [Read →](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5) |
+| 🧠 | **What Happens When You Run `npm run dev`** | `webdev`, `programming`, `javascript` | [Read →](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9) |
+| 🌐 | **Google AI Edge Gallery Now Runs MCP On-Device. The Privacy Arc...** | `googleiochallenge`, `devchallenge`, `ai` | [Read →](https://dev.to/om_shree_0709/google-ai-edge-gallery-now-runs-mcp-on-device-the-privacy-architecture-5075) |
 
 <blockquote>
-<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
+<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer mouse was made of wood 🖱️
 
-<p align="center"><sub>⏰ Last updated: May 20, 2026 • 05:18 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 20, 2026 • 11:55 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
