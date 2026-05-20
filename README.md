@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2118</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2118</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Great Little Software: Rackula** | `showdev`, `webdev`, `devjournal` | [Read →](https://dev.to/valeriavg/great-little-software-rackula-1pa1) |
-| ⚡ | **What If Every Phone in the Room Was a Game Controller — in the...** | `opensource`, `react`, `ai` | [Read →](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g) |
-| 🚀 | **What Happens When You Run `npm run dev`** | `webdev`, `programming`, `javascript` | [Read →](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9) |
-| 💡 | **Cloudflare Deprecated My Production Model. The Recommended Upg...** | `gemmachallenge`, `gemma`, `devchallenge` | [Read →](https://dev.to/dannwaneri/cloudflare-deprecated-my-production-model-the-recommended-upgrade-costs-4m-tokens-gemma-4-moe-3hd7) |
-| 🧠 | **Hermes Just Killed OpenClaw (Here's Why)** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23) |
-| 🌐 | **How one bad prompt burned $40 of my Claude budget in 18 minutes** | `hermesagent`, `ai`, `llm` | [Read →](https://dev.to/mukundakatta/how-one-bad-prompt-burned-40-of-my-claude-budget-in-18-minutes-lha) |
+| 🔥 | **What Happens When You Run `npm run dev`** | `webdev`, `programming`, `javascript` | [Read →](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9) |
+| ⚡ | **Great Little Software: Rackula** | `showdev`, `webdev`, `devjournal` | [Read →](https://dev.to/valeriavg/great-little-software-rackula-1pa1) |
+| 🚀 | **Cloudflare Deprecated My Production Model. The Recommended Upg...** | `gemmachallenge`, `gemma`, `devchallenge` | [Read →](https://dev.to/dannwaneri/cloudflare-deprecated-my-production-model-the-recommended-upgrade-costs-4m-tokens-gemma-4-moe-3hd7) |
+| 💡 | **Hermes Just Killed OpenClaw (Here's Why)** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23) |
+| 🧠 | **How one bad prompt burned $40 of my Claude budget in 18 minutes** | `hermesagent`, `ai`, `llm` | [Read →](https://dev.to/mukundakatta/how-one-bad-prompt-burned-40-of-my-claude-budget-in-18-minutes-lha) |
+| 🌐 | **Gemma-San — A Teacher in Every Pocket.** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/thecodedaniel/gemma-san-a-teacher-in-every-pocket-16g6) |
 
 <blockquote>
-<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
+<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer mouse was made of wood 🖱️
 
-<p align="center"><sub>⏰ Last updated: May 20, 2026 • 10:31 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 20, 2026 • 05:18 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
