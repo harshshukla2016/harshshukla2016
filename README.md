@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2117</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2118</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Demystifying AI Agents with Turtle & Gemma** | `turtle`, `gemma`, `ai` | [Read →](https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj) |
-| ⚡ | **Cloudflare Deprecated My Production Model. The Recommended Upg...** | `gemmachallenge`, `gemma`, `devchallenge` | [Read →](https://dev.to/dannwaneri/cloudflare-deprecated-my-production-model-the-recommended-upgrade-costs-4m-tokens-gemma-4-moe-3hd7) |
-| 🚀 | **Great Little Software: Rackula** | `showdev`, `webdev`, `devjournal` | [Read →](https://dev.to/valeriavg/great-little-software-rackula-1pa1) |
-| 💡 | **The portfolio math. When 30 small apps beat 1 big one.** | `webdev`, `indiehackers`, `startup` | [Read →](https://dev.to/thegdsks/the-portfolio-math-when-30-small-apps-beat-1-big-one-41ai) |
+| 🔥 | **Great Little Software: Rackula** | `showdev`, `webdev`, `devjournal` | [Read →](https://dev.to/valeriavg/great-little-software-rackula-1pa1) |
+| ⚡ | **What If Every Phone in the Room Was a Game Controller — in the...** | `opensource`, `react`, `ai` | [Read →](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g) |
+| 🚀 | **What Happens When You Run `npm run dev`** | `webdev`, `programming`, `javascript` | [Read →](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9) |
+| 💡 | **Cloudflare Deprecated My Production Model. The Recommended Upg...** | `gemmachallenge`, `gemma`, `devchallenge` | [Read →](https://dev.to/dannwaneri/cloudflare-deprecated-my-production-model-the-recommended-upgrade-costs-4m-tokens-gemma-4-moe-3hd7) |
 | 🧠 | **Hermes Just Killed OpenClaw (Here's Why)** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23) |
-| 🌐 | **What If Every Phone in the Room Was a Game Controller — in the...** | `opensource`, `react`, `ai` | [Read →](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g) |
+| 🌐 | **How one bad prompt burned $40 of my Claude budget in 18 minutes** | `hermesagent`, `ai`, `llm` | [Read →](https://dev.to/mukundakatta/how-one-bad-prompt-burned-40-of-my-claude-budget-in-18-minutes-lha) |
 
 <blockquote>
-<p>💬 <em>"Programming isn't about what you know; it's about what you can figure out."</em> — <strong>Chris Pine</strong></p>
+<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
+> **🧪 Did You Know?** The first computer mouse was made of wood 🖱️
 
-<p align="center"><sub>⏰ Last updated: May 19, 2026 • 11:40 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 20, 2026 • 10:31 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
