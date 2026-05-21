@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2119</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2119</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Google I/O 2026 - Day 1 - Live from the Front Row** | `devchallenge`, `googleiochallenge` | [Read →](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji) |
 | ⚡ | **MCP Just Landed on Your Phone: What Google AI Edge Gallery Act...** | `googleiochallenge`, `gemma`, `mcp` | [Read →](https://dev.to/dannwaneri/mcp-just-landed-on-your-phone-what-google-ai-edge-gallery-actually-does-1567) |
-| 🚀 | **Working With Japanese Clients Humbled Me Faster Than I Expected** | `learning`, `leadership`, `career` | [Read →](https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da) |
-| 💡 | **I decided to build a Kubernetes alternative. Yes, I know I'm c...** | `opensource`, `kubernetes`, `devops` | [Read →](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5) |
-| 🧠 | **GitHub Got Breached Through a VS Code Extension. MCP Servers A...** | `security`, `devsecops`, `ai` | [Read →](https://dev.to/niclydon/github-got-breached-through-a-vs-code-extension-mcp-servers-are-next-5dgc) |
-| 🌐 | **Hermes Agent: Autonomous SEO engineer for 11ty** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/digital-abetka/hermes-agent-autonomous-seo-engineer-for-11ty-50g6) |
+| 🚀 | **Every Developer Is Lying About Something — And AI Won’t Fix It** | `discuss`, `productivity` | [Read →](https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0) |
+| 💡 | **GitHub Got Breached Through a VS Code Extension. MCP Servers A...** | `security`, `devsecops`, `ai` | [Read →](https://dev.to/niclydon/github-got-breached-through-a-vs-code-extension-mcp-servers-are-next-5dgc) |
+| 🧠 | **Shipping Your Machine: Building a Container in 50 Lines of Cod...** | `go`, `containers`, `linux` | [Read →](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma) |
+| 🌐 | **Which OpenAPI Codegen Should You Choose? openapi-typescript vs...** | `typescript`, `openapi`, `frontend` | [Read →](https://dev.to/nyaomaru/which-openapi-codegen-should-you-choose-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-100p) |
 
 <blockquote>
-<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
+<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The term 'robot' comes from a Czech word meaning 'forced labor' 🤖
 
-<p align="center"><sub>⏰ Last updated: May 21, 2026 • 10:37 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 21, 2026 • 05:42 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
