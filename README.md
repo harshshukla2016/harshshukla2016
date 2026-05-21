@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2119</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2119</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Google I/O 2026 - Day 1 - Live from the Front Row** | `devchallenge`, `googleiochallenge` | [Read →](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji) |
-| ⚡ | **MCP Just Landed on Your Phone: What Google AI Edge Gallery Act...** | `googleiochallenge`, `gemma`, `mcp` | [Read →](https://dev.to/dannwaneri/mcp-just-landed-on-your-phone-what-google-ai-edge-gallery-actually-does-1567) |
-| 🚀 | **Every Developer Is Lying About Something — And AI Won’t Fix It** | `discuss`, `productivity` | [Read →](https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0) |
-| 💡 | **GitHub Got Breached Through a VS Code Extension. MCP Servers A...** | `security`, `devsecops`, `ai` | [Read →](https://dev.to/niclydon/github-got-breached-through-a-vs-code-extension-mcp-servers-are-next-5dgc) |
-| 🧠 | **Shipping Your Machine: Building a Container in 50 Lines of Cod...** | `go`, `containers`, `linux` | [Read →](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma) |
-| 🌐 | **Which OpenAPI Codegen Should You Choose? openapi-typescript vs...** | `typescript`, `openapi`, `frontend` | [Read →](https://dev.to/nyaomaru/which-openapi-codegen-should-you-choose-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-100p) |
+| 🔥 | **Every Developer Is Lying About Something — And AI Won’t Fix It** | `discuss`, `productivity` | [Read →](https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0) |
+| ⚡ | **From Years to Hours** | `ai`, `stripe`, `cli` | [Read →](https://dev.to/annaspies/from-years-to-hours-joe) |
+| 🚀 | **Open Source Toolkit for Building AI Agents in 2026** | `programming`, `tutorial`, `opensource` | [Read →](https://dev.to/anmolbaranwal/open-source-toolkit-for-building-ai-agents-in-2026-55h1) |
+| 💡 | **Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!** | `githubchallenge`, `devchallenge`, `githubcopilot` | [Read →](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) |
+| 🧠 | **I Used to Get Excited About New Tools Now I Feel Tired.** | `ai`, `mentalhealth`, `programming` | [Read →](https://dev.to/harsh2644/i-used-to-get-excited-about-new-tools-now-i-feel-tired-1e18) |
+| 🌐 | **Shipping Your Machine: Building a Container in 50 Lines of Cod...** | `docker`, `go`, `containers` | [Read →](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma) |
 
 <blockquote>
-<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
+<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The term 'robot' comes from a Czech word meaning 'forced labor' 🤖
 
-<p align="center"><sub>⏰ Last updated: May 21, 2026 • 05:42 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 21, 2026 • 11:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
