@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2120</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2120</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!** | `githubchallenge`, `devchallenge`, `githubcopilot` | [Read →](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) |
-| ⚡ | **Recycling made easy: a Polish recycling assistant powered by G...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a) |
-| 🚀 | **Building a Database Performance Testing Tool With AI: The Hone...** | `ai`, `testing`, `database` | [Read →](https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c) |
-| 💡 | **Frameworks Are No Longer Being Designed Only for Humans** | `devchallenge`, `googleiochallenge`, `ai` | [Read →](https://dev.to/hemapriya_kanagala/frameworks-are-no-longer-being-designed-only-for-humans-13de) |
-| 🧠 | **Accessibility - This looks like a job for a developer advocate!** | `a11y`, `devrel`, `codenewbie` | [Read →](https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12) |
-| 🌐 | **Built a 100k-Document RAG System by Hand. Hermes Read the Arch...** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/dannwaneri/built-a-100k-document-rag-system-by-hand-hermes-read-the-architecture-in-47-seconds-14ge) |
+| 🔥 | **The Most Concerning AI Risk of 2026** | `ai`, `javascript`, `news` | [Read →](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d) |
+| ⚡ | **How we're using Gemini Embeddings to build a smarter, communit...** | `gemini`, `ai`, `googlecloud` | [Read →](https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f) |
+| 🚀 | **Recycling made easy: a Polish recycling assistant powered by G...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a) |
+| 💡 | **What was your win this week!?** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-2ohc) |
+| 🧠 | **Your company won't replace you with good AI. They'll replace y...** | `ai`, `career`, `discuss` | [Read →](https://dev.to/adioof/your-company-wont-replace-you-with-good-ai-theyll-replace-you-with-bad-ai-5bpm) |
+| 🌐 | **GizmoGuard - Spy Bot (Powered by Gemma4)** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200) |
 
 <blockquote>
-<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
+<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: May 22, 2026 • 05:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 22, 2026 • 11:28 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
