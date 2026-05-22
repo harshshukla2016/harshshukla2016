@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2120</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2120</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!** | `githubchallenge`, `devchallenge`, `githubcopilot` | [Read →](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) |
-| ⚡ | **Every Developer Is Lying About Something — And AI Won’t Fix It** | `discuss`, `productivity` | [Read →](https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0) |
-| 🚀 | **I Used to Get Excited About New Tools Now I Feel Tired.** | `ai`, `mentalhealth`, `programming` | [Read →](https://dev.to/harsh2644/i-used-to-get-excited-about-new-tools-now-i-feel-tired-1e18) |
-| 💡 | **Recycling made easy: a Polish recycling assistant powered by G...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a) |
-| 🧠 | **Building a Database Performance Testing Tool With AI: The Hone...** | `ai`, `testing`, `database` | [Read →](https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c) |
-| 🌐 | **Frameworks Are No Longer Being Designed Only for Humans** | `devchallenge`, `googleiochallenge`, `ai` | [Read →](https://dev.to/hemapriya_kanagala/frameworks-are-no-longer-being-designed-only-for-humans-13de) |
+| ⚡ | **Recycling made easy: a Polish recycling assistant powered by G...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a) |
+| 🚀 | **Building a Database Performance Testing Tool With AI: The Hone...** | `ai`, `testing`, `database` | [Read →](https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c) |
+| 💡 | **Frameworks Are No Longer Being Designed Only for Humans** | `devchallenge`, `googleiochallenge`, `ai` | [Read →](https://dev.to/hemapriya_kanagala/frameworks-are-no-longer-being-designed-only-for-humans-13de) |
+| 🧠 | **Accessibility - This looks like a job for a developer advocate!** | `a11y`, `devrel`, `codenewbie` | [Read →](https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12) |
+| 🌐 | **Built a 100k-Document RAG System by Hand. Hermes Read the Arch...** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/dannwaneri/built-a-100k-document-rag-system-by-hand-hermes-read-the-architecture-in-47-seconds-14ge) |
 
 <blockquote>
-<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
+<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: May 22, 2026 • 10:28 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 22, 2026 • 05:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
