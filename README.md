@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2123</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2123</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **NeuralHats: I Put Edward de Bono’s Six Thinking Hats on Local ...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/georgekobaidze/neuralhats-i-put-edward-de-bonos-six-thinking-hats-on-local-llms-using-gemma-4-54mj) |
-| ⚡ | **Gemma 4 challenge inspired me to build my first app!** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g) |
-| 🚀 | **Vestige: A Gemma 4 Brain Tracker That Won't Blow Smoke Up Your...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/anchildress1/vestige-a-gemma-4-brain-tracker-that-wont-blow-smoke-up-your-ass-5caf) |
-| 💡 | **I built a local document Q&A tool around Gemma 4 E4B's 128K co...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/yashksaini/i-built-a-local-document-qa-tool-around-gemma-4-e4bs-128k-context-five-days-no-rag-no-cloud-2e1k) |
+| ⚡ | **Vestige: A Gemma 4 Brain Tracker That Won't Blow Smoke Up Your...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/anchildress1/vestige-a-gemma-4-brain-tracker-that-wont-blow-smoke-up-your-ass-5caf) |
+| 🚀 | **Gemma 4 challenge inspired me to build my first app!** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g) |
+| 💡 | **A 100% Private, Local AI Resume Optimizer with Google Gemma 4:...** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/deeptej/i-built-resumate-a-100-private-local-ai-resume-optimizer-with-google-gemma-4-699) |
 | 🧠 | **Found 897 Fake Followers on DEV.to Here's How I Proved It** | `security`, `cybersecurity`, `python` | [Read →](https://dev.to/gnomeman4201/found-897-fake-followers-on-devto-heres-how-i-proved-it-2a1k) |
-| 🌐 | **My Impression of AI in Programming** | `ai`, `productivity`, `programming` | [Read →](https://dev.to/pauljlucas/my-impression-of-ai-in-programming-33ci) |
+| 🌐 | **Don’t let AI break your collective thinking: a practical guide...** | `ai`, `softwareengineering`, `resources` | [Read →](https://dev.to/javz/dont-let-ai-break-your-collective-thinking-a-practical-guide-for-engineering-teams-41c4) |
 
 <blockquote>
-<p>💬 <em>"Simplicity is the soul of efficiency."</em> — <strong>Austin Freeman</strong></p>
+<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
 
-<p align="center"><sub>⏰ Last updated: May 25, 2026 • 10:47 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 25, 2026 • 05:58 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
