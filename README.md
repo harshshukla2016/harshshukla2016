@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2124</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2125</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Why does AI forget what you said (and how to fix it)** | `ai`, `beginners`, `aws` | [Read →](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) |
-| ⚡ | **Don’t let AI break your collective thinking: a practical guide...** | `ai`, `softwareengineering`, `resources` | [Read →](https://dev.to/javz/dont-let-ai-break-your-collective-thinking-a-practical-guide-for-engineering-teams-41c4) |
-| 🚀 | **MIA: A Futuristic AI Desktop Assistant Built with Voice, Gestu...** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/trojanmocx/mia-a-futuristic-ai-desktop-assistant-built-with-voice-gestures-and-controlled-chaos-1259) |
-| 💡 | **Every Tool Eventually Becomes Tuesday** | `career`, `ai`, `watercooler` | [Read →](https://dev.to/evanlausier/every-tool-eventually-becomes-tuesday-47ak) |
-| 🧠 | **Managing multiple docker hub accounts using docker-use** | `docker`, `webdev`, `programming` | [Read →](https://dev.to/chiragagg5k/managing-multiple-docker-hub-accounts-using-docker-use-b6p) |
-| 🌐 | **Why AI-Generated Code Is Always Good Enough — And Never Great** | `ai`, `programming`, `codequality` | [Read →](https://dev.to/harsh2644/why-ai-generated-code-is-always-good-enough-and-never-great-4lhn) |
+| 🔥 | **Shipping Your Machine: Building a Container in 50 Lines of Cod...** | `go`, `containers`, `beginners` | [Read →](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-50-lines-of-code-part-2-4cm4) |
+| ⚡ | **Minimal Code Doesn’t Mean Stable Code** | `programming`, `productivity`, `backend` | [Read →](https://dev.to/adamthedeveloper/minimal-code-doesnt-mean-stable-code-4mbd) |
+| 🚀 | **The Sourdough Manifesto** | `ai`, `devops`, `programming` | [Read →](https://dev.to/kenwalger/the-sourdough-manifesto-43df) |
+| 💡 | **You Don’t Need Microservices (Yet): A Reality Check for Devs** | `webdev`, `architecture`, `beginners` | [Read →](https://dev.to/gavincettolo/you-dont-need-microservices-yet-a-reality-check-for-devs-54ec) |
+| 🧠 | **Toward a Standard Model for Agent Memory** | `ai`, `agents`, `architecture` | [Read →](https://dev.to/dannwaneri/toward-a-standard-model-for-agent-memory-3807) |
+| 🌐 | **Cursor 3 ships parallel AI agents. Here is the multi-agent wor...** | `ai`, `productivity`, `tutorial` | [Read →](https://dev.to/thegdsks/cursor-3-ships-parallel-ai-agents-here-is-the-multi-agent-workflow-that-actually-works-2bk8) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first Apple computer sold for $666.66 🍎
+> **🧪 Did You Know?** The first domain ever registered was Symbolics.com on March 15, 1985 🏷️
 
-<p align="center"><sub>⏰ Last updated: May 26, 2026 • 10:30 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 27, 2026 • 12:02 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
