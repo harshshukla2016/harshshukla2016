@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2125</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2125</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) |
 | ⚡ | **An LLM API call, in 4 GIFs** | `llm`, `javascript`, `ai` | [Read →](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) |
-| 🚀 | **Shipping Your Machine: Building a Container in 50 Lines of Cod...** | `go`, `containers`, `beginners` | [Read →](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-50-lines-of-code-part-2-4cm4) |
-| 💡 | **You Don’t Need Microservices (Yet): A Reality Check for Devs** | `webdev`, `architecture`, `beginners` | [Read →](https://dev.to/gavincettolo/you-dont-need-microservices-yet-a-reality-check-for-devs-54ec) |
-| 🧠 | **The Sourdough Manifesto** | `ai`, `devops`, `programming` | [Read →](https://dev.to/kenwalger/the-sourdough-manifesto-43df) |
-| 🌐 | **Vibecoding Our First MCP Server** | `mcp`, `aws`, `agenticai` | [Read →](https://dev.to/dvddpl/vibecoding-our-first-mcp-server-jmh) |
+| 🚀 | **How Are Developers Actually Using AI At Work?** | `discuss`, `ai` | [Read →](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) |
+| 💡 | **Shipping Your Machine: Building a Container in 50 Lines of Cod...** | `go`, `containers`, `beginners` | [Read →](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-50-lines-of-code-part-2-4cm4) |
+| 🧠 | **Hermes Agent Changed How I Think About Execution Boundaries** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/hemapriya_kanagala/hermes-agent-changed-how-i-think-about-execution-boundaries-3h2n) |
+| 🌐 | **The Sourdough Manifesto** | `ai`, `devops`, `programming` | [Read →](https://dev.to/kenwalger/the-sourdough-manifesto-43df) |
 
 <blockquote>
-<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
+<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first domain ever registered was Symbolics.com on March 15, 1985 🏷️
 
-<p align="center"><sub>⏰ Last updated: May 27, 2026 • 10:42 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 27, 2026 • 05:48 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
