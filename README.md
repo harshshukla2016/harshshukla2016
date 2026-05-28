@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2126</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2126</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **How Are Developers Actually Using AI At Work?** | `discuss`, `ai` | [Read →](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) |
+| 🔥 | **AI Agents Are Great at 80% of Our Code. The Other 20% Is Why W...** | `ai`, `discuss`, `webdev` | [Read →](https://dev.to/mickyarun/ai-agents-are-great-at-80-of-our-code-the-other-20-is-why-we-still-need-seniors-3lh5) |
 | ⚡ | **Hermes Mentor — A Local AI Agent That Gets You Out of Tutorial...** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/aditya_007/hermes-mentor-a-local-ai-agent-that-gets-you-out-of-tutorial-hell-5910) |
 | 🚀 | **Accessibility question: is nesting interactive elements bad?** | `a11y`, `html`, `forms` | [Read →](https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof) |
-| 💡 | **What Building My Own AI Bot Taught Me About Generative AI** | `ai`, `webdev`, `rag` | [Read →](https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il) |
-| 🧠 | **Next.js 16 Broke My App in 4 Places and None of Them Threw an ...** | `nextjs`, `typescript`, `webdev` | [Read →](https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn) |
-| 🌐 | **GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart B...** | `ai`, `gemini`, `google` | [Read →](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe) |
+| 💡 | **Seasons time-lapse - alignment** | `python`, `art`, `timelapse` | [Read →](https://dev.to/nfrankel/seasons-time-lapse-alignment-5chc) |
+| 🧠 | **What Building My Own AI Bot Taught Me About Generative AI** | `ai`, `webdev`, `rag` | [Read →](https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il) |
+| 🌐 | **GitHub Finish-up-a-Thon Challenge.** | `devchallenge`, `githubchallenge` | [Read →](https://dev.to/vivid162veejayant/github-finish-up-a-thon-challenge-4564) |
 
 <blockquote>
-<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Email existed before the World Wide Web 📧
 
-<p align="center"><sub>⏰ Last updated: May 28, 2026 • 10:36 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 28, 2026 • 05:54 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
