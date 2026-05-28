@@ -56,20 +56,20 @@
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) |
-| ⚡ | **How Are Developers Actually Using AI At Work?** | `discuss`, `ai` | [Read →](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) |
-| 🚀 | **An LLM API call, in 4 GIFs** | `llm`, `javascript`, `ai` | [Read →](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) |
-| 💡 | **Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞** | `devchallenge`, `githubchallenge`, `typescript` | [Read →](https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf) |
-| 🧠 | **Hermes Mentor — A Local AI Agent That Gets You Out of Tutorial...** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/aditya_007/hermes-mentor-a-local-ai-agent-that-gets-you-out-of-tutorial-hell-5910) |
-| 🌐 | **Hermes Agent ran overnight and I woke up to a $47 bill — so I ...** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/robat_das_3c6e956212f6408/my-ai-agent-ran-overnight-and-i-woke-up-to-a-47-bill-so-i-built-a-kill-switch-3c9) |
+| 🔥 | **How Are Developers Actually Using AI At Work?** | `discuss`, `ai` | [Read →](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) |
+| ⚡ | **Hermes Mentor — A Local AI Agent That Gets You Out of Tutorial...** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/aditya_007/hermes-mentor-a-local-ai-agent-that-gets-you-out-of-tutorial-hell-5910) |
+| 🚀 | **Accessibility question: is nesting interactive elements bad?** | `a11y`, `html`, `forms` | [Read →](https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof) |
+| 💡 | **What Building My Own AI Bot Taught Me About Generative AI** | `ai`, `webdev`, `rag` | [Read →](https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il) |
+| 🧠 | **Next.js 16 Broke My App in 4 Places and None of Them Threw an ...** | `nextjs`, `typescript`, `webdev` | [Read →](https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn) |
+| 🌐 | **GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart B...** | `ai`, `gemini`, `google` | [Read →](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe) |
 
 <blockquote>
-<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Email existed before the World Wide Web 📧
 
-<p align="center"><sub>⏰ Last updated: May 28, 2026 • 12:00 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 28, 2026 • 10:36 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
