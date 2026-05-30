@@ -51,7 +51,7 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2128</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2128</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
@@ -59,17 +59,17 @@
 | 🔥 | **What was your win this week?** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-i1) |
 | ⚡ | **🗓️ Monthly Dev Report: May 2026** | `discuss`, `devjournal`, `programming` | [Read →](https://dev.to/francistrdev/monthly-dev-report-may-2026-3gjj) |
 | 🚀 | **Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, a...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3) |
-| 💡 | **The Kubernetes Overkill: Why I Built a "K8s Killer" for Small ...** | `architecture`, `devops`, `kubernetes` | [Read →](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k) |
+| 💡 | **Knowing Doesn't Mean Feeling (Bite-size Article)** | `devjournal`, `mentalhealth`, `productivity` | [Read →](https://dev.to/koshirok096/knowing-doesnt-mean-feeling-bite-size-article-kke) |
 | 🧠 | **Sidemark: Active Telemetry Comments for C#** | `dotnet`, `opensource`, `opentelemetry` | [Read →](https://dev.to/david_whitney/sidemark-active-telemetry-comments-for-c-1bai) |
-| 🌐 | **A self-hosted Google reCAPTCHA alternative (we ship it)** | `development`, `webdev`, `opensource` | [Read →](https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h) |
+| 🌐 | **I Added a Human Veto to My PM Agent — Here's What Broke First** | `ai`, `vibecoding`, `agents` | [Read →](https://dev.to/itskondrat/i-added-a-human-veto-to-my-pm-agent-heres-what-broke-first-103g) |
 
 <blockquote>
-<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
 
-<p align="center"><sub>⏰ Last updated: May 30, 2026 • 10:20 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 30, 2026 • 04:16 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
