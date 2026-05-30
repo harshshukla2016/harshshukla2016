@@ -58,18 +58,18 @@
 |:---:|---|---|:---:|
 | 🔥 | **What was your win this week?** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-i1) |
 | ⚡ | **🗓️ Monthly Dev Report: May 2026** | `discuss`, `devjournal`, `programming` | [Read →](https://dev.to/francistrdev/monthly-dev-report-may-2026-3gjj) |
-| 🚀 | **DevRelCon NYC 2026: Where Developer Relations, DevX, & Develop...** | `devrel`, `career`, `devex` | [Read →](https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468) |
-| 💡 | **Git for GitHub: How to use simple Git commands to manage a Git...** | `beginners`, `git`, `github` | [Read →](https://dev.to/thetylern/git-for-github-how-to-use-simple-git-commands-to-manage-a-github-repository-435g) |
-| 🧠 | **Anyone Can Make Software Now. But When Does A Side Project Bec...** | `webdev`, `ai` | [Read →](https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1) |
-| 🌐 | **The Kubernetes Overkill: Why I Built a "K8s Killer" for Small ...** | `architecture`, `devops`, `kubernetes` | [Read →](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k) |
+| 🚀 | **Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, a...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3) |
+| 💡 | **The Kubernetes Overkill: Why I Built a "K8s Killer" for Small ...** | `architecture`, `devops`, `kubernetes` | [Read →](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k) |
+| 🧠 | **Sidemark: Active Telemetry Comments for C#** | `dotnet`, `opensource`, `opentelemetry` | [Read →](https://dev.to/david_whitney/sidemark-active-telemetry-comments-for-c-1bai) |
+| 🌐 | **A self-hosted Google reCAPTCHA alternative (we ship it)** | `development`, `webdev`, `opensource` | [Read →](https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h) |
 
 <blockquote>
-<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
+<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
 
-<p align="center"><sub>⏰ Last updated: May 30, 2026 • 12:08 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 30, 2026 • 10:20 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
