@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2129</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2129</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Made My AI Models Argue, Then Let Hermes Be the Judge** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c) |
-| ⚡ | **Hermes Agent Gets Smarter Every Day. So Does the Bill.** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/chintanonweb/hermes-agent-gets-smarter-every-day-so-does-the-bill-4i8o) |
-| 🚀 | **I Turned Hermes Agent into a Verifiable Agent Operating System** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/levash0v/i-turned-hermes-agent-into-a-verifiable-agent-operating-system-3kd0) |
-| 💡 | **Pluto-ecss: A transpiler and runtime for PLUTO procedure language** | `devchallenge`, `githubchallenge`, `python` | [Read →](https://dev.to/stzifkas/pluto-ecss-a-transpiler-and-runtime-for-pluto-procedure-language-5c59) |
-| 🧠 | **I Updated My GitHub Auto-Commit Desktop App** | `programming`, `productivity`, `beginners` | [Read →](https://dev.to/trojanmocx/i-updated-my-github-auto-commit-desktop-app-318o) |
-| 🌐 | **gabe the discord bot got a finish up a thon pass** | `devchallenge`, `githubchallenge` | [Read →](https://dev.to/gabeygabey/gabe-the-discord-bot-got-a-finish-up-a-thon-pass-494l) |
+| 🔥 | **I Updated My GitHub Auto-Commit Desktop App** | `programming`, `productivity`, `beginners` | [Read →](https://dev.to/trojanmocx/i-updated-my-github-auto-commit-desktop-app-318o) |
+| ⚡ | **Streaming an LLM response, in 4 GIFs** | `ai`, `javascript`, `webdev` | [Read →](https://dev.to/jasmin/streaming-an-llm-response-in-4-gifs-16dh) |
+| 🚀 | **I Added a 71-Line Black Box to My Python Agent, Then Queried t...** | `python`, `ai`, `debugging` | [Read →](https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18) |
+| 💡 | **Your AI Agent Should Text You First** | `hermesagentchallenge`, `ai`, `opensource` | [Read →](https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b) |
+| 🧠 | **My website has two audiences now. I only built for one of them.** | `ai`, `webdev`, `agents` | [Read →](https://dev.to/earlgreyhot1701d/my-website-has-two-audiences-now-i-only-built-for-one-of-them-136m) |
+| 🌐 | **Claude vs Gemini Across 4 Security Domains: A Dead Heat — and ...** | `ai`, `security`, `googleai` | [Read →](https://dev.to/ofri-peretz/claude-vs-gemini-across-4-security-domains-a-dead-heat-and-the-hardening-63-of-ai-code-skips-mpp) |
 
 <blockquote>
-<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
+<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first domain ever registered was Symbolics.com on March 15, 1985 🏷️
 
-<p align="center"><sub>⏰ Last updated: May 31, 2026 • 04:25 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: May 31, 2026 • 10:46 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
