@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2129</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2130</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Updated My GitHub Auto-Commit Desktop App** | `programming`, `productivity`, `beginners` | [Read →](https://dev.to/trojanmocx/i-updated-my-github-auto-commit-desktop-app-318o) |
-| ⚡ | **Streaming an LLM response, in 4 GIFs** | `ai`, `javascript`, `webdev` | [Read →](https://dev.to/jasmin/streaming-an-llm-response-in-4-gifs-16dh) |
-| 🚀 | **I Added a 71-Line Black Box to My Python Agent, Then Queried t...** | `python`, `ai`, `debugging` | [Read →](https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18) |
-| 💡 | **Your AI Agent Should Text You First** | `hermesagentchallenge`, `ai`, `opensource` | [Read →](https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b) |
-| 🧠 | **My website has two audiences now. I only built for one of them.** | `ai`, `webdev`, `agents` | [Read →](https://dev.to/earlgreyhot1701d/my-website-has-two-audiences-now-i-only-built-for-one-of-them-136m) |
-| 🌐 | **Claude vs Gemini Across 4 Security Domains: A Dead Heat — and ...** | `ai`, `security`, `googleai` | [Read →](https://dev.to/ofri-peretz/claude-vs-gemini-across-4-security-domains-a-dead-heat-and-the-hardening-63-of-ai-code-skips-mpp) |
+| 🔥 | **Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s** | `javascript`, `webdev`, `frontend` | [Read →](https://dev.to/yoskutik/lazy-loading-wasnt-enough-how-i-cut-load-time-from-15s-to-11s-4e7g) |
+| ⚡ | **I Added a 71-Line Black Box to My Python Agent, Then Queried t...** | `python`, `ai`, `debugging` | [Read →](https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18) |
+| 🚀 | **peektea: brewing a terminal file browser with Bubble Tea** | `webdev`, `programming`, `beginners` | [Read →](https://dev.to/lovestaco/peektea-brewing-a-terminal-file-browser-with-bubble-tea-4jg1) |
+| 💡 | **Why My Analytics Was Logging Every Page Visit Twice (And How I...** | `django`, `python`, `react` | [Read →](https://dev.to/highcenburg/why-my-analytics-was-logging-every-page-visit-twice-and-how-i-fixed-it-59co) |
+| 🧠 | **The 1978 Paper Behind Go’s Concurrency Model** | `go`, `concurrency`, `architecture` | [Read →](https://dev.to/amirsefati/the-1978-paper-behind-gos-concurrency-model-4n55) |
+| 🌐 | **I Let an AI Agent Hunt Open Source Bounties for 96 Hours — Her...** | `ai`, `opensource`, `github` | [Read →](https://dev.to/zeroknowledge0x/i-let-an-ai-agent-hunt-open-source-bounties-for-96-hours-heres-the-brutal-truth-about-what-42p3) |
 
 <blockquote>
-<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
+<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first domain ever registered was Symbolics.com on March 15, 1985 🏷️
+> **🧪 Did You Know?** The first Apple logo featured Isaac Newton sitting under a tree 🍏
 
-<p align="center"><sub>⏰ Last updated: May 31, 2026 • 10:46 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 01, 2026 • 11:29 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
