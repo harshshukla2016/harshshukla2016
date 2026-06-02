@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2131</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2132</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **From vibe coding to clear thinking: what non-technical builder...** | `ai`, `vibecoding`, `softwareengineering` | [Read →](https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd) |
-| ⚡ | **What are your goals for the week? #181** | `devjournal`, `discuss`, `productivity` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58) |
-| 🚀 | **Why Strake Is Free Right Now** | `ai`, `programming`, `devops` | [Read →](https://dev.to/newtorob/why-strake-is-free-right-now-1c1i) |
-| 💡 | **I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours D...** | `discuss`, `ai`, `programming` | [Read →](https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh) |
-| 🧠 | **From a Simple Rust Gym Log to an Offline-First Gym OS** | `devchallenge`, `githubchallenge` | [Read →](https://dev.to/lucasrafaldini/from-a-simple-rust-gym-log-to-an-offline-first-gym-os-2h54) |
-| 🌐 | **Debloating The AI-Grown Codebase** | `ai`, `programming`, `agents` | [Read →](https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om) |
+| 🔥 | **Learning Lessons from Gaming** | `productivity`, `learning`, `watercooler` | [Read →](https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm) |
+| ⚡ | **How we turned the Replay keynote surprise into an open-source ...** | `temporal`, `codesamples`, `contributions` | [Read →](https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm) |
+| 🚀 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k) |
+| 💡 | **Introducing LlamaStash: a zero-overhead, terminal-native llama...** | `ai`, `llamacpp`, `localllm` | [Read →](https://dev.to/deepu105/introducing-llamastash-a-zero-overhead-terminal-native-llamacpp-launcher-4d2g) |
+| 🧠 | **How fast is LlamaStash? Overhead, throughput, and a fair compa...** | `ai`, `llamacpp`, `benchmark` | [Read →](https://dev.to/deepu105/how-fast-is-llamastash-overhead-throughput-and-a-fair-comparison-with-ollama-and-lm-studio-2e7c) |
+| 🌐 | **I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours D...** | `discuss`, `ai`, `programming` | [Read →](https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"The computer was born to solve problems that did not exist before."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
+> **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: June 02, 2026 • 06:09 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 03, 2026 • 01:18 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
