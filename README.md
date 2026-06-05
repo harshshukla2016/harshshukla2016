@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2134</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2134</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Why Every Developer Should Attend Tech Week at Least Once** | `networking`, `softwareengineering`, `learning` | [Read →](https://dev.to/javz/why-every-developer-should-attend-tech-week-at-least-once-28ip) |
-| ⚡ | **peektea narrows its gaze 👀 filter-as-you-type and hidden files** | `webdev`, `programming`, `cli` | [Read →](https://dev.to/lovestaco/peektea-narrows-its-gaze-filter-as-you-type-and-hidden-files-23ic) |
-| 🚀 | **I Started 10,000 Java Threads. My Laptop Barely Noticed.** | `java`, `beginners`, `programming` | [Read →](https://dev.to/tahosin/i-started-10000-java-threads-my-laptop-barely-noticed-2i6g) |
-| 💡 | **Mastering the Latest TypeScript: What's New in 6.0 (and a Peek...** | `typescript`, `javascript`, `webdev` | [Read →](https://dev.to/erikch/mastering-the-latest-typescript-whats-new-in-60-and-a-peek-at-7-4m8o) |
-| 🧠 | **Abhorrent Employment Agreements.** | `opensource`, `employeeexperience`, `help` | [Read →](https://dev.to/janeori/abhorrent-employment-agreements-j88) |
-| 🌐 | **peektea past the roadmap 👀 sorting and scrollable previews** | `webdev`, `programming`, `cli` | [Read →](https://dev.to/lovestaco/peektea-past-the-roadmap-sorting-and-scrollable-previews-1f6g) |
+| 🔥 | **Abhorrent Employment Agreements.** | `opensource`, `employeeexperience`, `help` | [Read →](https://dev.to/janeori/abhorrent-employment-agreements-j88) |
+| ⚡ | **Dev Opportunity Radar #2: A Fully-Funded Residency in Finland,...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4) |
+| 🚀 | **IssueWatch — Never Miss a GitHub Issue That Matters to You** | `devchallenge`, `githubchallenge` | [Read →](https://dev.to/bikidev/issuewatch-never-miss-a-github-issue-that-matters-to-you-2k7) |
+| 💡 | **From Hackathon Wreckage to Production-Ready: How I Rebuilt My ...** | `devchallenge`, `githubchallenge`, `kubernetes` | [Read →](https://dev.to/saptarshisarkar/from-hackathon-wreckage-to-production-ready-how-i-rebuilt-my-kubernetes-attack-path-visualiser-lgo) |
+| 🧠 | **peektea past the roadmap 👀 sorting and scrollable previews** | `webdev`, `programming`, `cli` | [Read →](https://dev.to/lovestaco/peektea-past-the-roadmap-sorting-and-scrollable-previews-1f6g) |
+| 🌐 | **AI Won't Replace Humans — It'll Just Make Us Pickier** | `ai`, `discuss`, `career` | [Read →](https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij) |
 
 <blockquote>
-<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
+<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: June 05, 2026 • 05:36 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 05, 2026 • 11:32 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
