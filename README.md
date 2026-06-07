@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2135</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2136</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Two Devs and a Copilot Created ClassifierAI: A Prototype Chrom...** | `devchallenge`, `githubchallenge`, `discuss` | [Read →](https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge) |
-| ⚡ | **Magnificent Humanity, Building Cities, and a Special Announcem...** | `ai`, `wecoded`, `programming` | [Read →](https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf) |
-| 🚀 | **Two Doors Into the Same Room** | `webhistory`, `opensource`, `webdev` | [Read →](https://dev.to/gnomeman4201/two-doors-into-the-same-room-5fd2) |
-| 💡 | **I Tried to Fix a Vulnerability. A $1,400,000 AI System Said No...** | `ai`, `programming`, `discuss` | [Read →](https://dev.to/xulingfeng/i-tried-to-fix-a-vulnerability-a-1400000-ai-system-said-no-twenty-days-later-that-5d1m) |
-| 🧠 | **June 2026 Check In: A Progress Update on the Last 6 Months** | `devjournal`, `productivity`, `watercooler` | [Read →](https://dev.to/theoriginalbpc/june-2026-check-in-a-progress-update-on-the-last-6-months-595g) |
-| 🌐 | **I got tired of waiting for deploys, so I built a local Lambda ...** | `aws`, `serverless`, `development` | [Read →](https://dev.to/math-krish/i-got-tired-of-waiting-for-deploys-so-i-built-a-local-lambda-runner-4ghk) |
+| 🔥 | **peektea brews on WSL 👀🍵 (and installs in one line)** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/peektea-brews-on-wsl-and-installs-in-one-line-34ef) |
+| ⚡ | **I got tired of waiting for deploys, so I built a local Lambda ...** | `aws`, `serverless`, `development` | [Read →](https://dev.to/math-krish/i-got-tired-of-waiting-for-deploys-so-i-built-a-local-lambda-runner-4ghk) |
+| 🚀 | **Reviving a 2010 Project When the Code Is Broken: A 15-Year Tec...** | `devchallenge`, `githubchallenge` | [Read →](https://dev.to/abigail_armijo/reviving-a-2010-project-when-the-code-is-broken-a-15-year-tech-time-capsule-with-svelte-supabase-39a4) |
+| 💡 | **I tested whether a code health score actually predicts bugs. H...** | `ai`, `programming`, `opensource` | [Read →](https://dev.to/raghav_builds/i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark-10dl) |
+| 🧠 | **The Last Capacity Planning Sheet You'll Ever Need** | `capacity`, `engineering`, `portfolio` | [Read →](https://dev.to/nbouvrette/the-last-capacity-planning-sheet-youll-ever-need-l52) |
+| 🌐 | **MindPal: finishing the AI support app that remembers what matters** | `devchallenge`, `githubchallenge`, `ai` | [Read →](https://dev.to/m1rw/mindpal-finishing-the-ai-support-app-that-remembers-what-matters-4ne5) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
+> **🧪 Did You Know?** The first YouTube video was uploaded on April 23, 2005 🎬
 
-<p align="center"><sub>⏰ Last updated: June 06, 2026 • 10:50 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 07, 2026 • 10:49 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
