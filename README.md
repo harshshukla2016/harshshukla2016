@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2137</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2137</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **peektea brews on WSL 👀🍵 (and installs in one line)** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/peektea-brews-on-wsl-and-installs-in-one-line-34ef) |
-| ⚡ | **I got tired of waiting for deploys, so I built a local Lambda ...** | `aws`, `serverless`, `development` | [Read →](https://dev.to/math-krish/i-got-tired-of-waiting-for-deploys-so-i-built-a-local-lambda-runner-4ghk) |
-| 🚀 | **Reviving a 2010 Project When the Code Is Broken: A 15-Year Tec...** | `devchallenge`, `githubchallenge` | [Read →](https://dev.to/abigail_armijo/reviving-a-2010-project-when-the-code-is-broken-a-15-year-tech-time-capsule-with-svelte-supabase-39a4) |
-| 💡 | **I tested whether a code health score actually predicts bugs. H...** | `ai`, `programming`, `opensource` | [Read →](https://dev.to/raghav_builds/i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark-10dl) |
-| 🧠 | **The Last Capacity Planning Sheet You'll Ever Need** | `capacity`, `engineering`, `portfolio` | [Read →](https://dev.to/nbouvrette/the-last-capacity-planning-sheet-youll-ever-need-l52) |
-| 🌐 | **MindPal: finishing the AI support app that remembers what matters** | `devchallenge`, `githubchallenge`, `ai` | [Read →](https://dev.to/m1rw/mindpal-finishing-the-ai-support-app-that-remembers-what-matters-4ne5) |
+| 🔥 | **12 Hard Truths About Coding I Learned the Hard Way After 10+ Y...** | `career`, `careerdevelopment`, `beginners` | [Read →](https://dev.to/canro91/12-hard-truths-about-coding-i-learned-the-hard-way-after-10-years-124j) |
+| ⚡ | **You’re a Real TypeScript Developer Only If...** | `webdev`, `programming`, `typescript` | [Read →](https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o) |
+| 🚀 | **Your app can save someone from having a panic attack (a real-l...** | `mentalhealth`, `ux`, `webdev` | [Read →](https://dev.to/klaudiagrz/your-app-can-save-someone-from-having-a-panic-attack-a-real-life-story-2jdp) |
+| 💡 | **SOLSTICE — The Longest Day: a platformer where light is your o...** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/himanshu_748/solstice-the-longest-day-a-platformer-where-light-is-your-only-resource-6d8) |
+| 🧠 | **🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI...** | `ai`, `webdev`, `productivity` | [Read →](https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo) |
+| 🌐 | **JavaScript Proxy: One more way to use it I wish I’d known 3 ye...** | `javascript`, `webdev`, `architecture` | [Read →](https://dev.to/revolist/javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago-40lk) |
 
 <blockquote>
-<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer bug was an actual moth found in a Harvard Mark II computer in 1947 🪲
 
-<p align="center"><sub>⏰ Last updated: June 08, 2026 • 10:58 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 08, 2026 • 06:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
