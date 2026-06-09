@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2138</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2138</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-14hj) |
-| ⚡ | **I Built an Interview Prep Tool Instead of Grinding LeetCode** | `softwareengineering`, `career`, `learning` | [Read →](https://dev.to/javz/i-built-an-interview-prep-tool-instead-of-grinding-leetcode-35a0) |
-| 🚀 | **What are your Goals for the week? #182** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-182-2f0n) |
-| 💡 | **My company packaged 12 years of my experience into an AI Skill...** | `ai`, `career`, `discuss` | [Read →](https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e) |
-| 🧠 | **TanStack Start Is Kind of a Big Deal** | `tanstack`, `react`, `typescript` | [Read →](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec) |
-| 🌐 | **The perfect background music for Vibecoding...** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg) |
+| 🔥 | **Build a Realtime Translation App with Gemini Live API, LiveKit...** | `ai`, `gemini`, `nextjs` | [Read →](https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474) |
+| ⚡ | **The Most Valuable Thing I Found in Tech Wasn't an Opportunity** | `discuss`, `community`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/the-most-valuable-thing-i-found-in-tech-wasnt-an-opportunity-2j83) |
+| 🚀 | **The 'Prompt' Is Not a Skill — And We Need to Stop Pretending** | `ai`, `career`, `programming` | [Read →](https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18) |
+| 💡 | **Gubernator visual schema.** | `docker`, `container`, `kubernetes` | [Read →](https://dev.to/gde/gubernator-visual-schema-1dfc) |
+| 🧠 | **one last peek 👀🍵 docs, a demo, and a goodbye for now** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/one-last-peek-docs-a-demo-and-a-goodbye-for-now-4ddk) |
+| 🌐 | **The Estimate That Became a Quote** | `agile`, `career`, `productivity` | [Read →](https://dev.to/evanlausier/the-estimate-that-became-a-quote-98m) |
 
 <blockquote>
-<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
+<p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: June 09, 2026 • 05:28 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 09, 2026 • 11:43 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
