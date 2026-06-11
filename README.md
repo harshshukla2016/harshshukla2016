@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2140</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2141</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Cats Disappear at Sunset. Can You Find Them in Time?** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/iyop666/cats-disappear-at-sunset-can-you-find-them-in-time-1e0k) |
-| ⚡ | **Celebrate June rituals with Solstice Bingo!** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6) |
-| 🚀 | **CLI over MCP: a small Chrome DevTools experiment in Copilot CLI** | `ai`, `programming`, `mcp` | [Read →](https://dev.to/maximsaplin/cli-over-mcp-a-small-chrome-devtools-experiment-in-copilot-cli-5gpi) |
-| 💡 | **How to Make Coding Agents Remember Past Solutions** | `ai`, `agents`, `entire` | [Read →](https://dev.to/entire/how-to-make-coding-agents-remember-past-solutions-4a71) |
-| 🧠 | **MCP Is the USB-C of AI. So Why Are You Plugging Everything In?** | `mcp`, `ai`, `security` | [Read →](https://dev.to/kenwalger/mcp-is-the-usb-c-of-ai-so-why-are-you-plugging-everything-in-37jn) |
-| 🌐 | **Micro Context Switching** | `discuss`, `ai`, `softwaredevelopment` | [Read →](https://dev.to/tracygjg/micro-context-switching-5658) |
+| 🔥 | **Congrats to the Google I/O 2026 Writing Challenge Winners!** | `devchallenge`, `googleiochallenge` | [Read →](https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364) |
+| ⚡ | **My daughter asked if developers used to write code by hand, bu...** | `ai`, `webdev`, `discuss` | [Read →](https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8) |
+| 🚀 | **Celebrate June rituals with Solstice Bingo!** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6) |
+| 💡 | **Virtual Coffee Needs Your Help** | `community`, `discuss` | [Read →](https://dev.to/virtualcoffee/virtual-coffee-needs-your-help-46ih) |
+| 🧠 | **The Microsoft Interview Question I Keep Thinking About** | `career`, `interview`, `discuss` | [Read →](https://dev.to/itsugo/the-microsoft-interview-question-i-keep-thinking-about-38gl) |
+| 🌐 | **I'm so tired to code. Not even Vibe Coding... D:** | `coding`, `mentalhealth`, `vibecoding` | [Read →](https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p) |
 
 <blockquote>
-<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: June 11, 2026 • 06:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 12, 2026 • 12:20 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
