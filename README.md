@@ -57,19 +57,19 @@
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **The Code Works. What Could Possibly Go Wrong?** | `ai`, `webdev`, `discuss` | [Read →](https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm) |
-| ⚡ | **How I Built a Treasure-Run Game Where Australia Saves the Sun** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck) |
-| 🚀 | **How we built AIventure, an AI-Powered Retro Dungeon** | `gamedev`, `gemini`, `gemma` | [Read →](https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54) |
-| 💡 | **CSS – only a Nerdy Hobby?** | `ai`, `css`, `webdev` | [Read →](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf) |
-| 🧠 | **It Worked on My Machine (Literally)** | `ruby`, `development`, `learning` | [Read →](https://dev.to/cseeman/it-worked-on-my-machine-literally-4ekn) |
-| 🌐 | **Securely Exposing a Stateful MCP Server on Cloud Run (n8n Play...** | `n8n`, `playwright`, `cloudrun` | [Read →](https://dev.to/newbee1939/securely-exposing-a-stateful-mcp-server-on-cloud-run-n8n-x-playwright-mcp-example-1n5k) |
+| ⚡ | **CSS – only a Nerdy Hobby?** | `ai`, `css`, `webdev` | [Read →](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf) |
+| 🚀 | **How I Built a Treasure-Run Game Where Australia Saves the Sun** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck) |
+| 💡 | **CLI over MCP: a small Chrome DevTools experiment in Copilot CLI** | `ai`, `programming`, `mcp` | [Read →](https://dev.to/maximsaplin/cli-over-mcp-a-small-chrome-devtools-experiment-in-copilot-cli-5gpi) |
+| 🧠 | **I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved O...** | `nextjs`, `webdev`, `javascript` | [Read →](https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc) |
+| 🌐 | **How to Make Coding Agents Remember Past Solutions** | `ai`, `agents`, `entire` | [Read →](https://dev.to/entire/how-to-make-coding-agents-remember-past-solutions-4a71) |
 
 <blockquote>
-<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
+<p>💬 <em>"Simplicity is the soul of efficiency."</em> — <strong>Austin Freeman</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: June 11, 2026 • 12:05 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 11, 2026 • 10:55 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
