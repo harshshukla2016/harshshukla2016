@@ -51,7 +51,7 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2143</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2143</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
@@ -59,17 +59,17 @@
 | 🔥 | **Teach Your Agent to Forget (On Purpose)** | `ai`, `programming`, `beginners` | [Read →](https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh) |
 | ⚡ | **The Rust You Actually Need to Write Your First Anchor Program** | `100daysofsolana`, `web3`, `learning` | [Read →](https://dev.to/100daysofsolana/the-rust-you-actually-need-to-write-your-first-anchor-program-4klc) |
 | 🚀 | **Solstice Runner — A Browser Game Tribute to Alan Turing** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/makendrang/solstice-runner-a-browser-game-tribute-to-alan-turing-52fc) |
-| 💡 | **From 5 Seconds to 50ms: How I Stopped Nuking My Database Every...** | `nextjs`, `postgres`, `supabase` | [Read →](https://dev.to/akashpattnaik/from-5-seconds-to-50ms-how-i-stopped-nuking-my-database-every-time-i-deleted-an-order-30l0) |
-| 🧠 | **How I Built KisanX — A Full-Stack Agricultural Marketplace** | `php`, `reactnative`, `showdev` | [Read →](https://dev.to/saniya1207/how-i-built-kisanx-a-full-stack-agricultural-marketplace-57km) |
-| 🌐 | **I expected the cheaper model to be cheaper. It cost 8.6 more.** | `ai`, `software`, `distributedsystems` | [Read →](https://dev.to/yogesh23012001/i-expected-the-cheaper-model-to-be-cheaper-it-cost-86x-more-5cph) |
+| 💡 | **How I Built KisanX — A Full-Stack Agricultural Marketplace** | `php`, `reactnative`, `showdev` | [Read →](https://dev.to/saniya1207/how-i-built-kisanx-a-full-stack-agricultural-marketplace-57km) |
+| 🧠 | **Building in public, week 13: the debt week nobody posts about** | `webdev`, `buildinpublic`, `seo` | [Read →](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-13-the-debt-week-nobody-posts-about-2j4a) |
+| 🌐 | **HeadLess BAI** | `ai`, `machinelearning`, `ux` | [Read →](https://dev.to/akshit_sharma_321b0b789a4/headless-bai-4o0p) |
 
 <blockquote>
-<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
+<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
 
-<p align="center"><sub>⏰ Last updated: June 14, 2026 • 10:58 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 14, 2026 • 04:58 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
