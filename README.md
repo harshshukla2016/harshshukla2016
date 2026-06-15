@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2144</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2144</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **How to give Claude (or Cursor) access to your Rails app's acti...** | `ai`, `rails`, `ruby` | [Read →](https://dev.to/dezsirazvan/how-to-give-claude-or-cursor-access-to-your-rails-apps-activity-logs-38m3) |
-| ⚡ | **How to enjoy programming in a world of AI** | `ai`, `discuss`, `learning` | [Read →](https://dev.to/gtanyware/how-to-enjoy-programming-in-a-world-of-ai-5b4e) |
-| 🚀 | **Building in public, week 13: the debt week nobody posts about** | `webdev`, `buildinpublic`, `seo` | [Read →](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-13-the-debt-week-nobody-posts-about-2j4a) |
-| 💡 | **I Built a Django-Inspired Web Framework in Rust — Here's What ...** | `rust`, `webdev`, `django` | [Read →](https://dev.to/seballiot/i-built-a-django-inspired-web-framework-in-rust-heres-what-i-learned-5bbf) |
-| 🧠 | **I Built an AI System Design Coach — Clone It, Try It, Break It** | `opensource`, `ai`, `webdev` | [Read →](https://dev.to/nithiin7/i-built-an-ai-system-design-coach-clone-it-try-it-break-it-1j4b) |
-| 🌐 | **🕹️ SOLSTICE: Hold the Light Until Dawn - A 3D Browser Game for...** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/minhlong2605/solstice-hold-the-light-until-dawn-a-3d-browser-game-for-the-june-solstice-jam-3340) |
+| 🔥 | **Turning Gemma 4 into an Old Korean Translator** | `finetuning`, `gemma`, `ai` | [Read →](https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop) |
+| ⚡ | **Has Sloan Flagged Your Article Lately?** | `discuss`, `ai`, `devto` | [Read →](https://dev.to/dannwaneri/has-sloan-flagged-your-article-lately-1gmh) |
+| 🚀 | **Letters to Tomorrow: A June Solstice Game About the Things We ...** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf) |
+| 💡 | **Building a Chrome Extension to Make AI Use More Intentional** | `ai`, `webdev`, `productivity` | [Read →](https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0) |
+| 🧠 | **What are your goals for the week? #183** | `career`, `devjournal`, `discuss` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-183-2hp3) |
+| 🌐 | **Meme Monday** | `discuss`, `jokes`, `watercooler` | [Read →](https://dev.to/ben/meme-monday-14pc) |
 
 <blockquote>
-<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer mouse was made of wood 🖱️
 
-<p align="center"><sub>⏰ Last updated: June 15, 2026 • 11:51 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 15, 2026 • 08:42 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
