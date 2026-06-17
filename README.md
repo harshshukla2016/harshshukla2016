@@ -51,17 +51,17 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2146</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2146</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **How We Saved Big and Simplified Our Image Pipeline: Adopting b...** | `performance`, `webdev`, `design` | [Read →](https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53) |
-| ⚡ | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65) |
-| 🚀 | **AI took the friction out of my work. Then I found out the fric...** | `ai`, `productivity`, `career` | [Read →](https://dev.to/sfrangulov/ai-took-the-friction-out-of-my-work-then-i-found-out-the-friction-was-holding-up-two-things-my-4971) |
-| 💡 | **AWS Blocks: Full-Stack Building Blocks That Run Locally Withou...** | `webdev`, `fullstack`, `developer` | [Read →](https://dev.to/aws-heroes/aws-blocks-full-stack-building-blocks-that-run-locally-without-an-aws-account-346l) |
-| 🧠 | **A Company AI Flagged My Article As "Low Quality." I Ran the Nu...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/a-company-ai-flagged-my-article-as-low-quality-i-ran-the-numbers-then-i-ran-again-1h0p) |
-| 🌐 | **Welcome Thread - v380** | `welcome` | [Read →](https://dev.to/devteam/welcome-thread-v380-oi4) |
+| 🔥 | **Welcome Thread - v380** | `welcome` | [Read →](https://dev.to/devteam/welcome-thread-v380-oi4) |
+| ⚡ | **June Jubilee - An iOS Arcade Game** | `swift`, `gamedev`, `gamechallenge` | [Read →](https://dev.to/nithish_59/june-jubilee-a-swiftui-solstice-arcade-game-for-the-june-solstice-game-jam-232o) |
+| 🚀 | **AWS Blocks: Full-Stack Building Blocks That Run Locally Withou...** | `webdev`, `fullstack`, `developer` | [Read →](https://dev.to/aws-heroes/aws-blocks-full-stack-building-blocks-that-run-locally-without-an-aws-account-346l) |
+| 💡 | **I Got the proxy.ts Matcher Wrong for Three Projects Before I U...** | `nextjs`, `javascript`, `webdev` | [Read →](https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c) |
+| 🧠 | **The $0 Bug That Cost Us $1,800 in API Calls** | `webdev`, `startup`, `ai` | [Read →](https://dev.to/arpitstack/the-0-bug-that-cost-us-1800-in-api-calls-3add) |
+| 🌐 | **How I use premortems with Claude and Codex** | `ai`, `claude`, `llm` | [Read →](https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm) |
 
 <blockquote>
 <p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
 
-<p align="center"><sub>⏰ Last updated: June 17, 2026 • 06:20 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 17, 2026 • 11:56 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
