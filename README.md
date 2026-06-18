@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2146</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2147</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Welcome Thread - v380** | `welcome` | [Read →](https://dev.to/devteam/welcome-thread-v380-oi4) |
-| ⚡ | **June Jubilee - An iOS Arcade Game** | `swift`, `gamedev`, `gamechallenge` | [Read →](https://dev.to/nithish_59/june-jubilee-a-swiftui-solstice-arcade-game-for-the-june-solstice-game-jam-232o) |
-| 🚀 | **AWS Blocks: Full-Stack Building Blocks That Run Locally Withou...** | `webdev`, `fullstack`, `developer` | [Read →](https://dev.to/aws-heroes/aws-blocks-full-stack-building-blocks-that-run-locally-without-an-aws-account-346l) |
-| 💡 | **I Got the proxy.ts Matcher Wrong for Three Projects Before I U...** | `nextjs`, `javascript`, `webdev` | [Read →](https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c) |
-| 🧠 | **The $0 Bug That Cost Us $1,800 in API Calls** | `webdev`, `startup`, `ai` | [Read →](https://dev.to/arpitstack/the-0-bug-that-cost-us-1800-in-api-calls-3add) |
-| 🌐 | **How I use premortems with Claude and Codex** | `ai`, `claude`, `llm` | [Read →](https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm) |
+| 🔥 | **Gotta Earn 'Em All: The Gym Badges of Agentic Engineering (Par...** | `ai`, `agents`, `programming` | [Read →](https://dev.to/kaleman15/gotta-earn-em-all-the-gym-badges-of-agentic-engineering-part-1-5bff) |
+| ⚡ | **Making my TypeScript types 15.7x faster** | `typescript`, `performance`, `opensource` | [Read →](https://dev.to/dzakh/making-my-typescript-types-157x-faster-4gcg) |
+| 🚀 | **Why Your Search Bar Understands You** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/why-your-search-bar-understands-you-179p) |
+| 💡 | **r4b1t_h0l3** | `osint`, `security`, `webdev` | [Read →](https://dev.to/gnomeman4201/r4b1th0l3-5aa3) |
+| 🧠 | **## 🕵️‍♂️ The Turing Interrogation** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/gautam_prajapati/-the-turing-interrogation-f1e) |
+| 🌐 | **Refactoring Legacy Code: The Jedi Move of Extracting Pure Func...** | `cleancode`, `softwaredevelopment`, `programming` | [Read →](https://dev.to/timevolt/refactoring-legacy-code-the-jedi-move-of-extracting-pure-functions-4eo9) |
 
 <blockquote>
-<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
+<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
+> **🧪 Did You Know?** The first computer mouse was made of wood 🖱️
 
-<p align="center"><sub>⏰ Last updated: June 17, 2026 • 11:56 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 18, 2026 • 11:22 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
