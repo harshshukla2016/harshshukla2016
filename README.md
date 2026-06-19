@@ -51,7 +51,7 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2148</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2148</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
@@ -59,9 +59,9 @@
 | 🔥 | **Congrats to the Gemma 4 Challenge Winners!** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc) |
 | ⚡ | **Congrats to the Hermes Agent Challenge Winners!** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0) |
 | 🚀 | **I'm not a developer, but I built a calendar app to fix my most...** | `ai`, `productivity`, `beginners` | [Read →](https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4) |
-| 💡 | **Technical Writing Advice** | `documentation`, `technical`, `writing` | [Read →](https://dev.to/pauljlucas/technical-writing-advice-28a6) |
-| 🧠 | **Codewars did not teach me JavaScript. My job did.** | `career`, `codenewbie`, `javascript` | [Read →](https://dev.to/shannonianthe/codewars-did-not-teach-me-javascript-my-job-did-379k) |
-| 🌐 | **Skills over System Prompts: Building an Anki Tutor with the An...** | `ai`, `antigravity`, `agents` | [Read →](https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f) |
+| 💡 | **Skills over System Prompts: Building an Anki Tutor with the An...** | `ai`, `antigravity`, `agents` | [Read →](https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f) |
+| 🧠 | **What was your win this week??** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-246f) |
+| 🌐 | **AI summaries need receipts: how I built evidence-bound reports...** | `ai`, `webdev`, `productivity` | [Read →](https://dev.to/woshiliyana/ai-summaries-need-receipts-how-i-built-evidence-bound-reports-from-comments-1c29) |
 
 <blockquote>
 <p>💬 <em>"The best error message is the one that never shows up."</em> — <strong>Thomas Fuchs</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: June 19, 2026 • 06:13 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 19, 2026 • 11:33 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
