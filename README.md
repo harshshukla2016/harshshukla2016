@@ -57,19 +57,19 @@
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Who Here Has Worked with Legacy? The Longer You Wait, the Wors...** | `javascript`, `webdev`, `programming` | [Read →](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk) |
-| ⚡ | **Tower Before Dusk: I Built a Puzzle Game for Humans and AI** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao) |
-| 🚀 | **Why Your Search Bar Understands You** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/why-your-search-bar-understands-you-179p) |
-| 💡 | **Gotta Earn 'Em All: The Gym Badges of Agentic Engineering (Par...** | `ai`, `agents`, `programming` | [Read →](https://dev.to/kaleman15/gotta-earn-em-all-the-gym-badges-of-agentic-engineering-part-1-5bff) |
-| 🧠 | **r4b1t_h0l3** | `osint`, `security`, `webdev` | [Read →](https://dev.to/gnomeman4201/r4b1th0l3-5aa3) |
-| 🌐 | **Technical Writing Advice** | `documentation`, `technical`, `writing` | [Read →](https://dev.to/pauljlucas/technical-writing-advice-28a6) |
+| ⚡ | **Congrats to the Gemma 4 Challenge Winners!** | `devchallenge`, `gemmachallenge`, `gemma` | [Read →](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc) |
+| 🚀 | **Congrats to the Hermes Agent Challenge Winners!** | `hermesagentchallenge`, `devchallenge`, `agents` | [Read →](https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0) |
+| 💡 | **Tower Before Dusk: I Built a Puzzle Game for Humans and AI** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao) |
+| 🧠 | **I'm not a developer, but I built a calendar app to fix my most...** | `ai`, `productivity`, `beginners` | [Read →](https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4) |
+| 🌐 | **Building an agentic PR reviewer with Antigravity SDK** | `antigravity`, `gemini`, `ai` | [Read →](https://dev.to/googleai/building-an-agentic-pr-reviewer-with-antigravity-sdk-3b0i) |
 
 <blockquote>
-<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
+<p>💬 <em>"Programming isn't about what you know; it's about what you can figure out."</em> — <strong>Chris Pine</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: June 19, 2026 • 12:00 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 19, 2026 • 11:43 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
