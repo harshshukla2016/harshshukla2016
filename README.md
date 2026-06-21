@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2149</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2150</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Internmaxxing vs. Old Man Shakes Fist at Cloud** | `ai`, `programming`, `beginners` | [Read →](https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd) |
-| ⚡ | **Fruit Dash: A Solstice Platformer with Binary Code Gates** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/agastya_khati_f72c89077c8/fruit-dash-a-solstice-platformer-with-binary-code-gates-2jmi) |
-| 🚀 | **Rebuilding a Divi Blog with Custom Shortcodes: A Field Report** | `wordpress`, `php`, `css` | [Read →](https://dev.to/highcenburg/rebuilding-a-divi-blog-with-custom-shortcodes-a-field-report-141g) |
-| 💡 | **Solstice Cipher: Routing Light to Crack Codes — A Puzzle Game ...** | `godot`, `gamedev`, `webdev` | [Read →](https://dev.to/fanioz/solstice-cipher-routing-light-to-crack-codes-a-puzzle-game-for-the-june-solstice-game-jam-lcc) |
-| 🧠 | **My API Responded in 4 ms, but Navigation Still Felt Slow** | `performance`, `webdev`, `svelte` | [Read →](https://dev.to/ahikmah/my-api-responded-in-4-ms-but-navigation-still-felt-slow-1hk8) |
-| 🌐 | **AI memory should be a product state, not a prompt trick** | `ai`, `webdev`, `architecture` | [Read →](https://dev.to/woshiliyana/ai-memory-should-be-a-product-state-not-a-prompt-trick-4m20) |
+| 🔥 | **Fruit Dash: A Solstice Platformer with Binary Code Gates** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/agastya_khati_f72c89077c8/fruit-dash-a-solstice-platformer-with-binary-code-gates-2jmi) |
+| ⚡ | **The Oracle and the Wolf: I Made Gemini Lose Like a Kid 🐺** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/anchildress1/the-oracle-and-the-wolf-i-made-gemini-lose-like-a-kid-3nk5) |
+| 🚀 | **⚡️Self-Hosting Experience with Jetson Orin Nano and Ollama 🦙** | `ubuntu`, `nvidia`, `webdev` | [Read →](https://dev.to/annavi11arrea1/self-hosting-experience-with-jetson-orin-nano-and-ollama-5a9c) |
+| 💡 | **Solstice Crypt - Decrypt the Light** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/kanyingidickson/solstice-crypt-decrypt-the-light-3id6) |
+| 🧠 | **ECHO PROTOCOL — I Built a Game Where You Play as Alan Turing's...** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/_boweii/echo-protocol-i-built-a-game-where-you-play-as-alan-turings-last-ai-interrogated-by-a-live-f5n) |
+| 🌐 | **I Benchmarked 17 Image Conversions on My Production Server. So...** | `webdev`, `img`, `performance` | [Read →](https://dev.to/serhii_kalyna_730b636889c/i-benchmarked-17-image-conversions-on-my-production-server-some-results-were-not-what-i-expected-1j4f) |
 
 <blockquote>
-<p>💬 <em>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first Apple logo featured Isaac Newton sitting under a tree 🍏
+> **🧪 Did You Know?** The first computer programmer was Ada Lovelace, in the 1840s 👩‍💻
 
-<p align="center"><sub>⏰ Last updated: June 20, 2026 • 11:10 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 21, 2026 • 11:28 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
