@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2157</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2157</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Engineering a Brainrot art installation on an Orange Pi Zero 🍊** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/googleai/engineering-a-brainrot-art-installation-on-an-orange-pi-zero-4gmk) |
-| ⚡ | **A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Sup...** | `npm`, `security`, `supplychain` | [Read →](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h) |
-| 🚀 | **I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway** | `ai`, `api`, `llm` | [Read →](https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5) |
-| 💡 | **Choreography of validation: how to make your auth form seamles...** | `react`, `javascript`, `ux` | [Read →](https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm) |
-| 🧠 | **Adding io::ErrorKind::TooManyOpenFiles to Rust** | `rust`, `systems`, `opensource` | [Read →](https://dev.to/valentynkit/adding-ioerrorkindtoomanyopenfiles-to-rust-4h0k) |
-| 🌐 | **What I Learned About PDAs in a Week of Building on Solana** | `rust`, `solana`, `anchor` | [Read →](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51) |
+| ⚡ | **I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway** | `ai`, `api`, `llm` | [Read →](https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5) |
+| 🚀 | **A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Sup...** | `npm`, `security`, `supplychain` | [Read →](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h) |
+| 💡 | **VP of Nothing: The CEO's Nephew Took Over My AI Platform. The ...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/vp-of-nothing-the-ceos-nephew-took-over-my-ai-platform-the-client-walked-within-a-month-5dla) |
+| 🧠 | **Choreography of validation: how to make your auth form seamles...** | `react`, `javascript`, `ux` | [Read →](https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm) |
+| 🌐 | **Adding io::ErrorKind::TooManyOpenFiles to Rust** | `rust`, `systems`, `opensource` | [Read →](https://dev.to/valentynkit/adding-ioerrorkindtoomanyopenfiles-to-rust-4h0k) |
 
 <blockquote>
-<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
 
-<p align="center"><sub>⏰ Last updated: June 28, 2026 • 10:44 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 28, 2026 • 04:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
