@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2156</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2157</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Never forget to enter the Stern Grove lottery again!** | `ai`, `playwright`, `githubactions` | [Read →](https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5) |
-| ⚡ | **Weekly Dev Log 2026-W11** | `beginners`, `devjournal`, `security` | [Read →](https://dev.to/umitomo-lab/weekly-dev-log-2026-w11-4ga6) |
-| 🚀 | **I Built a Serverless VPN on Lambda MicroVMs — 12 Builds, 5 Dea...** | `lambda`, `microvm`, `firecracker` | [Read →](https://dev.to/aws-heroes/i-built-a-serverless-vpn-on-lambda-microvms-12-builds-5-dead-ends-1-working-architecture-5ged) |
-| 💡 | **AI Didn't Invent Slop. It Only Made It Infinite.** | `ai`, `career`, `discuss` | [Read →](https://dev.to/copyleftdev/ai-didnt-invent-slop-it-only-made-it-infinite-21o4) |
-| 🧠 | **What I Learned About PDAs in a Week of Building on Solana** | `rust`, `solana`, `anchor` | [Read →](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51) |
-| 🌐 | **How To Learn Go Fast: A Practical Roadmap For Senior Backend D...** | `go`, `architecture`, `career` | [Read →](https://dev.to/nazar_boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5) |
+| 🔥 | **Engineering a Brainrot art installation on an Orange Pi Zero 🍊** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/googleai/engineering-a-brainrot-art-installation-on-an-orange-pi-zero-4gmk) |
+| ⚡ | **A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Sup...** | `npm`, `security`, `supplychain` | [Read →](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h) |
+| 🚀 | **I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway** | `ai`, `api`, `llm` | [Read →](https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5) |
+| 💡 | **Choreography of validation: how to make your auth form seamles...** | `react`, `javascript`, `ux` | [Read →](https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm) |
+| 🧠 | **Adding io::ErrorKind::TooManyOpenFiles to Rust** | `rust`, `systems`, `opensource` | [Read →](https://dev.to/valentynkit/adding-ioerrorkindtoomanyopenfiles-to-rust-4h0k) |
+| 🌐 | **What I Learned About PDAs in a Week of Building on Solana** | `rust`, `solana`, `anchor` | [Read →](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51) |
 
 <blockquote>
-<p>💬 <em>"The best error message is the one that never shows up."</em> — <strong>Thomas Fuchs</strong></p>
+<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first computer bug was an actual moth found in a Harvard Mark II computer in 1947 🪲
+> **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
 
-<p align="center"><sub>⏰ Last updated: June 27, 2026 • 10:48 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 28, 2026 • 10:44 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
