@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2157</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2158</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **1%** | `ai`, `geopolitics`, `hardware` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/1-15n0) |
-| ⚡ | **Engineering a Brainrot art installation on an Orange Pi Zero 🍊** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/googleai/engineering-a-brainrot-art-installation-on-an-orange-pi-zero-4gmk) |
-| 🚀 | **V.E.L.O.C.I.T.Y.-OS: Kimi K2.7 and the 'Safe-Room Security' Il...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-kimi-k27-and-the-safe-room-security-illusion-part-1-41oa) |
-| 💡 | **VP of Nothing: The CEO's Nephew Took Over My AI Platform. The ...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/vp-of-nothing-the-ceos-nephew-took-over-my-ai-platform-the-client-walked-within-a-month-5dla) |
-| 🧠 | **I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway** | `ai`, `api`, `llm` | [Read →](https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5) |
-| 🌐 | **A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Sup...** | `npm`, `security`, `supplychain` | [Read →](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h) |
+| ⚡ | **V.E.L.O.C.I.T.Y.-OS: Kimi K2.7 and the 'Safe-Room Security' Il...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-kimi-k27-and-the-safe-room-security-illusion-part-1-41oa) |
+| 🚀 | **V.E.L.O.C.I.T.Y.-OS: The Self-Healing Kernel & LLM Terminal Ha...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-the-self-healing-kernel-llm-terminal-handover-part-12-1f0i) |
+| 💡 | **V.E.L.O.C.I.T.Y.-OS: Writing Bare-Metal Drivers – PCI, NVMe & ...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-writing-bare-metal-drivers-pci-nvme-fat32-part-9-46k1) |
+| 🧠 | **V.E.L.O.C.I.T.Y.-OS: The JIT Compiler Core – From AST to Nativ...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-the-jit-compiler-core-from-ast-to-native-closures-part-4-52f3) |
+| 🌐 | **V.E.L.O.C.I.T.Y.-OS: Ditching the Web Stack & The 30MB Standal...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-ditching-the-web-stack-the-30mb-standalone-ide-part-3-3ia2) |
 
 <blockquote>
-<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
+<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
+> **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: June 28, 2026 • 10:50 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 29, 2026 • 10:57 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
