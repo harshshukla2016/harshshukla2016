@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2158</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2158</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **1%** | `ai`, `geopolitics`, `hardware` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/1-15n0) |
-| ⚡ | **V.E.L.O.C.I.T.Y.-OS: Kimi K2.7 and the 'Safe-Room Security' Il...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-kimi-k27-and-the-safe-room-security-illusion-part-1-41oa) |
-| 🚀 | **V.E.L.O.C.I.T.Y.-OS: The Self-Healing Kernel & LLM Terminal Ha...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-the-self-healing-kernel-llm-terminal-handover-part-12-1f0i) |
-| 💡 | **V.E.L.O.C.I.T.Y.-OS: Writing Bare-Metal Drivers – PCI, NVMe & ...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-writing-bare-metal-drivers-pci-nvme-fat32-part-9-46k1) |
-| 🧠 | **V.E.L.O.C.I.T.Y.-OS: The JIT Compiler Core – From AST to Nativ...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-the-jit-compiler-core-from-ast-to-native-closures-part-4-52f3) |
-| 🌐 | **V.E.L.O.C.I.T.Y.-OS: Ditching the Web Stack & The 30MB Standal...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-ditching-the-web-stack-the-30mb-standalone-ide-part-3-3ia2) |
+| 🔥 | **What's Next for AI?** | `ai`, `llm`, `webdev` | [Read →](https://dev.to/sylwia-lask/whats-next-for-ai-219i) |
+| ⚡ | **What Actually Happens When You Call an LLM API** | `ai`, `webdev`, `beginners` | [Read →](https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6) |
+| 🚀 | **The German Tank Problem: Why You Need UUIDs** | `backend`, `api`, `webdev` | [Read →](https://dev.to/towernter/the-german-tank-problem-why-you-need-uuids-85p) |
+| 💡 | **Making of Tiny RPG Studio** | `webdev`, `gamedev`, `rpg` | [Read →](https://dev.to/andredarcie/making-of-tiny-rpg-studio-45oh) |
+| 🧠 | **V.E.L.O.C.I.T.Y.-OS: The Self-Healing Kernel & LLM Terminal Ha...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-the-self-healing-kernel-llm-terminal-handover-part-12-1f0i) |
+| 🌐 | **V.E.L.O.C.I.T.Y.-OS: The JIT Compiler Core – From AST to Nativ...** | `showdev`, `coding`, `compilers` | [Read →](https://dev.to/unitbuilds_cc/velocity-os-the-jit-compiler-core-from-ast-to-native-closures-part-4-52f3) |
 
 <blockquote>
-<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: June 29, 2026 • 10:57 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: June 29, 2026 • 06:34 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
