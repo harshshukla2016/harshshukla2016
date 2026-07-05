@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2164</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2164</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Data structures your CS degree kind of glossed over** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/lovestaco/data-structures-your-cs-degree-kind-of-glossed-over-29dh) |
-| ⚡ | **From 0 Likes to Meme Engineer** | `webdev`, `ai`, `javascript` | [Read →](https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l) |
-| 🚀 | **A New Personal Best: What Six Months of Locking In Can Do** | `productivity`, `career`, `showdev` | [Read →](https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k) |
-| 💡 | **GPU Survivors: Can You Survive a 1T Parameter Inference Run?** | `ai`, `games`, `machinelearning` | [Read →](https://dev.to/unitbuilds_cc/gpu-survivors-can-you-survive-a-1t-parameter-inference-run-476d) |
-| 🧠 | **What Six Arguing AI Agents Taught Me About Building One That A...** | `alibabachallenge`, `ai`, `linux` | [Read →](https://dev.to/leno0421/what-six-arguing-ai-agents-taught-me-about-building-one-that-actually-works-5a1c) |
+| 🔥 | **From 0 Likes to Meme Engineer** | `webdev`, `ai`, `javascript` | [Read →](https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l) |
+| ⚡ | **What Six Arguing AI Agents Taught Me About Building One That A...** | `alibabachallenge`, `ai`, `linux` | [Read →](https://dev.to/leno0421/what-six-arguing-ai-agents-taught-me-about-building-one-that-actually-works-5a1c) |
+| 🚀 | **Who Else Has Inherited a Codebase With Zero Comments and a Pra...** | `discuss`, `programming`, `career` | [Read →](https://dev.to/gamya_m/who-else-has-inherited-a-codebase-with-zero-comments-and-a-prayer-84h) |
+| 💡 | **Jetson Nano: Ollama & Optimal Quantization** | `ai`, `webdev`, `productivity` | [Read →](https://dev.to/annavi11arrea1/jetson-nano-ollama-optimal-quantization-2de8) |
+| 🧠 | **Watermark removal isn't lossy — you've been using the wrong tool** | `javascript`, `webdev`, `imageprocessing` | [Read →](https://dev.to/katyswift/watermark-removal-isnt-lossy-youve-been-using-the-wrong-tool-1hpg) |
 | 🌐 | **What's All Am I Hosting? Full Infrastructure Breakdown** | `infrastructure`, `architecture`, `webdev` | [Read →](https://dev.to/shubham399/whats-all-am-i-hosting-full-infrastructure-breakdown-53b8) |
 
 <blockquote>
-<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
 
-<p align="center"><sub>⏰ Last updated: July 05, 2026 • 04:32 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 05, 2026 • 10:49 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
