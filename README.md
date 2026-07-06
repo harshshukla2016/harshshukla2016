@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2164</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2165</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **From 0 Likes to Meme Engineer** | `webdev`, `ai`, `javascript` | [Read →](https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l) |
-| ⚡ | **What Six Arguing AI Agents Taught Me About Building One That A...** | `alibabachallenge`, `ai`, `linux` | [Read →](https://dev.to/leno0421/what-six-arguing-ai-agents-taught-me-about-building-one-that-actually-works-5a1c) |
-| 🚀 | **Who Else Has Inherited a Codebase With Zero Comments and a Pra...** | `discuss`, `programming`, `career` | [Read →](https://dev.to/gamya_m/who-else-has-inherited-a-codebase-with-zero-comments-and-a-prayer-84h) |
-| 💡 | **Jetson Nano: Ollama & Optimal Quantization** | `ai`, `webdev`, `productivity` | [Read →](https://dev.to/annavi11arrea1/jetson-nano-ollama-optimal-quantization-2de8) |
+| 🔥 | **At Last, I clasp: Escaping the G's Apps Script Copy-Paste Gaun...** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd) |
+| ⚡ | **Who Else Has Inherited a Codebase With Zero Comments and a Pra...** | `discuss`, `programming`, `career` | [Read →](https://dev.to/gamya_m/who-else-has-inherited-a-codebase-with-zero-comments-and-a-prayer-84h) |
+| 🚀 | **Jetson Nano: Ollama & Optimal Quantization** | `ai`, `webdev`, `productivity` | [Read →](https://dev.to/annavi11arrea1/jetson-nano-ollama-optimal-quantization-2de8) |
+| 💡 | **How to Shine as an Introvert in a Loud Tech World** | `webdev`, `learning`, `career` | [Read →](https://dev.to/konark_13/how-to-shine-as-an-introvert-in-a-loud-tech-world-4ipb) |
 | 🧠 | **Watermark removal isn't lossy — you've been using the wrong tool** | `javascript`, `webdev`, `imageprocessing` | [Read →](https://dev.to/katyswift/watermark-removal-isnt-lossy-youve-been-using-the-wrong-tool-1hpg) |
-| 🌐 | **What's All Am I Hosting? Full Infrastructure Breakdown** | `infrastructure`, `architecture`, `webdev` | [Read →](https://dev.to/shubham399/whats-all-am-i-hosting-full-infrastructure-breakdown-53b8) |
+| 🌐 | **The Second Brain They Can’t Subpoena: Local RAG on a Pi 5** | `raspberrypi`, `privacy`, `programming` | [Read →](https://dev.to/numbpill3d/the-second-brain-they-cant-subpoena-local-rag-on-a-pi-5-3374) |
 
 <blockquote>
-<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
+> **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: July 05, 2026 • 10:49 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 06, 2026 • 10:37 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
