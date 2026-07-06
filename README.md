@@ -51,17 +51,17 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2165</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2165</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **I Contain Multitudes (and Also Three Git Repos)** | `astro`, `webdev`, `showdev` | [Read →](https://dev.to/mattstratton/i-contain-multitudes-and-also-three-git-repos-33pf) |
-| ⚡ | **At Last, I clasp: Escaping the G's Apps Script Copy-Paste Gaun...** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd) |
-| 🚀 | **How to Shine as an Introvert in a Loud Tech World** | `webdev`, `learning`, `career` | [Read →](https://dev.to/konark_13/how-to-shine-as-an-introvert-in-a-loud-tech-world-4ipb) |
-| 💡 | **Who Else Has Inherited a Codebase With Zero Comments and a Pra...** | `discuss`, `programming`, `career` | [Read →](https://dev.to/gamya_m/who-else-has-inherited-a-codebase-with-zero-comments-and-a-prayer-84h) |
+| ⚡ | **Why AI Still Can't Write Well and Which Half of That Problem I...** | `ai`, `discuss`, `machinelearning` | [Read →](https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4) |
+| 🚀 | **Your Career Matters. So Does the Person Building It.** | `discuss`, `career`, `productivity` | [Read →](https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle) |
+| 💡 | **What are your goals for the week? #186** | `discuss`, `motivation` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-158-1clo) |
 | 🧠 | **Fable 5 Hype: Fangirling with Datasets to Build a Lakers Dashb...** | `buildinpublic`, `ai`, `showdev` | [Read →](https://dev.to/earlgreyhot1701d/fable-5-hype-fangirling-with-datasets-to-build-a-lakers-dashboard-3pdd) |
-| 🌐 | **Jetson Nano: Ollama & Optimal Quantization** | `ai`, `webdev`, `productivity` | [Read →](https://dev.to/annavi11arrea1/jetson-nano-ollama-optimal-quantization-2de8) |
+| 🌐 | **6 Stories, 6 People, 1/6 of the Way — An Honest Check-In on th...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/6-stories-6-people-16-of-the-way-an-honest-check-in-on-the-36-stratagems-series-55ci) |
 
 <blockquote>
 <p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: July 06, 2026 • 06:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 06, 2026 • 11:45 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
