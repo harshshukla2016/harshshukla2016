@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2168</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2168</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Has the audience for technical articles dropped?** | `discuss` | [Read →](https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh) |
-| ⚡ | **✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code...** | `ai`, `webdev`, `discuss` | [Read →](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec) |
-| 🚀 | **Ownership: do "temos um rojão na mão" até "não precisa mais pe...** | `productivity`, `beginners`, `braziliandevs` | [Read →](https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7) |
+| 🔥 | **Your Hand-Typed Slop Isn't Honest. It's Just Slower.** | `ai`, `watercooler`, `discuss` | [Read →](https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei) |
+| ⚡ | **Should I quit IT or just live through the burnout?** | `mentalhealth`, `career`, `productivity` | [Read →](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) |
+| 🚀 | **I Deleted 200 Lines of Code I Didn't Write and Learned More Th...** | `devops`, `programming`, `ai` | [Read →](https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd) |
 | 💡 | **The Silent Panic of Being Asked "Can You Just Quickly Fix This?"** | `watercooler`, `career`, `discuss` | [Read →](https://dev.to/_boweii/the-silent-panic-of-being-asked-can-you-just-quickly-fix-this-16no) |
-| 🧠 | **Your Hand-Typed Slop Isn't Honest. It's Just Slower.** | `ai`, `watercooler`, `discuss` | [Read →](https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei) |
-| 🌐 | **Two nasty surprises in Home Assistant's config** | `homeassistant`, `bug`, `locale` | [Read →](https://dev.to/nfrankel/two-nasty-surprises-in-home-assistants-config-562e) |
+| 🧠 | **Two nasty surprises in Home Assistant's config** | `homeassistant`, `bug`, `locale` | [Read →](https://dev.to/nfrankel/two-nasty-surprises-in-home-assistants-config-562e) |
+| 🌐 | **Deploying a real-time multiplayer game on Railway** | `railway`, `node`, `websocket` | [Read →](https://dev.to/arjen_/deploying-a-real-time-multiplayer-game-on-railway-2d11) |
 
 <blockquote>
-<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
+<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: July 09, 2026 • 05:24 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 09, 2026 • 11:33 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
