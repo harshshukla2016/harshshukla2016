@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2168</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2168</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code...** | `ai`, `webdev`, `discuss` | [Read →](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec) |
-| ⚡ | **Ownership: do "temos um rojão na mão" até "não precisa mais pe...** | `productivity`, `beginners`, `braziliandevs` | [Read →](https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7) |
-| 🚀 | **Has the audience for technical articles dropped?** | `discuss` | [Read →](https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh) |
-| 💡 | **Bigger Context Windows Didn't Make Our RAG Smarter** | `ai`, `llm`, `machinelearning` | [Read →](https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l) |
-| 🧠 | **My Next.js 16 Optimistic UI Looked Perfect. Then Someone Click...** | `nextjs`, `webdev`, `javascript` | [Read →](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c) |
-| 🌐 | **The Agent Faked a Test Log, Then Believed It. Self-Editing Har...** | `ai`, `llm`, `agents` | [Read →](https://dev.to/p0rt/the-agent-faked-a-test-log-then-believed-it-self-editing-harnesses-have-a-provenance-problem-3id6) |
+| 🔥 | **Has the audience for technical articles dropped?** | `discuss` | [Read →](https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh) |
+| ⚡ | **✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code...** | `ai`, `webdev`, `discuss` | [Read →](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec) |
+| 🚀 | **Ownership: do "temos um rojão na mão" até "não precisa mais pe...** | `productivity`, `beginners`, `braziliandevs` | [Read →](https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7) |
+| 💡 | **The Silent Panic of Being Asked "Can You Just Quickly Fix This?"** | `watercooler`, `career`, `discuss` | [Read →](https://dev.to/_boweii/the-silent-panic-of-being-asked-can-you-just-quickly-fix-this-16no) |
+| 🧠 | **Your Hand-Typed Slop Isn't Honest. It's Just Slower.** | `ai`, `watercooler`, `discuss` | [Read →](https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei) |
+| 🌐 | **Two nasty surprises in Home Assistant's config** | `homeassistant`, `bug`, `locale` | [Read →](https://dev.to/nfrankel/two-nasty-surprises-in-home-assistants-config-562e) |
 
 <blockquote>
-<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
+<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: July 09, 2026 • 10:18 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 09, 2026 • 05:24 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
