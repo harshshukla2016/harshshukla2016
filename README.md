@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2167</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2168</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code...** | `ai`, `webdev`, `discuss` | [Read →](https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec) |
-| ⚡ | **Being an engineer in the AI era** | `ai`, `discuss`, `productivity` | [Read →](https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p) |
-| 🚀 | **TanStack Start vs Nuxt: One Framework to rule them all?** | `nuxt`, `tanstack`, `vue` | [Read →](https://dev.to/erikch/tanstack-vs-nuxt-one-framework-to-rule-them-all-4acl) |
-| 💡 | **Stratagems #8: Alex Watched an AI Dashboard Take Over. He Kept...** | `discuss`, `ai`, `career` | [Read →](https://dev.to/xulingfeng/stratagems-8-alex-watched-an-ai-dashboard-take-over-he-kept-the-keys-under-the-table-3n70) |
-| 🧠 | **I Started Writing My Prediction Before Reading the AI's Answer...** | `discuss`, `ai`, `programming` | [Read →](https://dev.to/gamya_m/i-started-writing-my-prediction-before-reading-the-ais-answer-heres-what-happened-9c5) |
-| 🌐 | **My Next.js 16 Optimistic UI Looked Perfect. Then Someone Click...** | `nextjs`, `webdev`, `javascript` | [Read →](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c) |
+| ⚡ | **Ownership: do "temos um rojão na mão" até "não precisa mais pe...** | `productivity`, `beginners`, `braziliandevs` | [Read →](https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7) |
+| 🚀 | **Has the audience for technical articles dropped?** | `discuss` | [Read →](https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh) |
+| 💡 | **Bigger Context Windows Didn't Make Our RAG Smarter** | `ai`, `llm`, `machinelearning` | [Read →](https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l) |
+| 🧠 | **My Next.js 16 Optimistic UI Looked Perfect. Then Someone Click...** | `nextjs`, `webdev`, `javascript` | [Read →](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c) |
+| 🌐 | **The Agent Faked a Test Log, Then Believed It. Self-Editing Har...** | `ai`, `llm`, `agents` | [Read →](https://dev.to/p0rt/the-agent-faked-a-test-log-then-believed-it-self-editing-harnesses-have-a-provenance-problem-3id6) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Google's first tweet was in binary: 'I'm feeling lucky' 🔍
+> **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: July 08, 2026 • 11:15 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 09, 2026 • 10:18 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
