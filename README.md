@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2169</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2169</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Should I quit IT or just live through the burnout?** | `mentalhealth`, `career`, `productivity` | [Read →](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) |
 | ⚡ | **Congrats to the June Solstice Game Jam Winners!** | `devchallenge`, `gamechallenge`, `gamedev` | [Read →](https://dev.to/devteam/congrats-to-the-june-solstice-game-jam-winners-46c0) |
-| 🚀 | **Your Hand-Typed Slop Isn't Honest. It's Just Slower.** | `ai`, `watercooler`, `discuss` | [Read →](https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei) |
-| 💡 | **I Deleted 200 Lines of Code I Didn't Write and Learned More Th...** | `devops`, `programming`, `ai` | [Read →](https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd) |
-| 🧠 | **The Silent Panic of Being Asked "Can You Just Quickly Fix This?"** | `watercooler`, `career`, `discuss` | [Read →](https://dev.to/_boweii/the-silent-panic-of-being-asked-can-you-just-quickly-fix-this-16no) |
-| 🌐 | **Two nasty surprises in Home Assistant's config** | `homeassistant`, `bug`, `locale` | [Read →](https://dev.to/nfrankel/two-nasty-surprises-in-home-assistants-config-562e) |
+| 🚀 | **Unboxable in Tech: The Evidence Locker** | `career`, `discuss`, `webdev` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4) |
+| 💡 | **I Got Tired of Maintaining Frontend Code. So I Built a Declara...** | `javascript`, `webdev`, `showdev` | [Read →](https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl) |
+| 🧠 | **Return on Attention: Why AI Code Reviews Are Wearing Us Out** | `ai`, `codereview`, `productivity` | [Read →](https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0) |
+| 🌐 | **I'm Starting the 100 Days of Cloud Challenge and I Don't Want ...** | `aws`, `cloud`, `beginners` | [Read →](https://dev.to/itsaalaa7/im-starting-the-100-days-of-cloud-challenge-and-i-dont-want-to-do-it-alone-bkp) |
 
 <blockquote>
-<p>💬 <em>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: July 10, 2026 • 10:17 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 10, 2026 • 05:19 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
