@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2171</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2171</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Integrating Lambda Durable Functions into a Step Functions Wor...** | `cdk`, `serverless`, `lambda` | [Read →](https://dev.to/aws-heroes/integrating-lambda-durable-functions-into-a-step-functions-workflow-3c7o) |
-| ⚡ | **How I Turned Slack Into an AI Teammate That Opens Pull Requests** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p) |
-| 🚀 | **See how AI instructions decay, then write ones that hold** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/cleverhoods/see-how-ai-instructions-decay-then-write-ones-that-hold-k9) |
-| 💡 | **Race Recap Radio — I turned my 10K into a hype sports broadcast** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/imkarthikeyan/race-recap-radio-i-turned-my-10k-into-a-hype-sports-broadcast-260j) |
-| 🧠 | **Building LaunchPad: one product brief, 42 launch channels, and...** | `webdev`, `javascript`, `ai` | [Read →](https://dev.to/mohanvenkatakrishnan/building-launchpad-one-product-brief-42-launch-channels-and-the-bugs-that-almost-sank-it-3ii7) |
-| 🌐 | **MLH x DigitalOcean Hackathon: Jury Duty, Explained** | `digitalocean`, `mlh`, `showdev` | [Read →](https://dev.to/earlgreyhot1701d/mlh-x-digitalocean-hackathon-jury-duty-explained-1e8p) |
+| ⚡ | **Simple Benchmark Review: Ollama on Jetson Nano** | `ai`, `webdev`, `nvidia` | [Read →](https://dev.to/annavi11arrea1/simple-benchmark-review-ollama-on-jetson-nano-5gee) |
+| 🚀 | **THE STAND: Keep the Chant Alive!** | `devchallenge`, `weekendchallenge` | [Read →](https://dev.to/asynchronope/the-stand-keep-the-chant-alive-25hb) |
+| 💡 | **MLH x DigitalOcean Hackathon: Jury Duty, Explained** | `digitalocean`, `mlh`, `showdev` | [Read →](https://dev.to/earlgreyhot1701d/mlh-x-digitalocean-hackathon-jury-duty-explained-1e8p) |
+| 🧠 | **The AI orientation tax: it's missing context, not discipline** | `ai`, `productivity`, `claude` | [Read →](https://dev.to/idnk_2203/the-orientation-tax-its-missing-context-not-discipline-4ii9) |
+| 🌐 | **Race Recap Radio — I turned my 10K into a hype sports broadcast** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/imkarthikeyan/race-recap-radio-i-turned-my-10k-into-a-hype-sports-broadcast-260j) |
 
 <blockquote>
-<p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Stack Overflow is visited by 50 million developers every month 📚
 
-<p align="center"><sub>⏰ Last updated: July 12, 2026 • 09:52 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 12, 2026 • 03:55 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
