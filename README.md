@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2170</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2171</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Stratagems #11: Lena Watched Her Own AI Platform Get Cut. An E...** | `discuss`, `ai`, `career` | [Read →](https://dev.to/xulingfeng/stratagems-11-lena-watched-her-own-ai-platform-get-cut-an-ember-stayed-3j59) |
-| ⚡ | **The Sword of Damocles at Work: The Human Cost of Delayed Layoffs** | `career`, `leadership`, `news` | [Read →](https://dev.to/alvaromontoro/the-sword-of-damocles-at-work-the-human-cost-of-delayed-layoffs-2gon) |
-| 🚀 | **How We Test an AI Product Without Burning Credit** | `ai`, `testing`, `playwright` | [Read →](https://dev.to/debs_obrien/how-we-test-an-ai-product-without-burning-credit-4c5p) |
-| 💡 | **An Agent That Hunts Bugs in My App While I Sleep** | `ai`, `playwright`, `testing` | [Read →](https://dev.to/debs_obrien/an-agent-that-hunts-bugs-in-my-app-while-i-sleep-2fe0) |
-| 🧠 | **My Abandoned Cricket Kit Confronted Me. So I Built It a Voice** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/himanshu_748/my-abandoned-cricket-kit-confronted-me-so-i-built-it-a-voice-ph1) |
-| 🌐 | **From Prompt Files to Agent Skills: How I Unified My Content Au...** | `ai`, `agents`, `skills` | [Read →](https://dev.to/debs_obrien/from-prompt-files-to-agent-skills-how-i-unified-my-content-automation-3h9k) |
+| 🔥 | **Integrating Lambda Durable Functions into a Step Functions Wor...** | `cdk`, `serverless`, `lambda` | [Read →](https://dev.to/aws-heroes/integrating-lambda-durable-functions-into-a-step-functions-workflow-3c7o) |
+| ⚡ | **How I Turned Slack Into an AI Teammate That Opens Pull Requests** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p) |
+| 🚀 | **See how AI instructions decay, then write ones that hold** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/cleverhoods/see-how-ai-instructions-decay-then-write-ones-that-hold-k9) |
+| 💡 | **Race Recap Radio — I turned my 10K into a hype sports broadcast** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/imkarthikeyan/race-recap-radio-i-turned-my-10k-into-a-hype-sports-broadcast-260j) |
+| 🧠 | **Building LaunchPad: one product brief, 42 launch channels, and...** | `webdev`, `javascript`, `ai` | [Read →](https://dev.to/mohanvenkatakrishnan/building-launchpad-one-product-brief-42-launch-channels-and-the-bugs-that-almost-sank-it-3ii7) |
+| 🌐 | **MLH x DigitalOcean Hackathon: Jury Duty, Explained** | `digitalocean`, `mlh`, `showdev` | [Read →](https://dev.to/earlgreyhot1701d/mlh-x-digitalocean-hackathon-jury-duty-explained-1e8p) |
 
 <blockquote>
-<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
+<p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
+> **🧪 Did You Know?** Stack Overflow is visited by 50 million developers every month 📚
 
-<p align="center"><sub>⏰ Last updated: July 11, 2026 • 10:34 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 12, 2026 • 09:52 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
