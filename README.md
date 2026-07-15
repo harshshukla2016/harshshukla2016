@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2174</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2174</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **8 Things Developers Confidently Explain After Watching One You...** | `jokes`, `webdev`, `ai` | [Read →](https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio) |
 | ⚡ | **A Dash of dev.to: My Blog Stats Now Live in the Terminal** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/a-dash-of-devto-my-blog-stats-now-live-in-the-terminal-4l4e) |
-| 🚀 | **How I made a Rust hot path 27x faster, and the AI fix I refuse...** | `rust`, `ai`, `performance` | [Read →](https://dev.to/zacharylee/how-i-made-a-rust-hot-path-27x-faster-and-the-ai-fix-i-refused-to-merge-3llg) |
-| 💡 | **I Stopped Debugging at My Desk. Here's What Changed** | `debugging`, `programming`, `productivity` | [Read →](https://dev.to/shubhradev/i-stopped-debugging-at-my-desk-heres-what-changed-43n3) |
-| 🧠 | **HTTP gets a QUERY method so complex searches can stop pretendi...** | `api`, `networking`, `news` | [Read →](https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28) |
-| 🌐 | **This is remarkable  https://bobdahacker.com/blog/fifa-hack** | `tech` | [Read →](https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0) |
+| 🚀 | **The AI Jackpot: Why Prompting Feels Like Gambling** | `ai`, `discuss`, `webdev` | [Read →](https://dev.to/brendon_oneill__/the-ai-jackpot-why-prompting-feels-like-gambling-1fj2) |
+| 💡 | **How I Used Spec-Driven Development to Build a Game (TanStack S...** | `ai`, `webdev`, `kiro` | [Read →](https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p) |
+| 🧠 | **I Built a Task Orchestrator, Then Deleted Its Best Number** | `ai`, `agents`, `go` | [Read →](https://dev.to/vystartasv/i-built-a-task-orchestrator-then-deleted-its-best-number-57np) |
+| 🌐 | **I Put a Hailo 8 in a Handheld and Stopped Paying for Inference** | `ai`, `programming`, `tutorial` | [Read →](https://dev.to/numbpill3d/i-put-a-hailo-8-in-a-handheld-and-stopped-paying-for-inference-3ih7) |
 
 <blockquote>
-<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
 
-<p align="center"><sub>⏰ Last updated: July 15, 2026 • 04:16 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 15, 2026 • 10:53 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
