@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2174</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2175</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **8 Things Developers Confidently Explain After Watching One You...** | `jokes`, `webdev`, `ai` | [Read →](https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio) |
-| ⚡ | **A Dash of dev.to: My Blog Stats Now Live in the Terminal** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/a-dash-of-devto-my-blog-stats-now-live-in-the-terminal-4l4e) |
-| 🚀 | **The AI Jackpot: Why Prompting Feels Like Gambling** | `ai`, `discuss`, `webdev` | [Read →](https://dev.to/brendon_oneill__/the-ai-jackpot-why-prompting-feels-like-gambling-1fj2) |
-| 💡 | **How I Used Spec-Driven Development to Build a Game (TanStack S...** | `ai`, `webdev`, `kiro` | [Read →](https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p) |
-| 🧠 | **I Built a Task Orchestrator, Then Deleted Its Best Number** | `ai`, `agents`, `go` | [Read →](https://dev.to/vystartasv/i-built-a-task-orchestrator-then-deleted-its-best-number-57np) |
-| 🌐 | **I Put a Hailo 8 in a Handheld and Stopped Paying for Inference** | `ai`, `programming`, `tutorial` | [Read →](https://dev.to/numbpill3d/i-put-a-hailo-8-in-a-handheld-and-stopped-paying-for-inference-3ih7) |
+| 🔥 | **Eighty Percent Done Is Not a Real Number** | `devchallenge`, `bugsmash`, `postgres` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/eighty-percent-done-is-not-a-real-number-54nf) |
+| ⚡ | **My benchmark's Python column was N/A for a year — CPython's 43...** | `bugsmash`, `python`, `go` | [Read →](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk) |
+| 🚀 | **Why did my benchmark stop at N=22? A debugging story in nine bugs** | `bugsmash`, `debugging`, `ai` | [Read →](https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l) |
+| 💡 | **/proc, pkexec, and 678 commits** | `programming`, `webdev`, `beginners` | [Read →](https://dev.to/lovestaco/proc-pkexec-and-678-commits-1gig) |
+| 🧠 | **I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA Vi...** | `showdev`, `typescript`, `dsa` | [Read →](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo) |
+| 🌐 | **Building an AI Agent That Knows When Not to Guess (Qwen + MCP)** | `ai`, `webdev`, `hackathon` | [Read →](https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl) |
 
 <blockquote>
-<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
+<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
+> **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
 
-<p align="center"><sub>⏰ Last updated: July 15, 2026 • 10:53 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 16, 2026 • 09:27 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
