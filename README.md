@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2175</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2175</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Eighty Percent Done Is Not a Real Number** | `devchallenge`, `bugsmash`, `postgres` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/eighty-percent-done-is-not-a-real-number-54nf) |
-| ⚡ | **My benchmark's Python column was N/A for a year — CPython's 43...** | `bugsmash`, `python`, `go` | [Read →](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk) |
-| 🚀 | **Why did my benchmark stop at N=22? A debugging story in nine bugs** | `bugsmash`, `debugging`, `ai` | [Read →](https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l) |
+| 🔥 | **Why did my benchmark stop at N=22? A debugging story in nine bugs** | `bugsmash`, `debugging`, `ai` | [Read →](https://dev.to/gde/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l) |
+| ⚡ | **Smash Story: The Demo Script That Out-Debugged My Test Suite** | `devchallenge`, `bugsmash`, `ai` | [Read →](https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k) |
+| 🚀 | **My benchmark's Python column was N/A for a year — CPython's 43...** | `bugsmash`, `python`, `go` | [Read →](https://dev.to/gde/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk) |
 | 💡 | **/proc, pkexec, and 678 commits** | `programming`, `webdev`, `beginners` | [Read →](https://dev.to/lovestaco/proc-pkexec-and-678-commits-1gig) |
-| 🧠 | **I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA Vi...** | `showdev`, `typescript`, `dsa` | [Read →](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo) |
-| 🌐 | **Building an AI Agent That Knows When Not to Guess (Qwen + MCP)** | `ai`, `webdev`, `hackathon` | [Read →](https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl) |
+| 🧠 | **Stratagems #15: Derek and Alex Shared One Server. ACL's AI Was...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/stratagems-15-derek-and-alex-shared-one-server-acls-ai-was-listening-to-both-2j73) |
+| 🌐 | **Post-Mortem: Building a Local MCP Server for Codebase Memory u...** | `ai`, `rag`, `mcp` | [Read →](https://dev.to/kike/post-mortem-building-a-local-mcp-server-for-codebase-memory-using-ollama-and-chromadb-3ilg) |
 
 <blockquote>
-<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
 
-<p align="center"><sub>⏰ Last updated: July 16, 2026 • 04:26 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 16, 2026 • 10:55 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
