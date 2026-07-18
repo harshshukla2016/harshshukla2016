@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2176</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2177</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Hey DEV, I'm Tobore. Let's actually connect.** | `community`, `webdev`, `discuss` | [Read →](https://dev.to/toboreeee/hey-dev-im-tobore-lets-actually-connect-1m02) |
-| ⚡ | **What is an "agentic harness," actually?** | `ai`, `agents`, `discuss` | [Read →](https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie) |
-| 🚀 | **What was your win this week!?** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-amo) |
-| 💡 | **Did You Know TLDs Can Be Websites?** | `aws`, `infrastructure`, `networking` | [Read →](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13) |
-| 🧠 | **Every AI-Generated Line of Code Is a Small Loan — And Eventual...** | `ai`, `career`, `discuss` | [Read →](https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6) |
-| 🌐 | **Claude might be saturating your machine** | `ai`, `programming`, `claude` | [Read →](https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07) |
+| ⚡ | **What was your win this week!?** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-amo) |
+| 🚀 | **Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fel...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc) |
+| 💡 | **Five Gemma-4 models, one accelerator: what porting E2B 31B to ...** | `gemma`, `aws`, `infrastructure` | [Read →](https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5) |
+| 🧠 | **Porting a 128-expert MoE (Gemma-4 26B-A4B) to AWS Inferentia2 ...** | `machinelearning`, `aws`, `ai` | [Read →](https://dev.to/xbill/porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-2ege) |
+| 🌐 | **My Inferentia port matched its reference token-for-token — and...** | `machinelearning`, `aws`, `ai` | [Read →](https://dev.to/xbill/my-inferentia-port-matched-its-reference-token-for-token-and-still-output-garbage-16d4) |
 
 <blockquote>
-<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
+<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Linux powers 96.3% of the world's top 1 million servers 🐧
+> **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
 
-<p align="center"><sub>⏰ Last updated: July 17, 2026 • 10:48 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 18, 2026 • 09:21 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
