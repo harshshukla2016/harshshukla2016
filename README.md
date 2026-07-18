@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2177</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2177</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Five Gemma-4 models, one accelerator: what porting E2B 31B to ...** | `gemma`, `aws`, `infrastructure` | [Read →](https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5) |
-| ⚡ | **Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fel...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc) |
+| 🔥 | **Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fel...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc) |
+| ⚡ | **How We Beat HotSpot Performance (By Cheating, But Not Like That)** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/how-we-beat-hotspot-performance-by-cheating-but-not-like-that-2187) |
 | 🚀 | **Why RAG gives wrong answers (and how to fix retrieval failures)** | `ai`, `aws`, `tutorial` | [Read →](https://dev.to/aws/why-rag-gives-wrong-answers-and-how-to-fix-retrieval-failures-gbj) |
-| 💡 | **Porting a 128-expert MoE (Gemma-4 26B-A4B) to AWS Inferentia2 ...** | `machinelearning`, `aws`, `ai` | [Read →](https://dev.to/xbill/porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-2ege) |
-| 🧠 | **Instrumenting an AI-Powered GitHub Analyzer with OpenTelemetry...** | `opentelemetry`, `signoz`, `observability` | [Read →](https://dev.to/divyasinghdev/instrumenting-an-ai-powered-github-analyzer-with-opentelemetry-and-signoz-55l3) |
-| 🌐 | **My Inferentia port matched its reference token-for-token — and...** | `machinelearning`, `aws`, `ai` | [Read →](https://dev.to/xbill/my-inferentia-port-matched-its-reference-token-for-token-and-still-output-garbage-16d4) |
+| 💡 | **Stratagems #17: Alex Set an AI Bait. The Catch Wasn't Code — I...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893) |
+| 🧠 | **Every AI-built site looks the same, so I built a skill that lo...** | `webdev`, `ai`, `css` | [Read →](https://dev.to/codeswithroh/every-ai-built-site-looks-the-same-so-i-built-a-skill-that-locks-taste-before-any-code-is-written-4f6d) |
+| 🌐 | **Why I built a SQL client when 10 already exist — then let AI a...** | `ai`, `mcp`, `database` | [Read →](https://dev.to/gillarohith/why-i-built-a-sql-client-when-10-already-exist-then-let-ai-agents-into-it-4kk4) |
 
 <blockquote>
-<p>💬 <em>"The computer was born to solve problems that did not exist before."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
 
-<p align="center"><sub>⏰ Last updated: July 18, 2026 • 03:46 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 18, 2026 • 10:33 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
