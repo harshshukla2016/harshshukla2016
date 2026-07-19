@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2177</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2178</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fel...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc) |
-| ⚡ | **How We Beat HotSpot Performance (By Cheating, But Not Like That)** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/how-we-beat-hotspot-performance-by-cheating-but-not-like-that-2187) |
-| 🚀 | **Why RAG gives wrong answers (and how to fix retrieval failures)** | `ai`, `aws`, `tutorial` | [Read →](https://dev.to/aws/why-rag-gives-wrong-answers-and-how-to-fix-retrieval-failures-gbj) |
-| 💡 | **Stratagems #17: Alex Set an AI Bait. The Catch Wasn't Code — I...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893) |
-| 🧠 | **Every AI-built site looks the same, so I built a skill that lo...** | `webdev`, `ai`, `css` | [Read →](https://dev.to/codeswithroh/every-ai-built-site-looks-the-same-so-i-built-a-skill-that-locks-taste-before-any-code-is-written-4f6d) |
-| 🌐 | **Why I built a SQL client when 10 already exist — then let AI a...** | `ai`, `mcp`, `database` | [Read →](https://dev.to/gillarohith/why-i-built-a-sql-client-when-10-already-exist-then-let-ai-agents-into-it-4kk4) |
+| 🔥 | **How We Beat HotSpot Performance (By Cheating, But Not Like That)** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/how-we-beat-hotspot-performance-by-cheating-but-not-like-that-2187) |
+| ⚡ | **FLUX on a 4070 Graphics Card 🖼️** | `ai`, `image`, `video` | [Read →](https://dev.to/annavi11arrea1/flux-on-a-4070-graphics-card-297) |
+| 🚀 | **Why I built a SQL client when 10 already exist — then let AI a...** | `ai`, `mcp`, `database` | [Read →](https://dev.to/gillarohith/why-i-built-a-sql-client-when-10-already-exist-then-let-ai-agents-into-it-4kk4) |
+| 💡 | **I was tired of studying security tools from static cheatsheets...** | `security`, `react`, `typescript` | [Read →](https://dev.to/shlokkokk/i-was-tired-of-studying-security-tools-from-static-cheatsheets-so-i-built-shellstack-46d6) |
+| 🧠 | **Apache Data Lakehouse Weekly: July 11 to July 18, 2026** | `database`, `dataengineering`, `news` | [Read →](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-11-to-july-18-2026-3f1p) |
+| 🌐 | **I'm 13, Solo Founder & CEO of Akhouri Systems. No team, no bac...** | `showdev`, `programming`, `python` | [Read →](https://dev.to/akhourianmolkumar/im-13-solo-founder-ceo-of-akhouri-systems-no-team-no-backend-no-funding-just-a-laptop-2ch1) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** JavaScript was created in just 10 days by Brendan Eich in 1995 ⚡
+> **🧪 Did You Know?** The world's first webcam watched a coffee pot at Cambridge University ☕
 
-<p align="center"><sub>⏰ Last updated: July 18, 2026 • 10:33 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 19, 2026 • 09:49 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
