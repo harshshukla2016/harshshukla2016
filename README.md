@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2178</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2178</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **How We Beat HotSpot Performance (By Cheating, But Not Like That)** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/how-we-beat-hotspot-performance-by-cheating-but-not-like-that-2187) |
-| ⚡ | **FLUX on a 4070 Graphics Card 🖼️** | `ai`, `image`, `video` | [Read →](https://dev.to/annavi11arrea1/flux-on-a-4070-graphics-card-297) |
-| 🚀 | **Why I built a SQL client when 10 already exist — then let AI a...** | `ai`, `mcp`, `database` | [Read →](https://dev.to/gillarohith/why-i-built-a-sql-client-when-10-already-exist-then-let-ai-agents-into-it-4kk4) |
-| 💡 | **I was tired of studying security tools from static cheatsheets...** | `security`, `react`, `typescript` | [Read →](https://dev.to/shlokkokk/i-was-tired-of-studying-security-tools-from-static-cheatsheets-so-i-built-shellstack-46d6) |
-| 🧠 | **Apache Data Lakehouse Weekly: July 11 to July 18, 2026** | `database`, `dataengineering`, `news` | [Read →](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-11-to-july-18-2026-3f1p) |
-| 🌐 | **I'm 13, Solo Founder & CEO of Akhouri Systems. No team, no bac...** | `showdev`, `programming`, `python` | [Read →](https://dev.to/akhourianmolkumar/im-13-solo-founder-ceo-of-akhouri-systems-no-team-no-backend-no-funding-just-a-laptop-2ch1) |
+| 🔥 | **Building a Real-time, Multiplayer Poker Game: Phase 1 of 3** | `webdev`, `gamedev`, `discuss` | [Read →](https://dev.to/zihanlei/building-a-real-time-multiplayer-poker-game-phase-1-of-3-1gk4) |
+| ⚡ | **One line of math froze my AI agent forever. The timeout watche...** | `devchallenge`, `bugsmash`, `python` | [Read →](https://dev.to/himanshu_748/one-line-of-math-froze-my-ai-agent-forever-the-timeout-watched-and-did-nothing-2dma) |
+| 🚀 | **I Rewrote a OneNote MCP Server in TypeScript — Here's What I L...** | `mcp`, `typescript`, `tutorial` | [Read →](https://dev.to/singhamandeep007/i-rewrote-a-onenote-mcp-server-in-typescript-heres-what-i-learned-about-microsoft-graph-auth-5933) |
+| 💡 | **The Hardest System I Ever Built Was for Patients Who Could Not...** | `devchallenge`, `bugsmash`, `react` | [Read →](https://dev.to/toboreeee/the-hardest-system-i-ever-built-was-for-patients-who-could-not-afford-for-it-to-fail-nah) |
+| 🧠 | **I Built an AI App. Eight Months Later, It Became a Skill** | `agents`, `ai`, `productivity` | [Read →](https://dev.to/juandastic/i-built-an-ai-app-eight-months-later-it-became-a-skill-58cn) |
+| 🌐 | **My Solana Program Launch Checklist (Written the Day After I Ac...** | `solana`, `rust`, `anchor` | [Read →](https://dev.to/lymah/my-solana-program-launch-checklist-written-the-day-after-i-actually-did-it-1f2d) |
 
 <blockquote>
-<p>💬 <em>"Programming isn't about what you know; it's about what you can figure out."</em> — <strong>Chris Pine</strong></p>
+<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The world's first webcam watched a coffee pot at Cambridge University ☕
 
-<p align="center"><sub>⏰ Last updated: July 19, 2026 • 03:55 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 19, 2026 • 10:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
