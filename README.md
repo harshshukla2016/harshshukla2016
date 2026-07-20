@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2179</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2179</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **One line of math froze my AI agent forever. The timeout watche...** | `devchallenge`, `bugsmash`, `python` | [Read →](https://dev.to/himanshu_748/one-line-of-math-froze-my-ai-agent-forever-the-timeout-watched-and-did-nothing-2dma) |
+| 🔥 | **the part of this year I don't put in the commit messages** | `career`, `devto`, `community` | [Read →](https://dev.to/dannwaneri/the-part-of-this-year-i-dont-put-in-the-commit-messages-l6m) |
 | ⚡ | **I Rewrote a OneNote MCP Server in TypeScript — Here's What I L...** | `mcp`, `typescript`, `tutorial` | [Read →](https://dev.to/singhamandeep007/i-rewrote-a-onenote-mcp-server-in-typescript-heres-what-i-learned-about-microsoft-graph-auth-5933) |
-| 🚀 | **The Hardest System I Ever Built Was for Patients Who Could Not...** | `devchallenge`, `bugsmash`, `react` | [Read →](https://dev.to/toboreeee/the-hardest-system-i-ever-built-was-for-patients-who-could-not-afford-for-it-to-fail-nah) |
-| 💡 | **I Built an AI App. Eight Months Later, It Became a Skill** | `agents`, `ai`, `productivity` | [Read →](https://dev.to/juandastic/i-built-an-ai-app-eight-months-later-it-became-a-skill-58cn) |
-| 🧠 | **I measured every millisecond of my real-time AI pipeline. The ...** | `ai`, `llm`, `performance` | [Read →](https://dev.to/florian131313/i-measured-every-millisecond-of-my-real-time-ai-pipeline-the-llm-was-the-fast-part-dd5) |
-| 🌐 | **Browser OS Redefined: The Desktop Metaphor Doesn't Quite Fit a...** | `showdev`, `webdev`, `programming` | [Read →](https://dev.to/edmundsparrow/browser-os-redefined-the-desktop-metaphor-doesnt-quite-fit-a-5-screen-browser-4hg1) |
+| 🚀 | **I've Spent 10+ Years in Software Engineering. After Sickness, ...** | `discuss`, `watercooler`, `ama` | [Read →](https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc) |
+| 💡 | **The smolagents bug that made my agent retry the same valid cod...** | `devchallenge`, `bugsmash`, `python` | [Read →](https://dev.to/himanshu_748/the-smolagents-bug-that-made-my-agent-retry-the-same-valid-code-three-times-2aka) |
+| 🧠 | **Browser OS Redefined: The Desktop Metaphor Doesn't Quite Fit a...** | `showdev`, `webdev`, `programming` | [Read →](https://dev.to/edmundsparrow/browser-os-redefined-the-desktop-metaphor-doesnt-quite-fit-a-5-screen-browser-4hg1) |
+| 🌐 | **I Learned Go by Hacking Kubernetes RBAC Security (And Nearly Q...** | `go`, `kubernetes`, `security` | [Read →](https://dev.to/le_beltagy/i-learned-go-by-hacking-kubernetes-rbac-security-and-nearly-quit-5-times-3pnp) |
 
 <blockquote>
-<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
+<p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: July 20, 2026 • 10:03 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 20, 2026 • 05:12 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
