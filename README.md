@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2179</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2179</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **the part of this year I don't put in the commit messages** | `career`, `devto`, `community` | [Read →](https://dev.to/dannwaneri/the-part-of-this-year-i-dont-put-in-the-commit-messages-l6m) |
-| ⚡ | **I Rewrote a OneNote MCP Server in TypeScript — Here's What I L...** | `mcp`, `typescript`, `tutorial` | [Read →](https://dev.to/singhamandeep007/i-rewrote-a-onenote-mcp-server-in-typescript-heres-what-i-learned-about-microsoft-graph-auth-5933) |
-| 🚀 | **I've Spent 10+ Years in Software Engineering. After Sickness, ...** | `discuss`, `watercooler`, `ama` | [Read →](https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc) |
-| 💡 | **The smolagents bug that made my agent retry the same valid cod...** | `devchallenge`, `bugsmash`, `python` | [Read →](https://dev.to/himanshu_748/the-smolagents-bug-that-made-my-agent-retry-the-same-valid-code-three-times-2aka) |
-| 🧠 | **Browser OS Redefined: The Desktop Metaphor Doesn't Quite Fit a...** | `showdev`, `webdev`, `programming` | [Read →](https://dev.to/edmundsparrow/browser-os-redefined-the-desktop-metaphor-doesnt-quite-fit-a-5-screen-browser-4hg1) |
-| 🌐 | **I Learned Go by Hacking Kubernetes RBAC Security (And Nearly Q...** | `go`, `kubernetes`, `security` | [Read →](https://dev.to/le_beltagy/i-learned-go-by-hacking-kubernetes-rbac-security-and-nearly-quit-5-times-3pnp) |
+| 🔥 | **Context Is King: Rethinking Domain Ownership, Product, and the...** | `discuss`, `management`, `codequality` | [Read →](https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8) |
+| ⚡ | **Choose your Burden** | `discuss`, `community`, `productivity` | [Read →](https://dev.to/francistrdev/choose-your-burden-4dgl) |
+| 🚀 | **Gemma4 DevOps In Action** | `ai`, `aws`, `devops` | [Read →](https://dev.to/gde/gemma4-devops-in-action-10bl) |
+| 💡 | **I Fixed a Bug That Lived in FFmpeg for 8 Years.** | `devchallenge`, `bugsmash` | [Read →](https://dev.to/umarpathan/i-fixed-a-bug-that-lived-in-ffmpeg-for-8-years-27db) |
+| 🧠 | **I've Spent 10+ Years in Software Engineering. After Sickness, ...** | `discuss`, `watercooler`, `ama` | [Read →](https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc) |
+| 🌐 | **What are your goals for the week? #188** | `discuss` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-188-20k8) |
 
 <blockquote>
-<p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: July 20, 2026 • 05:12 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 20, 2026 • 11:40 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
