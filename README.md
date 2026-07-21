@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2180</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2180</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Context Is King: Rethinking Domain Ownership, Product, and the...** | `discuss`, `management`, `codequality` | [Read →](https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8) |
-| ⚡ | **Choose your Burden** | `discuss`, `community`, `productivity` | [Read →](https://dev.to/francistrdev/choose-your-burden-4dgl) |
-| 🚀 | **AI And Code Ownership: Who Is Responsible For Generated Code?** | `discuss`, `ai`, `career` | [Read →](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) |
-| 💡 | **Theatre Kid to Developer Advocate, None of This Was Planned** | `career`, `beginners`, `womenintech` | [Read →](https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje) |
-| 🧠 | **Gemma4 DevOps In Action** | `ai`, `aws`, `devops` | [Read →](https://dev.to/gde/gemma4-devops-in-action-10bl) |
-| 🌐 | **Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive** | `tpu`, `llm`, `vllm` | [Read →](https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n) |
+| 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei) |
+| ⚡ | **The Optimistic UI Race Condition That Only Showed Up on the Fi...** | `devchallenge`, `bugsmash`, `nextjs` | [Read →](https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55) |
+| 🚀 | **Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive** | `tpu`, `llm`, `vllm` | [Read →](https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n) |
+| 💡 | **tpu-management: a Claude Code skill for running Gemma 4 on Clo...** | `googlecloud`, `tpu`, `vllm` | [Read →](https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e) |
+| 🧠 | **4 Silent Failures, 2 Undocumented APIs, and a Container That C...** | `devchallenge`, `bugsmash`, `ai` | [Read →](https://dev.to/sarvar_04/4-silent-failures-2-undocumented-apis-and-a-container-that-crashed-because-of-a-missing-user-1b9n) |
+| 🌐 | **Swift Classes — Why Copying a Class Isn't What You Think 📋** | `swift`, `swiftui`, `ios` | [Read →](https://dev.to/gamya_m/swift-classes-why-copying-a-class-isnt-what-you-think-31ip) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** There are about 700 programming languages in existence today 💻
 
-<p align="center"><sub>⏰ Last updated: July 21, 2026 • 04:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 21, 2026 • 11:06 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
