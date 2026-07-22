@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2181</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2181</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **You can build it. Should you?** | `ai`, `career`, `programming` | [Read →](https://dev.to/jennapederson/you-can-build-it-should-you-9e0) |
+| 🔥 | **What is a context window, actually?** | `ai`, `eli5`, `beginners` | [Read →](https://dev.to/ale3oula/what-is-a-context-window-actually-13l6) |
 | ⚡ | **Substack's New AI Detector Has the Same Blind Spot DEV.to's Did** | `devto`, `ai`, `meta` | [Read →](https://dev.to/dannwaneri/substacks-new-ai-detector-has-the-same-blind-spot-devtos-did-103j) |
-| 🚀 | **🐘 TypeScript for PHP? YES, that's possible! And it's not what ...** | `php`, `typescript`, `purescript` | [Read →](https://dev.to/0x1/typescript-for-php-yes-thats-possible-and-its-not-what-you-think-394f) |
-| 💡 | **Nuxt vs SvelteKit: What works better?** | `nuxt`, `sveltekit`, `javascript` | [Read →](https://dev.to/erikch/nuxt-vs-sveltekit-what-works-better-132h) |
-| 🧠 | **How I pulled data out of a cross-origin iframe I couldn't touch** | `webdev`, `javascript`, `chrome` | [Read →](https://dev.to/shaojie/how-i-pulled-data-out-of-a-cross-origin-iframe-i-couldnt-touch-3ccm) |
+| 🚀 | **Nuxt vs SvelteKit: What works better?** | `nuxt`, `sveltekit`, `javascript` | [Read →](https://dev.to/erikch/nuxt-vs-sveltekit-what-works-better-132h) |
+| 💡 | **SPF, DKIM, DMARC: the 15-minute setup that actually passes** | `dns`, `devops`, `development` | [Read →](https://dev.to/devopsdaily/spf-dkim-dmarc-the-15-minute-setup-that-actually-passes-53mf) |
+| 🧠 | **The Friction Is A Feature, Not A Bug: Teaching and Mentoring i...** | `mentorship`, `ai`, `learning` | [Read →](https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9) |
 | 🌐 | **Swift Classes — Deinitializers and How Swift Cleans Up After I...** | `swift`, `ios`, `programming` | [Read →](https://dev.to/gamya_m/swift-classes-deinitializers-and-how-swift-cleans-up-after-itself-mk3) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer bug was an actual moth found in a Harvard Mark II computer in 1947 🪲
 
-<p align="center"><sub>⏰ Last updated: July 22, 2026 • 04:36 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 22, 2026 • 10:55 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
