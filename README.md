@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2181</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2181</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The Optimistic UI Race Condition That Only Showed Up on the Fi...** | `devchallenge`, `bugsmash`, `nextjs` | [Read →](https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55) |
-| ⚡ | **You can build it. Should you?** | `ai`, `career`, `programming` | [Read →](https://dev.to/jennapederson/you-can-build-it-should-you-9e0) |
+| 🔥 | **You can build it. Should you?** | `ai`, `career`, `programming` | [Read →](https://dev.to/jennapederson/you-can-build-it-should-you-9e0) |
+| ⚡ | **Substack's New AI Detector Has the Same Blind Spot DEV.to's Did** | `devto`, `ai`, `meta` | [Read →](https://dev.to/dannwaneri/substacks-new-ai-detector-has-the-same-blind-spot-devtos-did-103j) |
 | 🚀 | **🐘 TypeScript for PHP? YES, that's possible! And it's not what ...** | `php`, `typescript`, `purescript` | [Read →](https://dev.to/0x1/typescript-for-php-yes-thats-possible-and-its-not-what-you-think-394f) |
 | 💡 | **Nuxt vs SvelteKit: What works better?** | `nuxt`, `sveltekit`, `javascript` | [Read →](https://dev.to/erikch/nuxt-vs-sveltekit-what-works-better-132h) |
 | 🧠 | **How I pulled data out of a cross-origin iframe I couldn't touch** | `webdev`, `javascript`, `chrome` | [Read →](https://dev.to/shaojie/how-i-pulled-data-out-of-a-cross-origin-iframe-i-couldnt-touch-3ccm) |
-| 🌐 | **Snowflake Cortex, Explained Like an AI That Lives Next to Your...** | `snowflake`, `ai`, `llm` | [Read →](https://dev.to/ramkumar-m-n/snowflake-cortex-explained-like-an-ai-that-lives-next-to-your-data-b0g) |
+| 🌐 | **Swift Classes — Deinitializers and How Swift Cleans Up After I...** | `swift`, `ios`, `programming` | [Read →](https://dev.to/gamya_m/swift-classes-deinitializers-and-how-swift-cleans-up-after-itself-mk3) |
 
 <blockquote>
-<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
+<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer bug was an actual moth found in a Harvard Mark II computer in 1947 🪲
 
-<p align="center"><sub>⏰ Last updated: July 22, 2026 • 09:43 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 22, 2026 • 04:36 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
