@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2180</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2181</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1oei) |
-| ⚡ | **The Optimistic UI Race Condition That Only Showed Up on the Fi...** | `devchallenge`, `bugsmash`, `nextjs` | [Read →](https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55) |
-| 🚀 | **Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive** | `tpu`, `llm`, `vllm` | [Read →](https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n) |
-| 💡 | **tpu-management: a Claude Code skill for running Gemma 4 on Clo...** | `googlecloud`, `tpu`, `vllm` | [Read →](https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e) |
-| 🧠 | **4 Silent Failures, 2 Undocumented APIs, and a Container That C...** | `devchallenge`, `bugsmash`, `ai` | [Read →](https://dev.to/sarvar_04/4-silent-failures-2-undocumented-apis-and-a-container-that-crashed-because-of-a-missing-user-1b9n) |
-| 🌐 | **Swift Classes — Why Copying a Class Isn't What You Think 📋** | `swift`, `swiftui`, `ios` | [Read →](https://dev.to/gamya_m/swift-classes-why-copying-a-class-isnt-what-you-think-31ip) |
+| 🔥 | **The Optimistic UI Race Condition That Only Showed Up on the Fi...** | `devchallenge`, `bugsmash`, `nextjs` | [Read →](https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55) |
+| ⚡ | **You can build it. Should you?** | `ai`, `career`, `programming` | [Read →](https://dev.to/jennapederson/you-can-build-it-should-you-9e0) |
+| 🚀 | **🐘 TypeScript for PHP? YES, that's possible! And it's not what ...** | `php`, `typescript`, `purescript` | [Read →](https://dev.to/0x1/typescript-for-php-yes-thats-possible-and-its-not-what-you-think-394f) |
+| 💡 | **Nuxt vs SvelteKit: What works better?** | `nuxt`, `sveltekit`, `javascript` | [Read →](https://dev.to/erikch/nuxt-vs-sveltekit-what-works-better-132h) |
+| 🧠 | **How I pulled data out of a cross-origin iframe I couldn't touch** | `webdev`, `javascript`, `chrome` | [Read →](https://dev.to/shaojie/how-i-pulled-data-out-of-a-cross-origin-iframe-i-couldnt-touch-3ccm) |
+| 🌐 | **Snowflake Cortex, Explained Like an AI That Lives Next to Your...** | `snowflake`, `ai`, `llm` | [Read →](https://dev.to/ramkumar-m-n/snowflake-cortex-explained-like-an-ai-that-lives-next-to-your-data-b0g) |
 
 <blockquote>
-<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** There are about 700 programming languages in existence today 💻
+> **🧪 Did You Know?** The first computer bug was an actual moth found in a Harvard Mark II computer in 1947 🪲
 
-<p align="center"><sub>⏰ Last updated: July 21, 2026 • 11:06 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 22, 2026 • 09:43 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
