@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2181</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2182</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What is a context window, actually?** | `ai`, `eli5`, `beginners` | [Read →](https://dev.to/ale3oula/what-is-a-context-window-actually-13l6) |
-| ⚡ | **Substack's New AI Detector Has the Same Blind Spot DEV.to's Did** | `devto`, `ai`, `meta` | [Read →](https://dev.to/dannwaneri/substacks-new-ai-detector-has-the-same-blind-spot-devtos-did-103j) |
-| 🚀 | **Nuxt vs SvelteKit: What works better?** | `nuxt`, `sveltekit`, `javascript` | [Read →](https://dev.to/erikch/nuxt-vs-sveltekit-what-works-better-132h) |
-| 💡 | **SPF, DKIM, DMARC: the 15-minute setup that actually passes** | `dns`, `devops`, `development` | [Read →](https://dev.to/devopsdaily/spf-dkim-dmarc-the-15-minute-setup-that-actually-passes-53mf) |
-| 🧠 | **The Friction Is A Feature, Not A Bug: Teaching and Mentoring i...** | `mentorship`, `ai`, `learning` | [Read →](https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9) |
+| 🔥 | **The Friction Is A Feature, Not A Bug: Teaching and Mentoring i...** | `mentorship`, `ai`, `learning` | [Read →](https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9) |
+| ⚡ | **Contribuir para a comunidade: como destacar isso no seu Linked...** | `braziliandevs`, `career`, `discuss` | [Read →](https://dev.to/he4rt/contribuir-para-a-comunidade-como-destacar-isso-no-seu-linkedin-e-curriculo-4cgl) |
+| 🚀 | **Substack's New AI Detector Has the Same Blind Spot DEV.to's Did** | `devto`, `ai`, `meta` | [Read →](https://dev.to/dannwaneri/substacks-new-ai-detector-has-the-same-blind-spot-devtos-did-103j) |
+| 💡 | **Loop Engineering: How to Stop Your Agent Reward-Hacking Its Ow...** | `ai`, `loopengineering`, `claude` | [Read →](https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn) |
+| 🧠 | **What is a context window, actually?** | `ai`, `eli5`, `beginners` | [Read →](https://dev.to/ale3oula/what-is-a-context-window-actually-13l6) |
 | 🌐 | **Swift Classes — Deinitializers and How Swift Cleans Up After I...** | `swift`, `ios`, `programming` | [Read →](https://dev.to/gamya_m/swift-classes-deinitializers-and-how-swift-cleans-up-after-itself-mk3) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first computer bug was an actual moth found in a Harvard Mark II computer in 1947 🪲
+> **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: July 22, 2026 • 10:55 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 23, 2026 • 09:41 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
