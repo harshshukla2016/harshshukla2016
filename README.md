@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2183</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2183</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The Dirty Secret Behind AI Agents (Demo 🚀)** | `node`, `ai`, `agents` | [Read →](https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d) |
-| ⚡ | **Better than Next.js? Is Rust Finally Ready for Full-Stack Web ...** | `webdev`, `programming`, `rust` | [Read →](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09) |
-| 🚀 | **🐍 Snake - rendered with 576 browser windows [warning - this WI...** | `javascript`, `webdev`, `programming` | [Read →](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i) |
-| 💡 | **Tried building GitHub's search box in Go** | `webdev`, `programming`, `beginners` | [Read →](https://dev.to/lovestaco/tried-building-githubs-search-box-in-go-2dk6) |
-| 🧠 | **Swift Classes — The Four Ways Variables and Constants Can Comb...** | `swift`, `ios`, `programming` | [Read →](https://dev.to/gamya_m/swift-classes-the-four-ways-variables-and-constants-can-combine-3mjj) |
-| 🌐 | **Roll your own file-based router in under 50 lines of code** | `architecture`, `javascript`, `programming` | [Read →](https://dev.to/wasp/roll-your-own-file-based-router-in-under-50-lines-of-code-2kb4) |
+| 🔥 | **🐍 Snake - rendered with 576 browser windows [warning - this WI...** | `javascript`, `webdev`, `programming` | [Read →](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i) |
+| ⚡ | **Tried building GitHub's search box in Go** | `webdev`, `programming`, `beginners` | [Read →](https://dev.to/lovestaco/tried-building-githubs-search-box-in-go-2dk6) |
+| 🚀 | **The AWS Cleanup We Keep Putting Off (I Let an Agent Do It)** | `aws`, `mcp`, `agenttoolkit` | [Read →](https://dev.to/aws/the-aws-cleanup-we-keep-putting-off-i-let-an-agent-do-it-3nc1) |
+| 💡 | **Roll your own file-based router in under 50 lines of code** | `architecture`, `javascript`, `programming` | [Read →](https://dev.to/wasp/roll-your-own-file-based-router-in-under-50-lines-of-code-2kb4) |
+| 🧠 | **The Person Who Fixed the Bugs Just Vanished** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm) |
+| 🌐 | **Your Car Is Spying on Itself. I Taught It to Confess.** | `programming`, `tutorial`, `canbus` | [Read →](https://dev.to/numbpill3d/your-car-is-spying-on-itself-i-taught-it-to-confess-1h87) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** About 90% of the world's data was created in just the last 2 years 📊
 
-<p align="center"><sub>⏰ Last updated: July 24, 2026 • 09:41 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 24, 2026 • 04:31 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
