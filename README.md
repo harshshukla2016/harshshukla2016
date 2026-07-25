@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2184</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2184</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Dev Opportunity Radar #9: A Fully Funded AI Security Residency...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-9-a-fully-funded-ai-security-residency-sf-founder-residency-figma-campus-1j88) |
-| ⚡ | **Teaching Google Antigravity to Paint: A Stateful Image-Editing...** | `ai`, `antigravity`, `gemini` | [Read →](https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1) |
-| 🚀 | **6 Open Source Tools That Give You the Web Back** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak) |
-| 💡 | **Own Your Pixels: Native Fidelity on Your Schedule** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/own-your-pixels-native-fidelity-on-your-schedule-2gf) |
-| 🧠 | **The Crash That Only Happened Sometimes — A SwiftUI Bug** | `devchallenge`, `bugsmash`, `swift` | [Read →](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5) |
-| 🌐 | **Começando com Redes: Camadas de uma conexão TCP/IP** | `braziliandevs`, `aws`, `cloud` | [Read →](https://dev.to/he4rt/comecando-com-redes-camadas-de-uma-conexao-tcpip-1bjn) |
+| 🔥 | **The Crash That Only Happened Sometimes — A SwiftUI Bug** | `devchallenge`, `bugsmash`, `swift` | [Read →](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5) |
+| ⚡ | **I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning...** | `debugging`, `linux`, `networking` | [Read →](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937) |
+| 🚀 | **🐈‍⬛Check Out Catbot's New Leg!** | `ai`, `programming`, `learning` | [Read →](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg) |
+| 💡 | **Claude Lawfare** | `lawtech`, `claude`, `kidsdontdothisathome` | [Read →](https://dev.to/sebs/claude-lawfare-15on) |
+| 🧠 | **389 Tests Passed. NIST Still Caught the Bug.** | `ai`, `testing`, `tooling` | [Read →](https://dev.to/copyleftdev/389-tests-passed-nist-still-caught-the-bug-37jh) |
+| 🌐 | **The Six Flavors of Dependency Injection in Flutter** | `flutter`, `dart`, `architecture` | [Read →](https://dev.to/gde/the-six-flavors-of-dependency-injection-in-flutter-lea) |
 
 <blockquote>
-<p>💬 <em>"Simplicity is the soul of efficiency."</em> — <strong>Austin Freeman</strong></p>
+<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: July 25, 2026 • 03:54 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 25, 2026 • 10:37 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
