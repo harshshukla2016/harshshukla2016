@@ -51,7 +51,7 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2184</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2184</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
@@ -60,16 +60,16 @@
 | ⚡ | **Teaching Google Antigravity to Paint: A Stateful Image-Editing...** | `ai`, `antigravity`, `gemini` | [Read →](https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1) |
 | 🚀 | **6 Open Source Tools That Give You the Web Back** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak) |
 | 💡 | **Own Your Pixels: Native Fidelity on Your Schedule** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/own-your-pixels-native-fidelity-on-your-schedule-2gf) |
-| 🧠 | **Hetzner Inference: First Look** | `ai`, `cloud`, `llm` | [Read →](https://dev.to/code42cate/hetzner-inference-first-look-587) |
-| 🌐 | **The Person Who Fixed the Bugs Just Vanished** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm) |
+| 🧠 | **The Crash That Only Happened Sometimes — A SwiftUI Bug** | `devchallenge`, `bugsmash`, `swift` | [Read →](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5) |
+| 🌐 | **Começando com Redes: Camadas de uma conexão TCP/IP** | `braziliandevs`, `aws`, `cloud` | [Read →](https://dev.to/he4rt/comecando-com-redes-camadas-de-uma-conexao-tcpip-1bjn) |
 
 <blockquote>
-<p>💬 <em>"Programming isn't about what you know; it's about what you can figure out."</em> — <strong>Chris Pine</strong></p>
+<p>💬 <em>"Simplicity is the soul of efficiency."</em> — <strong>Austin Freeman</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: July 25, 2026 • 09:35 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 25, 2026 • 03:54 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
