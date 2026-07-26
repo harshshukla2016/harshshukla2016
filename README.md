@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2185</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2185</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning...** | `debugging`, `linux`, `networking` | [Read →](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937) |
-| ⚡ | **When SearchValues<T> Actually Pays Off** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l) |
-| 🚀 | **I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why...** | `kubernetes`, `homelab`, `devops` | [Read →](https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb) |
-| 💡 | **I Connected 3 MCP Servers to One Agent. It Got Scary Fast.** | `discuss`, `ai`, `mcp` | [Read →](https://dev.to/debashish_ghosal/i-connected-3-mcp-servers-to-one-agent-it-got-scary-fast-4loe) |
-| 🧠 | **How Unreal Engine Works: Not an API, but Engineering Thinking** | `gamedev`, `cpp`, `programming` | [Read →](https://dev.to/aggressivesinger3432/how-unreal-engine-works-not-an-api-but-engineering-thinking-ao4) |
-| 🌐 | **Bare Metal and Neural Nets: Crafting a Purpose-Driven AI Cyber...** | `programming`, `opensource`, `cybersecurity` | [Read →](https://dev.to/numbpill3d/bare-metal-and-neural-nets-crafting-a-purpose-driven-ai-cyberdeck-3pff) |
+| 🔥 | **18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on t...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0) |
+| ⚡ | **I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why...** | `kubernetes`, `homelab`, `devops` | [Read →](https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb) |
+| 🚀 | **Your JSON Array Was Streaming All Along** | `dotnet`, `aspnetcore`, `csharp` | [Read →](https://dev.to/ssukhpinder/your-json-array-was-streaming-all-along-162j) |
+| 💡 | **One Cache Miss, Fifty Database Calls** | `dotnet`, `aspnetcore`, `csharp` | [Read →](https://dev.to/ssukhpinder/one-cache-miss-fifty-database-calls-1k5n) |
+| 🧠 | **600 Filters and a 414: The New QUERY Method in .NET 10** | `aspnetcore`, `dotnet`, `csharp` | [Read →](https://dev.to/ssukhpinder/600-filters-and-a-414-the-new-query-method-in-net-10-5bib) |
+| 🌐 | **One Task.Run Quietly Killed the BackgroundService Startup Footgun** | `dotnet`, `aspnetcore`, `csharp` | [Read →](https://dev.to/ssukhpinder/one-taskrun-quietly-killed-the-backgroundservice-startup-footgun-4b70) |
 
 <blockquote>
-<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
+<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
 
-<p align="center"><sub>⏰ Last updated: July 26, 2026 • 04:12 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 26, 2026 • 10:39 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
