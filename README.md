@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2184</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2185</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **The Crash That Only Happened Sometimes — A SwiftUI Bug** | `devchallenge`, `bugsmash`, `swift` | [Read →](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5) |
 | ⚡ | **I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning...** | `debugging`, `linux`, `networking` | [Read →](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937) |
-| 🚀 | **🐈‍⬛Check Out Catbot's New Leg!** | `ai`, `programming`, `learning` | [Read →](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg) |
-| 💡 | **Claude Lawfare** | `lawtech`, `claude`, `kidsdontdothisathome` | [Read →](https://dev.to/sebs/claude-lawfare-15on) |
-| 🧠 | **389 Tests Passed. NIST Still Caught the Bug.** | `ai`, `testing`, `tooling` | [Read →](https://dev.to/copyleftdev/389-tests-passed-nist-still-caught-the-bug-37jh) |
-| 🌐 | **The Six Flavors of Dependency Injection in Flutter** | `flutter`, `dart`, `architecture` | [Read →](https://dev.to/gde/the-six-flavors-of-dependency-injection-in-flutter-lea) |
+| 🚀 | **389 Tests Passed. NIST Still Caught the Bug.** | `ai`, `testing`, `tooling` | [Read →](https://dev.to/copyleftdev/389-tests-passed-nist-still-caught-the-bug-37jh) |
+| 💡 | **I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why...** | `kubernetes`, `homelab`, `devops` | [Read →](https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb) |
+| 🧠 | **Bare Metal and Neural Nets: Crafting a Purpose-Driven AI Cyber...** | `programming`, `opensource`, `cybersecurity` | [Read →](https://dev.to/numbpill3d/bare-metal-and-neural-nets-crafting-a-purpose-driven-ai-cyberdeck-3pff) |
+| 🌐 | **When SearchValues<T> Actually Pays Off** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
+> **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
 
-<p align="center"><sub>⏰ Last updated: July 25, 2026 • 10:37 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 26, 2026 • 09:53 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
