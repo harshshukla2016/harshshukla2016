@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2185</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2185</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The Crash That Only Happened Sometimes — A SwiftUI Bug** | `devchallenge`, `bugsmash`, `swift` | [Read →](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5) |
-| ⚡ | **I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning...** | `debugging`, `linux`, `networking` | [Read →](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937) |
-| 🚀 | **389 Tests Passed. NIST Still Caught the Bug.** | `ai`, `testing`, `tooling` | [Read →](https://dev.to/copyleftdev/389-tests-passed-nist-still-caught-the-bug-37jh) |
-| 💡 | **I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why...** | `kubernetes`, `homelab`, `devops` | [Read →](https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb) |
-| 🧠 | **Bare Metal and Neural Nets: Crafting a Purpose-Driven AI Cyber...** | `programming`, `opensource`, `cybersecurity` | [Read →](https://dev.to/numbpill3d/bare-metal-and-neural-nets-crafting-a-purpose-driven-ai-cyberdeck-3pff) |
-| 🌐 | **When SearchValues<T> Actually Pays Off** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l) |
+| 🔥 | **I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning...** | `debugging`, `linux`, `networking` | [Read →](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937) |
+| ⚡ | **When SearchValues<T> Actually Pays Off** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l) |
+| 🚀 | **I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why...** | `kubernetes`, `homelab`, `devops` | [Read →](https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb) |
+| 💡 | **I Connected 3 MCP Servers to One Agent. It Got Scary Fast.** | `discuss`, `ai`, `mcp` | [Read →](https://dev.to/debashish_ghosal/i-connected-3-mcp-servers-to-one-agent-it-got-scary-fast-4loe) |
+| 🧠 | **How Unreal Engine Works: Not an API, but Engineering Thinking** | `gamedev`, `cpp`, `programming` | [Read →](https://dev.to/aggressivesinger3432/how-unreal-engine-works-not-an-api-but-engineering-thinking-ao4) |
+| 🌐 | **Bare Metal and Neural Nets: Crafting a Purpose-Driven AI Cyber...** | `programming`, `opensource`, `cybersecurity` | [Read →](https://dev.to/numbpill3d/bare-metal-and-neural-nets-crafting-a-purpose-driven-ai-cyberdeck-3pff) |
 
 <blockquote>
-<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
 
-<p align="center"><sub>⏰ Last updated: July 26, 2026 • 09:53 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 26, 2026 • 04:12 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
