@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2186</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2186</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Como eu venci o medo da transição de carreira** | `carreira`, `aprendizado`, `networking` | [Read →](https://dev.to/he4rt/como-eu-venci-o-medo-da-transicao-de-carreira-4b3c) |
-| ⚡ | **How terminal-sharing tools put your shell in a browser** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328) |
-| 🚀 | **I Built Something Good With AI. Now Some Developer Communities...** | `ai`, `opensource`, `programming` | [Read →](https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo) |
-| 💡 | **The Cloudflare Worker That Ran Perfectly and Still Failed Twice** | `devchallenge`, `bugsmash`, `sentry` | [Read →](https://dev.to/dannwaneri/the-cloudflare-worker-that-ran-perfectly-and-still-failed-twice-17l2) |
-| 🧠 | **I Ran an AMA on Dev.to. Here Are My Favorite Questions** | `coding`, `beginners`, `career` | [Read →](https://dev.to/canro91/i-ran-an-ama-on-devto-here-are-my-favorite-questions-56o8) |
-| 🌐 | **Lemonade Second Squeeze: Model Archeology on 2019's GPT-2XL** | `ai`, `showdev`, `buildinpublic` | [Read →](https://dev.to/earlgreyhot1701d/lemonade-second-squeeze-model-archeology-on-2019s-gpt-2xl-32jm) |
+| 🔥 | **I Ran an AMA on Dev.to. Here Are My Favorite Questions** | `coding`, `beginners`, `career` | [Read →](https://dev.to/canro91/i-ran-an-ama-on-devto-here-are-my-favorite-questions-56o8) |
+| ⚡ | **Como eu venci o medo da transição de carreira** | `carreira`, `aprendizado`, `networking` | [Read →](https://dev.to/he4rt/como-eu-venci-o-medo-da-transicao-de-carreira-4b3c) |
+| 🚀 | **The Junior Developer Pipeline Is Broken... And AI Broke It** | `ai`, `discuss`, `career` | [Read →](https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai) |
+| 💡 | **🗓️ Monthly Dev Report: July 2026** | `discuss`, `community`, `devjournal` | [Read →](https://dev.to/francistrdev/monthly-dev-report-july-2026-1jdm) |
+| 🧠 | **I Built Something Good With AI. Now Some Developer Communities...** | `ai`, `opensource`, `programming` | [Read →](https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo) |
+| 🌐 | **I Updated My Android App From a Restaurant. My Laptop Was Off.** | `tech` | [Read →](https://dev.to/juandastic/i-updated-my-android-app-from-a-restaurant-my-laptop-was-off-283k) |
 
 <blockquote>
-<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
+<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: July 27, 2026 • 05:50 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 27, 2026 • 11:17 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
