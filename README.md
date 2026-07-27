@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2185</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2186</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on t...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0) |
-| ⚡ | **I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why...** | `kubernetes`, `homelab`, `devops` | [Read →](https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb) |
+| 🔥 | **Como eu venci o medo da transição de carreira** | `carreira`, `aprendizado`, `networking` | [Read →](https://dev.to/he4rt/como-eu-venci-o-medo-da-transicao-de-carreira-4b3c) |
+| ⚡ | **18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on t...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0) |
 | 🚀 | **Your JSON Array Was Streaming All Along** | `dotnet`, `aspnetcore`, `csharp` | [Read →](https://dev.to/ssukhpinder/your-json-array-was-streaming-all-along-162j) |
-| 💡 | **One Cache Miss, Fifty Database Calls** | `dotnet`, `aspnetcore`, `csharp` | [Read →](https://dev.to/ssukhpinder/one-cache-miss-fifty-database-calls-1k5n) |
-| 🧠 | **600 Filters and a 414: The New QUERY Method in .NET 10** | `aspnetcore`, `dotnet`, `csharp` | [Read →](https://dev.to/ssukhpinder/600-filters-and-a-414-the-new-query-method-in-net-10-5bib) |
-| 🌐 | **One Task.Run Quietly Killed the BackgroundService Startup Footgun** | `dotnet`, `aspnetcore`, `csharp` | [Read →](https://dev.to/ssukhpinder/one-taskrun-quietly-killed-the-backgroundservice-startup-footgun-4b70) |
+| 💡 | **PWAs Cache Resources. Spirit Installs an Application.** | `architecture`, `javascript`, `softwaredevelopment` | [Read →](https://dev.to/edmundsparrow/pwas-cache-resources-spirit-installs-an-application-4hmf) |
+| 🧠 | **No backend, no database, no network calls. I still found 3 sec...** | `javascript`, `security`, `webdev` | [Read →](https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5) |
+| 🌐 | **How terminal-sharing tools put your shell in a browser** | `webdev`, `programming`, `productivity` | [Read →](https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328) |
 
 <blockquote>
-<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
+> **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: July 26, 2026 • 10:39 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 27, 2026 • 10:03 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
