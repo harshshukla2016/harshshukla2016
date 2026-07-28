@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2187</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2187</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Passkeys Explained Simply** | `security`, `api`, `webdev` | [Read →](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) |
 | ⚡ | **From Silent Reader to 25 Articles: What 3 Months on DEV Taught...** | `discuss`, `community`, `writing` | [Read →](https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j) |
-| 🚀 | **🗓️ Monthly Dev Report: July 2026** | `discuss`, `community`, `devjournal` | [Read →](https://dev.to/francistrdev/monthly-dev-report-july-2026-1jdm) |
-| 💡 | **The Junior Developer Pipeline Is Broken... And AI Broke It** | `ai`, `discuss`, `career` | [Read →](https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai) |
-| 🧠 | **2 métodos que usei (E USO) nos estudos de programação.** | `braziliandevs`, `aprendizado`, `estudos` | [Read →](https://dev.to/he4rt/2-metodos-que-usei-e-uso-nos-estudos-de-programacao-4n1f) |
-| 🌐 | **Accessibility Semantics: The UI Tree You Cannot See** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/accessibility-semantics-the-ui-tree-you-cannot-see-g9m) |
+| 🚀 | **Understanding Over Origin** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/adamthedeveloper/understanding-over-origin-4685) |
+| 💡 | **React 19's useActionState Showed Me Why Disabling My Submit Bu...** | `react`, `webdev`, `javascript` | [Read →](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) |
+| 🧠 | **If Your AI Agent Has Write Access to Public Repos, Audit It No...** | `security`, `ai`, `webdev` | [Read →](https://dev.to/harsh2644/if-your-ai-agent-has-write-access-to-public-repos-audit-it-now-heres-why-29bb) |
+| 🌐 | **I Had a Lot of Fun Building a Linux Packet Flight Recorder** | `linux`, `networking`, `ai` | [Read →](https://dev.to/copyleftdev/i-had-a-lot-of-fun-building-a-linux-packet-flight-recorder-k44) |
 
 <blockquote>
-<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
+<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
 
-<p align="center"><sub>⏰ Last updated: July 28, 2026 • 04:44 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 28, 2026 • 11:10 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
