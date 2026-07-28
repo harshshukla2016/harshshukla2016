@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2186</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2187</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Ran an AMA on Dev.to. Here Are My Favorite Questions** | `coding`, `beginners`, `career` | [Read →](https://dev.to/canro91/i-ran-an-ama-on-devto-here-are-my-favorite-questions-56o8) |
-| ⚡ | **Como eu venci o medo da transição de carreira** | `carreira`, `aprendizado`, `networking` | [Read →](https://dev.to/he4rt/como-eu-venci-o-medo-da-transicao-de-carreira-4b3c) |
-| 🚀 | **The Junior Developer Pipeline Is Broken... And AI Broke It** | `ai`, `discuss`, `career` | [Read →](https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai) |
+| 🔥 | **From Silent Reader to 25 Articles: What 3 Months on DEV Taught...** | `discuss`, `community`, `writing` | [Read →](https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j) |
+| ⚡ | **Passkeys Explained Simply** | `security`, `api`, `webdev` | [Read →](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) |
+| 🚀 | **I Ran an AMA on Dev.to. Here Are My Favorite Questions** | `coding`, `beginners`, `career` | [Read →](https://dev.to/canro91/i-ran-an-ama-on-devto-here-are-my-favorite-questions-56o8) |
 | 💡 | **🗓️ Monthly Dev Report: July 2026** | `discuss`, `community`, `devjournal` | [Read →](https://dev.to/francistrdev/monthly-dev-report-july-2026-1jdm) |
-| 🧠 | **I Built Something Good With AI. Now Some Developer Communities...** | `ai`, `opensource`, `programming` | [Read →](https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo) |
-| 🌐 | **I Updated My Android App From a Restaurant. My Laptop Was Off.** | `tech` | [Read →](https://dev.to/juandastic/i-updated-my-android-app-from-a-restaurant-my-laptop-was-off-283k) |
+| 🧠 | **2 métodos que usei (E USO) nos estudos de programação.** | `braziliandevs`, `aprendizado`, `estudos` | [Read →](https://dev.to/he4rt/2-metodos-que-usei-e-uso-nos-estudos-de-programacao-4n1f) |
+| 🌐 | **The Junior Developer Pipeline Is Broken... And AI Broke It** | `ai`, `discuss`, `career` | [Read →](https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai) |
 
 <blockquote>
-<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
+<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
+> **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
 
-<p align="center"><sub>⏰ Last updated: July 27, 2026 • 11:17 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 28, 2026 • 09:27 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
