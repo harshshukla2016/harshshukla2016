@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2187</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2188</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Passkeys Explained Simply** | `security`, `api`, `webdev` | [Read →](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) |
-| ⚡ | **From Silent Reader to 25 Articles: What 3 Months on DEV Taught...** | `discuss`, `community`, `writing` | [Read →](https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j) |
-| 🚀 | **Understanding Over Origin** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/adamthedeveloper/understanding-over-origin-4685) |
-| 💡 | **React 19's useActionState Showed Me Why Disabling My Submit Bu...** | `react`, `webdev`, `javascript` | [Read →](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) |
-| 🧠 | **If Your AI Agent Has Write Access to Public Repos, Audit It No...** | `security`, `ai`, `webdev` | [Read →](https://dev.to/harsh2644/if-your-ai-agent-has-write-access-to-public-repos-audit-it-now-heres-why-29bb) |
-| 🌐 | **I Had a Lot of Fun Building a Linux Packet Flight Recorder** | `linux`, `networking`, `ai` | [Read →](https://dev.to/copyleftdev/i-had-a-lot-of-fun-building-a-linux-packet-flight-recorder-k44) |
+| 🔥 | **Understanding Over Origin** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/adamthedeveloper/understanding-over-origin-4685) |
+| ⚡ | **React 19's useActionState Showed Me Why Disabling My Submit Bu...** | `react`, `webdev`, `javascript` | [Read →](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) |
+| 🚀 | **Vibe Coding: Endgame** | `ai`, `vibecoding`, `webdev` | [Read →](https://dev.to/konark_13/vibe-coding-endgame-3bbn) |
+| 💡 | **Slopsquatting: The Supply Chain Attack That Weaponizes AI Hall...** | `security`, `ai`, `webdev` | [Read →](https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2) |
+| 🧠 | **I had two weeks, an 8-foot keyboard, and a Wordle Workflow** | `temporal`, `codesamples`, `industryevents` | [Read →](https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h) |
+| 🌐 | **If Your AI Agent Has Write Access to Public Repos, Audit It No...** | `security`, `ai`, `webdev` | [Read →](https://dev.to/harsh2644/if-your-ai-agent-has-write-access-to-public-repos-audit-it-now-heres-why-29bb) |
 
 <blockquote>
-<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
+> **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: July 28, 2026 • 11:10 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 29, 2026 • 09:38 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
