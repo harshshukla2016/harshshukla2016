@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2188</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2188</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Understanding Over Origin** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/adamthedeveloper/understanding-over-origin-4685) |
-| ⚡ | **React 19's useActionState Showed Me Why Disabling My Submit Bu...** | `react`, `webdev`, `javascript` | [Read →](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) |
-| 🚀 | **Vibe Coding: Endgame** | `ai`, `vibecoding`, `webdev` | [Read →](https://dev.to/konark_13/vibe-coding-endgame-3bbn) |
-| 💡 | **Slopsquatting: The Supply Chain Attack That Weaponizes AI Hall...** | `security`, `ai`, `webdev` | [Read →](https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2) |
+| 🔥 | **Vibe Coding: Endgame** | `ai`, `vibecoding`, `webdev` | [Read →](https://dev.to/konark_13/vibe-coding-endgame-3bbn) |
+| ⚡ | **Slopsquatting: The Supply Chain Attack That Weaponizes AI Hall...** | `security`, `ai`, `webdev` | [Read →](https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2) |
+| 🚀 | **I Built a Chat App That Rewrites Its Own UI in Real Time** | `ai`, `agents`, `webdev` | [Read →](https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5) |
+| 💡 | **If Your AI Agent Has Write Access to Public Repos, Audit It No...** | `security`, `ai`, `webdev` | [Read →](https://dev.to/harsh2644/if-your-ai-agent-has-write-access-to-public-repos-audit-it-now-heres-why-29bb) |
 | 🧠 | **I had two weeks, an 8-foot keyboard, and a Wordle Workflow** | `temporal`, `codesamples`, `industryevents` | [Read →](https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h) |
-| 🌐 | **If Your AI Agent Has Write Access to Public Repos, Audit It No...** | `security`, `ai`, `webdev` | [Read →](https://dev.to/harsh2644/if-your-ai-agent-has-write-access-to-public-repos-audit-it-now-heres-why-29bb) |
+| 🌐 | **What Replacing Calendly Taught Me About Trusting Open Source** | `webdev`, `selfhosted`, `opensource` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/what-replacing-calendly-taught-me-about-trusting-open-source-540a) |
 
 <blockquote>
-<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: July 29, 2026 • 09:38 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 29, 2026 • 04:53 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
