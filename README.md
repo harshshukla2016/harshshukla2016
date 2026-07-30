@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2189</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2189</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Join our latest Frontend Challenge: Comfort Food Edition 🍲** | `devchallenge`, `frontendchallenge`, `css` | [Read →](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0) |
-| ⚡ | **"I Haven't Written Code in 8 Months. I've Never Built More."** | `ai`, `webdev`, `productivity` | [Read →](https://dev.to/auth0/i-havent-written-code-in-8-months-ive-never-built-more-3k9i) |
-| 🚀 | **How I Made JavaScript Execution Visual and Rewindable (DSA Vie...** | `javascript`, `typescript`, `webdev` | [Read →](https://dev.to/nyaomaru/how-i-made-javascript-execution-visual-and-rewindable-dsa-view-view--42k4) |
+| ⚡ | **It Was Just a Patch Update. What Could Possibly Go Wrong?** | `devchallenge`, `bugsmash`, `angular` | [Read →](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) |
+| 🚀 | **"I Haven't Written Code in 8 Months. I've Never Built More."** | `ai`, `webdev`, `productivity` | [Read →](https://dev.to/auth0/i-havent-written-code-in-8-months-ive-never-built-more-3k9i) |
 | 💡 | **ratatop day 2: the memory box, and the lie in `free -h`** | `programming`, `rust`, `cli` | [Read →](https://dev.to/lovestaco/ratatop-day-2-the-memory-box-and-the-lie-in-free-h-h67) |
-| 🧠 | **The 400 I Didn't Have to Write** | `aspnetcore`, `dotnet`, `csharp` | [Read →](https://dev.to/ssukhpinder/the-400-i-didnt-have-to-write-2gho) |
-| 🌐 | **The Freeze Fee: What FrozenDictionary Charges and When It Pays** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/ssukhpinder/the-freeze-fee-what-frozendictionary-charges-and-when-it-pays-14ih) |
+| 🧠 | **One TPU Chip, Eight Agents: Serving Small Agent Workloads with...** | `tpu`, `llm`, `jax` | [Read →](https://dev.to/xbill/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4) |
+| 🌐 | **The Silent iOS 17 Crash Hiding in `@Dependency` and `withTaskG...** | `pointfree`, `ios`, `dependencyinjection` | [Read →](https://dev.to/emadbeyrami/the-silent-ios-17-crash-hiding-in-dependency-and-withtaskgroup-g8c) |
 
 <blockquote>
-<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first YouTube video was uploaded on April 23, 2005 🎬
 
-<p align="center"><sub>⏰ Last updated: July 30, 2026 • 09:23 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 30, 2026 • 04:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
