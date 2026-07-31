@@ -51,17 +51,17 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2190</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2190</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Skills vs MCP: How AI tools have evolved** | `ai`, `agents`, `mcp` | [Read →](https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk) |
 | ⚡ | **What was your win this week?** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-1ed) |
-| 🚀 | **You Know What Happens When There's a Bug in Authentication? Ab...** | `devchallenge`, `bugsmash`, `webdev` | [Read →](https://dev.to/ujja/you-know-what-happens-when-theres-a-bug-in-authentication-absolutely-nothing-g0m) |
-| 💡 | **Emergent Design & Gall's Law: When Complex Coding Problems Dis...** | `architecture`, `programming`, `productivity` | [Read →](https://dev.to/remojansen/emergent-design-galls-law-when-complex-coding-problems-dissolve-instead-of-being-solved-3lok) |
-| 🧠 | **AI-Assisted Engineering: Faster to Build Isn't Cheaper to Own** | `ai`, `leadership`, `llm` | [Read →](https://dev.to/debashish_ghosal/ai-assisted-engineering-faster-to-build-isnt-cheaper-to-own-1lh) |
-| 🌐 | **MCP Went Stateless: Migrating to the 2026-07-28 Spec (and Prov...** | `api`, `backend`, `mcp` | [Read →](https://dev.to/rupa_tiwari_dd308948d710f/mcp-went-stateless-migrating-to-the-2026-07-28-spec-and-proving-it-works-174) |
+| 🚀 | **Dev Opportunity Radar #10: OpenAI Student Collective, Develop ...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2) |
+| 💡 | **The memory layer that never calls an LLM: what that buys, and ...** | `ai`, `rag`, `opensource` | [Read →](https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch) |
+| 🧠 | **Your RAG copilot can't count — stop letting it try** | `rag`, `ai`, `llm` | [Read →](https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3) |
+| 🌐 | **ratatop day 3: disks, statvfs, and my first unsafe block** | `cli`, `beginners`, `programming` | [Read →](https://dev.to/lovestaco/ratatop-day-3-disks-statvfs-and-my-first-unsafe-block-496e) |
 
 <blockquote>
 <p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: July 31, 2026 • 04:57 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: July 31, 2026 • 11:15 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
