@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2191</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2191</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Dev Opportunity Radar #10: OpenAI Student Collective, Develop ...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2) |
-| ⚡ | **Your RAG copilot can't count — stop letting it try** | `rag`, `ai`, `llm` | [Read →](https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3) |
-| 🚀 | **Hardening an AI coding agent: the failures, and the code that ...** | `ai`, `llm`, `rag` | [Read →](https://dev.to/joebuckle-dev/hardening-an-ai-coding-agent-the-failures-and-the-code-that-fixed-them-g3c) |
-| 💡 | **Collaborative Filtering: How Computers Find Your Next Favourit...** | `algorithms`, `ai`, `machinelearning` | [Read →](https://dev.to/ale3oula/collaborative-filtering-how-computers-find-your-next-favourite-thing-22em) |
-| 🧠 | **Layered Architecture in Flutter with BlocSignal: Bringing BLoC...** | `flutter`, `dart`, `architecture` | [Read →](https://dev.to/gde/layered-architecture-in-flutter-with-blocsignal-bringing-bloc-discipline-and-signals-speed-to-2c25) |
+| 🔥 | **CyberPanel's SSL Auto-Renewal Can Silently Fail — Here's the Fix** | `cybersecurity`, `devops`, `infrastructure` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/cyberpanels-ssl-auto-renewal-can-silently-fail-heres-the-fix-5g1o) |
+| ⚡ | **I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.** | `go`, `kubernetes`, `opensource` | [Read →](https://dev.to/le_beltagy/i-learned-go-in-3-weeks-yesterday-my-code-merged-into-k9s-2dg4) |
+| 🚀 | **Collaborative Filtering: How Computers Find Your Next Favourit...** | `algorithms`, `ai`, `machinelearning` | [Read →](https://dev.to/ale3oula/collaborative-filtering-how-computers-find-your-next-favourite-thing-22em) |
+| 💡 | **Introducing DevPub - Open Source Dev.to CLI Tool** | `devto`, `opensource`, `showdev` | [Read →](https://dev.to/sarvar_04/introducing-devpub-open-source-devto-cli-tool-49jf) |
+| 🧠 | **Gravy Boat — a landing page with a CSS poutine you can drown in!** | `frontendchallenge`, `devchallenge`, `a11y` | [Read →](https://dev.to/xbill/gravy-boat-a-landing-page-with-a-css-poutine-you-can-drown-i12) |
 | 🌐 | **Poutine: the true food of the gods** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/xbill/poutine-the-true-food-of-the-gods-5fep) |
 
 <blockquote>
-<p>💬 <em>"The best error message is the one that never shows up."</em> — <strong>Thomas Fuchs</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Linux powers 96.3% of the world's top 1 million servers 🐧
 
-<p align="center"><sub>⏰ Last updated: August 01, 2026 • 04:07 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 01, 2026 • 10:37 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
