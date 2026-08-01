@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2190</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2191</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Skills vs MCP: How AI tools have evolved** | `ai`, `agents`, `mcp` | [Read →](https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk) |
-| ⚡ | **What was your win this week?** | `discuss`, `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-1ed) |
-| 🚀 | **Dev Opportunity Radar #10: OpenAI Student Collective, Develop ...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2) |
-| 💡 | **The memory layer that never calls an LLM: what that buys, and ...** | `ai`, `rag`, `opensource` | [Read →](https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch) |
-| 🧠 | **Your RAG copilot can't count — stop letting it try** | `rag`, `ai`, `llm` | [Read →](https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3) |
-| 🌐 | **ratatop day 3: disks, statvfs, and my first unsafe block** | `cli`, `beginners`, `programming` | [Read →](https://dev.to/lovestaco/ratatop-day-3-disks-statvfs-and-my-first-unsafe-block-496e) |
+| 🔥 | **Dev Opportunity Radar #10: OpenAI Student Collective, Develop ...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2) |
+| ⚡ | **Your RAG copilot can't count — stop letting it try** | `rag`, `ai`, `llm` | [Read →](https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3) |
+| 🚀 | **Fixing Exact Package Search Relevance in npmx** | `devchallenge`, `bugsmash`, `typescript` | [Read →](https://dev.to/anilloutombam/fixing-exact-package-search-relevance-in-npmx-34c7) |
+| 💡 | **ratatop day 3: disks, statvfs, and my first unsafe block** | `cli`, `beginners`, `programming` | [Read →](https://dev.to/lovestaco/ratatop-day-3-disks-statvfs-and-my-first-unsafe-block-496e) |
+| 🧠 | **Hardening an AI coding agent: the failures, and the code that ...** | `ai`, `llm`, `rag` | [Read →](https://dev.to/joebuckle-dev/hardening-an-ai-coding-agent-the-failures-and-the-code-that-fixed-them-g3c) |
+| 🌐 | **Collaborative Filtering: How Computers Find Your Next Favourit...** | `algorithms`, `ai`, `machinelearning` | [Read →](https://dev.to/ale3oula/collaborative-filtering-how-computers-find-your-next-favourite-thing-22em) |
 
 <blockquote>
-<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
+<p>💬 <em>"The best error message is the one that never shows up."</em> — <strong>Thomas Fuchs</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
+> **🧪 Did You Know?** Linux powers 96.3% of the world's top 1 million servers 🐧
 
-<p align="center"><sub>⏰ Last updated: July 31, 2026 • 11:15 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 01, 2026 • 09:48 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
