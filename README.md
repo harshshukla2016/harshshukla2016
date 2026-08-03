@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2193</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2193</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Tonkotsu ramen in CSS** | `css`, `frontendchallenge`, `devchallenge` | [Read →](https://dev.to/naman_dhakad/tonkotsu-ramen-in-css-3081) |
-| ⚡ | **dev.to's Dashboard Can't Count Its Own Posts** | `bugsmash`, `devchallenge`, `ai` | [Read →](https://dev.to/dannwaneri/devtos-dashboard-cant-count-its-own-posts-3fci) |
-| 🚀 | **Stratagems #21: The AI Thought P Was Still Alive. P Was Alread...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7) |
-| 💡 | **I Let an AI Orb Judge My Facial Expressions While I Code, and ...** | `ai`, `tooling`, `programming` | [Read →](https://dev.to/trojanmocx/i-let-an-ai-orb-judge-my-facial-expressions-while-i-code-and-heres-what-happened-45a0) |
-| 🧠 | **Khachapuri: Georgian Cheese Bread in Pure CSS** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/highflyer910/khachapuri-georgian-cheese-bread-in-pure-css-47o7) |
-| 🌐 | **I Built an Agent Eval Harness. Real Agents Broke the Clean Ver...** | `ai`, `agentskills`, `learning` | [Read →](https://dev.to/debashish_ghosal/i-built-an-agent-eval-harness-real-agents-broke-the-clean-version-of-the-story-53dj) |
+| 🔥 | **How would you decide, whether the content is good or bad?** | `discuss`, `community`, `ai` | [Read →](https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p) |
+| ⚡ | **Khachapuri: Georgian Cheese Bread in Pure CSS** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/highflyer910/khachapuri-georgian-cheese-bread-in-pure-css-47o7) |
+| 🚀 | **dev.to's Dashboard Can't Count Its Own Posts** | `bugsmash`, `devchallenge`, `ai` | [Read →](https://dev.to/dannwaneri/devtos-dashboard-cant-count-its-own-posts-3fci) |
+| 💡 | **TypeScript 7 Went Native: What Actually Changes And What Doesn't** | `discuss`, `javascript`, `typescript` | [Read →](https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3) |
+| 🧠 | **We’re Giving AI Agents More Tools. What Happens When the Bound...** | `discuss`, `security`, `agents` | [Read →](https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh) |
+| 🌐 | **I Let an AI Orb Judge My Facial Expressions While I Code, and ...** | `ai`, `tooling`, `programming` | [Read →](https://dev.to/trojanmocx/i-let-an-ai-orb-judge-my-facial-expressions-while-i-code-and-heres-what-happened-45a0) |
 
 <blockquote>
-<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
 
-<p align="center"><sub>⏰ Last updated: August 03, 2026 • 05:50 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 03, 2026 • 11:27 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
