@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2194</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2194</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **How would you decide, whether the content is good or bad?** | `discuss`, `community`, `ai` | [Read →](https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p) |
-| ⚡ | **Stop Calling Everything Impostor Syndrome: The Myth of "Just P...** | `career`, `mentalhealth` | [Read →](https://dev.to/sylwia-lask/stop-calling-everything-impostor-syndrome-the-myth-of-just-push-harder-1dmm) |
-| 🚀 | **TypeScript 7 Went Native: What Actually Changes And What Doesn't** | `discuss`, `javascript`, `typescript` | [Read →](https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3) |
-| 💡 | **We’re Giving AI Agents More Tools. What Happens When the Bound...** | `discuss`, `security`, `agents` | [Read →](https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh) |
-| 🧠 | **What are your goals for the week? #190** | `discuss` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-190-d5p) |
-| 🌐 | **Interviewing off leetcode you already memorized isn't cheating...** | `hiring`, `interview`, `career` | [Read →](https://dev.to/adioof/interviewing-off-leetcode-you-already-memorized-isnt-cheating-its-the-job-5e76) |
+| 🔥 | **Stop Calling Everything Impostor Syndrome: The Myth of "Just P...** | `career`, `mentalhealth` | [Read →](https://dev.to/sylwia-lask/stop-calling-everything-impostor-syndrome-the-myth-of-just-push-harder-1dmm) |
+| ⚡ | **Damn Popovers** | `watercooler`, `ui`, `uidesign` | [Read →](https://dev.to/ingosteinke/damn-popovers-23n1) |
+| 🚀 | **Interviewing off leetcode you already memorized isn't cheating...** | `hiring`, `interview`, `career` | [Read →](https://dev.to/adioof/interviewing-off-leetcode-you-already-memorized-isnt-cheating-its-the-job-5e76) |
+| 💡 | **Understanding Over Origin: The Missing Friction** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag) |
+| 🧠 | **I Hashed Every Word Twice to Count It Once** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/ssukhpinder/i-hashed-every-word-twice-to-count-it-once-1mg9) |
+| 🌐 | **7.8 MB of Keys I Allocated Just to Throw Away** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/ssukhpinder/78-mb-of-keys-i-allocated-just-to-throw-away-50mn) |
 
 <blockquote>
-<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
+<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Email existed before the World Wide Web 📧
 
-<p align="center"><sub>⏰ Last updated: August 04, 2026 • 04:51 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 04, 2026 • 11:25 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
