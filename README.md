@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2196</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2197</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **General Challenge Updates Moving Forward** | `devchallenge` | [Read →](https://dev.to/thepracticaldev/general-challenge-updates-moving-forward-5h39) |
-| ⚡ | **Are we the abstraction? AI and the future of software engineering** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/jennapederson/the-abstraction-appears-to-include-us-2d47) |
-| 🚀 | **Introducing Kiro Crew: AWS's Open-Source AI Agent Orchestrator** | `agents`, `ai`, `aws` | [Read →](https://dev.to/sarvar_04/introducing-kiro-crew-awss-open-source-ai-agent-orchestrator-1e63) |
-| 💡 | **When Your VPS Never Had the Resources It Was Sold With** | `networking`, `devops`, `vps` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o) |
-| 🧠 | **GitHub agentic workflows and Renovate** | `github`, `agenticworkflow`, `renovate` | [Read →](https://dev.to/nfrankel/github-agentic-workflows-and-renovate-40i4) |
-| 🌐 | **Dev log #15 Refining the Craft: A week of Neovim UI hacking an...** | `webdev`, `weeklyui`, `ui` | [Read →](https://dev.to/yashksaini/dev-log-15-refining-the-craft-a-week-of-neovim-ui-hacking-and-portfolio-architecture-45a2) |
+| 🔥 | **🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a ...** | `devchallenge`, `frontendchallenge`, `webdev` | [Read →](https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h) |
+| ⚡ | **I Recreated Management With AI: 9 Things I Do Differently** | `discuss`, `ai`, `writing` | [Read →](https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g) |
+| 🚀 | **I Spent a Day With Kiro Crew. Here's What It Actually Does.** | `agents`, `ai`, `showdev` | [Read →](https://dev.to/aws-builders/i-spent-a-day-with-kiro-crew-heres-what-it-actually-does-fk0) |
+| 💡 | **I Replaced kube-proxy with eBPF in Production (And Why My Moni...** | `kubernetes`, `ebpf`, `security` | [Read →](https://dev.to/le_beltagy/i-replaced-kube-proxy-with-ebpf-in-production-and-why-my-monitoring-went-blind-for-6-hours-1n18) |
+| 🧠 | **Opus 5: Delete your CLAUDE.md?** | `ai`, `claude`, `promptengineering` | [Read →](https://dev.to/reporails/opus-5-delete-your-claudemd-9ga) |
+| 🌐 | **This is a submission for [Frontend Challenge - Comfort Food Ed...** | `devchallenge`, `frontendchallenge`, `webdev` | [Read →](https://dev.to/edmundsparrow/this-is-a-submission-for-frontend-challenge-comfort-food-edition-perfect-landing-1p8c) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
+> **🧪 Did You Know?** More than 6,000 new computer viruses are created every month 🦠
 
-<p align="center"><sub>⏰ Last updated: August 06, 2026 • 04:50 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 07, 2026 • 09:16 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
