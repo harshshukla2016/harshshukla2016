@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2198</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2199</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **ratatop: the process table, and the parentheses that ruin ever...** | `rust`, `tui`, `cli` | [Read →](https://dev.to/lovestaco/ratatop-the-process-table-and-the-parentheses-that-ruin-everything-13fn) |
-| ⚡ | **The Year I Started Leaving Breadcrumbs Instead of Notes** | `ai`, `productivity`, `notion` | [Read →](https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0) |
-| 🚀 | **Into the void** | `c`, `cpp` | [Read →](https://dev.to/pauljlucas/into-the-void-4h69) |
-| 💡 | **Swift Protocols — Opaque Return Types and the Mystery of `some` 🔮** | `ios`, `swift`, `swiftui` | [Read →](https://dev.to/gamya_m/swift-protocols-opaque-return-types-and-the-mystery-of-some-1dkb) |
-| 🧠 | **I Explained My Code While Writing It on Camera. Here’s What Su...** | `buildinpublic`, `webdev`, `devjournal` | [Read →](https://dev.to/cathylai/i-explained-my-code-while-writing-it-on-camera-heres-what-surprised-me-3bp) |
-| 🌐 | **I Put a Canary Token in My Resume and Caught a Company Stalkin...** | `privacy`, `tutorial`, `security` | [Read →](https://dev.to/numbpill3d/i-put-a-canary-token-in-my-resume-and-caught-a-company-stalking-me-458g) |
+| 🔥 | **I Know the Recipe. I Miss the Winter Kitchen.** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/shubhradev/i-know-the-recipe-i-miss-the-winter-kitchen-39ea) |
+| ⚡ | **Teaching Your AI Web Design Some Actual Taste** | `ai`, `webdev`, `claude` | [Read →](https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13) |
+| 🚀 | **Who Named This ReAct? I'd Like to Speak to the Manager.** | `ai`, `learning`, `buildinpublic` | [Read →](https://dev.to/earlgreyhot1701d/who-named-this-react-id-like-to-speak-to-the-manager-4akg) |
+| 💡 | **Frontend system design interviews are weird. Here’s how I now ...** | `architecture`, `frontend`, `interview` | [Read →](https://dev.to/ale3oula/frontend-system-design-interviews-are-weird-heres-how-i-now-approach-functional-requirements-3ea6) |
+| 🧠 | **Everything Was Working. AWS Wanted $1,665/Month More.** | `aws`, `kubernetes`, `devops` | [Read →](https://dev.to/aws-builders/everything-was-working-aws-wanted-1665month-more-45h) |
+| 🌐 | **Fable 5 Plays Pokémon Sapphire Vision-Only: Notes on a 2,000-D...** | `ai`, `python`, `machinelearning` | [Read →](https://dev.to/qingze_hu_c4c251c1b353ede/fable-5-plays-pokemon-sapphire-vision-only-notes-on-a-2000-decision-run-296k) |
 
 <blockquote>
-<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
+<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The term 'robot' comes from a Czech word meaning 'forced labor' 🤖
+> **🧪 Did You Know?** The first YouTube video was uploaded on April 23, 2005 🎬
 
-<p align="center"><sub>⏰ Last updated: August 08, 2026 • 10:11 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 09, 2026 • 08:29 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
