@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2199</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2199</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Know the Recipe. I Miss the Winter Kitchen.** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/shubhradev/i-know-the-recipe-i-miss-the-winter-kitchen-39ea) |
-| ⚡ | **Teaching Your AI Web Design Some Actual Taste** | `ai`, `webdev`, `claude` | [Read →](https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13) |
-| 🚀 | **Who Named This ReAct? I'd Like to Speak to the Manager.** | `ai`, `learning`, `buildinpublic` | [Read →](https://dev.to/earlgreyhot1701d/who-named-this-react-id-like-to-speak-to-the-manager-4akg) |
-| 💡 | **Frontend system design interviews are weird. Here’s how I now ...** | `architecture`, `frontend`, `interview` | [Read →](https://dev.to/ale3oula/frontend-system-design-interviews-are-weird-heres-how-i-now-approach-functional-requirements-3ea6) |
-| 🧠 | **Everything Was Working. AWS Wanted $1,665/Month More.** | `aws`, `kubernetes`, `devops` | [Read →](https://dev.to/aws-builders/everything-was-working-aws-wanted-1665month-more-45h) |
-| 🌐 | **Fable 5 Plays Pokémon Sapphire Vision-Only: Notes on a 2,000-D...** | `ai`, `python`, `machinelearning` | [Read →](https://dev.to/qingze_hu_c4c251c1b353ede/fable-5-plays-pokemon-sapphire-vision-only-notes-on-a-2000-decision-run-296k) |
+| 🔥 | **Teaching Your AI Web Design Some Actual Taste** | `ai`, `webdev`, `claude` | [Read →](https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13) |
+| ⚡ | **I Know the Recipe. I Miss the Winter Kitchen.** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/shubhradev/i-know-the-recipe-i-miss-the-winter-kitchen-39ea) |
+| 🚀 | **Which parts of this are real? Should be a question with an answer** | `laravel`, `php`, `architecture` | [Read →](https://dev.to/nasrulhazim/which-parts-of-this-are-real-should-be-a-question-with-an-answer-2a2j) |
+| 💡 | **I measured his app with his own code. He measured my claim wit...** | `ai`, `llm`, `opensource` | [Read →](https://dev.to/lizhuojunx86/i-measured-his-app-with-his-own-code-he-measured-my-claim-with-his-own-corpus-1l5m) |
+| 🧠 | **Frontend system design interviews are weird. Here’s how I now ...** | `architecture`, `frontend`, `interview` | [Read →](https://dev.to/ale3oula/frontend-system-design-interviews-are-weird-heres-how-i-now-approach-functional-requirements-3ea6) |
+| 🌐 | **A Second Brain Your AI Agent Can Read: Obsidian + Claude** | `ai`, `productivity`, `documentation` | [Read →](https://dev.to/shayan-araghi/a-second-brain-your-ai-agent-can-read-4kf6) |
 
 <blockquote>
-<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first YouTube video was uploaded on April 23, 2005 🎬
 
-<p align="center"><sub>⏰ Last updated: August 09, 2026 • 08:29 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 09, 2026 • 03:06 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
