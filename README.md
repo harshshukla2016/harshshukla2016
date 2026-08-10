@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2199</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2200</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Teaching Your AI Web Design Some Actual Taste** | `ai`, `webdev`, `claude` | [Read →](https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13) |
-| ⚡ | **I Know the Recipe. I Miss the Winter Kitchen.** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/shubhradev/i-know-the-recipe-i-miss-the-winter-kitchen-39ea) |
+| 🔥 | **Restate's Single Binary vs Temporal's Cluster: When the Lighte...** | `architecture`, `typescript`, `discuss` | [Read →](https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635) |
+| ⚡ | **Stop using the localStorage hack to sync browser tabs. Broadca...** | `javascript`, `webdev`, `frontend` | [Read →](https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9) |
 | 🚀 | **🛻CSS Art: Smoothie Food Truck** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/annavi11arrea1/css-art-smoothie-food-truck-36gg) |
-| 💡 | **I measured his app with his own code. He measured my claim wit...** | `ai`, `llm`, `opensource` | [Read →](https://dev.to/lizhuojunx86/i-measured-his-app-with-his-own-code-he-measured-my-claim-with-his-own-corpus-1l5m) |
-| 🧠 | **Which parts of this are real? Should be a question with an answer** | `laravel`, `php`, `architecture` | [Read →](https://dev.to/nasrulhazim/which-parts-of-this-are-real-should-be-a-question-with-an-answer-2a2j) |
+| 💡 | **🏦 Vaya: an AI loan advisor that asks whether you can still aff...** | `showdev`, `ai`, `qoderhackathon` | [Read →](https://dev.to/minhlong2605/vaya-an-ai-loan-advisor-that-asks-whether-you-can-still-afford-to-live-gkc) |
+| 🧠 | **From Threat Model to Framework: Closing the Real Gaps in Agent...** | `discuss`, `ai`, `security` | [Read →](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8) |
 | 🌐 | **Surviving the AI Bubble With Two Pieces of Junk From Amazon** | `ai`, `programming`, `tutorial` | [Read →](https://dev.to/numbpill3d/surviving-the-ai-bubble-with-two-pieces-of-junk-from-amazon-5h1i) |
 
 <blockquote>
-<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first YouTube video was uploaded on April 23, 2005 🎬
+> **🧪 Did You Know?** More than 6,000 new computer viruses are created every month 🦠
 
-<p align="center"><sub>⏰ Last updated: August 09, 2026 • 10:12 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 10, 2026 • 08:38 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
