@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2200</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2200</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Restate's Single Binary vs Temporal's Cluster: When the Lighte...** | `architecture`, `typescript`, `discuss` | [Read →](https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635) |
-| ⚡ | **Backend Engineer (Me) Ships a Browser Game With One Unintentio...** | `devchallenge`, `bugsmash` | [Read →](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) |
-| 🚀 | **🛻CSS Art: Smoothie Food Truck** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/annavi11arrea1/css-art-smoothie-food-truck-36gg) |
-| 💡 | **🏦 Vaya: an AI loan advisor that asks whether you can still aff...** | `showdev`, `ai`, `qoderhackathon` | [Read →](https://dev.to/minhlong2605/vaya-an-ai-loan-advisor-that-asks-whether-you-can-still-afford-to-live-gkc) |
-| 🧠 | **From Threat Model to Framework: Closing the Real Gaps in Agent...** | `discuss`, `ai`, `security` | [Read →](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8) |
-| 🌐 | **Rasa Kenangan — Immersive Scroll Narrative Landing Page** | `devchallenge`, `frontendchallenge`, `webdev` | [Read →](https://dev.to/rexreus/rasa-kenangan-immersive-scroll-narrative-landing-page-1dm0) |
+| 🔥 | **Backend Engineer (Me) Ships a Browser Game With One Unintentio...** | `devchallenge`, `bugsmash` | [Read →](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) |
+| ⚡ | **I Joined dev.to because...** | `discuss`, `community`, `writing` | [Read →](https://dev.to/francistrdev/i-joined-devto-because-fl0) |
+| 🚀 | **Restate's Single Binary vs Temporal's Cluster: When the Lighte...** | `architecture`, `typescript`, `discuss` | [Read →](https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635) |
+| 💡 | **From Threat Model to Framework: Closing the Real Gaps in Agent...** | `discuss`, `ai`, `security` | [Read →](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8) |
+| 🧠 | **Hey all! I’m Jem, the DEV Community Program Coordinator** | `meta` | [Read →](https://dev.to/heyitsjem/hey-all-im-jem-the-dev-community-program-coordinator-2g2) |
+| 🌐 | **You Don't Have an AI Problem You Have a Thinking Problem.** | `ai`, `programming`, `softwaredevelopment` | [Read →](https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07) |
 
 <blockquote>
-<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
+<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** More than 6,000 new computer viruses are created every month 🦠
 
-<p align="center"><sub>⏰ Last updated: August 10, 2026 • 03:43 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 10, 2026 • 10:29 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
