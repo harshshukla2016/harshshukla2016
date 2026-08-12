@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2202</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2202</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **How Many Introductions Away Are You From Pedro Pascal? A Pract...** | `algorithms`, `datastructures`, `webdev` | [Read →](https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg) |
-| ⚡ | **Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal** | `nuxt`, `vue`, `ssr` | [Read →](https://dev.to/erikch/nuxt-45-ssr-streaming-is-kind-of-a-big-deal-2i37) |
-| 🚀 | **Pi Agent vs Claude Code After 100 Hours of Real Use 🔥** | `ai`, `productivity`, `opensource` | [Read →](https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp) |
-| 💡 | **Latency vs. Tokens: What I Learned Optimizing an Agent with Ge...** | `gemma`, `genai`, `experiment` | [Read →](https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g) |
-| 🧠 | **Ignition: Flashing 2,300 conference badges with Temporal** | `temporal`, `durableexecution`, `retries` | [Read →](https://dev.to/temporalio/ignition-flashing-2300-conference-badges-with-temporal-575m) |
-| 🌐 | **Three Pastry Chefs Walk Into a Kitchen** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/kenwalger/three-pastry-chefs-walk-into-a-kitchen-2aaa) |
+| 🔥 | **Bug Smash: restoring dropped Gemini chat config in Sentry's Ja...** | `devchallenge`, `bugsmash`, `javascript` | [Read →](https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a) |
+| ⚡ | **Latency vs. Tokens: What I Learned Optimizing an Agent with Ge...** | `gemma`, `genai`, `experiment` | [Read →](https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g) |
+| 🚀 | **Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal** | `nuxt`, `vue`, `ssr` | [Read →](https://dev.to/erikch/nuxt-45-ssr-streaming-is-kind-of-a-big-deal-2i37) |
+| 💡 | **I Built a Notebook for Sharing Notes That Doesn't Ask You to S...** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd) |
+| 🧠 | **React 19's useFormStatus Fixed My Prop Drilling. Then It Sat T...** | `react`, `javascript`, `webdev` | [Read →](https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl) |
+| 🌐 | **The Mechanical vs. The Semantic: What Happens When AI Memory i...** | `ai`, `agents`, `architecture` | [Read →](https://dev.to/mansio/the-mechanical-vs-the-semantic-what-happens-when-ai-memory-is-wrong-38ko) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
 
-<p align="center"><sub>⏰ Last updated: August 12, 2026 • 03:30 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 12, 2026 • 10:32 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
