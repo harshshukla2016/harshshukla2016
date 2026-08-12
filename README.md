@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2202</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2202</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **How Many Introductions Away Are You From Pedro Pascal? A Pract...** | `algorithms`, `datastructures`, `webdev` | [Read →](https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg) |
 | ⚡ | **Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal** | `nuxt`, `vue`, `ssr` | [Read →](https://dev.to/erikch/nuxt-45-ssr-streaming-is-kind-of-a-big-deal-2i37) |
-| 🚀 | **Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Off...** | `devchallenge`, `frontendchallenge`, `css` | [Read →](https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m) |
-| 💡 | **Pi Agent vs Claude Code After 100 Hours of Real Use 🔥** | `ai`, `productivity`, `opensource` | [Read →](https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp) |
+| 🚀 | **Pi Agent vs Claude Code After 100 Hours of Real Use 🔥** | `ai`, `productivity`, `opensource` | [Read →](https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp) |
+| 💡 | **Latency vs. Tokens: What I Learned Optimizing an Agent with Ge...** | `gemma`, `genai`, `experiment` | [Read →](https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g) |
 | 🧠 | **Ignition: Flashing 2,300 conference badges with Temporal** | `temporal`, `durableexecution`, `retries` | [Read →](https://dev.to/temporalio/ignition-flashing-2300-conference-badges-with-temporal-575m) |
-| 🌐 | **Porting a Python PEG parser to Rust in 72 hours, and actually ...** | `rust`, `python`, `testing` | [Read →](https://dev.to/avyuktsoni0731/porting-a-python-peg-parser-to-rust-in-72-hours-and-actually-proving-it-worked-3jl2) |
+| 🌐 | **Three Pastry Chefs Walk Into a Kitchen** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/kenwalger/three-pastry-chefs-walk-into-a-kitchen-2aaa) |
 
 <blockquote>
-<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
+<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
 
-<p align="center"><sub>⏰ Last updated: August 12, 2026 • 08:50 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 12, 2026 • 03:30 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
