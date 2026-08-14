@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2203</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2204</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **24 Cups, 36 Seats — The Bartender's Ledger** | `career`, `discuss`, `ai` | [Read →](https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj) |
-| ⚡ | **My (not so pretty) journey in tech** | `discuss`, `programming`, `productivity` | [Read →](https://dev.to/ishacodes/why-i-joined-devto--5c63) |
-| 🚀 | **Do I Still Need a Monkey Patch for Gemini Live?** | `python`, `googleadk`, `gemini` | [Read →](https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e) |
-| 💡 | **Stop Pretending To Do Domain-Driven Design** | `architecture`, `ddd`, `programming` | [Read →](https://dev.to/jamesmh/stop-pretending-to-do-domain-driven-design-2od4) |
-| 🧠 | **I Tried Building a Website With AI From My Phone** | `testing`, `agents`, `web3` | [Read →](https://dev.to/chizurumchidimma/i-tried-building-a-website-with-ai-from-my-phone-4a80) |
-| 🌐 | **Riverpod to BlocSignal: Incremental Migration and Zero-Codegen...** | `flutter`, `dart`, `riverpod` | [Read →](https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp) |
+| 🔥 | **I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.** | `ai`, `agents`, `security` | [Read →](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) |
+| ⚡ | **Not All AI Builders Are Doing the Same Work** | `ai`, `career`, `opinion` | [Read →](https://dev.to/deeheber/not-all-ai-builders-are-doing-the-same-work-31m4) |
+| 🚀 | **My (not so pretty) journey in tech** | `discuss`, `programming`, `productivity` | [Read →](https://dev.to/ishacodes/why-i-joined-devto--5c63) |
+| 💡 | **24 Cups, 36 Seats — The Bartender's Ledger** | `career`, `discuss`, `ai` | [Read →](https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj) |
+| 🧠 | **Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU** | `aws`, `vllm`, `cuda` | [Read →](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) |
+| 🌐 | **Crafting Hot Filter Kaapi in Pure CSS: Gradients, Steam Engine...** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/solomon1029/crafting-hot-filter-kaapi-in-pure-css-gradients-steam-engines-hardware-acceleration-315o) |
 
 <blockquote>
 <p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Stack Overflow is visited by 50 million developers every month 📚
+> **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: August 13, 2026 • 10:32 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 14, 2026 • 08:51 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
