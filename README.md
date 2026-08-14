@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2204</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2204</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.** | `ai`, `agents`, `security` | [Read →](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) |
-| ⚡ | **Not All AI Builders Are Doing the Same Work** | `ai`, `career`, `opinion` | [Read →](https://dev.to/deeheber/not-all-ai-builders-are-doing-the-same-work-31m4) |
-| 🚀 | **My (not so pretty) journey in tech** | `discuss`, `programming`, `productivity` | [Read →](https://dev.to/ishacodes/why-i-joined-devto--5c63) |
-| 💡 | **24 Cups, 36 Seats — The Bartender's Ledger** | `career`, `discuss`, `ai` | [Read →](https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj) |
-| 🧠 | **Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU** | `aws`, `vllm`, `cuda` | [Read →](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) |
-| 🌐 | **Crafting Hot Filter Kaapi in Pure CSS: Gradients, Steam Engine...** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/solomon1029/crafting-hot-filter-kaapi-in-pure-css-gradients-steam-engines-hardware-acceleration-315o) |
+| 🔥 | **My (not so pretty) journey in tech** | `discuss`, `programming`, `productivity` | [Read →](https://dev.to/ishacodes/why-i-joined-devto--5c63) |
+| ⚡ | **Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU** | `aws`, `vllm`, `cuda` | [Read →](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) |
+| 🚀 | **Crafting Hot Filter Kaapi in Pure CSS: Gradients, Steam Engine...** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/solomon1029/crafting-hot-filter-kaapi-in-pure-css-gradients-steam-engines-hardware-acceleration-315o) |
+| 💡 | **You Know What's Worse Than Not Being Able to Log In?** | `devchallenge`, `bugsmash`, `distributedsystems` | [Read →](https://dev.to/ujja/you-know-whats-worse-than-not-being-able-to-log-in-5379) |
+| 🧠 | **Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU** | `aws`, `vllm`, `cuda` | [Read →](https://dev.to/aws-builders/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-13j) |
+| 🌐 | **Mysore-pak** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/maha_06/mysore-pak-5cfp) |
 
 <blockquote>
-<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
+<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: August 14, 2026 • 08:51 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 14, 2026 • 03:27 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
