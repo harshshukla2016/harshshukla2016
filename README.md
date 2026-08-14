@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2204</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2204</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **My (not so pretty) journey in tech** | `discuss`, `programming`, `productivity` | [Read →](https://dev.to/ishacodes/why-i-joined-devto--5c63) |
-| ⚡ | **Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU** | `aws`, `vllm`, `cuda` | [Read →](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) |
-| 🚀 | **Crafting Hot Filter Kaapi in Pure CSS: Gradients, Steam Engine...** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/solomon1029/crafting-hot-filter-kaapi-in-pure-css-gradients-steam-engines-hardware-acceleration-315o) |
-| 💡 | **You Know What's Worse Than Not Being Able to Log In?** | `devchallenge`, `bugsmash`, `distributedsystems` | [Read →](https://dev.to/ujja/you-know-whats-worse-than-not-being-able-to-log-in-5379) |
-| 🧠 | **Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU** | `aws`, `vllm`, `cuda` | [Read →](https://dev.to/aws-builders/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-13j) |
-| 🌐 | **Mysore-pak** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/maha_06/mysore-pak-5cfp) |
+| 🔥 | **What was your win this week??** | `weeklyretro`, `discuss` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-23ob) |
+| ⚡ | **Morning on a Banana Leaf: A South Indian Breakfast Still Life ...** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/sushyam_nagallapati/morning-on-a-banana-leaf-a-south-indian-breakfast-still-life-in-css-c3g) |
+| 🚀 | **Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU** | `aws`, `vllm`, `cuda` | [Read →](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) |
+| 💡 | **Reviving Open Source Giants: How I Brought Weave Scope Back wi...** | `opensource`, `devops`, `docker` | [Read →](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) |
+| 🧠 | **Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free ...** | `flutter`, `dart`, `statemanagement` | [Read →](https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll) |
+| 🌐 | **Looker's Native MCP Server with Claude Code** | `mcp`, `looker`, `claudecode` | [Read →](https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8) |
 
 <blockquote>
-<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
+<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: August 14, 2026 • 03:27 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 14, 2026 • 10:29 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
