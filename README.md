@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2206</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2206</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **PawBot - An AI Desktop Puppy That Eats Your Files 🐾** | `devchallenge`, `weekendchallenge` | [Read →](https://dev.to/varshithvhegde/pawbot-an-ai-desktop-puppy-that-eats-your-files-301a) |
-| ⚡ | **Spicing Up the Web: Building "Angaar", an Immersive Indian Com...** | `devchallenge`, `frontendchallenge`, `webdev` | [Read →](https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go) |
-| 🚀 | **I built a security scanner that checks if you are a dog** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/xbill/i-built-a-security-scanner-that-checks-if-you-are-a-dog-357n) |
-| 💡 | **The "AI" Badge Doesn't Measure What You Think It Does** | `ai`, `llm`, `writing` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9) |
-| 🧠 | **One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, an...** | `flutter`, `dart`, `statemanagement` | [Read →](https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4) |
-| 🌐 | **Turning Ayurveda’s Six Rasas Into CSS Art** | `frontendchallenge`, `devchallenge`, `css` | [Read →](https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6) |
+| ⚡ | **I built a security scanner that checks if you are a dog** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/xbill/i-built-a-security-scanner-that-checks-if-you-are-a-dog-357n) |
+| 🚀 | **The "AI" Badge Doesn't Measure What You Think It Does** | `ai`, `llm`, `writing` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9) |
+| 💡 | **One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, an...** | `flutter`, `dart`, `statemanagement` | [Read →](https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4) |
+| 🧠 | **Gravy Theory: three chickens, one base** | `devchallenge`, `frontendchallenge`, `webdev` | [Read →](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8) |
+| 🌐 | **Claude Impact Lab LA: Community Changed the Code** | `ai`, `civictech`, `community` | [Read →](https://dev.to/earlgreyhot1701d/claude-impact-lab-la-community-changed-the-code-1mg2) |
 
 <blockquote>
-<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
+<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first Apple logo featured Isaac Newton sitting under a tree 🍏
 
-<p align="center"><sub>⏰ Last updated: August 16, 2026 • 07:48 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 16, 2026 • 02:54 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
