@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2206</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2206</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **PawBot - An AI Desktop Puppy That Eats Your Files 🐾** | `devchallenge`, `weekendchallenge` | [Read →](https://dev.to/varshithvhegde/pawbot-an-ai-desktop-puppy-that-eats-your-files-301a) |
-| ⚡ | **I built a security scanner that checks if you are a dog** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/xbill/i-built-a-security-scanner-that-checks-if-you-are-a-dog-357n) |
-| 🚀 | **The "AI" Badge Doesn't Measure What You Think It Does** | `ai`, `llm`, `writing` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9) |
-| 💡 | **One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, an...** | `flutter`, `dart`, `statemanagement` | [Read →](https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4) |
-| 🧠 | **Gravy Theory: three chickens, one base** | `devchallenge`, `frontendchallenge`, `webdev` | [Read →](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8) |
+| 🔥 | **One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, an...** | `flutter`, `dart`, `statemanagement` | [Read →](https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4) |
+| ⚡ | **Paw & Order: upload your dog, and defend them against evidence...** | `weekendchallenge`, `devchallenge` | [Read →](https://dev.to/arjen_/paw-order-upload-your-dog-and-defend-them-against-evidence-generated-from-their-own-photo-of7) |
+| 🚀 | **Kitchen-Sune: A Community Cookbook** | `devchallenge`, `frontend`, `showdev` | [Read →](https://dev.to/jenlooper/kitchen-sune-a-community-cookbook-5fea) |
+| 💡 | **I Can Finally Delete My max-height: 9999px Animation Hack** | `css`, `webdev`, `frontend` | [Read →](https://dev.to/parsajiravand/i-can-finally-delete-my-max-height-9999px-animation-hack-1p8o) |
+| 🧠 | **Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸** | `devchallenge`, `frontendchallenge`, `webdev` | [Read →](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8) |
 | 🌐 | **Claude Impact Lab LA: Community Changed the Code** | `ai`, `civictech`, `community` | [Read →](https://dev.to/earlgreyhot1701d/claude-impact-lab-la-community-changed-the-code-1mg2) |
 
 <blockquote>
-<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
+<p>💬 <em>"Programming isn't about what you know; it's about what you can figure out."</em> — <strong>Chris Pine</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first Apple logo featured Isaac Newton sitting under a tree 🍏
 
-<p align="center"><sub>⏰ Last updated: August 16, 2026 • 02:54 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 16, 2026 • 10:02 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
