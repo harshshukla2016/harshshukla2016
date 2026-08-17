@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2207</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2207</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸** | `devchallenge`, `frontendchallenge`, `webdev` | [Read →](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8) |
-| ⚡ | **Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs...** | `devchallenge`, `weekendchallenge`, `swiftui` | [Read →](https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k) |
-| 🚀 | **Why the "AI" Badge Doesn't Matter and How to Restore Trust in ...** | `ai`, `discuss`, `opensource` | [Read →](https://dev.to/whaiman/why-the-ai-badge-doesnt-matter-and-how-to-restore-trust-in-our-code-16ia) |
-| 💡 | **Your Dog Can't Tell You Where It Hurts. MATCH_RECOGNIZE in Sno...** | `devchallenge`, `weekendchallenge`, `snowflake` | [Read →](https://dev.to/soumyadeepdey/your-dog-cant-tell-you-where-it-hurts-matchrecognize-in-snowflake-can-1pan) |
-| 🧠 | **Paw & Order: upload your dog, and defend them against evidence...** | `weekendchallenge`, `devchallenge` | [Read →](https://dev.to/arjen_/paw-order-upload-your-dog-and-defend-them-against-evidence-generated-from-their-own-photo-of7) |
-| 🌐 | **Build an MCP server in Rust with rmcp: a walk-through 🦀** | `rust`, `mcp`, `aws` | [Read →](https://dev.to/aws-builders/build-an-mcp-server-in-rust-with-rmcp-a-walk-through-41o3) |
+| 🔥 | **Functional languages are heavily imperative.** | `imperative`, `declarative`, `haskell` | [Read →](https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1) |
+| ⚡ | **What are your goals for the week? #192** | `career`, `discuss`, `learning` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-192-1i31) |
+| 🚀 | **Git Gud!** | `discuss`, `community`, `git` | [Read →](https://dev.to/francistrdev/git-gud-4e6g) |
+| 💡 | **Learn how to build a disclosure component using the native HTM...** | `a11y`, `webdev`, `html` | [Read →](https://dev.to/micaavigliano/learn-how-to-build-an-expandable-and-collapsible-component-using-the-native-html-details-tag-1h8j) |
+| 🧠 | **How to Reach Your Full Potential as a Programmer (It's Probabl...** | `programming`, `beginners`, `discuss` | [Read →](https://dev.to/hadil/how-to-reach-your-full-potential-as-a-programmer-its-probably-not-what-you-think-4l4) |
+| 🌐 | **Your Dog Can't Tell You Where It Hurts. MATCH_RECOGNIZE in Sno...** | `devchallenge`, `weekendchallenge`, `snowflake` | [Read →](https://dev.to/soumyadeepdey/your-dog-cant-tell-you-where-it-hurts-matchrecognize-in-snowflake-can-1pan) |
 
 <blockquote>
-<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
+<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: August 17, 2026 • 03:07 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 17, 2026 • 10:04 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
