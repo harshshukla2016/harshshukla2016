@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2208</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2208</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Git Gud!** | `discuss`, `community`, `git` | [Read →](https://dev.to/francistrdev/git-gud-4e6g) |
-| ⚡ | **The Kitchen Doesn't Care About Your Excuses** | `career`, `leadership`, `devrel` | [Read →](https://dev.to/kenwalger/the-kitchen-doesnt-care-about-your-excuses-i10) |
-| 🚀 | **7 Productivity Tips That Sound Wrong (But Actually Work)** | `productivity`, `mentalhealth`, `career` | [Read →](https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602) |
-| 💡 | **Learn how to build a disclosure component using the native HTM...** | `a11y`, `webdev`, `html` | [Read →](https://dev.to/micaavigliano/learn-how-to-build-an-expandable-and-collapsible-component-using-the-native-html-details-tag-1h8j) |
-| 🧠 | **What are your goals for the week? #192** | `career`, `discuss`, `learning` | [Read →](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-192-1i31) |
-| 🌐 | **My AI Assistant Did Not Love Getting a Second Opinion** | `ai`, `discuss`, `programming` | [Read →](https://dev.to/dannwaneri/my-ai-assistant-did-not-love-getting-a-second-opinion-dl1) |
+| 🔥 | **7 Productivity Tips That Sound Wrong (But Actually Work)** | `productivity`, `mentalhealth`, `career` | [Read →](https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602) |
+| ⚡ | **My First Engineering Job Is Teaching Me Something I Didn't Expect** | `learning`, `career`, `discuss` | [Read →](https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96) |
+| 🚀 | **COSP: The Prompting Trick Where Your LLM Grades Its Own Homework** | `ai`, `machinelearning`, `webdev` | [Read →](https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf) |
+| 💡 | **How to Improve Playwright Test Coverage Using Agent Context** | `ai`, `agents`, `entire` | [Read →](https://dev.to/entire/how-to-improve-playwright-test-coverage-using-agent-context-14l9) |
+| 🧠 | **The same Rust gave two different answers, and neither matched ...** | `devchallenge`, `bugsmash`, `javascript` | [Read →](https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03) |
+| 🌐 | **I Built a Lottery Simulator That Shows You Losing Money for 10...** | `showdev`, `typescript`, `astro` | [Read →](https://dev.to/cdieck88/i-built-a-lottery-simulator-that-shows-you-losing-money-for-1000-years-1fdp) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
 
-<p align="center"><sub>⏰ Last updated: August 18, 2026 • 02:59 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 18, 2026 • 10:07 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
