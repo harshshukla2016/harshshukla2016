@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2212</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2213</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Dev Opportunity Radar #13: a16z Alpha, a $740K Hackathon, and ...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-13-a16z-alpha-a-740k-hackathon-and-an-ai-agent-competition-1l1i) |
-| ⚡ | **How ChatGPT Serves 900 Million Users at a Time** | `systemdesign`, `postgres`, `architecture` | [Read →](https://dev.to/lovestaco/how-chatgpt-serves-900-million-users-at-a-time-64h) |
-| 🚀 | **My first website said "Don't commit without context." I never ...** | `buildinpublic`, `ai`, `webdev` | [Read →](https://dev.to/earlgreyhot1701d/my-first-website-said-dont-commit-without-context-i-never-committed-it-at-all-5d57) |
+| 🔥 | **HTML is getting cool again: Meet the Invoker Commands API** | `webdev`, `a11y` | [Read →](https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367) |
+| ⚡ | **The Optimization That Was Too Good: Why Our Push Notifications...** | `devchallenge`, `bugsmash`, `javascript` | [Read →](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d) |
+| 🚀 | **Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feat...** | `dart`, `flutter`, `ai` | [Read →](https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752) |
 | 💡 | **Designing a Reasoning Ledger Record** | `ai`, `agents`, `architecture` | [Read →](https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo) |
-| 🧠 | **The Optimization That Was Too Good: Why Our Push Notifications...** | `devchallenge`, `bugsmash`, `javascript` | [Read →](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d) |
-| 🌐 | **RGB is dead, long live RGB!** | `css`, `html`, `webdev` | [Read →](https://dev.to/alvaromontoro/rgb-is-dead-long-live-rgb-2219) |
+| 🧠 | **Job Hunt With a Bot?** | `ai`, `career`, `agents` | [Read →](https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3) |
+| 🌐 | **I built Kintara because apparently having too many hobbies eve...** | `showdev`, `ai`, `rust` | [Read →](https://dev.to/sizzlebop/i-built-kintara-because-apparently-having-too-many-hobbies-eventually-leads-to-building-your-own-j2f) |
 
 <blockquote>
-<p>💬 <em>"Programming isn't about what you know; it's about what you can figure out."</em> — <strong>Chris Pine</strong></p>
+<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
+> **🧪 Did You Know?** About 90% of the world's data was created in just the last 2 years 📊
 
-<p align="center"><sub>⏰ Last updated: August 22, 2026 • 10:01 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 23, 2026 • 07:51 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
