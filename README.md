@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2213</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2213</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **HTML is getting cool again: Meet the Invoker Commands API** | `webdev`, `a11y` | [Read →](https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367) |
-| ⚡ | **The Optimization That Was Too Good: Why Our Push Notifications...** | `devchallenge`, `bugsmash`, `javascript` | [Read →](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d) |
-| 🚀 | **Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feat...** | `dart`, `flutter`, `ai` | [Read →](https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752) |
-| 💡 | **Designing a Reasoning Ledger Record** | `ai`, `agents`, `architecture` | [Read →](https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo) |
-| 🧠 | **Job Hunt With a Bot?** | `ai`, `career`, `agents` | [Read →](https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3) |
-| 🌐 | **I built Kintara because apparently having too many hobbies eve...** | `showdev`, `ai`, `rust` | [Read →](https://dev.to/sizzlebop/i-built-kintara-because-apparently-having-too-many-hobbies-eventually-leads-to-building-your-own-j2f) |
+| ⚡ | **Job Hunt With a Bot?** | `ai`, `career`, `agents` | [Read →](https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3) |
+| 🚀 | **I built Kintara because apparently having too many hobbies eve...** | `showdev`, `ai`, `rust` | [Read →](https://dev.to/sizzlebop/i-built-kintara-because-apparently-having-too-many-hobbies-eventually-leads-to-building-your-own-j2f) |
+| 💡 | **The Planner Made the Same 3 Mistakes Every Time. A Bigger Mode...** | `ai`, `agents`, `llm` | [Read →](https://dev.to/debashish_ghosal/the-planner-made-the-same-3-mistakes-every-time-a-bigger-model-didnt-fix-it-3170) |
+| 🧠 | **I wrote the privacy rule, enforced it, commented it, and shipp...** | `bugsmash`, `devchallenge`, `javascript` | [Read →](https://dev.to/arqamwd/i-wrote-the-privacy-rule-enforced-it-commented-it-and-shipped-the-leak-anyway-500g) |
+| 🌐 | **I installed a crash reporter and it crashed my app 100% of the...** | `bugsmash`, `devchallenge`, `android` | [Read →](https://dev.to/arqamwd/i-installed-a-crash-reporter-and-it-crashed-my-app-100-of-the-time-3of0) |
 
 <blockquote>
-<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
+<p>💬 <em>"The computer was born to solve problems that did not exist before."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** About 90% of the world's data was created in just the last 2 years 📊
 
-<p align="center"><sub>⏰ Last updated: August 23, 2026 • 07:51 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 23, 2026 • 02:54 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
