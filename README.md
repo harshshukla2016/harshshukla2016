@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2213</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2214</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The Planner Made the Same 3 Mistakes Every Time. A Bigger Mode...** | `ai`, `agents`, `llm` | [Read →](https://dev.to/debashish_ghosal/the-planner-made-the-same-3-mistakes-every-time-a-bigger-model-didnt-fix-it-3170) |
-| ⚡ | **Eleven tables, zero indices, and the observability I added aft...** | `bugsmash`, `devchallenge`, `kotlin` | [Read →](https://dev.to/arqamwd/eleven-tables-zero-indices-and-the-observability-i-added-afterwards-found-three-more-bugs-3kgg) |
-| 🚀 | **I wrote the privacy rule, enforced it, commented it, and shipp...** | `bugsmash`, `devchallenge`, `javascript` | [Read →](https://dev.to/arqamwd/i-wrote-the-privacy-rule-enforced-it-commented-it-and-shipped-the-leak-anyway-500g) |
-| 💡 | **My performance optimization silently disabled the feature the ...** | `bugsmash`, `devchallenge`, `kotlin` | [Read →](https://dev.to/arqamwd/my-performance-optimization-silently-disabled-the-feature-the-app-exists-for-2e1k) |
-| 🧠 | **I installed a crash reporter and it crashed my app 100% of the...** | `bugsmash`, `devchallenge`, `android` | [Read →](https://dev.to/arqamwd/i-installed-a-crash-reporter-and-it-crashed-my-app-100-of-the-time-3of0) |
-| 🌐 | **One conversation, four cards: the dashboard bug with three roo...** | `devchallenge`, `bugsmash`, `debugging` | [Read →](https://dev.to/bryanw/one-conversation-four-cards-the-dashboard-bug-with-three-root-causes-stacked-on-top-of-each-other-294p) |
+| 🔥 | **Making webpack's Docs Update Themselves - GSoC 2026, wrapped** | `javascript`, `opensource`, `webpack` | [Read →](https://dev.to/ryzrr/making-webpacks-docs-update-themselves-gsoc-2026-wrapped-2jmn) |
+| ⚡ | **Why editing one word in a PDF is so much harder than it looks** | `pdf`, `ai`, `webdev` | [Read →](https://dev.to/vbhattaccmu/why-editing-one-word-in-a-pdf-is-so-much-harder-than-it-looks-9jh) |
+| 🚀 | **How I recorded my first product demo in 54 seconds (OBS, ffmpe...** | `buildinpublic`, `showdev`, `tutorial` | [Read →](https://dev.to/serhii_kalyna_730b636889c/how-i-recorded-my-first-product-demo-in-54-seconds-obs-ffmpeg-openaifm-50eg) |
+| 💡 | **The Bug That Looked Fine to Every Visitor and Lied to Every Cr...** | `tech` | [Read →](https://dev.to/talha_ramzan_3878156fea8c/the-bug-that-looked-fine-to-every-visitor-and-lied-to-every-crawler-4fel) |
+| 🧠 | **I Was Learning PyTorch, Then I Accidentally Started Building M...** | `discuss`, `opensource`, `ai` | [Read →](https://dev.to/puneetkumar2010/i-was-learning-pytorch-then-i-accidentally-started-building-my-own-ai-training-framework-55a9) |
+| 🌐 | **Open Knowledge Format vs RAG: Why Your Agent Should Read a Wiki** | `ai`, `agents` | [Read →](https://dev.to/designly/open-knowledge-format-vs-rag-why-your-agent-should-read-a-wiki-4kb1) |
 
 <blockquote>
-<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** About 90% of the world's data was created in just the last 2 years 📊
+> **🧪 Did You Know?** The first computer programmer was Ada Lovelace, in the 1840s 👩‍💻
 
-<p align="center"><sub>⏰ Last updated: August 23, 2026 • 10:02 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 24, 2026 • 07:55 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
