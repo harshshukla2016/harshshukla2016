@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2214</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2214</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Making webpack's Docs Update Themselves - GSoC 2026, wrapped** | `javascript`, `opensource`, `webpack` | [Read →](https://dev.to/ryzrr/making-webpacks-docs-update-themselves-gsoc-2026-wrapped-2jmn) |
-| ⚡ | **Why my biggest embarrassment was also one of my greatest learn...** | `devchallenge`, `bugsmash`, `programming` | [Read →](https://dev.to/fm/why-my-biggest-embarrassment-was-also-one-of-my-greatest-learning-experiences-in-programming-3o0c) |
-| 🚀 | **I Used React DataGrid to Build a Real Space Mission Explorer** | `webdev`, `programming`, `react` | [Read →](https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b) |
-| 💡 | **The Tests Passed. The Contract Was Wrong.** | `ai`, `testing`, `architecture` | [Read →](https://dev.to/kenielzep97/the-tests-passed-the-contract-was-wrong-mp0) |
-| 🧠 | **AI, Fairy's, and Agile** | `ai`, `agile`, `powerplatform` | [Read →](https://dev.to/wyattdave/ai-fairys-and-agile-44cc) |
-| 🌐 | **How I Actually Code with Claude Code: My Real Workflow on a Re...** | `ai`, `productivity`, `webdev` | [Read →](https://dev.to/gabbs279/how-i-actually-code-with-claude-code-my-real-workflow-on-a-real-project-4ao0) |
+| 🔥 | **I Used React DataGrid to Build a Real Space Mission Explorer** | `webdev`, `programming`, `react` | [Read →](https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b) |
+| ⚡ | **Mix and Match: One Agent, Three Clouds, One Protocol** | `a2a`, `aiagents`, `aws` | [Read →](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l) |
+| 🚀 | **I Almost Shipped a RAG Assistant That Lied About APIs That Don...** | `ai`, `llm`, `rag` | [Read →](https://dev.to/dannwaneri/i-almost-shipped-a-rag-assistant-that-lied-about-apis-that-dont-exist-3426) |
+| 💡 | **The Model Scored 30%. The Harness Scored 100%. Which One Did Y...** | `ai`, `llm`, `agents` | [Read →](https://dev.to/p0rt/the-model-scored-30-the-harness-scored-100-which-one-did-you-benchmark-3mp4) |
+| 🧠 | **The data is in: AI is how developers learn now** | `ai`, `career`, `learning` | [Read →](https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4) |
+| 🌐 | **I Built an AWS DevOps AI Agent Using Kiro Crew + MCP** | `agents`, `ai`, `showdev` | [Read →](https://dev.to/aws-builders/i-built-an-aws-devops-ai-agent-using-kiro-crew-mcp-fk0) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer programmer was Ada Lovelace, in the 1840s 👩‍💻
 
-<p align="center"><sub>⏰ Last updated: August 24, 2026 • 03:13 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 24, 2026 • 10:15 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
