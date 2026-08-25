@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2215</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2215</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **AI promoted every developer to reviewer. Nobody tested the rev...** | `ai`, `productivity`, `testing` | [Read →](https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h) |
-| ⚡ | **I Won a Writing Challenge That I Almost Didn't Publish!** | `devchallenge`, `motivation`, `writing` | [Read →](https://dev.to/fm/i-won-a-writing-challenge-that-i-almost-didnt-publish-2cn0) |
-| 🚀 | **I Almost Shipped a RAG Assistant That Lied About APIs That Don...** | `ai`, `llm`, `rag` | [Read →](https://dev.to/dannwaneri/i-almost-shipped-a-rag-assistant-that-lied-about-apis-that-dont-exist-3426) |
-| 💡 | **The Model Scored 30%. The Harness Scored 100%. Which One Did Y...** | `ai`, `llm`, `agents` | [Read →](https://dev.to/p0rt/the-model-scored-30-the-harness-scored-100-which-one-did-you-benchmark-3mp4) |
-| 🧠 | **I Built an AWS DevOps AI Agent Using Kiro Crew + MCP** | `agents`, `ai`, `showdev` | [Read →](https://dev.to/aws-builders/i-built-an-aws-devops-ai-agent-using-kiro-crew-mcp-fk0) |
-| 🌐 | **comiCSS #255: Yellow** | `css`, `webdev`, `watercooler` | [Read →](https://dev.to/alvaromontoro/comicss-255-yellow-1bj) |
+| ⚡ | **What Do You Do While AI Codes?** | `discuss`, `ai`, `productivity` | [Read →](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k) |
+| 🚀 | **comiCSS #255: Yellow** | `css`, `webdev`, `watercooler` | [Read →](https://dev.to/alvaromontoro/comicss-255-yellow-1bj) |
+| 💡 | **I Won a Writing Challenge That I Almost Didn't Publish!** | `devchallenge`, `motivation`, `writing` | [Read →](https://dev.to/fm/i-won-a-writing-challenge-that-i-almost-didnt-publish-2cn0) |
+| 🧠 | **A Few Tips for Improving Your SEO** | `webdev`, `productivity`, `beginners` | [Read →](https://dev.to/thomasbnt/a-few-tips-for-improving-your-seo-5df3) |
+| 🌐 | **A Wider Computer, Not a Bigger One: Modeling AI Inference Acro...** | `ai`, `aiops`, `infrastructure` | [Read →](https://dev.to/copyleftdev/a-wider-computer-not-a-bigger-one-modeling-ai-inference-across-millions-of-homes-5cmo) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: August 25, 2026 • 03:02 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 25, 2026 • 10:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
