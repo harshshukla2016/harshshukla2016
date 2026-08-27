@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2217</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2218</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Why I Built an SSH Config and Tunnel Manager for macOS** | `ssh`, `macos`, `swift` | [Read →](https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8) |
-| ⚡ | **Kademlia: Algo That Turned XOR Distance Into a Network** | `webdev`, `programming`, `beginners` | [Read →](https://dev.to/lovestaco/kademlia-algo-that-turned-xor-distance-into-a-network-1g3l) |
-| 🚀 | **Learn Valid Parentheses, Reverse Linked List, and Tree Max Dep...** | `typescript`, `algorithms`, `opensource` | [Read →](https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09) |
-| 💡 | **FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Asy...** | `flutter`, `dart`, `architecture` | [Read →](https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g) |
-| 🧠 | **Your Hiring Process Needs HTTP Status Codes** | `career`, `discuss`, `humor` | [Read →](https://dev.to/kenwalger/your-hiring-process-needs-http-status-codes-png) |
-| 🌐 | **Vibe Coding Is Fine. Vibe Debugging Is What Kills You** | `ai`, `programming`, `discuss` | [Read →](https://dev.to/ji_ai/vibe-coding-is-fine-vibe-debugging-is-what-kills-you-23i0) |
+| 🔥 | **FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Asy...** | `flutter`, `dart`, `architecture` | [Read →](https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g) |
+| ⚡ | **The agent posted successfully. To the wrong account.** | `ai`, `api`, `mcp` | [Read →](https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3) |
+| 🚀 | **Stratagems #25: Derek Changed the Delay. The AI Didn't Flinch.** | `discuss`, `ai`, `programming` | [Read →](https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca) |
+| 💡 | **Three small design decisions in a "toggle effects via CSS clas...** | `css`, `frontend`, `javascript` | [Read →](https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1) |
+| 🧠 | **Nobody Argued For Your Stack** | `ai`, `webdev`, `react` | [Read →](https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj) |
+| 🌐 | **Velocidade de entrega e custo de manutenção pós IA** | `ai`, `braziliandevs`, `career` | [Read →](https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei) |
 
 <blockquote>
-<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first domain ever registered was Symbolics.com on March 15, 1985 🏷️
+> **🧪 Did You Know?** Email existed before the World Wide Web 📧
 
-<p align="center"><sub>⏰ Last updated: August 27, 2026 • 04:22 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 28, 2026 • 12:55 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
