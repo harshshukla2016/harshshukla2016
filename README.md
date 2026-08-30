@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2220</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2220</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What Happens After You Win a DEV Challenge? A Complete Guide t...** | `devjournal`, `discuss`, `career` | [Read →](https://dev.to/dj29/what-happens-after-you-win-a-dev-challenge-a-complete-guide-to-getting-paid-3f8n) |
-| ⚡ | **I Asked for a Portfolio but Got a Filing Cabinet** | `ai`, `webdev`, `design` | [Read →](https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8) |
-| 🚀 | **I’m Looking for the Right Problem, Not the Right Job Title — C...** | `career`, `typescript`, `whoishiring` | [Read →](https://dev.to/remojansen/im-looking-for-the-right-problem-not-the-right-job-title-could-it-be-you-1baa) |
-| 💡 | **Git Said It Succeeded. The State Said Otherwise.** | `git`, `testing`, `devops` | [Read →](https://dev.to/kenielzep97/git-said-it-succeeded-the-state-said-otherwise-34ka) |
-| 🧠 | **I Built an Agent That Marked Its Own Finding as Already Known** | `trueforge`, `qodo`, `testing` | [Read →](https://dev.to/kenielzep97/a-finding-is-not-a-discovery-gib) |
-| 🌐 | **MCP C# Per-Request Client Capabilities: Read the Request, Not ...** | `mcp`, `dotnet`, `csharp` | [Read →](https://dev.to/ssukhpinder/mcp-c-per-request-client-capabilities-read-the-request-not-the-server-566m) |
+| 🔥 | **I Asked for a Portfolio but Got a Filing Cabinet** | `ai`, `webdev`, `design` | [Read →](https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8) |
+| ⚡ | **IND-TECH WEEKLY #1: Jio Files for India's Biggest-Ever IPO, Na...** | `india`, `news`, `career` | [Read →](https://dev.to/dj29/ind-tech-weekly-1-jio-files-for-indias-biggest-ever-ipo-navi-bags-100m-and-what-devs-should-204h) |
+| 🚀 | **Git Said It Succeeded. The State Said Otherwise.** | `git`, `testing`, `devops` | [Read →](https://dev.to/kenielzep97/git-said-it-succeeded-the-state-said-otherwise-34ka) |
+| 💡 | **Delta encoding multiplayer game state** | `gamedev`, `webdev`, `typescript` | [Read →](https://dev.to/arjen_/delta-encoding-multiplayer-game-state-j2a) |
+| 🧠 | **I’m Looking for the Right Problem, Not the Right Job Title — C...** | `career`, `typescript`, `whoishiring` | [Read →](https://dev.to/remojansen/im-looking-for-the-right-problem-not-the-right-job-title-could-it-be-you-1baa) |
+| 🌐 | **I Built an Agent That Marked Its Own Finding as Already Known** | `trueforge`, `qodo`, `testing` | [Read →](https://dev.to/kenielzep97/a-finding-is-not-a-discovery-gib) |
 
 <blockquote>
-<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
+<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Stack Overflow is visited by 50 million developers every month 📚
 
-<p align="center"><sub>⏰ Last updated: August 30, 2026 • 11:41 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: August 30, 2026 • 07:45 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
