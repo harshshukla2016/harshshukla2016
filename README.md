@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2223</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2224</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What happens to technical debt when AI makes code cheap?** | `ai`, `programming`, `software` | [Read →](https://dev.to/jennapederson/what-happens-to-technical-debt-when-ai-makes-code-cheap-9oa) |
-| ⚡ | **Streamline Publishing with a Claude Code Skill** | `claudecode`, `writing`, `devtools` | [Read →](https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn) |
-| 🚀 | **I raced six models against each other on DigitalOcean Inferenc...** | `showdev`, `ai`, `python` | [Read →](https://dev.to/remdore/i-raced-six-models-against-each-other-on-digitalocean-inference-the-cheapest-one-won-4lga) |
-| 💡 | **How the internet actually works, and why nobody is in charge o...** | `networking`, `webdev`, `programming` | [Read →](https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8) |
-| 🧠 | **Three Gemma 4 Deployments on One T4G for Under $3: What the Ru...** | `aws`, `machinelearning`, `benchmarking` | [Read →](https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3) |
-| 🌐 | **The job description already changed. We're not coders anymore,...** | `career`, `coding`, `softwaredevelopment` | [Read →](https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg) |
+| 🔥 | **Execution Trees, Not More Logs: A Better Debugging Model for A...** | `ai`, `typescript`, `debugging` | [Read →](https://dev.to/raju_dandigam/execution-trees-not-more-logs-a-better-debugging-model-for-ai-agents-3d4g) |
+| ⚡ | **I tested Claude Code's memory against mine. They are not doing...** | `ai`, `claudecode`, `productivity` | [Read →](https://dev.to/heinrichneb/i-tested-claude-codes-memory-against-mine-they-are-not-doing-the-same-job-35jb) |
+| 🚀 | **Designing a Webhook Delivery System for 10 Million Events a Day** | `systemdesign`, `webhooks`, `backend` | [Read →](https://dev.to/lovestaco/designing-a-webhook-delivery-system-for-10-million-events-a-day-2p5d) |
+| 💡 | **What do you build when you can build anything?** | `ai`, `productivity`, `discuss` | [Read →](https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0) |
+| 🧠 | **My AI Gateway Added 400ms to Every Request. Here's Where It Went** | `ai`, `llm`, `devops` | [Read →](https://dev.to/devstackhub/my-ai-gateway-added-400ms-to-every-request-heres-where-it-went-2fkp) |
+| 🌐 | **Why I'm Building ShrekOS When Containers Already Exist** | `linux`, `security`, `architecture` | [Read →](https://dev.to/the_leon_odor/why-im-building-shrekos-when-containers-already-exist-1lg6) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
+> **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: September 02, 2026 • 06:43 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 03, 2026 • 12:49 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
