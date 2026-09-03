@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2224</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2225</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What do you build when you can build anything?** | `ai`, `productivity`, `discuss` | [Read →](https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0) |
-| ⚡ | **Designing a Webhook Delivery System for 10 Million Events a Day** | `systemdesign`, `webhooks`, `backend` | [Read →](https://dev.to/lovestaco/designing-a-webhook-delivery-system-for-10-million-events-a-day-2p5d) |
-| 🚀 | **Why I'm Building ShrekOS When Containers Already Exist** | `linux`, `security`, `architecture` | [Read →](https://dev.to/the_leon_odor/why-im-building-shrekos-when-containers-already-exist-1lg6) |
-| 💡 | **My AI Gateway Added 400ms to Every Request. Here's Where It Went** | `ai`, `llm`, `devops` | [Read →](https://dev.to/devstackhub/my-ai-gateway-added-400ms-to-every-request-heres-where-it-went-2fkp) |
-| 🧠 | **AI-assisted genealogy** | `ai`, `codingassistant`, `genealogy` | [Read →](https://dev.to/nfrankel/ai-assisted-genealogy-9cn) |
-| 🌐 | **Learn Number of Islands, Invert Binary Tree, and Course Schedu...** | `typescript`, `dsa`, `opensource` | [Read →](https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947) |
+| 🔥 | **20 Agentic AI Terms Every Developer Should Know (Explained Sim...** | `ai`, `agents`, `mcp` | [Read →](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii) |
+| ⚡ | **AI-assisted genealogy** | `ai`, `codingassistant`, `genealogy` | [Read →](https://dev.to/nfrankel/ai-assisted-genealogy-9cn) |
+| 🚀 | **I Built My First AWS Agent Workflow, and the Hardest Part Was ...** | `discuss`, `aws`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg) |
+| 💡 | **My Thermostat Was Speaking an Industrial Protocol. Just Not to...** | `bacnet`, `esp32`, `iot` | [Read →](https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p) |
+| 🧠 | **The extraction returned zero memories, and nothing screamed** | `ai`, `agents`, `programming` | [Read →](https://dev.to/pm25coder/the-extraction-returned-zero-memories-and-nothing-screamed-3c7c) |
+| 🌐 | **Four Ways Your Background Job Disappears (And How to Stop Each...** | `systemdesign`, `backend`, `architecture` | [Read →](https://dev.to/lovestaco/your-welcome-email-is-not-part-of-signup-designing-a-background-job-system-1lmo) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
+> **🧪 Did You Know?** More than 6,000 new computer viruses are created every month 🦠
 
-<p align="center"><sub>⏰ Last updated: September 03, 2026 • 06:44 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 04, 2026 • 12:43 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
