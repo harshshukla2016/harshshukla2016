@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2225</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2226</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Built My First AWS Agent Workflow, and the Hardest Part Was ...** | `discuss`, `aws`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg) |
-| ⚡ | **My Thermostat Was Speaking an Industrial Protocol. Just Not to...** | `bacnet`, `esp32`, `iot` | [Read →](https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p) |
-| 🚀 | **Is This Really Required? Meet gh stack** | `github`, `ai`, `tutorial` | [Read →](https://dev.to/anchildress1/is-this-really-required-meet-gh-stack-5g1f) |
-| 💡 | **ChromeOS Lookalikes, Two Ways: One With Drivers, One Without** | `chromeos`, `linux`, `debian` | [Read →](https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m) |
-| 🧠 | **Taming Flutter Infinite Scroll (Part 2): Turning ScrollControl...** | `flutter`, `dart`, `architecture` | [Read →](https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh) |
-| 🌐 | **AI Engineering Is Easy. Changing How We Work Is Hard** | `ai`, `agents`, `softwaredevelopment` | [Read →](https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4) |
+| 🔥 | **Hey Everyone! I’m Sanidhya from MLH** | `mlh`, `community`, `devrel` | [Read →](https://blog.mlh.com/hey-everyone-im-sanidhya-from-mlh-25an) |
+| ⚡ | **What was your win this week?** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-1mo8) |
+| 🚀 | **AI Engineering Is Easy. Changing How We Work Is Hard** | `ai`, `agents`, `softwaredevelopment` | [Read →](https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4) |
+| 💡 | **Is This Really Required? Meet gh stack** | `github`, `ai`, `tutorial` | [Read →](https://dev.to/anchildress1/is-this-really-required-meet-gh-stack-5g1f) |
+| 🧠 | **Dev Opportunity Radar #15: HackerRank Orchestrate, Claude Camp...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-15-hackerrank-orchestrate-claude-campus-ambassadors-the-bharat-builds-3oc) |
+| 🌐 | **The board came back. The highlights lied.** | `ai`, `webdev`, `typescript` | [Read →](https://dev.to/michaeltruong/the-board-came-back-the-highlights-lied-18bo) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** More than 6,000 new computer viruses are created every month 🦠
+> **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: September 04, 2026 • 06:38 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 05, 2026 • 12:25 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
