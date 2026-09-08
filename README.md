@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2229</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2229</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Dozens of Resumes, One Call From an Old Colleague** | `discuss`, `career`, `programming` | [Read →](https://dev.to/xulingfeng/dozens-of-resumes-one-call-from-an-old-colleague-141l) |
-| ⚡ | **Happen to Have? Answer One Before You Ask One** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/anchildress1/happen-to-have-answer-one-before-you-ask-one-5957) |
-| 🚀 | **ReachAloud: I built a multilingual voice tool that reads emerg...** | `devchallenge`, `weekendchallenge`, `a11y` | [Read →](https://dev.to/sarvar_04/reachaloud-i-built-a-multilingual-voice-tool-that-reads-emergency-alerts-aloud-for-people-who-15ho) |
+| 🔥 | **Most 'AI Agents' Are Just If-Statements in a Trench Coat** | `ai`, `softwareengineering`, `webdev` | [Read →](https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960) |
+| ⚡ | **🟣 Ever Fluorescent: Live Again!** | `webdev`, `rails`, `programming` | [Read →](https://dev.to/annavi11arrea1/ever-fluorescent-live-again-132b) |
+| 🚀 | **Future AWS Agent Engineer? I Didn't Write the Code. Does It Co...** | `ai`, `aws`, `learning` | [Read →](https://dev.to/earlgreyhot1701d/future-aws-agent-engineer-i-didnt-write-the-code-does-it-count-2gib) |
 | 💡 | **Your system prompt isn't instructions. It's data.** | `ai`, `llm`, `programming` | [Read →](https://dev.to/natuworkguy/your-system-prompt-isnt-instructions-its-data-43m8) |
-| 🧠 | **Web Workers in JavaScript: The Complete Guide** | `javascript`, `webdev`, `tutorial` | [Read →](https://dev.to/parsajiravand/web-workers-in-javascript-the-complete-guide-5f17) |
+| 🧠 | **Angular DataGrid: A Free, Open-Source AG Grid Alternative Buil...** | `webdev`, `programming`, `angular` | [Read →](https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm) |
 | 🌐 | **Stop rebuilding from scratch: cache Docker layers on Cloud Build** | `docker`, `googlecloud`, `python` | [Read →](https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0) |
 
 <blockquote>
-<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
 
-<p align="center"><sub>⏰ Last updated: September 08, 2026 • 11:03 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 08, 2026 • 06:48 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
