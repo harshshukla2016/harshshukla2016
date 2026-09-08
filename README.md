@@ -56,20 +56,20 @@
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **From AI Solutions to Shared Knowledge: Building an MCP for the...** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk) |
-| ⚡ | **My Grandmother Ran Ajo. I Built the Version Where the Pot Can'...** | `weekendchallenge`, `devchallenge`, `solana` | [Read →](https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn) |
-| 🚀 | **Dozens of Resumes, One Call From an Old Colleague** | `discuss`, `career`, `programming` | [Read →](https://dev.to/xulingfeng/dozens-of-resumes-one-call-from-an-old-colleague-141l) |
-| 💡 | **Happen to Have? Answer One Before You Ask One** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/anchildress1/happen-to-have-answer-one-before-you-ask-one-5957) |
-| 🧠 | **La Liga's Web Accessibility Table: How Do Clubs Actually Score?** | `a11y`, `webdev`, `html` | [Read →](https://dev.to/alvaromontoro/la-ligas-web-accessibility-table-how-do-clubs-actually-score-21ib) |
-| 🌐 | **Compare Against the Schema They Shipped, Not the One You Expected** | `security`, `ai`, `testing` | [Read →](https://dev.to/kenielzep97/compare-against-the-schema-they-shipped-not-the-one-you-expected-3mb8) |
+| 🔥 | **Dozens of Resumes, One Call From an Old Colleague** | `discuss`, `career`, `programming` | [Read →](https://dev.to/xulingfeng/dozens-of-resumes-one-call-from-an-old-colleague-141l) |
+| ⚡ | **Happen to Have? Answer One Before You Ask One** | `devchallenge`, `weekendchallenge`, `ai` | [Read →](https://dev.to/anchildress1/happen-to-have-answer-one-before-you-ask-one-5957) |
+| 🚀 | **ReachAloud: I built a multilingual voice tool that reads emerg...** | `devchallenge`, `weekendchallenge`, `a11y` | [Read →](https://dev.to/sarvar_04/reachaloud-i-built-a-multilingual-voice-tool-that-reads-emergency-alerts-aloud-for-people-who-15ho) |
+| 💡 | **Your system prompt isn't instructions. It's data.** | `ai`, `llm`, `programming` | [Read →](https://dev.to/natuworkguy/your-system-prompt-isnt-instructions-its-data-43m8) |
+| 🧠 | **Web Workers in JavaScript: The Complete Guide** | `javascript`, `webdev`, `tutorial` | [Read →](https://dev.to/parsajiravand/web-workers-in-javascript-the-complete-guide-5f17) |
+| 🌐 | **Stop rebuilding from scratch: cache Docker layers on Cloud Build** | `docker`, `googlecloud`, `python` | [Read →](https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
 
-<p align="center"><sub>⏰ Last updated: September 08, 2026 • 01:17 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 08, 2026 • 11:03 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
