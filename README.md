@@ -56,12 +56,12 @@
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-40ma) |
-| ⚡ | **Most 'AI Agents' Are Just If-Statements in a Trench Coat** | `ai`, `softwareengineering`, `webdev` | [Read →](https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960) |
-| 🚀 | **Has AI Made You A Lazier Developer? Be Honest.** | `discuss`, `ai`, `productivity` | [Read →](https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack) |
-| 💡 | **🟣 Ever Fluorescent: Live Again!** | `webdev`, `rails`, `programming` | [Read →](https://dev.to/annavi11arrea1/ever-fluorescent-live-again-132b) |
-| 🧠 | **Wiring a Reachy Mini into OpenClaw without trusting the robot** | `openclaw`, `ai`, `productivity` | [Read →](https://dev.to/bengreenberg/wiring-a-reachy-mini-into-openclaw-without-trusting-the-robot-3lgh) |
-| 🌐 | **Stop rebuilding from scratch: cache Docker layers on Cloud Build** | `docker`, `googlecloud`, `python` | [Read →](https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0) |
+| 🔥 | **Most 'AI Agents' Are Just If-Statements in a Trench Coat** | `ai`, `softwareengineering`, `webdev` | [Read →](https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960) |
+| ⚡ | **Has AI Made You A Lazier Developer? Be Honest.** | `discuss`, `ai`, `productivity` | [Read →](https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack) |
+| 🚀 | **Networking is Hard but easy to think about.** | `discuss`, `community`, `productivity` | [Read →](https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1) |
+| 💡 | **Wiring a Reachy Mini into OpenClaw without trusting the robot** | `openclaw`, `ai`, `productivity` | [Read →](https://dev.to/bengreenberg/wiring-a-reachy-mini-into-openclaw-without-trusting-the-robot-3lgh) |
+| 🧠 | **What Happens When You Type a URL: Answer It With Three Interac...** | `networking`, `dns`, `tcp` | [Read →](https://dev.to/devopsdaily/what-happens-when-you-type-a-url-answer-it-with-three-interactive-simulators-44c0) |
+| 🌐 | **The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thund...** | `linux`, `networking`, `usb` | [Read →](https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n) |
 
 <blockquote>
 <p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** The term 'robot' comes from a Czech word meaning 'forced labor' 🤖
 
-<p align="center"><sub>⏰ Last updated: September 09, 2026 • 12:52 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 09, 2026 • 11:10 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
