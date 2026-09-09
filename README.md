@@ -51,17 +51,17 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2230</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2230</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Most 'AI Agents' Are Just If-Statements in a Trench Coat** | `ai`, `softwareengineering`, `webdev` | [Read →](https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960) |
-| ⚡ | **Has AI Made You A Lazier Developer? Be Honest.** | `discuss`, `ai`, `productivity` | [Read →](https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack) |
-| 🚀 | **Networking is Hard but easy to think about.** | `discuss`, `community`, `productivity` | [Read →](https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1) |
-| 💡 | **Wiring a Reachy Mini into OpenClaw without trusting the robot** | `openclaw`, `ai`, `productivity` | [Read →](https://dev.to/bengreenberg/wiring-a-reachy-mini-into-openclaw-without-trusting-the-robot-3lgh) |
-| 🧠 | **What Happens When You Type a URL: Answer It With Three Interac...** | `networking`, `dns`, `tcp` | [Read →](https://dev.to/devopsdaily/what-happens-when-you-type-a-url-answer-it-with-three-interactive-simulators-44c0) |
-| 🌐 | **The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thund...** | `linux`, `networking`, `usb` | [Read →](https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n) |
+| 🔥 | **Networking is Hard but easy to think about.** | `discuss`, `community`, `productivity` | [Read →](https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1) |
+| ⚡ | **What Happens When You Type a URL: Answer It With Three Interac...** | `networking`, `dns`, `tcp` | [Read →](https://dev.to/devopsdaily/what-happens-when-you-type-a-url-answer-it-with-three-interactive-simulators-44c0) |
+| 🚀 | **The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thund...** | `linux`, `networking`, `usb` | [Read →](https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n) |
+| 💡 | **Como eu aprendi a aprender (e por que a IA não veio pra pensar...** | `ai`, `architecture`, `braziliandevs` | [Read →](https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg) |
+| 🧠 | **The Desktop Looked Right: 2,093 Parse Errors a Boot, and 10.9 ...** | `debian`, `linux`, `claudecode` | [Read →](https://dev.to/gde/the-desktop-looked-right-2093-parse-errors-a-boot-and-109-seconds-that-werent-doing-anything-4bb) |
+| 🌐 | **Beyond Black-Box Concurrency: Streamless Event Transformers, T...** | `flutter`, `dart`, `architecture` | [Read →](https://dev.to/gde/beyond-black-box-concurrency-streamless-event-transformers-telemetry-and-the-end-of-3b08) |
 
 <blockquote>
 <p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** The term 'robot' comes from a Czech word meaning 'forced labor' 🤖
 
-<p align="center"><sub>⏰ Last updated: September 09, 2026 • 11:10 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 09, 2026 • 06:52 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
