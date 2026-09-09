@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2230</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2231</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Networking is Hard but easy to think about.** | `discuss`, `community`, `productivity` | [Read →](https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1) |
-| ⚡ | **What Happens When You Type a URL: Answer It With Three Interac...** | `networking`, `dns`, `tcp` | [Read →](https://dev.to/devopsdaily/what-happens-when-you-type-a-url-answer-it-with-three-interactive-simulators-44c0) |
-| 🚀 | **The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thund...** | `linux`, `networking`, `usb` | [Read →](https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n) |
+| 🔥 | **I let AI write 100% of my code for 30 days. Here's what broke.** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0) |
+| ⚡ | **My OSS Projects: AngleSharp** | `dotnet`, `opensource`, `csharp` | [Read →](https://dev.to/florianrappl/my-oss-projects-anglesharp-3b8j) |
+| 🚀 | **Learn Trapping Rain Water, Top K Frequent and Selection Sort w...** | `typescript`, `algorithms`, `opensource` | [Read →](https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg) |
 | 💡 | **Como eu aprendi a aprender (e por que a IA não veio pra pensar...** | `ai`, `architecture`, `braziliandevs` | [Read →](https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg) |
-| 🧠 | **The Desktop Looked Right: 2,093 Parse Errors a Boot, and 10.9 ...** | `debian`, `linux`, `claudecode` | [Read →](https://dev.to/gde/the-desktop-looked-right-2093-parse-errors-a-boot-and-109-seconds-that-werent-doing-anything-4bb) |
+| 🧠 | **Would You Choose a Library Because AI Writes It Better?** | `typescript`, `ai`, `react` | [Read →](https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4) |
 | 🌐 | **Beyond Black-Box Concurrency: Streamless Event Transformers, T...** | `flutter`, `dart`, `architecture` | [Read →](https://dev.to/gde/beyond-black-box-concurrency-streamless-event-transformers-telemetry-and-the-end-of-3b08) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The term 'robot' comes from a Czech word meaning 'forced labor' 🤖
+> **🧪 Did You Know?** There are about 700 programming languages in existence today 💻
 
-<p align="center"><sub>⏰ Last updated: September 09, 2026 • 06:52 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 10, 2026 • 12:41 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
