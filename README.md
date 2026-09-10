@@ -57,19 +57,19 @@
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **I let AI write 100% of my code for 30 days. Here's what broke.** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/infoinlet1/i-let-ai-write-100-of-my-code-for-30-days-heres-what-broke-1aa0) |
-| ⚡ | **My OSS Projects: AngleSharp** | `dotnet`, `opensource`, `csharp` | [Read →](https://dev.to/florianrappl/my-oss-projects-anglesharp-3b8j) |
-| 🚀 | **Learn Trapping Rain Water, Top K Frequent and Selection Sort w...** | `typescript`, `algorithms`, `opensource` | [Read →](https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg) |
-| 💡 | **Como eu aprendi a aprender (e por que a IA não veio pra pensar...** | `ai`, `architecture`, `braziliandevs` | [Read →](https://dev.to/stherzada/como-eu-aprendi-a-aprender-e-por-que-a-ia-nao-veio-pra-pensar-por-voce-fhg) |
-| 🧠 | **Would You Choose a Library Because AI Writes It Better?** | `typescript`, `ai`, `react` | [Read →](https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4) |
-| 🌐 | **Beyond Black-Box Concurrency: Streamless Event Transformers, T...** | `flutter`, `dart`, `architecture` | [Read →](https://dev.to/gde/beyond-black-box-concurrency-streamless-event-transformers-telemetry-and-the-end-of-3b08) |
+| ⚡ | **Learn Trapping Rain Water, Top K Frequent and Selection Sort w...** | `typescript`, `algorithms`, `opensource` | [Read →](https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg) |
+| 🚀 | **My OSS Projects: AngleSharp** | `dotnet`, `opensource`, `csharp` | [Read →](https://dev.to/florianrappl/my-oss-projects-anglesharp-3b8j) |
+| 💡 | **4 pitfalls of loop engineering (and how to fix them)** | `ai`, `agents`, `discuss` | [Read →](https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2) |
+| 🧠 | **Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 ...** | `debian`, `linux`, `claudecode` | [Read →](https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2) |
+| 🌐 | **AI psychosis might be a result of subscription fatigue** | `ai`, `discuss` | [Read →](https://dev.to/ale3oula/ai-psychosis-might-be-a-result-of-subscription-fatigue-a39) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"The computer was born to solve problems that did not exist before."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** There are about 700 programming languages in existence today 💻
 
-<p align="center"><sub>⏰ Last updated: September 10, 2026 • 12:41 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 10, 2026 • 11:02 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
