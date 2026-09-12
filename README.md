@@ -51,7 +51,7 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2233</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2233</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
@@ -60,16 +60,16 @@
 | ⚡ | **What was your win this week??** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-5amk) |
 | 🚀 | **FastMCP Is Now MCPServer: Migrating a Python MCP Server to the...** | `mcp`, `python`, `googlecloud` | [Read →](https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj) |
 | 💡 | **I Wrote 238 Specs and Never Read One Again** | `specdrivendevelopment`, `aicoding`, `speckitcompanion` | [Read →](https://dev.to/alfredoperez/i-wrote-238-specs-and-never-read-one-again-5705) |
-| 🧠 | **AI-Generated Tests Can Make Coding Agents Worse. Here's How to...** | `ai`, `testing`, `python` | [Read →](https://dev.to/p0rt/ai-generated-tests-can-make-coding-agents-worse-heres-how-to-check-yours-3jc9) |
-| 🌐 | **Nexpath Review: Can an AI Prompt Quality Layer Make AI Coding ...** | `ai`, `coding`, `agents` | [Read →](https://dev.to/hadil/nexpath-review-can-an-ai-prompt-quality-layer-make-ai-coding-safer-24) |
+| 🧠 | **Most AI "Reasoning" Traces Are Just the Answer, Written Backwards** | `ai`, `discuss`, `machinelearning` | [Read →](https://dev.to/dj29/most-ai-reasoning-traces-are-just-the-answer-written-backwards-cho) |
+| 🌐 | **Why AI Keeps Making the Same Coding Mistakes—And How Teaching ...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: September 12, 2026 • 10:51 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 12, 2026 • 06:07 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
