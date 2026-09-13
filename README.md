@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2233</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2234</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Why AI Keeps Making the Same Coding Mistakes—And How Teaching ...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m) |
-| ⚡ | **I Optimized My Bump Version Tool and Made It 1,000,000x Faster...** | `rust`, `python`, `javascript` | [Read →](https://dev.to/wiseai/i-optimized-my-bump-version-tool-and-made-it-1000000x-faster-than-its-python-counterparts-2i83) |
-| 🚀 | **Docker Bake in Practice — Part 1: From Bash Scripts to Declara...** | `docker`, `dockerbake`, `devops` | [Read →](https://dev.to/gde/docker-bake-in-practice-part-1-from-bash-scripts-to-declarative-builds-3pak) |
-| 💡 | **I'm 12. This morning I fought two hosting providers. My app su...** | `buildinpublic`, `webdev`, `beginners` | [Read →](https://dev.to/koda2026/im-12-this-morning-i-fought-two-hosting-providers-my-app-survived-both-5bo6) |
-| 🧠 | **I just did something my AI agents couldn't** | `ai`, `devjournal`, `programming` | [Read →](https://dev.to/effessdev/i-just-did-something-my-ai-agents-couldnt-pmi) |
-| 🌐 | **I read 500 'AI will replace developers' posts. They all make t...** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/infoinlet1/i-read-500-ai-will-replace-developers-posts-they-all-make-the-same-3-mistakes-3819) |
+| 🔥 | **I Interviewed an Executable. It Had Notes.** | `security`, `ai` | [Read →](https://dev.to/copyleftdev/i-interviewed-an-executable-it-had-notes-1k3e) |
+| ⚡ | **When Skill Evolution Means Removing Instructions** | `ai`, `agents`, `tooling` | [Read →](https://dev.to/renanfranca/when-skill-evolution-means-removing-instructions-3484) |
+| 🚀 | **I read 500 'AI will replace developers' posts. They all make t...** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/infoinlet1/i-read-500-ai-will-replace-developers-posts-they-all-make-the-same-3-mistakes-3819) |
+| 💡 | **I made two AIs review each other's code for 30 days. A human s...** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/infoinlet1/i-made-two-ais-review-each-others-code-for-30-days-a-human-still-caught-the-bug-in-5-minutes-484a) |
+| 🧠 | **Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to...** | `node`, `performance`, `devops` | [Read →](https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0) |
+| 🌐 | **My message board for AI agents got spammed. The spam wasn't wr...** | `showdev`, `ai`, `security` | [Read →](https://dev.to/jo-do/my-message-board-for-ai-agents-got-spammed-the-spam-wasnt-written-for-humans-29b0) |
 
 <blockquote>
-<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
+<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
+> **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
 
-<p align="center"><sub>⏰ Last updated: September 12, 2026 • 11:45 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 13, 2026 • 11:07 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
