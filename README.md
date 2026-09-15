@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2236</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2237</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What Happens When AI Outgrows the Tests We Use to Measure It?** | `discuss`, `ai`, `programming` | [Read →](https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al) |
-| ⚡ | **The Quiet Weight of Working in Tech in the AI Era** | `mentalhealth`, `career`, `ai` | [Read →](https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g) |
-| 🚀 | **Resilient and Battle-Tested Are Not the Same Word** | `ai`, `architecture`, `programming` | [Read →](https://dev.to/adamthedeveloper/resilient-and-battle-tested-are-not-the-same-word-589o) |
-| 💡 | **Top 7 Featured DEV Posts of the Week** | `top7`, `discuss` | [Read →](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-272b) |
+| 🔥 | **The Slow and Quiet Cognitive Atrophy of a Modern Software Engi...** | `software`, `ai`, `programming` | [Read →](https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh) |
+| ⚡ | **How can I prevent my AI coding assistant from repeating fixed ...** | `ai`, `agents`, `mcp` | [Read →](https://dev.to/izgorodin/how-can-i-prevent-my-ai-coding-assistant-from-repeating-fixed-mistakes-across-sessions-2kf7) |
+| 🚀 | **The Quiet Weight of Working in Tech in the AI Era** | `mentalhealth`, `career`, `ai` | [Read →](https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g) |
+| 💡 | **Resilient and Battle-Tested Are Not the Same Word** | `ai`, `architecture`, `programming` | [Read →](https://dev.to/adamthedeveloper/resilient-and-battle-tested-are-not-the-same-word-589o) |
 | 🧠 | **AI Didn't Remove the Engineering Work. It Just Made It Easier ...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9) |
-| 🌐 | **New and improved Inspector: DevTools for AI Agents, now with A...** | `showdev`, `productivity`, `webdev` | [Read →](https://dev.to/copilotkit/new-and-improved-inspector-devtools-for-ai-agents-now-with-automatic-learning-4lai) |
+| 🌐 | **The Hidden Taxes of Prompt-Only AI** | `ai`, `llm`, `architecture` | [Read →](https://dev.to/kenwalger/the-hidden-taxes-of-prompt-only-ai-24lo) |
 
 <blockquote>
-<p>💬 <em>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** About 90% of the world's data was created in just the last 2 years 📊
+> **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
 
-<p align="center"><sub>⏰ Last updated: September 15, 2026 • 07:39 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 16, 2026 • 01:07 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
