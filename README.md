@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2237</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2237</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **The Slow and Quiet Cognitive Atrophy of a Modern Software Engi...** | `software`, `ai`, `programming` | [Read →](https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh) |
-| ⚡ | **How can I prevent my AI coding assistant from repeating fixed ...** | `ai`, `agents`, `mcp` | [Read →](https://dev.to/izgorodin/how-can-i-prevent-my-ai-coding-assistant-from-repeating-fixed-mistakes-across-sessions-2kf7) |
-| 🚀 | **AI Didn't Remove the Engineering Work. It Just Made It Easier ...** | `ai`, `discuss`, `career` | [Read →](https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9) |
-| 💡 | **Resilient and Battle-Tested Are Not the Same Word** | `ai`, `architecture`, `programming` | [Read →](https://dev.to/adamthedeveloper/resilient-and-battle-tested-are-not-the-same-word-589o) |
-| 🧠 | **MVC, MVP, MVVM, MVVM-C, VIPER: one pattern wearing five outfits** | `architecture`, `mobile`, `programming` | [Read →](https://dev.to/lovestaco/mvc-mvp-mvvm-mvvm-c-viper-one-pattern-wearing-five-outfits-3b73) |
-| 🌐 | **I Throttled My App to Slow 3G. Here's What My Tests Never Caught** | `javascript`, `webdev`, `debugging` | [Read →](https://dev.to/shubhradev/i-throttled-my-app-to-slow-3g-heres-what-my-tests-never-caught-h7m) |
+| ⚡ | **MVC, MVP, MVVM, MVVM-C, VIPER: one pattern wearing five outfits** | `architecture`, `mobile`, `programming` | [Read →](https://dev.to/lovestaco/mvc-mvp-mvvm-mvvm-c-viper-one-pattern-wearing-five-outfits-3b73) |
+| 🚀 | **How we built a desktop companion robot with Gemma 4 and Raspbe...** | `raspberrypi`, `gemma`, `gemini` | [Read →](https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke) |
+| 💡 | **R4B1T_H0LE: DESCENT** | `webdev`, `frontend`, `opensource` | [Read →](https://dev.to/gnomeman4201/r4b1th0le-descent-3aik) |
+| 🧠 | **How to Count 100 Billion Things in 12 Kilobytes** | `systemdesign`, `algorithms`, `redis` | [Read →](https://dev.to/lovestaco/hyperloglog-how-to-count-100-billion-things-in-12-kilobytes-5aae) |
+| 🌐 | **The Best Thing AI Did to Tech Might Be Pushing Us Out of It** | `career`, `ai`, `discuss` | [Read →](https://dev.to/james_anderson_h/the-best-thing-ai-did-to-tech-might-be-pushing-us-out-of-it-1278) |
 
 <blockquote>
-<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
+<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
 
-<p align="center"><sub>⏰ Last updated: September 16, 2026 • 11:05 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 16, 2026 • 07:31 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
