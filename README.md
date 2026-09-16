@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2237</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2238</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The Slow and Quiet Cognitive Atrophy of a Modern Software Engi...** | `software`, `ai`, `programming` | [Read →](https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh) |
-| ⚡ | **MVC, MVP, MVVM, MVVM-C, VIPER: one pattern wearing five outfits** | `architecture`, `mobile`, `programming` | [Read →](https://dev.to/lovestaco/mvc-mvp-mvvm-mvvm-c-viper-one-pattern-wearing-five-outfits-3b73) |
-| 🚀 | **How we built a desktop companion robot with Gemma 4 and Raspbe...** | `raspberrypi`, `gemma`, `gemini` | [Read →](https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke) |
-| 💡 | **R4B1T_H0LE: DESCENT** | `webdev`, `frontend`, `opensource` | [Read →](https://dev.to/gnomeman4201/r4b1th0le-descent-3aik) |
-| 🧠 | **How to Count 100 Billion Things in 12 Kilobytes** | `systemdesign`, `algorithms`, `redis` | [Read →](https://dev.to/lovestaco/hyperloglog-how-to-count-100-billion-things-in-12-kilobytes-5aae) |
-| 🌐 | **The Best Thing AI Did to Tech Might Be Pushing Us Out of It** | `career`, `ai`, `discuss` | [Read →](https://dev.to/james_anderson_h/the-best-thing-ai-did-to-tech-might-be-pushing-us-out-of-it-1278) |
+| 🔥 | **How we built a desktop companion robot with Gemma 4 and Raspbe...** | `raspberrypi`, `gemma`, `gemini` | [Read →](https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke) |
+| ⚡ | **Build real-time voice applications with Gemini 3.8 Live and 3....** | `ai`, `live`, `voice` | [Read →](https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5) |
+| 🚀 | **How to Count 100 Billion Things in 12 Kilobytes** | `systemdesign`, `algorithms`, `redis` | [Read →](https://dev.to/lovestaco/hyperloglog-how-to-count-100-billion-things-in-12-kilobytes-5aae) |
+| 💡 | **How I Finally Learnt to Solve Coding Interview Questions** | `career`, `todayilearned` | [Read →](https://dev.to/cathylai/how-i-finally-learnt-to-solve-coding-interview-questions-2cop) |
+| 🧠 | **Building PoCs with Codex and GitHub Copilot while they try to ...** | `ai`, `productivity` | [Read →](https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9) |
+| 🌐 | **My OSS Projects: Mages** | `dotnet`, `opensource`, `csharp` | [Read →](https://dev.to/florianrappl/my-oss-projects-mages-31cl) |
 
 <blockquote>
-<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
+<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
+> **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: September 16, 2026 • 07:31 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 17, 2026 • 12:59 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
