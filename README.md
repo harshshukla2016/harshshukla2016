@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2238</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2238</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **How we built a desktop companion robot with Gemma 4 and Raspbe...** | `raspberrypi`, `gemma`, `gemini` | [Read →](https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke) |
-| ⚡ | **Build real-time voice applications with Gemini 3.8 Live and 3....** | `ai`, `live`, `voice` | [Read →](https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5) |
-| 🚀 | **How I Finally Learnt to Solve Coding Interview Questions** | `career`, `todayilearned` | [Read →](https://dev.to/cathylai/how-i-finally-learnt-to-solve-coding-interview-questions-2cop) |
-| 💡 | **Building PoCs with Codex and GitHub Copilot while they try to ...** | `ai`, `productivity` | [Read →](https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9) |
-| 🧠 | **How to Count 100 Billion Things in 12 Kilobytes** | `systemdesign`, `algorithms`, `redis` | [Read →](https://dev.to/lovestaco/hyperloglog-how-to-count-100-billion-things-in-12-kilobytes-5aae) |
-| 🌐 | **A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4** | `machinelearning`, `gpu`, `benchmarking` | [Read →](https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150) |
+| 🔥 | **Build real-time voice applications with Gemini 3.8 Live and 3....** | `ai`, `live`, `voice` | [Read →](https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5) |
+| ⚡ | **Building PoCs with Codex and GitHub Copilot while they try to ...** | `ai`, `productivity` | [Read →](https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9) |
+| 🚀 | **Progressive Disclosure: What, Where, When, and Why** | `ai`, `claude`, `performance` | [Read →](https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3) |
+| 💡 | **How AI Actually Calls an API? Tool Calling Explained from Scratch** | `ai`, `mcp`, `aws` | [Read →](https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8) |
+| 🧠 | **A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4** | `machinelearning`, `gpu`, `benchmarking` | [Read →](https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150) |
+| 🌐 | **An MI300X Over MCP: What the Matrix Cores Execute, and What Th...** | `amd`, `mcp`, `rocm` | [Read →](https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9) |
 
 <blockquote>
-<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
 
-<p align="center"><sub>⏰ Last updated: September 17, 2026 • 11:11 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 17, 2026 • 07:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
