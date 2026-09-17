@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2238</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2239</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Build real-time voice applications with Gemini 3.8 Live and 3....** | `ai`, `live`, `voice` | [Read →](https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5) |
-| ⚡ | **Building PoCs with Codex and GitHub Copilot while they try to ...** | `ai`, `productivity` | [Read →](https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9) |
-| 🚀 | **Progressive Disclosure: What, Where, When, and Why** | `ai`, `claude`, `performance` | [Read →](https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3) |
-| 💡 | **How AI Actually Calls an API? Tool Calling Explained from Scratch** | `ai`, `mcp`, `aws` | [Read →](https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8) |
-| 🧠 | **A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4** | `machinelearning`, `gpu`, `benchmarking` | [Read →](https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150) |
-| 🌐 | **An MI300X Over MCP: What the Matrix Cores Execute, and What Th...** | `amd`, `mcp`, `rocm` | [Read →](https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9) |
+| 🔥 | **How AI Actually Calls an API? Tool Calling Explained from Scratch** | `ai`, `mcp`, `aws` | [Read →](https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8) |
+| ⚡ | **API Performance Testing: How to Design Realistic Tests** | `testing`, `performance`, `api` | [Read →](https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn) |
+| 🚀 | **Git Bisect for Your Data** | `postgres`, `neon`, `debugging` | [Read →](https://dev.to/devopsdaily/git-bisect-for-your-data-12dd) |
+| 💡 | **A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4** | `machinelearning`, `gpu`, `benchmarking` | [Read →](https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150) |
+| 🧠 | **An MI300X Over MCP: What the Matrix Cores Execute, and What Th...** | `amd`, `mcp`, `rocm` | [Read →](https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9) |
+| 🌐 | **How to Lead DevRel in the AI Era: Stop Playing It Safe** | `ai`, `agents`, `devrel` | [Read →](https://dev.to/blackgirlbytes/how-to-lead-devrel-in-the-ai-boom-stop-playing-it-safe-19jo) |
 
 <blockquote>
-<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
+<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first 1GB hard drive (1980) weighed about 550 pounds and cost $40,000 💾
+> **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: September 17, 2026 • 07:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 18, 2026 • 01:09 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
