@@ -56,20 +56,20 @@
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!** | `devchallenge`, `weekendchallenge`, `hackathon` | [Read →](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g) |
-| ⚡ | **Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's ...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm) |
-| 🚀 | **What was your win this week?!** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-2hcb) |
-| 💡 | **GMail, please let me hide delegated accounts on my iPhone** | `ios`, `design`, `productivity` | [Read →](https://dev.to/peter/gmail-please-let-me-hide-delegated-accounts-on-my-iphone-30e) |
-| 🧠 | **Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys** | `amd`, `vllm`, `rocm` | [Read →](https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9) |
-| 🌐 | **Architecting Battery-Efficient Geofencing for Automated Sound ...** | `android`, `kotlin`, `androiddev` | [Read →](https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-automated-sound-profiles-4f33) |
+| 🔥 | **What was your win this week?!** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-2hcb) |
+| ⚡ | **GMail, please let me hide delegated accounts on my iPhone** | `ios`, `design`, `productivity` | [Read →](https://dev.to/peter/gmail-please-let-me-hide-delegated-accounts-on-my-iphone-30e) |
+| 🚀 | **The beauty and terror of negative feedback** | `mentalhealth`, `techtalks`, `learning` | [Read →](https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d) |
+| 💡 | **How to make a fool of yourself 101** | `ai`, `career`, `discuss` | [Read →](https://dev.to/unitbuilds/how-to-make-a-fool-of-yourself-101-39op) |
+| 🧠 | **It's Got What Content Craves: Sanity, Built for the People of ...** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/xbill/its-got-what-content-craves-sanity-built-for-the-people-of-idiocracy-4k84) |
+| 🌐 | **Jev vs Claude: Who Wins?** | `ai`, `machinelearning`, `typescript` | [Read →](https://dev.to/bengreenberg/jev-vs-claude-who-wins-4mln) |
 
 <blockquote>
-<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
 
-<p align="center"><sub>⏰ Last updated: September 19, 2026 • 12:28 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 19, 2026 • 10:57 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
