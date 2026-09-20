@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2241</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2241</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Dev log #21 Hardening WebRTC-Direct and solving SCM leaks** | `opensource`, `devrel`, `discuss` | [Read →](https://dev.to/yashksaini/dev-log-hardening-webrtc-direct-and-solving-scm-leaks-i5k) |
-| ⚡ | **I got rejected for using AI in an interview. Then I watched th...** | `ai`, `webdev`, `career` | [Read →](https://dev.to/infoinlet1/i-got-rejected-for-using-ai-in-an-interview-then-i-watched-the-interviewer-do-it-31d0) |
-| 🚀 | **Caddy 2.11's default post-quantum key exchange sends six times...** | `caddy`, `security`, `performance` | [Read →](https://dev.to/alexgeorgiev17/caddy-211s-default-post-quantum-key-exchange-sends-six-times-more-handshake-bytes-38g3) |
-| 💡 | **What Go Taught Us About Java Garbage Collection** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/what-go-taught-us-about-java-garbage-collection-25ha) |
-| 🧠 | **What Do You Do While AI Codes? I Make Mine Argue With Itself.** | `ai`, `healthydebate`, `testing` | [Read →](https://dev.to/debashish_ghosal/what-do-you-do-while-ai-codes-i-make-mine-argue-with-itself-2gl7) |
-| 🌐 | **1,558 Tests Green and No Auth: The Tests That Never Actually Ran** | `ai`, `security`, `programming` | [Read →](https://dev.to/debashish_ghosal/1558-tests-green-and-no-auth-the-tests-that-never-actually-ran-nkk) |
+| 🔥 | **What Go Taught Us About Java Garbage Collection** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/what-go-taught-us-about-java-garbage-collection-25ha) |
+| ⚡ | **i built a green blob that lives on my desktop. now it has feel...** | `showdev`, `python`, `linux` | [Read →](https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd) |
+| 🚀 | **I Resurrected a Dead CRC Crate and It Suddenly Went Viral** | `rust`, `python`, `javascript` | [Read →](https://dev.to/wiseai/i-resurrected-a-dead-crc-crate-and-it-suddenly-went-viral-3894) |
+| 💡 | **1,558 Tests Green and No Auth: The Tests That Never Actually Ran** | `ai`, `security`, `programming` | [Read →](https://dev.to/debashish_ghosal/1558-tests-green-and-no-auth-the-tests-that-never-actually-ran-nkk) |
+| 🧠 | **AI Is Making You a Worse Engineer and a Better Employee** | `ai`, `career`, `productivity` | [Read →](https://dev.to/mikachu/ai-is-making-you-a-worse-engineer-and-a-better-employee-3cl3) |
+| 🌐 | **How to make your own Vim operator** | `vim`, `neovim`, `vimscript` | [Read →](https://dev.to/iggredible/how-to-make-your-own-vim-operator-4d4k) |
 
 <blockquote>
-<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
+<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** More than 6,000 new computer viruses are created every month 🦠
 
-<p align="center"><sub>⏰ Last updated: September 20, 2026 • 11:10 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 20, 2026 • 06:56 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
