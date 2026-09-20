@@ -56,20 +56,20 @@
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The beauty and terror of negative feedback** | `mentalhealth`, `techtalks`, `learning` | [Read →](https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d) |
-| ⚡ | **Dev log #21 Hardening WebRTC-Direct and solving SCM leaks** | `opensource`, `devrel`, `discuss` | [Read →](https://dev.to/yashksaini/dev-log-hardening-webrtc-direct-and-solving-scm-leaks-i5k) |
-| 🚀 | **Frozendict 🧊: State of the Art Immutable Hashmap for Python an...** | `rust`, `python`, `javascript` | [Read →](https://dev.to/wiseai/frozendict-state-of-the-art-immutable-hashmap-for-python-and-node-js-284o) |
-| 💡 | **What Do You Do While AI Codes? I Make Mine Argue With Itself.** | `ai`, `healthydebate`, `testing` | [Read →](https://dev.to/debashish_ghosal/what-do-you-do-while-ai-codes-i-make-mine-argue-with-itself-2gl7) |
-| 🧠 | **Thrown Into a Huge Unfamiliar Codebase? Here's Your Survival G...** | `beginners`, `webdev`, `programming` | [Read →](https://dev.to/james_anderson_h/thrown-into-a-huge-unfamiliar-codebase-heres-your-survival-guide-2gah) |
-| 🌐 | **It's Got What Content Craves: Sanity, Built for the People of ...** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/xbill/its-got-what-content-craves-sanity-built-for-the-people-of-idiocracy-4k84) |
+| 🔥 | **Dev log #21 Hardening WebRTC-Direct and solving SCM leaks** | `opensource`, `devrel`, `discuss` | [Read →](https://dev.to/yashksaini/dev-log-hardening-webrtc-direct-and-solving-scm-leaks-i5k) |
+| ⚡ | **I got rejected for using AI in an interview. Then I watched th...** | `ai`, `webdev`, `career` | [Read →](https://dev.to/infoinlet1/i-got-rejected-for-using-ai-in-an-interview-then-i-watched-the-interviewer-do-it-31d0) |
+| 🚀 | **Caddy 2.11's default post-quantum key exchange sends six times...** | `caddy`, `security`, `performance` | [Read →](https://dev.to/alexgeorgiev17/caddy-211s-default-post-quantum-key-exchange-sends-six-times-more-handshake-bytes-38g3) |
+| 💡 | **What Go Taught Us About Java Garbage Collection** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/what-go-taught-us-about-java-garbage-collection-25ha) |
+| 🧠 | **What Do You Do While AI Codes? I Make Mine Argue With Itself.** | `ai`, `healthydebate`, `testing` | [Read →](https://dev.to/debashish_ghosal/what-do-you-do-while-ai-codes-i-make-mine-argue-with-itself-2gl7) |
+| 🌐 | **1,558 Tests Green and No Auth: The Tests That Never Actually Ran** | `ai`, `security`, `programming` | [Read →](https://dev.to/debashish_ghosal/1558-tests-green-and-no-auth-the-tests-that-never-actually-ran-nkk) |
 
 <blockquote>
-<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** More than 6,000 new computer viruses are created every month 🦠
 
-<p align="center"><sub>⏰ Last updated: September 20, 2026 • 12:02 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 20, 2026 • 11:10 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
