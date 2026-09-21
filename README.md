@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2242</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2242</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **i built a green blob that lives on my desktop. now it has feel...** | `showdev`, `python`, `linux` | [Read →](https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd) |
-| ⚡ | **Architecting a Resilient DevSecOps Pipeline for Enterprise AI ...** | `ai`, `devsecops`, `github` | [Read →](https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4) |
-| 🚀 | **Blacksmith's GitHub Actions runners finished the same job 3 to...** | `githubactions`, `devops`, `ci` | [Read →](https://dev.to/alexgeorgiev17/blacksmiths-github-actions-runners-finished-the-same-job-3-to-4-times-faster-than-github-hosted-59oj) |
-| 💡 | **I Built a Local AI Music Studio** | `ai`, `music`, `opensource` | [Read →](https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9) |
+| 🔥 | **What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)** | `ai`, `webdev`, `mcp` | [Read →](https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g) |
+| ⚡ | **I Built a Local AI Music Studio** | `ai`, `music`, `opensource` | [Read →](https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9) |
+| 🚀 | **Stop Paying the build_runner Tax: Why I Refuse to Use Mockito ...** | `dart`, `flutter`, `testing` | [Read →](https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif) |
+| 💡 | **Share State Across Dart Isolates Without Losing Your Mind: Ent...** | `dart`, `flutter`, `architecture` | [Read →](https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b) |
 | 🧠 | **Dart Enhanced Enums Are Secretly Factories: Unlocking Construc...** | `dart`, `flutter`, `architecture` | [Read →](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9) |
-| 🌐 | **Share State Across Dart Isolates Without Losing Your Mind: Ent...** | `dart`, `flutter`, `architecture` | [Read →](https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b) |
+| 🌐 | **Dev log #22 Tearing out the old: Deleting 3,800 lines of legac...** | `productivity`, `discuss`, `ai` | [Read →](https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i) |
 
 <blockquote>
-<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The world's first webcam watched a coffee pot at Cambridge University ☕
 
-<p align="center"><sub>⏰ Last updated: September 21, 2026 • 11:20 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 21, 2026 • 09:08 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
