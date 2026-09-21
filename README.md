@@ -58,18 +58,18 @@
 |:---:|---|---|:---:|
 | 🔥 | **i built a green blob that lives on my desktop. now it has feel...** | `showdev`, `python`, `linux` | [Read →](https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd) |
 | ⚡ | **Architecting a Resilient DevSecOps Pipeline for Enterprise AI ...** | `ai`, `devsecops`, `github` | [Read →](https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4) |
-| 🚀 | **I Resurrected a Dead CRC Crate and It Suddenly Went Viral** | `rust`, `python`, `javascript` | [Read →](https://dev.to/wiseai/i-resurrected-a-dead-crc-crate-and-it-suddenly-went-viral-3894) |
-| 💡 | **1,558 Tests Green and No Auth: The Tests That Never Actually Ran** | `ai`, `security`, `programming` | [Read →](https://dev.to/debashish_ghosal/1558-tests-green-and-no-auth-the-tests-that-never-actually-ran-nkk) |
-| 🧠 | **How to make your own Vim operator** | `vim`, `neovim`, `vimscript` | [Read →](https://dev.to/iggredible/how-to-make-your-own-vim-operator-4d4k) |
-| 🌐 | **FastAPI's new app.frontend() fixes a route-order bug in manual...** | `python`, `fastapi`, `webdev` | [Read →](https://dev.to/alexgeorgiev17/fastapis-new-appfrontend-fixes-a-route-order-bug-in-manual-spa-serving-4mm8) |
+| 🚀 | **Blacksmith's GitHub Actions runners finished the same job 3 to...** | `githubactions`, `devops`, `ci` | [Read →](https://dev.to/alexgeorgiev17/blacksmiths-github-actions-runners-finished-the-same-job-3-to-4-times-faster-than-github-hosted-59oj) |
+| 💡 | **I Built a Local AI Music Studio** | `ai`, `music`, `opensource` | [Read →](https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9) |
+| 🧠 | **Dart Enhanced Enums Are Secretly Factories: Unlocking Construc...** | `dart`, `flutter`, `architecture` | [Read →](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9) |
+| 🌐 | **Share State Across Dart Isolates Without Losing Your Mind: Ent...** | `dart`, `flutter`, `architecture` | [Read →](https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b) |
 
 <blockquote>
-<p>💬 <em>"The computer was born to solve problems that did not exist before."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The world's first webcam watched a coffee pot at Cambridge University ☕
 
-<p align="center"><sub>⏰ Last updated: September 21, 2026 • 12:08 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 21, 2026 • 11:20 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
