@@ -56,20 +56,20 @@
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **🦄 Sharing DEV Followers Count on Github Profile 🦄** | `github`, `webdev`, `tooling` | [Read →](https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3) |
-| ⚡ | **23 Rejections, Multiple Offers: What I Learned From My 2-Month...** | `career`, `softwaredevelopment`, `programming` | [Read →](https://dev.to/javz/23-rejections-multiple-offers-what-i-learned-from-my-2-month-swe-job-search-5hi4) |
-| 🚀 | **Polly Introduces an Open Source Maintenance Fee** | `csharp`, `opensource`, `dotnet` | [Read →](https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e) |
-| 💡 | **Devlog: I Built a 3D Library in Three.js Without a Level Edito...** | `devlog`, `ai`, `javascript` | [Read →](https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i) |
-| 🧠 | **Python Thinks Different: What Actually Happens Inside Your Cod...** | `python`, `beginners`, `programming` | [Read →](https://dev.to/smtahosin/python-thinks-different-what-actually-happens-inside-your-code-visual-guide-241l) |
-| 🌐 | **Congrats to the Summer Bug Smash Winners!** | `devchallenge`, `bugsmash`, `performance` | [Read →](https://dev.to/devteam/congrats-to-the-summer-bug-smash-winners-50ei) |
+| 🔥 | **Polly Introduces an Open Source Maintenance Fee** | `csharp`, `opensource`, `dotnet` | [Read →](https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e) |
+| ⚡ | **Devlog: I Built a 3D Library in Three.js Without a Level Edito...** | `devlog`, `ai`, `javascript` | [Read →](https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i) |
+| 🚀 | **100% vuln detection wasn't enough: measuring whether AI respec...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/unit_500_c36d1b1011fdf39c/100-vuln-detection-wasnt-enough-measuring-whether-ai-respects-the-patch-dg4) |
+| 💡 | **AI-assisted genealogy, a follow-up** | `ai`, `genealogy`, `claude` | [Read →](https://dev.to/nfrankel/ai-assisted-genealogy-a-follow-up-531) |
+| 🧠 | **I Pulled Nine Years of My Own Dev.to Data. The Numbers Were No...** | `python`, `api`, `devjournal` | [Read →](https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac) |
+| 🌐 | **7 Agent Eval Mistakes That Cost Me Weeks (And the One-Line Fix...** | `ai`, `evaluation`, `llm` | [Read →](https://dev.to/debashish_ghosal/7-agent-eval-mistakes-that-cost-me-weeks-and-the-one-line-fixes-that-ended-them-ho) |
 
 <blockquote>
-<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer mouse was made of wood 🖱️
 
-<p align="center"><sub>⏰ Last updated: September 25, 2026 • 01:25 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 25, 2026 • 11:14 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
