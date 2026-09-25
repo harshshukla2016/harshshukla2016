@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2246</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2246</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Polly Introduces an Open Source Maintenance Fee** | `csharp`, `opensource`, `dotnet` | [Read →](https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e) |
-| ⚡ | **Devlog: I Built a 3D Library in Three.js Without a Level Edito...** | `devlog`, `ai`, `javascript` | [Read →](https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i) |
-| 🚀 | **100% vuln detection wasn't enough: measuring whether AI respec...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/unit_500_c36d1b1011fdf39c/100-vuln-detection-wasnt-enough-measuring-whether-ai-respects-the-patch-dg4) |
-| 💡 | **AI-assisted genealogy, a follow-up** | `ai`, `genealogy`, `claude` | [Read →](https://dev.to/nfrankel/ai-assisted-genealogy-a-follow-up-531) |
-| 🧠 | **I Pulled Nine Years of My Own Dev.to Data. The Numbers Were No...** | `python`, `api`, `devjournal` | [Read →](https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac) |
-| 🌐 | **7 Agent Eval Mistakes That Cost Me Weeks (And the One-Line Fix...** | `ai`, `evaluation`, `llm` | [Read →](https://dev.to/debashish_ghosal/7-agent-eval-mistakes-that-cost-me-weeks-and-the-one-line-fixes-that-ended-them-ho) |
+| 🔥 | **8 Posts by Women on DEV That Deserve More Than a Once-a-Year S...** | `wecoded`, `womenintech`, `showdev` | [Read →](https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc) |
+| ⚡ | **What was your win this week!?** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-odj) |
+| 🚀 | **Pointers Aren't Arrows. How C and C++ Actually Talk to Hardware.** | `cpp`, `c`, `programming` | [Read →](https://dev.to/smtahosin/pointers-arent-arrows-how-c-and-c-actually-talk-to-hardware-9d6) |
+| 💡 | **Moving to European Digital Services, One Decision at a Time** | `productivity` | [Read →](https://dev.to/playfulprogramming/moving-to-european-digital-services-one-decision-at-a-time-3j68) |
+| 🧠 | **Double Engine Failure: Back to the Hangar After Two Data Provi...** | `debugging`, `showdev`, `webdev` | [Read →](https://dev.to/georgekobaidze/double-engine-failure-back-to-the-hangar-after-two-data-providers-changed-course-3o3) |
+| 🌐 | **Android 17 Without the Last-Minute Scramble** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/android-17-without-the-last-minute-scramble-3a9k) |
 
 <blockquote>
-<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
+<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer mouse was made of wood 🖱️
 
-<p align="center"><sub>⏰ Last updated: September 25, 2026 • 11:14 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 25, 2026 • 07:54 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
