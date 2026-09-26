@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2247</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2248</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Followed the n8n AWS Docs and It Broke at the First Command** | `aws`, `n8n`, `docker` | [Read →](https://dev.to/aws-builders/i-followed-the-n8n-aws-docs-and-it-broke-at-the-first-command-4e1k) |
-| ⚡ | **I Built a Better Codex Pet Than OpenAI Did** | `opensource`, `python`, `linux` | [Read →](https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib) |
-| 🚀 | **The Impostor Was Never Dealt. So We Made the Deal Provable.** | `mlhacks`, `devchallenge`, `hackathon` | [Read →](https://dev.to/soumyadeepdey/the-impostor-was-never-dealt-so-we-made-the-deal-provable-56nk) |
-| 💡 | **Did I Miss Anything? Rails World FOMO and What I Actually Want...** | `rails`, `conferences`, `community` | [Read →](https://dev.to/cseeman/did-i-miss-anything-rails-world-fomo-and-what-i-actually-want-from-a-conference-4o0n) |
-| 🧠 | **If AI Writes the Code and AI Reviews the Code, What Exactly Is...** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/robertadam987_/if-ai-writes-the-code-and-ai-reviews-the-code-what-exactly-is-the-developer-verifying-b5h) |
-| 🌐 | **Can Two Local AI Agents Build an App Without Me? I Gave Them 6...** | `ai`, `llm`, `showdev` | [Read →](https://dev.to/mikachu/can-two-local-ai-agents-build-an-app-without-me-i-gave-them-6-rounds-to-find-out-ko1) |
+| 🔥 | **I Built a Better Codex Pet Than OpenAI Did** | `opensource`, `python`, `linux` | [Read →](https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib) |
+| ⚡ | **'Someone Already Built That' is the Favourite Excuse of Broke ...** | `discuss`, `watercooler`, `career` | [Read →](https://dev.to/maame-codes/someone-already-built-that-is-the-favourite-excuse-of-broke-developers-44o6) |
+| 🚀 | **If AI Writes the Code and AI Reviews the Code, What Exactly Is...** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/robertadam987_/if-ai-writes-the-code-and-ai-reviews-the-code-what-exactly-is-the-developer-verifying-b5h) |
+| 💡 | **Everyone's learning to prompt better. That's the wrong skill.** | `ai`, `career`, `webdev` | [Read →](https://dev.to/infoinlet1/everyones-learning-to-prompt-better-thats-the-wrong-skill-544o) |
+| 🧠 | **How I Actually Learn New Skills (No Tutorial Required)** | `career`, `productivity`, `tutorial` | [Read →](https://dev.to/sheships/how-i-actually-learn-new-skills-no-tutorial-required-3iia) |
+| 🌐 | **How I built deferred tool discovery for my desktop AI assistan...** | `opensource`, `ai`, `showdev` | [Read →](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-deferred-tool-discovery-for-my-desktop-ai-assistant-no-embeddings-needed-1f57) |
 
 <blockquote>
-<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
+<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
+> **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
 
-<p align="center"><sub>⏰ Last updated: September 26, 2026 • 07:06 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 27, 2026 • 12:38 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
