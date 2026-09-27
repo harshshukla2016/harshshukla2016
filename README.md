@@ -58,18 +58,18 @@
 |:---:|---|---|:---:|
 | 🔥 | **I Built a Better Codex Pet Than OpenAI Did** | `opensource`, `python`, `linux` | [Read →](https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib) |
 | ⚡ | **'Someone Already Built That' is the Favourite Excuse of Broke ...** | `discuss`, `watercooler`, `career` | [Read →](https://dev.to/maame-codes/someone-already-built-that-is-the-favourite-excuse-of-broke-developers-44o6) |
-| 🚀 | **If AI Writes the Code and AI Reviews the Code, What Exactly Is...** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/robertadam987_/if-ai-writes-the-code-and-ai-reviews-the-code-what-exactly-is-the-developer-verifying-b5h) |
-| 💡 | **Everyone's learning to prompt better. That's the wrong skill.** | `ai`, `career`, `webdev` | [Read →](https://dev.to/infoinlet1/everyones-learning-to-prompt-better-thats-the-wrong-skill-544o) |
-| 🧠 | **How I Actually Learn New Skills (No Tutorial Required)** | `career`, `productivity`, `tutorial` | [Read →](https://dev.to/sheships/how-i-actually-learn-new-skills-no-tutorial-required-3iia) |
+| 🚀 | **I Got Rejected 2 Minutes After Applying. So Much for 'Skills-B...** | `career`, `programming`, `hiring` | [Read →](https://dev.to/mikachu/i-got-rejected-2-minutes-after-applying-so-much-for-skills-based-hiring-4315) |
+| 💡 | **How I Actually Learn New Skills (No Tutorial Required)** | `career`, `productivity`, `tutorial` | [Read →](https://dev.to/sheships/how-i-actually-learn-new-skills-no-tutorial-required-3iia) |
+| 🧠 | **AI Promoted Every Developer to Reviewer. Nobody Measured Wheth...** | `ai`, `programming`, `testing` | [Read →](https://dev.to/debashish_ghosal/ai-promoted-every-developer-to-reviewer-nobody-measured-whether-we-got-worse-1mkk) |
 | 🌐 | **How I built deferred tool discovery for my desktop AI assistan...** | `opensource`, `ai`, `showdev` | [Read →](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-deferred-tool-discovery-for-my-desktop-ai-assistant-no-embeddings-needed-1f57) |
 
 <blockquote>
-<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** NASA's entire Apollo 11 computer had less power than a modern calculator 🚀
 
-<p align="center"><sub>⏰ Last updated: September 27, 2026 • 12:38 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 27, 2026 • 11:38 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
