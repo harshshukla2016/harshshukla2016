@@ -56,20 +56,20 @@
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Got Rejected 2 Minutes After Applying. So Much for 'Skills-B...** | `career`, `programming`, `hiring` | [Read →](https://dev.to/mikachu/i-got-rejected-2-minutes-after-applying-so-much-for-skills-based-hiring-4315) |
-| ⚡ | **I Tried to Prompt a 3D DEV Library Into Existence. Then I Had ...** | `devchallenge`, `sanitychallenge`, `ai` | [Read →](https://dev.to/mikachu/i-tried-to-prompt-a-3d-dev-library-into-existence-then-i-had-to-build-my-own-level-editor-37gf) |
-| 🚀 | **Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode' Made ...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3) |
-| 💡 | **What an anthill can teach us about orchestrating agents.** | `ai`, `programming`, `biology` | [Read →](https://dev.to/marcosomma/what-an-anthill-can-teach-us-about-orchestrating-agents-e2a) |
-| 🧠 | **I burned out. Now I don't know how to start again.** | `discuss`, `help`, `productivity` | [Read →](https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79) |
-| 🌐 | **I Built Two Agent Systems. Each One Proved the Other One Wrong.** | `ai`, `healthydebate`, `llm` | [Read →](https://dev.to/debashish_ghosal/i-built-two-agent-systems-each-one-proved-the-other-one-wrong-1f58) |
+| 🔥 | **Implementation is where judgements go to become invisible** | `testing`, `programming`, `discuss` | [Read →](https://dev.to/tom_jones_230c4659491adcd/implementation-is-where-judgements-go-to-become-invisible-4p1h) |
+| ⚡ | **Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode' Made ...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3) |
+| 🚀 | **I Tried to Prompt a 3D DEV Library Into Existence. Then I Had ...** | `devchallenge`, `sanitychallenge`, `ai` | [Read →](https://dev.to/mikachu/i-tried-to-prompt-a-3d-dev-library-into-existence-then-i-had-to-build-my-own-level-editor-37gf) |
+| 💡 | **Do We Still Need Code Reviews in the Age of Coding Agents?** | `ai`, `agents`, `discuss` | [Read →](https://dev.to/remojansen/do-we-still-need-code-reviews-in-the-age-of-coding-agents-31eg) |
+| 🧠 | **What an anthill can teach us about orchestrating agents.** | `ai`, `programming`, `biology` | [Read →](https://dev.to/marcosomma/what-an-anthill-can-teach-us-about-orchestrating-agents-e2a) |
+| 🌐 | **I burned out. Now I don't know how to start again.** | `discuss`, `help`, `productivity` | [Read →](https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"The best error message is the one that never shows up."</em> — <strong>Thomas Fuchs</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
 
-<p align="center"><sub>⏰ Last updated: September 28, 2026 • 01:11 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 28, 2026 • 11:46 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
