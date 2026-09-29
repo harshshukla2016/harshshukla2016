@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2250</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2250</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **🗓️ Monthly Dev 💫SPECIAL💫 Report: September 2026** | `discuss`, `community`, `devjournal` | [Read →](https://dev.to/francistrdev/monthly-dev-special-report-september-2026-3jd7) |
-| ⚡ | **Implementation is where judgements go to become invisible** | `testing`, `programming`, `discuss` | [Read →](https://dev.to/tom_jones_230c4659491adcd/implementation-is-where-judgements-go-to-become-invisible-4p1h) |
+| ⚡ | **Claude e Obsidian - Como uma QA utiliza essas ferramentas no d...** | `ai`, `productivity`, `braziliandevs` | [Read →](https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc) |
 | 🚀 | **Half the AI agents in production are if-statements with a GPU ...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/cyclopt_dimitrisk/half-the-ai-agents-in-production-are-if-statements-with-a-gpu-bill-4934) |
-| 💡 | **Dear Coder: Open This If You're Feeling AI FOMO** | `career`, `ai`, `programming` | [Read →](https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4) |
-| 🧠 | **I'm an ER doctor. After decades without touching code, I built...** | `showdev`, `ai`, `webdev` | [Read →](https://dev.to/branislav_kuga_4118d3b3ab/im-an-er-doctor-after-decades-without-touching-code-i-built-3-websites-with-ai-in-one-month-on-5ccm) |
-| 🌐 | **I connected a fruit fly connectome to tic-tac-toe (with a mini...** | `python`, `opensource`, `ai` | [Read →](https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0) |
+| 💡 | **I'm an ER doctor. After decades without touching code, I built...** | `showdev`, `ai`, `webdev` | [Read →](https://dev.to/branislav_kuga_4118d3b3ab/im-an-er-doctor-after-decades-without-touching-code-i-built-3-websites-with-ai-in-one-month-on-5ccm) |
+| 🧠 | **Count It or Compute It: When a Tool Returns Rows, the Models T...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae) |
+| 🌐 | **I Stopped Measuring My Programming Ability by How Much Code I ...** | `ai`, `programming`, `career` | [Read →](https://dev.to/mikachu/i-stopped-measuring-my-programming-ability-by-how-much-code-i-write-44g3) |
 
 <blockquote>
-<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
+<p>💬 <em>"Before software can be reusable it first has to be usable."</em> — <strong>Ralph Johnson</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: September 29, 2026 • 03:16 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 29, 2026 • 12:02 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
