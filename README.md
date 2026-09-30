@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2251</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2251</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **I Built My First AI Agent With AWS AgentCore, and the Hardest ...** | `discuss`, `aws`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf) |
-| ⚡ | **AI Agent Governance on AWS: Block Agents, Prove EU AI Act Comp...** | `aws`, `ai`, `governance` | [Read →](https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829) |
-| 🚀 | **Your GitHub profile shows your follower count. It also shows a...** | `github`, `security`, `githubactions` | [Read →](https://dev.to/rudratosh/your-github-profile-shows-your-follower-count-it-also-shows-attackers-your-whole-attack-surface-j7b) |
-| 💡 | **Confident Isn't Accurate: How AI Hallucinations Actually Work** | `ai`, `programming`, `beginners` | [Read →](https://dev.to/ale3oula/confident-isnt-accurate-how-ai-hallucinations-actually-work-4djo) |
-| 🧠 | **Say Please (if only as a reminder)** | `ai`, `llm`, `security` | [Read →](https://dev.to/btarbox/say-please-if-only-as-a-reminder-1bc9) |
-| 🌐 | **React 19 useFormStatus Returning False? I Built a SubmitButton...** | `react`, `javascript`, `webdev` | [Read →](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j) |
+| ⚡ | **Confident Isn't Accurate: How AI Hallucinations Actually Work** | `ai`, `programming`, `beginners` | [Read →](https://dev.to/ale3oula/confident-isnt-accurate-how-ai-hallucinations-actually-work-4djo) |
+| 🚀 | **🎡 Social Ferris Wheel: Sanity is the Hub** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j) |
+| 💡 | **Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2....** | `gemma`, `vllm`, `cuda` | [Read →](https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch) |
+| 🧠 | **AI Is Making Me Faster. I Don’t Want It to Make Me Worse.** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/mikachu/ai-is-making-me-faster-i-dont-want-it-to-make-me-worse-3lc3) |
+| 🌐 | **The Data Was Public. The Agent Path Wasn't. So His Mock Became...** | `ai`, `opensource`, `testing` | [Read →](https://dev.to/kenielzep97/the-data-was-public-the-agent-path-wasnt-so-his-mock-became-my-documentation-413a) |
 
 <blockquote>
-<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
+<p>💬 <em>"The best error message is the one that never shows up."</em> — <strong>Thomas Fuchs</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: September 30, 2026 • 11:45 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 30, 2026 • 09:06 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
