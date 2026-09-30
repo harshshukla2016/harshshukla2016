@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2251</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2252</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Built My First AI Agent With AWS AgentCore, and the Hardest ...** | `discuss`, `aws`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf) |
-| ⚡ | **Confident Isn't Accurate: How AI Hallucinations Actually Work** | `ai`, `programming`, `beginners` | [Read →](https://dev.to/ale3oula/confident-isnt-accurate-how-ai-hallucinations-actually-work-4djo) |
+| 🔥 | **Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of ...** | `aws`, `sagemaker`, `gemma` | [Read →](https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4) |
+| ⚡ | **TypeScript Compiler API: Preserving Child Node Narrowing in Re...** | `typescript`, `opensource`, `webdev` | [Read →](https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh) |
 | 🚀 | **🎡 Social Ferris Wheel: Sanity is the Hub** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j) |
 | 💡 | **Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2....** | `gemma`, `vllm`, `cuda` | [Read →](https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch) |
-| 🧠 | **AI Is Making Me Faster. I Don’t Want It to Make Me Worse.** | `ai`, `programming`, `productivity` | [Read →](https://dev.to/mikachu/ai-is-making-me-faster-i-dont-want-it-to-make-me-worse-3lc3) |
-| 🌐 | **The Data Was Public. The Agent Path Wasn't. So His Mock Became...** | `ai`, `opensource`, `testing` | [Read →](https://dev.to/kenielzep97/the-data-was-public-the-agent-path-wasnt-so-his-mock-became-my-documentation-413a) |
+| 🧠 | **🛜 The Journey of Data Through a Wi-Fi 7 NIC** | `wifi7`, `opensource`, `learning` | [Read →](https://dev.to/annavi11arrea1/the-journey-of-data-through-a-wi-fi-7-nic-1982) |
+| 🌐 | **How to Moderate Live Chat in Real Time with Jev and Composio (...** | `ai`, `jev`, `tutorial` | [Read →](https://dev.to/composiodev/how-to-moderate-live-chat-in-real-time-with-jev-and-composio-discord-twitch-5ab0) |
 
 <blockquote>
-<p>💬 <em>"The best error message is the one that never shows up."</em> — <strong>Thomas Fuchs</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
+> **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: September 30, 2026 • 09:06 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 01, 2026 • 02:12 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
