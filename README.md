@@ -56,20 +56,20 @@
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The Accidental Blogger: How I Ended Up on DEV** | `mentalhealth`, `discuss` | [Read →](https://dev.to/sylwia-lask/the-accidental-blogger-how-i-ended-up-on-dev-5a3f) |
-| ⚡ | **I Built My First AI Agent With AWS AgentCore, and the Hardest ...** | `discuss`, `aws`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf) |
-| 🚀 | **Claude e Obsidian - Como uma QA utiliza essas ferramentas no d...** | `ai`, `productivity`, `braziliandevs` | [Read →](https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc) |
-| 💡 | **I'm an ER doctor. After decades without touching code, I built...** | `showdev`, `ai`, `webdev` | [Read →](https://dev.to/branislav_kuga_4118d3b3ab/im-an-er-doctor-after-decades-without-touching-code-i-built-3-websites-with-ai-in-one-month-on-5ccm) |
-| 🧠 | **AI Agent Governance on AWS: Block Agents, Prove EU AI Act Comp...** | `aws`, `ai`, `governance` | [Read →](https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829) |
-| 🌐 | **Your GitHub profile shows your follower count. It also shows a...** | `github`, `security`, `githubactions` | [Read →](https://dev.to/rudratosh/your-github-profile-shows-your-follower-count-it-also-shows-attackers-your-whole-attack-surface-j7b) |
+| 🔥 | **I Built My First AI Agent With AWS AgentCore, and the Hardest ...** | `discuss`, `aws`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf) |
+| ⚡ | **AI Agent Governance on AWS: Block Agents, Prove EU AI Act Comp...** | `aws`, `ai`, `governance` | [Read →](https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829) |
+| 🚀 | **Your GitHub profile shows your follower count. It also shows a...** | `github`, `security`, `githubactions` | [Read →](https://dev.to/rudratosh/your-github-profile-shows-your-follower-count-it-also-shows-attackers-your-whole-attack-surface-j7b) |
+| 💡 | **Confident Isn't Accurate: How AI Hallucinations Actually Work** | `ai`, `programming`, `beginners` | [Read →](https://dev.to/ale3oula/confident-isnt-accurate-how-ai-hallucinations-actually-work-4djo) |
+| 🧠 | **Say Please (if only as a reminder)** | `ai`, `llm`, `security` | [Read →](https://dev.to/btarbox/say-please-if-only-as-a-reminder-1bc9) |
+| 🌐 | **React 19 useFormStatus Returning False? I Built a SubmitButton...** | `react`, `javascript`, `webdev` | [Read →](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j) |
 
 <blockquote>
-<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
+<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: September 30, 2026 • 02:08 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: September 30, 2026 • 11:45 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
