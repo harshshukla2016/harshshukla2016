@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2252</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2253</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Building an Offline Arduino UNO Q Cyberdeck That Identifies Bi...** | `arduino`, `iot`, `cloudinary` | [Read →](https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg) |
-| ⚡ | **Are Frontend Developers Cooked? Is Frontend design safe?** | `webdev`, `frontend`, `ai` | [Read →](https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8) |
-| 🚀 | **🎵 Burnout: I wrote a song - "Bleeding Knuckles"** | `ai`, `mentalhealth`, `music` | [Read →](https://dev.to/annavi11arrea1/burnout-i-wrote-a-song-bleeding-knuckles-43fp) |
-| 💡 | **Structs Aren't on the Stack. How C# Actually Manages Memory.** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/smtahosin/structs-arent-on-the-stack-how-c-actually-manages-memory-128p) |
-| 🧠 | **10 Internal Inconsistencies in 3 Published Groundwater Surveys** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/dannwaneri/10-internal-inconsistencies-in-3-published-groundwater-surveys-4634) |
-| 🌐 | **I Applied to 59 Tech Jobs in 14 Days. Here's What Actually Hap...** | `career`, `beginners`, `devjournal` | [Read →](https://dev.to/mikachu/i-applied-to-59-tech-jobs-in-14-days-heres-what-actually-happened-46lp) |
+| 🔥 | **🎵 Burnout: I wrote a song - "Bleeding Knuckles"** | `ai`, `mentalhealth`, `music` | [Read →](https://dev.to/annavi11arrea1/burnout-i-wrote-a-song-bleeding-knuckles-43fp) |
+| ⚡ | **Structs Aren't on the Stack. How C# Actually Manages Memory.** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/smtahosin/structs-arent-on-the-stack-how-c-actually-manages-memory-128p) |
+| 🚀 | **10 Internal Inconsistencies in 3 Published Groundwater Surveys** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/dannwaneri/10-internal-inconsistencies-in-3-published-groundwater-surveys-4634) |
+| 💡 | **I Turned My GitHub Profile Into a Cyberpunk Console With a Cit...** | `python`, `showdev`, `github` | [Read →](https://dev.to/georgekobaidze/i-turned-my-github-profile-into-a-cyberpunk-console-with-a-city-built-from-my-contributions-h4c) |
+| 🧠 | **I Applied to 59 Tech Jobs in 14 Days. Here's What Actually Hap...** | `career`, `beginners`, `devjournal` | [Read →](https://dev.to/mikachu/i-applied-to-59-tech-jobs-in-14-days-heres-what-actually-happened-46lp) |
+| 🌐 | **Views Measure Views** | `career`, `writing`, `devjournal` | [Read →](https://dev.to/kenwalger/views-measure-views-4co7) |
 
 <blockquote>
-<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
+<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
+> **🧪 Did You Know?** The first computer bug was an actual moth found in a Harvard Mark II computer in 1947 🪲
 
-<p align="center"><sub>⏰ Last updated: October 01, 2026 • 09:29 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 02, 2026 • 02:26 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
