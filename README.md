@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2252</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2252</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Building an Offline Arduino UNO Q Cyberdeck That Identifies Bi...** | `arduino`, `iot`, `cloudinary` | [Read →](https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg) |
-| ⚡ | **TypeScript Compiler API: Preserving Child Node Narrowing in Re...** | `typescript`, `opensource`, `webdev` | [Read →](https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh) |
-| 🚀 | **Are Frontend Developers Cooked? Is Frontend design safe?** | `webdev`, `frontend`, `ai` | [Read →](https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8) |
-| 💡 | **Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of ...** | `aws`, `sagemaker`, `gemma` | [Read →](https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4) |
-| 🧠 | **The Version of Me Who Looks Better on Paper Doesn't Exist** | `beginners`, `career`, `learning` | [Read →](https://dev.to/mikachu/im-not-asking-you-to-pretend-im-qualified-3bg5) |
-| 🌐 | **What Science Fiction Tells Us About Our Changing Relationship ...** | `ai`, `books`, `discuss` | [Read →](https://dev.to/javz/what-science-fiction-tells-us-about-our-changing-relationship-with-ai-5c8m) |
+| ⚡ | **Are Frontend Developers Cooked? Is Frontend design safe?** | `webdev`, `frontend`, `ai` | [Read →](https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8) |
+| 🚀 | **🎵 Burnout: I wrote a song - "Bleeding Knuckles"** | `ai`, `mentalhealth`, `music` | [Read →](https://dev.to/annavi11arrea1/burnout-i-wrote-a-song-bleeding-knuckles-43fp) |
+| 💡 | **Structs Aren't on the Stack. How C# Actually Manages Memory.** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/smtahosin/structs-arent-on-the-stack-how-c-actually-manages-memory-128p) |
+| 🧠 | **10 Internal Inconsistencies in 3 Published Groundwater Surveys** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/dannwaneri/10-internal-inconsistencies-in-3-published-groundwater-surveys-4634) |
+| 🌐 | **I Applied to 59 Tech Jobs in 14 Days. Here's What Actually Hap...** | `career`, `beginners`, `devjournal` | [Read →](https://dev.to/mikachu/i-applied-to-59-tech-jobs-in-14-days-heres-what-actually-happened-46lp) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: October 01, 2026 • 12:17 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 01, 2026 • 09:29 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
