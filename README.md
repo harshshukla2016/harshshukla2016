@@ -51,17 +51,17 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2253</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2253</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **I Turned My GitHub Profile Into a Cyberpunk Console With a Cit...** | `python`, `showdev`, `github` | [Read →](https://dev.to/georgekobaidze/i-turned-my-github-profile-into-a-cyberpunk-console-with-a-city-built-from-my-contributions-h4c) |
-| ⚡ | **Congrats to the DEV Weekend Challenge: Generosity Edition Winn...** | `devchallenge`, `weekendchallenge`, `hackathon` | [Read →](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-generosity-edition-winners-2mmg) |
-| 🚀 | **Structs Aren't on the Stack. How C# Actually Manages Memory.** | `csharp`, `dotnet`, `programming` | [Read →](https://dev.to/smtahosin/structs-arent-on-the-stack-how-c-actually-manages-memory-128p) |
-| 💡 | **10 Internal Inconsistencies in 3 Published Groundwater Surveys** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/dannwaneri/10-internal-inconsistencies-in-3-published-groundwater-surveys-4634) |
-| 🧠 | **I Applied to 59 Tech Jobs in 14 Days. Here's What Actually Hap...** | `career`, `beginners`, `devjournal` | [Read →](https://dev.to/mikachu/i-applied-to-59-tech-jobs-in-14-days-heres-what-actually-happened-46lp) |
-| 🌐 | **Views Measure Views** | `career`, `writing`, `devjournal` | [Read →](https://dev.to/kenwalger/views-measure-views-4co7) |
+| ⚡ | **Hacktoberfest Is Coming to Nadiad, Gujarat 🚀 Official MLH Meet...** | `hacktoberfest`, `opensource`, `ai` | [Read →](https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4) |
+| 🚀 | **What was your win this week?** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-4jli) |
+| 💡 | **Views Measure Views** | `career`, `writing`, `devjournal` | [Read →](https://dev.to/kenwalger/views-measure-views-4co7) |
+| 🧠 | **Which AWS limit is actually current? An agent that proves it, ...** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/sarvar_04/which-aws-limit-is-actually-current-an-agent-that-proves-it-32-vs-5-vs-16-6i4) |
+| 🌐 | **Kharcha: a 4B model that reads Indian bank SMS so the money st...** | `devchallenge`, `weekendchallenge`, `hf26challenge` | [Read →](https://dev.to/itskumaryash/kharcha-a-4b-model-that-reads-indian-bank-sms-so-the-money-stays-on-your-laptop-2n8j) |
 
 <blockquote>
 <p>💬 <em>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</em> — <strong>Bill Gates</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** The first computer bug was an actual moth found in a Harvard Mark II computer in 1947 🪲
 
-<p align="center"><sub>⏰ Last updated: October 02, 2026 • 12:08 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 02, 2026 • 08:52 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
