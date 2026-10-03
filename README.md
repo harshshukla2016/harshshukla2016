@@ -59,17 +59,17 @@
 | 🔥 | **What was your win this week?** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-4jli) |
 | ⚡ | **Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackat...** | `discuss`, `community`, `resources` | [Read →](https://dev.to/devengers/dev-opportunity-radar-19-hacktoberfest-20k-ai-agent-hackathon-and-pear-prime-2027-291n) |
 | 🚀 | **Hacktoberfest Is Coming to Nadiad, Gujarat 🚀 Official MLH Meet...** | `hacktoberfest`, `opensource`, `ai` | [Read →](https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4) |
-| 💡 | **Which AWS limit is actually current? An agent that proves it, ...** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/sarvar_04/which-aws-limit-is-actually-current-an-agent-that-proves-it-32-vs-5-vs-16-6i4) |
-| 🧠 | **Kharcha: a 4B model that reads Indian bank SMS so the money st...** | `devchallenge`, `weekendchallenge`, `hf26challenge` | [Read →](https://dev.to/itskumaryash/kharcha-a-4b-model-that-reads-indian-bank-sms-so-the-money-stays-on-your-laptop-2n8j) |
+| 💡 | **Kharcha: a 4B model that reads Indian bank SMS so the money st...** | `devchallenge`, `weekendchallenge`, `hf26challenge` | [Read →](https://dev.to/itskumaryash/kharcha-a-4b-model-that-reads-indian-bank-sms-so-the-money-stays-on-your-laptop-2n8j) |
+| 🧠 | **Write Markdown Once, Publish It Everywhere: dev.to, Medium, AW...** | `writing`, `markdown`, `devtools` | [Read →](https://dev.to/gde/write-markdown-once-publish-it-everywhere-devto-medium-aws-builder-center-and-linkedin-np4) |
 | 🌐 | **Rediscovering the Schwartzian Transform: Why I Had to Comment ...** | `dart`, `flutter`, `architecture` | [Read →](https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** There are about 700 programming languages in existence today 💻
 
-<p align="center"><sub>⏰ Last updated: October 03, 2026 • 02:04 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 03, 2026 • 11:29 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
