@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2254</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2254</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What was your win this week?** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-4jli) |
-| ⚡ | **Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackat...** | `discuss`, `community`, `resources` | [Read →](https://dev.to/devengers/dev-opportunity-radar-19-hacktoberfest-20k-ai-agent-hackathon-and-pear-prime-2027-291n) |
-| 🚀 | **Hacktoberfest Is Coming to Nadiad, Gujarat 🚀 Official MLH Meet...** | `hacktoberfest`, `opensource`, `ai` | [Read →](https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4) |
-| 💡 | **Kharcha: a 4B model that reads Indian bank SMS so the money st...** | `devchallenge`, `weekendchallenge`, `hf26challenge` | [Read →](https://dev.to/itskumaryash/kharcha-a-4b-model-that-reads-indian-bank-sms-so-the-money-stays-on-your-laptop-2n8j) |
-| 🧠 | **Write Markdown Once, Publish It Everywhere: dev.to, Medium, AW...** | `writing`, `markdown`, `devtools` | [Read →](https://dev.to/gde/write-markdown-once-publish-it-everywhere-devto-medium-aws-builder-center-and-linkedin-np4) |
-| 🌐 | **Rediscovering the Schwartzian Transform: Why I Had to Comment ...** | `dart`, `flutter`, `architecture` | [Read →](https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0) |
+| 🔥 | **Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackat...** | `discuss`, `community`, `resources` | [Read →](https://dev.to/devengers/dev-opportunity-radar-19-hacktoberfest-20k-ai-agent-hackathon-and-pear-prime-2027-291n) |
+| ⚡ | **Write Markdown Once, Publish It Everywhere: dev.to, Medium, AW...** | `writing`, `markdown`, `devtools` | [Read →](https://dev.to/gde/write-markdown-once-publish-it-everywhere-devto-medium-aws-builder-center-and-linkedin-np4) |
+| 🚀 | **Rediscovering the Schwartzian Transform: Why I Had to Comment ...** | `dart`, `flutter`, `architecture` | [Read →](https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0) |
+| 💡 | **I Was Overwhelmed, So I Turned My GitHub Profile Into a Roguel...** | `csharp`, `gamedev`, `github` | [Read →](https://dev.to/g00ds0ul/i-was-overwhelmed-so-i-turned-my-github-profile-into-a-roguelike-dungeon-17a8) |
+| 🧠 | **I Gave 15 AI Models Proof Their Hacking Target Was a Real Comp...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81) |
+| 🌐 | **I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.** | `ai`, `productivity`, `programming` | [Read →](https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** There are about 700 programming languages in existence today 💻
 
-<p align="center"><sub>⏰ Last updated: October 03, 2026 • 11:29 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 03, 2026 • 07:38 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
