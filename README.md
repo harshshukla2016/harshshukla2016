@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2258</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2259</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Curiosity Over Comfort** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/marceli/curiosity-over-comfort-5cki) |
-| ⚡ | **🌟 Demystifying Kubernetes etcd: Inside the Cluster’s Brain & S...** | `kubernetes`, `cloud`, `devops` | [Read →](https://dev.to/aws-builders/demystifying-kubernetes-etcd-inside-the-clusters-brain-state-store-4l6k) |
-| 🚀 | **🌿 AI Nature Quest: I Built an AI That Wants You to Stop Using It** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/extinctsion/ai-nature-quest-i-built-an-ai-that-wants-you-to-stop-using-it-56g6) |
-| 💡 | **Bash Isn't a Programming Language. It's a Text Substitution En...** | `bash`, `linux`, `devops` | [Read →](https://dev.to/smtahosin/bash-isnt-a-programming-language-its-a-text-substitution-engine-5eml) |
-| 🧠 | **I Think We're Forgetting How to Be Bored** | `discuss`, `mentalhealth`, `productivity` | [Read →](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5) |
-| 🌐 | **I built an AI that only works when my phone is in my pocket** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/codeswithroh/i-built-an-ai-that-only-works-when-my-phone-is-in-my-pocket-3ipn) |
+| 🔥 | **I Think We're Forgetting How to Be Bored** | `discuss`, `mentalhealth`, `productivity` | [Read →](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5) |
+| ⚡ | **Bash Isn't a Programming Language. It's a Text Substitution En...** | `bash`, `linux`, `devops` | [Read →](https://dev.to/smtahosin/bash-isnt-a-programming-language-its-a-text-substitution-engine-5eml) |
+| 🚀 | **The job market is absolutely disgusting - I'm doing something ...** | `swe`, `jobmarket`, `mvp` | [Read →](https://dev.to/hubedav/the-job-market-is-absolutely-disgusting-im-doing-something-about-it-21gf) |
+| 💡 | **I Write on a 2006 iMac and Code on a $200 Laptop** | `discuss`, `productivity`, `webdev` | [Read →](https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4) |
+| 🧠 | **Single line CV** | `discuss`, `showdev`, `career` | [Read →](https://dev.to/pengeszikra/single-line-cv-52bf) |
+| 🌐 | **Curiosity Over Comfort** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/marceli/curiosity-over-comfort-5cki) |
 
 <blockquote>
-<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"It's not a bug — it's an undocumented feature."</em> — <strong>Anonymous</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
+> **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
 
-<p align="center"><sub>⏰ Last updated: October 07, 2026 • 09:34 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 08, 2026 • 02:39 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
