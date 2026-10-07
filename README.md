@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2258</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2258</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Why Your TypeScript Code Still Crashes in Production** | `typescript`, `javascript`, `beginners` | [Read →](https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4) |
-| ⚡ | **Your GitHub README Isn't a Profile. It's a Storefront. (Here A...** | `github`, `design`, `webdev` | [Read →](https://dev.to/akhourianmolkumar/your-github-readme-isnt-a-profile-its-a-storefront-here-are-the-5-rules-i-used-57jm) |
-| 🚀 | **Curiosity Over Comfort** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/marceli/curiosity-over-comfort-5cki) |
-| 💡 | **🌿 AI Nature Quest: I Built an AI That Wants You to Stop Using It** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/extinctsion/ai-nature-quest-i-built-an-ai-that-wants-you-to-stop-using-it-56g6) |
-| 🧠 | **Your AI Agent Will Do Something Terrible. Here's How to Surviv...** | `ai`, `agents`, `security` | [Read →](https://dev.to/james_anderson_h/your-ai-agent-will-do-something-terrible-heres-how-to-survive-it-4lc8) |
-| 🌐 | **Redis vs Dragonfly: A Hands-On Comparison** | `redis`, `programming`, `architecture` | [Read →](https://dev.to/adamthedeveloper/redis-vs-dragonfly-a-hands-on-comparison-22ko) |
+| 🔥 | **Curiosity Over Comfort** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/marceli/curiosity-over-comfort-5cki) |
+| ⚡ | **🌟 Demystifying Kubernetes etcd: Inside the Cluster’s Brain & S...** | `kubernetes`, `cloud`, `devops` | [Read →](https://dev.to/aws-builders/demystifying-kubernetes-etcd-inside-the-clusters-brain-state-store-4l6k) |
+| 🚀 | **🌿 AI Nature Quest: I Built an AI That Wants You to Stop Using It** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/extinctsion/ai-nature-quest-i-built-an-ai-that-wants-you-to-stop-using-it-56g6) |
+| 💡 | **Bash Isn't a Programming Language. It's a Text Substitution En...** | `bash`, `linux`, `devops` | [Read →](https://dev.to/smtahosin/bash-isnt-a-programming-language-its-a-text-substitution-engine-5eml) |
+| 🧠 | **I Think We're Forgetting How to Be Bored** | `discuss`, `mentalhealth`, `productivity` | [Read →](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5) |
+| 🌐 | **I built an AI that only works when my phone is in my pocket** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/codeswithroh/i-built-an-ai-that-only-works-when-my-phone-is-in-my-pocket-3ipn) |
 
 <blockquote>
-<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: October 07, 2026 • 12:18 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 07, 2026 • 09:34 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
