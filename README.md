@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2259</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2260</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Every Software Developer Has Blamed…** | `discuss` | [Read →](https://dev.to/sylwia-lask/every-software-developer-has-blamed-3a1o) |
-| ⚡ | **The job market is absolutely disgusting - I'm doing something ...** | `swe`, `jobmarket`, `mvp` | [Read →](https://dev.to/hubedav/the-job-market-is-absolutely-disgusting-im-doing-something-about-it-21gf) |
-| 🚀 | **How React Actually Works Under the Hood (And Why Your Mental M...** | `react`, `javascript`, `webdev` | [Read →](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8) |
-| 💡 | **To Retry or Not to Retry? That Is the Question.** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l) |
-| 🧠 | **Touch Grass, Pack Your Docs: An Offline Coding Agent on a 4 GB...** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/gde/touch-grass-pack-your-docs-an-offline-coding-agent-on-a-4-gb-laptop-gpu-4lf1) |
-| 🌐 | **What email APIs cost in 2026: 7 workloads priced on 6 providers** | `email`, `webdev`, `saas` | [Read →](https://dev.to/kubeden/what-email-apis-cost-in-2026-7-workloads-priced-on-6-providers-2l8b) |
+| ⚡ | **How React Actually Works Under the Hood (And Why Your Mental M...** | `react`, `javascript`, `webdev` | [Read →](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8) |
+| 🚀 | **To Retry or Not to Retry? That Is the Question.** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l) |
+| 💡 | **The September cut took 17% of my Claude Code week. Subagents w...** | `ai`, `claudecode`, `productivity` | [Read →](https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n) |
+| 🧠 | **My Problem With Omarchy Is What I Like About Arch** | `learning`, `linux`, `opensource` | [Read →](https://dev.to/dayvster/my-problem-with-omarchy-is-what-i-like-about-arch-2nk8) |
+| 🌐 | **I got Jev to zero mistakes. I'm still using Flash-Lite.** | `ai`, `gemini`, `testing` | [Read →](https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7) |
 
 <blockquote>
-<p>💬 <em>"The computer was born to solve problems that did not exist before."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
+> **🧪 Did You Know?** The first Apple computer sold for $666.66 🍎
 
-<p align="center"><sub>⏰ Last updated: October 08, 2026 • 09:37 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 09, 2026 • 02:43 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
