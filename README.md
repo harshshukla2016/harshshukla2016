@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2260</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2260</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **I got Jev to zero mistakes. I'm still using Flash-Lite.** | `ai`, `gemini`, `testing` | [Read →](https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7) |
-| ⚡ | **How React Actually Works Under the Hood (And Why Your Mental M...** | `react`, `javascript`, `webdev` | [Read →](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8) |
-| 🚀 | **The September cut took 17% of my Claude Code week. Subagents w...** | `ai`, `claudecode`, `productivity` | [Read →](https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n) |
-| 💡 | **My Problem With Omarchy Is What I Like About Arch** | `learning`, `linux`, `opensource` | [Read →](https://dev.to/dayvster/my-problem-with-omarchy-is-what-i-like-about-arch-2nk8) |
-| 🧠 | **How to resolve merge conflicts in Git without guessing: marker...** | `git`, `beginners`, `tutorial` | [Read →](https://dev.to/devopsdaily/how-to-resolve-merge-conflicts-in-git-without-guessing-markers-ours-theirs-and-the-rebase-flip-b4g) |
-| 🌐 | **How Our Engineering Team Uses AI, Part II: Meat Proxies** | `ai`, `engineering`, `productivity` | [Read →](https://dev.to/metalbear/how-our-engineering-team-uses-ai-part-ii-meat-proxies-148g) |
+| ⚡ | **Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal ...** | `discuss`, `community`, `resources` | [Read →](https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec) |
+| 🚀 | **AI Got Better While I Was Away. Software Didn't.** | `ai`, `programming`, `webdev` | [Read →](https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b) |
+| 💡 | **Super-Intelligent Yes-Men: Are We Training AI to Ignore the Tr...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp) |
+| 🧠 | **Llama Village: a virtual world powered by local AI with llamadart** | `flutter`, `ai`, `gamedev` | [Read →](https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi) |
+| 🌐 | **The September cut took 17% of my Claude Code week. Subagents w...** | `ai`, `claudecode`, `productivity` | [Read →](https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n) |
 
 <blockquote>
-<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first Apple computer sold for $666.66 🍎
 
-<p align="center"><sub>⏰ Last updated: October 09, 2026 • 12:36 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 09, 2026 • 09:18 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
