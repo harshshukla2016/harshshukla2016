@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2260</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2260</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Every Software Developer Has Blamed…** | `discuss` | [Read →](https://dev.to/sylwia-lask/every-software-developer-has-blamed-3a1o) |
+| 🔥 | **I got Jev to zero mistakes. I'm still using Flash-Lite.** | `ai`, `gemini`, `testing` | [Read →](https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7) |
 | ⚡ | **How React Actually Works Under the Hood (And Why Your Mental M...** | `react`, `javascript`, `webdev` | [Read →](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8) |
-| 🚀 | **To Retry or Not to Retry? That Is the Question.** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l) |
-| 💡 | **The September cut took 17% of my Claude Code week. Subagents w...** | `ai`, `claudecode`, `productivity` | [Read →](https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n) |
-| 🧠 | **My Problem With Omarchy Is What I Like About Arch** | `learning`, `linux`, `opensource` | [Read →](https://dev.to/dayvster/my-problem-with-omarchy-is-what-i-like-about-arch-2nk8) |
-| 🌐 | **I got Jev to zero mistakes. I'm still using Flash-Lite.** | `ai`, `gemini`, `testing` | [Read →](https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7) |
+| 🚀 | **The September cut took 17% of my Claude Code week. Subagents w...** | `ai`, `claudecode`, `productivity` | [Read →](https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n) |
+| 💡 | **My Problem With Omarchy Is What I Like About Arch** | `learning`, `linux`, `opensource` | [Read →](https://dev.to/dayvster/my-problem-with-omarchy-is-what-i-like-about-arch-2nk8) |
+| 🧠 | **How to resolve merge conflicts in Git without guessing: marker...** | `git`, `beginners`, `tutorial` | [Read →](https://dev.to/devopsdaily/how-to-resolve-merge-conflicts-in-git-without-guessing-markers-ours-theirs-and-the-rebase-flip-b4g) |
+| 🌐 | **How Our Engineering Team Uses AI, Part II: Meat Proxies** | `ai`, `engineering`, `productivity` | [Read →](https://dev.to/metalbear/how-our-engineering-team-uses-ai-part-ii-meat-proxies-148g) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first Apple computer sold for $666.66 🍎
 
-<p align="center"><sub>⏰ Last updated: October 09, 2026 • 02:43 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 09, 2026 • 12:36 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
