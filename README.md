@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2261</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2262</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **What Do You Drink While You Work?** | `discuss`, `career`, `programming` | [Read →](https://dev.to/xulingfeng/what-do-you-drink-while-you-work-17bm) |
-| ⚡ | **The Stack I'd Need for Claude to Direct a Whole YouTube Video ...** | `blender`, `ai`, `mcp` | [Read →](https://dev.to/lovestaco/the-stack-id-need-for-claude-to-direct-a-whole-youtube-video-in-blender-2ekd) |
-| 🚀 | **AI agent benchmark: I gave 9 models a destroy button and a job...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/sarvar_04/ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-that-needed-it-3d0f) |
+| ⚡ | **How Do We Extract the “Why” from a PR into a CHANGELOG with Je...** | `opensource`, `githubactions`, `ai` | [Read →](https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk) |
+| 🚀 | **Git Isn't a Diff Tracker: How Blobs, Trees, DAG Commits, and t...** | `git`, `programming`, `devops` | [Read →](https://dev.to/smtahosin/git-isnt-a-diff-tracker-how-blobs-trees-dag-commits-and-the-index-actually-work-under-the-hood-19eo) |
 | 💡 | **WildProof: Go Outside With a Question, Come Back With Evidence** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/dj29/wildproof-go-outside-with-a-question-come-back-with-evidence-574e) |
-| 🧠 | **Gemma 4 E2B in Pure JAX on a Colab TPU: Google's 4-Bit Export ...** | `jax`, `tpu`, `gemma` | [Read →](https://dev.to/gde/gemma-4-e2b-in-pure-jax-on-a-colab-tpu-googles-4-bit-export-against-an-exact-repack-4dle) |
-| 🌐 | **Surviving the 200k-Token Lobotomy: How Unix init.d and 'Mement...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/surviving-the-200k-token-lobotomy-how-unix-initd-and-memento-made-my-ai-coding-agent-immune-to-2f74) |
+| 🧠 | **AI agent benchmark: I gave 9 models a destroy button and a job...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/sarvar_04/ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-that-needed-it-3d0f) |
+| 🌐 | **Gemma 4 E2B in Pure JAX on a Colab TPU: Google's 4-Bit Export ...** | `jax`, `tpu`, `gemma` | [Read →](https://dev.to/gde/gemma-4-e2b-in-pure-jax-on-a-colab-tpu-googles-4-bit-export-against-an-exact-repack-4dle) |
 
 <blockquote>
-<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first Apple computer sold for $666.66 🍎
+> **🧪 Did You Know?** The first Apple logo featured Isaac Newton sitting under a tree 🍏
 
-<p align="center"><sub>⏰ Last updated: October 10, 2026 • 08:32 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 11, 2026 • 01:27 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
