@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2261</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2261</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal ...** | `discuss`, `community`, `resources` | [Read →](https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec) |
-| ⚡ | **Super-Intelligent Yes-Men: Are We Training AI to Ignore the Tr...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp) |
-| 🚀 | **AI Got Better While I Was Away. Software Didn't.** | `ai`, `programming`, `webdev` | [Read →](https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b) |
-| 💡 | **The Stack I'd Need for Claude to Direct a Whole YouTube Video ...** | `blender`, `ai`, `mcp` | [Read →](https://dev.to/lovestaco/the-stack-id-need-for-claude-to-direct-a-whole-youtube-video-in-blender-2ekd) |
-| 🧠 | **I built an offline AI that knows your last frost date, no inte...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/sarvar_04/i-built-an-offline-ai-that-knows-your-last-frost-date-no-internet-no-api-3b8e) |
-| 🌐 | **The YAML Norway problem and cron's day-of-month trap: two conf...** | `yaml`, `linux`, `devops` | [Read →](https://dev.to/devopsdaily/the-yaml-norway-problem-and-crons-day-of-month-trap-two-config-formats-that-lie-to-you-a11) |
+| 🔥 | **What Do You Drink While You Work?** | `discuss`, `career`, `programming` | [Read →](https://dev.to/xulingfeng/what-do-you-drink-while-you-work-17bm) |
+| ⚡ | **The Stack I'd Need for Claude to Direct a Whole YouTube Video ...** | `blender`, `ai`, `mcp` | [Read →](https://dev.to/lovestaco/the-stack-id-need-for-claude-to-direct-a-whole-youtube-video-in-blender-2ekd) |
+| 🚀 | **AI agent benchmark: I gave 9 models a destroy button and a job...** | `devchallenge`, `kagglechallenge`, `ai` | [Read →](https://dev.to/sarvar_04/ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-that-needed-it-3d0f) |
+| 💡 | **WildProof: Go Outside With a Question, Come Back With Evidence** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/dj29/wildproof-go-outside-with-a-question-come-back-with-evidence-574e) |
+| 🧠 | **Gemma 4 E2B in Pure JAX on a Colab TPU: Google's 4-Bit Export ...** | `jax`, `tpu`, `gemma` | [Read →](https://dev.to/gde/gemma-4-e2b-in-pure-jax-on-a-colab-tpu-googles-4-bit-export-against-an-exact-repack-4dle) |
+| 🌐 | **Surviving the 200k-Token Lobotomy: How Unix init.d and 'Mement...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/surviving-the-200k-token-lobotomy-how-unix-initd-and-memento-made-my-ai-coding-agent-immune-to-2f74) |
 
 <blockquote>
-<p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first Apple computer sold for $666.66 🍎
 
-<p align="center"><sub>⏰ Last updated: October 10, 2026 • 12:09 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 10, 2026 • 08:32 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
