@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2262</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2263</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **How Do We Extract the “Why” from a PR into a CHANGELOG with Je...** | `opensource`, `githubactions`, `ai` | [Read →](https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk) |
-| ⚡ | **Git Isn't a Diff Tracker: How Blobs, Trees, DAG Commits, and t...** | `git`, `programming`, `devops` | [Read →](https://dev.to/smtahosin/git-isnt-a-diff-tracker-how-blobs-trees-dag-commits-and-the-index-actually-work-under-the-hood-19eo) |
-| 🚀 | **🐾 DEV Pet Corner #1: Show Us Your Pets!** | `discuss`, `community`, `pets` | [Read →](https://dev.to/hemapriya_kanagala/dev-pet-corner-1-show-us-your-pets-39n6) |
-| 💡 | **Side Quests Grow on Trees (Leave Them Where They Grow) 🌿** | `devchallenge`, `hf26challenge`, `android` | [Read →](https://dev.to/anchildress1/side-quests-grow-on-trees-leave-them-where-they-grow-84e) |
-| 🧠 | **FarbeDex: a colour picker that only works outside (and never n...** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/dronzer2code/farbedex-a-colour-picker-that-only-works-outside-and-never-needs-the-internet-4b9o) |
-| 🌐 | **💅 Keyboard Makeover** | `mentalhealth`, `craft` | [Read →](https://dev.to/annavi11arrea1/keyboard-makeover-i6a) |
+| 🔥 | **🐾 DEV Pet Corner #1: Show Us Your Pets!** | `discuss`, `community`, `pets` | [Read →](https://dev.to/hemapriya_kanagala/dev-pet-corner-1-show-us-your-pets-39n6) |
+| ⚡ | **💅 Keyboard Makeover** | `mentalhealth`, `craft` | [Read →](https://dev.to/annavi11arrea1/keyboard-makeover-i6a) |
+| 🚀 | **Side Quests Grow on Trees (Leave Them Where They Grow) 🌿** | `devchallenge`, `hf26challenge`, `android` | [Read →](https://dev.to/anchildress1/side-quests-grow-on-trees-leave-them-where-they-grow-84e) |
+| 💡 | **FarbeDex: a colour picker that only works outside (and never n...** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/dronzer2code/farbedex-a-colour-picker-that-only-works-outside-and-never-needs-the-internet-4b9o) |
+| 🧠 | **What LLMs 'Know' That You Don't Know They Know: Stop Inventing...** | `ai`, `programming`, `unix` | [Read →](https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6) |
+| 🌐 | **Buy This, Not That, Drop This There” - I Made It Make Sense** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/taqui/buy-this-not-that-drop-this-there-i-made-it-make-sense-336p) |
 
 <blockquote>
-<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
+<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first Apple logo featured Isaac Newton sitting under a tree 🍏
+> **🧪 Did You Know?** About 90% of the world's data was created in just the last 2 years 📊
 
-<p align="center"><sub>⏰ Last updated: October 11, 2026 • 08:49 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 12, 2026 • 01:37 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
