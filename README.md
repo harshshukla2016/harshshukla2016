@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2264</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2265</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **How I Feel about the Grace Hopper Celebration Getting Cancelled** | `wecoded`, `news`, `dei` | [Read →](https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k) |
-| ⚡ | **What 9,050 AI-Written Scripts Taught Me About Slop** | `ai`, `llm`, `aie` | [Read →](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n) |
-| 🚀 | **Local embeddings with llamadart: how llamas share secrets** | `dart`, `ai`, `flutter` | [Read →](https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o) |
-| 💡 | **GitHub Isn't Just a Remote Git Server: How Spoke Clusters, For...** | `github`, `devops`, `architecture` | [Read →](https://dev.to/smtahosin/github-isnt-just-a-remote-git-server-how-spoke-clusters-fork-alternates-and-actions-runner-25ij) |
-| 🧠 | **AI Needs a Test That Fights Back** | `ai`, `opensource`, `testing` | [Read →](https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17) |
-| 🌐 | **People Are Vibe-Coding Clones of Every Paid App. What Actually...** | `ai`, `opensource`, `career` | [Read →](https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak) |
+| ⚡ | **AI Fatigue? Yea I know.** | `discuss`, `community`, `ai` | [Read →](https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9) |
+| 🚀 | **GitHub Isn't Just a Remote Git Server: How Spoke Clusters, For...** | `github`, `devops`, `architecture` | [Read →](https://dev.to/smtahosin/github-isnt-just-a-remote-git-server-how-spoke-clusters-fork-alternates-and-actions-runner-25ij) |
+| 💡 | **Someone hacked the freezers at 400 French supermarkets** | `news`, `security`, `ai` | [Read →](https://dev.to/peter/someone-hacked-the-freezers-at-400-french-supermarkets-5flm) |
+| 🧠 | **People Are Vibe-Coding Clones of Every Paid App. What Actually...** | `ai`, `opensource`, `career` | [Read →](https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak) |
+| 🌐 | **You blank in technical interviews even when you know the answe...** | `career`, `mentalhealth`, `beginners` | [Read →](https://dev.to/christopher_jakob_acda8fa/you-blank-in-technical-interviews-even-when-you-know-the-answer-lets-fix-that-27p9) |
 
 <blockquote>
 <p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** There are about 700 programming languages in existence today 💻
+> **🧪 Did You Know?** Google's first tweet was in binary: 'I'm feeling lucky' 🔍
 
-<p align="center"><sub>⏰ Last updated: October 13, 2026 • 10:12 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 14, 2026 • 02:37 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
