@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2264</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2264</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **You’re a Real Python Developer Only If...** | `python`, `programming`, `webdev` | [Read →](https://dev.to/hadil/youre-a-real-python-developer-only-if-94e) |
-| ⚡ | **Solodesk-Ai** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/dr5t/solodesk-ai-lpe) |
-| 🚀 | **We Built a Blender Render Farm Out of Four Laptops** | `blender`, `networking`, `tailscale` | [Read →](https://dev.to/lovestaco/we-built-a-blender-render-farm-out-of-four-laptops-1h32) |
-| 💡 | **I was chasing the job market. One comment on DEV.to made me re...** | `ai`, `career`, `programming` | [Read →](https://dev.to/effessdev/i-was-chasing-the-job-market-one-comment-on-devto-made-me-rethink-everything-4h20) |
-| 🧠 | **Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Wh...** | `tpu`, `vllm`, `gemma` | [Read →](https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4) |
-| 🌐 | **Local embeddings with llamadart: how llamas share secrets** | `dart`, `ai`, `flutter` | [Read →](https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o) |
+| 🔥 | **How I Feel about the Grace Hopper Celebration Getting Cancelled** | `wecoded`, `news`, `dei` | [Read →](https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k) |
+| ⚡ | **What 9,050 AI-Written Scripts Taught Me About Slop** | `ai`, `llm`, `aie` | [Read →](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n) |
+| 🚀 | **Local embeddings with llamadart: how llamas share secrets** | `dart`, `ai`, `flutter` | [Read →](https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o) |
+| 💡 | **GitHub Isn't Just a Remote Git Server: How Spoke Clusters, For...** | `github`, `devops`, `architecture` | [Read →](https://dev.to/smtahosin/github-isnt-just-a-remote-git-server-how-spoke-clusters-fork-alternates-and-actions-runner-25ij) |
+| 🧠 | **AI Needs a Test That Fights Back** | `ai`, `opensource`, `testing` | [Read →](https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17) |
+| 🌐 | **People Are Vibe-Coding Clones of Every Paid App. What Actually...** | `ai`, `opensource`, `career` | [Read →](https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak) |
 
 <blockquote>
-<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
+<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** There are about 700 programming languages in existence today 💻
 
-<p align="center"><sub>⏰ Last updated: October 13, 2026 • 12:49 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 13, 2026 • 10:12 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
