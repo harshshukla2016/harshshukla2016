@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2267</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2268</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Natural Languages Have Design Trade-offs Too: Georgian Is Dyna...** | `programming`, `writing`, `design` | [Read →](https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi) |
-| ⚡ | **What Are Your Chances of Surviving Resident Evil Based on Your...** | `discuss`, `career`, `jokes` | [Read →](https://dev.to/xulingfeng/what-are-your-chances-of-surviving-resident-evil-based-on-your-tech-job-4b9o) |
+| 🔥 | **What Are Your Chances of Surviving Resident Evil Based on Your...** | `discuss`, `career`, `jokes` | [Read →](https://dev.to/xulingfeng/what-are-your-chances-of-surviving-resident-evil-based-on-your-tech-job-4b9o) |
+| ⚡ | **Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Bu...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8) |
 | 🚀 | **What was your win this week?!** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-36am) |
-| 💡 | **Don't Order Fish on Monday. Don't Release on Friday** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/dont-order-fish-on-monday-dont-release-on-friday-me0) |
-| 🧠 | **Architecting Autonomous Lakehouse Agents: Governed Iceberg Ana...** | `googlecloud`, `ai`, `python` | [Read →](https://dev.to/gde/architecting-autonomous-lakehouse-agents-governed-iceberg-analytics-with-gemini-25-flash-and-4ai9) |
-| 🌐 | **Eight Minutes to Live. Was It Cursor, or Was It the Spec?** | `ai`, `vibecoding`, `mlh` | [Read →](https://dev.to/earlgreyhot1701d/eight-minutes-to-live-was-it-cursor-or-was-it-the-spec-3he8) |
+| 💡 | **🌑 Blue October** | `webdev`, `programming`, `mentalhealth` | [Read →](https://dev.to/annavi11arrea1/blue-october-1jia) |
+| 🧠 | **Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls ...** | `nvidia`, `googlecloud`, `llm` | [Read →](https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3) |
+| 🌐 | **Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two S...** | `gemma`, `llamacpp`, `cuda` | [Read →](https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g) |
 
 <blockquote>
 <p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The term 'robot' comes from a Czech word meaning 'forced labor' 🤖
+> **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
 
-<p align="center"><sub>⏰ Last updated: October 16, 2026 • 07:13 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 17, 2026 • 12:58 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
