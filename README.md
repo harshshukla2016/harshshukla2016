@@ -58,18 +58,18 @@
 |:---:|---|---|:---:|
 | 🔥 | **I built a lie detector for AI coding agents. Then I read the r...** | `ai`, `cloudflare`, `git` | [Read →](https://dev.to/dannwaneri/i-built-a-lie-detector-for-ai-coding-agents-then-i-read-the-rules-1hhb) |
 | ⚡ | **I Vibe-Coded My Way Out of Angular Upgrades** | `ai`, `vibecoding`, `angular` | [Read →](https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh) |
-| 🚀 | **Requests, Promises, Assertions, and Declarations: Rewriting Ou...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c) |
-| 💡 | **How I Built an Action Game with Godot During a Global Teen Hac...** | `godot`, `gamedev`, `showdev` | [Read →](https://dev.to/thetylern/how-i-built-an-action-game-with-godot-during-a-global-teen-hackathon-with-prizes-4db0) |
-| 🧠 | **Gemma 4 on a Used 8 GB RTX 3050: 116 Tokens/s for One User, 61...** | `gemma`, `llamacpp`, `cuda` | [Read →](https://dev.to/gde/gemma-4-on-a-used-8-gb-rtx-3050-116-tokenss-for-one-user-618-for-64-k6h) |
-| 🌐 | **I Built an Open-Weight AI That Prices Etsy Shops, On Your Laptop** | `devchallenge`, `hf26challenge`, `tabpfn` | [Read →](https://dev.to/sarvar_04/i-built-an-open-weight-ai-that-prices-etsy-shops-on-your-laptop-24dk) |
+| 🚀 | **Natural Languages Have Design Trade-offs Too: Georgian Is Dyna...** | `programming`, `writing`, `design` | [Read →](https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi) |
+| 💡 | **I Built an Open-Weight AI That Prices Etsy Shops, On Your Laptop** | `devchallenge`, `hf26challenge`, `tabpfn` | [Read →](https://dev.to/sarvar_04/i-built-an-open-weight-ai-that-prices-etsy-shops-on-your-laptop-24dk) |
+| 🧠 | **RevCheck, compare the cars you want before you buy your next d...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/alexgeorgiev17/revcheck-paste-two-used-car-listings-get-a-second-opinion-before-you-drive-across-town-1e7e) |
+| 🌐 | **It caught "partner" "pareja" in an IRS rule and missed "return...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/p0rt/it-caught-partner-pareja-in-an-irs-rule-and-missed-return-devolucion-an-offline-mt-7ge) |
 
 <blockquote>
-<p>💬 <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em> — <strong>Martin Fowler</strong></p>
+<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The term 'robot' comes from a Czech word meaning 'forced labor' 🤖
 
-<p align="center"><sub>⏰ Last updated: October 16, 2026 • 01:17 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 16, 2026 • 10:53 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
