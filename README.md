@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2268</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2268</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Bu...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8) |
-| ⚡ | **What Are Your Chances of Surviving Resident Evil Based on Your...** | `discuss`, `career`, `jokes` | [Read →](https://dev.to/xulingfeng/what-are-your-chances-of-surviving-resident-evil-based-on-your-tech-job-4b9o) |
-| 🚀 | **What was your win this week?!** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-36am) |
-| 💡 | **Singularity News :: 0010** | `discuss`, `ai`, `news` | [Read →](https://dev.to/pengeszikra/singularity-news-0010-nhn) |
+| ⚡ | **What was your win this week?!** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-36am) |
+| 🚀 | **Singularity News :: 0010** | `discuss`, `ai`, `news` | [Read →](https://dev.to/pengeszikra/singularity-news-0010-nhn) |
+| 💡 | **🌑 Blue October** | `webdev`, `programming`, `mentalhealth` | [Read →](https://dev.to/annavi11arrea1/blue-october-1jia) |
 | 🧠 | **Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls ...** | `nvidia`, `googlecloud`, `llm` | [Read →](https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3) |
-| 🌐 | **Doorman: my apps' contact form got 23 messages in six weeks, a...** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/mikek/doorman-my-apps-contact-form-got-23-messages-in-six-weeks-and-all-23-were-pitches-h7c) |
+| 🌐 | **10 Prompting Techniques My Deep Learning Exam Taught Me (That ...** | `promptengineering`, `ai`, `discuss` | [Read →](https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0) |
 
 <blockquote>
-<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
+<p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first text message ever sent was 'Merry Christmas' in 1992 💬
 
-<p align="center"><sub>⏰ Last updated: October 17, 2026 • 10:46 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 17, 2026 • 06:10 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
