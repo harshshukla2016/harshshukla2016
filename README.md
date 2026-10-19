@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2270</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2270</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors...** | `community`, `discuss`, `showdev` | [Read →](https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa) |
-| ⚡ | **🐾 DEV Pet Corner #2: Show Us Your Pets!** | `discuss`, `community`, `watercooler` | [Read →](https://dev.to/hemapriya_kanagala/dev-pet-corner-2-show-us-your-pets-37nj) |
-| 🚀 | **The Garden I Wait for Every Winter** | `watercooler`, `discuss`, `gardening` | [Read →](https://dev.to/shubhradev/the-garden-i-wait-for-every-winter-8mg) |
-| 💡 | **Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, an...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh) |
-| 🧠 | **I Built a New Tab Extension for DEV** | `showdev`, `webdev`, `opensource` | [Read →](https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm) |
-| 🌐 | **SQLite 3.54's diskused command needs a build flag sqlite3_anal...** | `sqlite`, `database`, `performance` | [Read →](https://dev.to/alexgeorgiev17/sqlite-354s-diskused-command-needs-a-build-flag-sqlite3analyzer-never-required-4na8) |
+| 🔥 | **I Built a New Tab Extension for DEV** | `showdev`, `webdev`, `opensource` | [Read →](https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm) |
+| ⚡ | **"Rails Magic" Isn't Magic. How a Request Actually Travels Thro...** | `rails`, `ruby`, `webdev` | [Read →](https://dev.to/smtahosin/rails-magic-isnt-magic-how-a-request-actually-travels-through-rails-5gc5) |
+| 🚀 | **Bank alerts to a day-book, with a local Gemma** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/dannwaneri/bank-alerts-to-a-day-book-with-a-local-gemma-21dl) |
+| 💡 | **Writing C for the Web in 2026 Isn't Insane. It Might Be the Fu...** | `webdev`, `c`, `architecture` | [Read →](https://dev.to/james_anderson_h/writing-c-for-the-web-in-2026-isnt-insane-it-might-be-the-future-529c) |
+| 🧠 | **The Verification Trap: Why Generative AI Is Making Senior Engi...** | `discuss`, `ai`, `softwareengineering` | [Read →](https://dev.to/debashish_ghosal/the-verification-trap-why-generative-ai-is-making-senior-engineers-slower-and-how-to-fix-it-245m) |
+| 🌐 | **The Terminal Made Me a Better Developer (And Not for the Reaso...** | `productivity`, `linux`, `beginners` | [Read →](https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: October 19, 2026 • 11:09 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 19, 2026 • 09:40 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
