@@ -58,18 +58,18 @@
 |:---:|---|---|:---:|
 | 🔥 | **Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors...** | `community`, `discuss`, `showdev` | [Read →](https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa) |
 | ⚡ | **🐾 DEV Pet Corner #2: Show Us Your Pets!** | `discuss`, `community`, `watercooler` | [Read →](https://dev.to/hemapriya_kanagala/dev-pet-corner-2-show-us-your-pets-37nj) |
-| 🚀 | **Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, an...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh) |
-| 💡 | **AI Took Me to Three Stages. I Still Don't Like Public Speaking.** | `ai`, `career`, `learning` | [Read →](https://dev.to/earlgreyhot1701d/ai-took-me-to-three-stages-i-still-dont-like-public-speaking-1g38) |
-| 🧠 | **My Agent Turned "I Haven't Decided" Into "Not Yet." Now the Mo...** | `agents`, `ollama`, `python` | [Read →](https://dev.to/kenielzep97/my-agent-turned-i-havent-decided-into-not-yet-now-the-model-isnt-allowed-to-write-its-own-23ma) |
+| 🚀 | **The Garden I Wait for Every Winter** | `watercooler`, `discuss`, `gardening` | [Read →](https://dev.to/shubhradev/the-garden-i-wait-for-every-winter-8mg) |
+| 💡 | **Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, an...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh) |
+| 🧠 | **I Built a New Tab Extension for DEV** | `showdev`, `webdev`, `opensource` | [Read →](https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm) |
 | 🌐 | **SQLite 3.54's diskused command needs a build flag sqlite3_anal...** | `sqlite`, `database`, `performance` | [Read →](https://dev.to/alexgeorgiev17/sqlite-354s-diskused-command-needs-a-build-flag-sqlite3analyzer-never-required-4na8) |
 
 <blockquote>
-<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
+<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: October 19, 2026 • 12:02 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 19, 2026 • 11:09 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
