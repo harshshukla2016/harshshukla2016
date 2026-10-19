@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2270</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2271</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Built a New Tab Extension for DEV** | `showdev`, `webdev`, `opensource` | [Read →](https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm) |
-| ⚡ | **"Rails Magic" Isn't Magic. How a Request Actually Travels Thro...** | `rails`, `ruby`, `webdev` | [Read →](https://dev.to/smtahosin/rails-magic-isnt-magic-how-a-request-actually-travels-through-rails-5gc5) |
+| 🔥 | **"Rails Magic" Isn't Magic. How a Request Actually Travels Thro...** | `rails`, `ruby`, `webdev` | [Read →](https://dev.to/smtahosin/rails-magic-isnt-magic-how-a-request-actually-travels-through-rails-5gc5) |
+| ⚡ | **The Terminal Made Me a Better Developer (And Not for the Reaso...** | `productivity`, `linux`, `beginners` | [Read →](https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6) |
 | 🚀 | **Bank alerts to a day-book, with a local Gemma** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/dannwaneri/bank-alerts-to-a-day-book-with-a-local-gemma-21dl) |
 | 💡 | **Writing C for the Web in 2026 Isn't Insane. It Might Be the Fu...** | `webdev`, `c`, `architecture` | [Read →](https://dev.to/james_anderson_h/writing-c-for-the-web-in-2026-isnt-insane-it-might-be-the-future-529c) |
 | 🧠 | **The Verification Trap: Why Generative AI Is Making Senior Engi...** | `discuss`, `ai`, `softwareengineering` | [Read →](https://dev.to/debashish_ghosal/the-verification-trap-why-generative-ai-is-making-senior-engineers-slower-and-how-to-fix-it-245m) |
-| 🌐 | **The Terminal Made Me a Better Developer (And Not for the Reaso...** | `productivity`, `linux`, `beginners` | [Read →](https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6) |
+| 🌐 | **Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game...** | `flutter`, `ai`, `webassembly` | [Read →](https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha) |
 
 <blockquote>
-<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
+<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
+> **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: October 19, 2026 • 09:40 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 20, 2026 • 02:27 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
