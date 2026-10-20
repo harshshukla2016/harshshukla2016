@@ -51,7 +51,7 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2271</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2272</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
@@ -59,17 +59,17 @@
 | 🔥 | **Somewhere, Coding Stopped Being Allowed to Be Fun** | `career`, `discuss`, `ai` | [Read →](https://dev.to/james_anderson_h/somewhere-coding-stopped-being-allowed-to-be-fun-14pe) |
 | ⚡ | **An App Built for One: Why a Devpost Skill Pack Made Me Spec It...** | `ai`, `webdev`, `hackathon` | [Read →](https://dev.to/earlgreyhot1701d/an-app-built-for-one-why-a-devpost-skill-pack-made-me-spec-it-anyway-knh) |
 | 🚀 | **I Fixed The Bug. Then My Pipeline Refused to Run.** | `devops`, `gitlab`, `cicd` | [Read →](https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i) |
-| 💡 | **Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050** | `gemma`, `llamacpp`, `cuda` | [Read →](https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn) |
+| 💡 | **I Miss Writing Code** | `career`, `ai`, `programming` | [Read →](https://dev.to/luminousmen/i-miss-writing-code-5hla) |
 | 🧠 | **Generative UI Without the Async Tax: Introducing bloc_signals_...** | `flutter`, `dart`, `ai` | [Read →](https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge) |
-| 🌐 | **Persistent Agent Teams: Recreating the Grok Bot Experience wit...** | `ai`, `devtools`, `tutorial` | [Read →](https://dev.to/maximsaplin/persistent-agent-teams-recreating-the-grok-bot-experience-with-herdr-claude-code-and-pi-2aea) |
+| 🌐 | **Stop Shipping Marketing Pages Like Product Features** | `webdev`, `programming`, `marketing` | [Read →](https://dev.to/yassersoliman/stop-shipping-marketing-pages-like-product-features-374d) |
 
 <blockquote>
-<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
+> **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: October 20, 2026 • 07:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 21, 2026 • 01:26 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
