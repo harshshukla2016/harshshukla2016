@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2271</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2271</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **"Rails Magic" Isn't Magic. How a Request Actually Travels Thro...** | `rails`, `ruby`, `webdev` | [Read →](https://dev.to/smtahosin/rails-magic-isnt-magic-how-a-request-actually-travels-through-rails-5gc5) |
-| ⚡ | **Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game...** | `flutter`, `ai`, `webassembly` | [Read →](https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha) |
-| 🚀 | **An App Built for One: Why a Devpost Skill Pack Made Me Spec It...** | `ai`, `webdev`, `hackathon` | [Read →](https://dev.to/earlgreyhot1701d/an-app-built-for-one-why-a-devpost-skill-pack-made-me-spec-it-anyway-knh) |
-| 💡 | **Writing C for the Web in 2026 Isn't Insane. It Might Be the Fu...** | `webdev`, `c`, `architecture` | [Read →](https://dev.to/james_anderson_h/writing-c-for-the-web-in-2026-isnt-insane-it-might-be-the-future-529c) |
-| 🧠 | **I built an AWS agent that scores any GitHub repo before you cl...** | `aws`, `ai`, `security` | [Read →](https://dev.to/aws-builders/i-built-an-aws-agent-that-scores-any-github-repo-before-you-clone-it-4omp) |
-| 🌐 | **Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050** | `gemma`, `llamacpp`, `cuda` | [Read →](https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn) |
+| 🔥 | **Somewhere, Coding Stopped Being Allowed to Be Fun** | `career`, `discuss`, `ai` | [Read →](https://dev.to/james_anderson_h/somewhere-coding-stopped-being-allowed-to-be-fun-14pe) |
+| ⚡ | **An App Built for One: Why a Devpost Skill Pack Made Me Spec It...** | `ai`, `webdev`, `hackathon` | [Read →](https://dev.to/earlgreyhot1701d/an-app-built-for-one-why-a-devpost-skill-pack-made-me-spec-it-anyway-knh) |
+| 🚀 | **I Fixed The Bug. Then My Pipeline Refused to Run.** | `devops`, `gitlab`, `cicd` | [Read →](https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i) |
+| 💡 | **Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050** | `gemma`, `llamacpp`, `cuda` | [Read →](https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn) |
+| 🧠 | **Generative UI Without the Async Tax: Introducing bloc_signals_...** | `flutter`, `dart`, `ai` | [Read →](https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge) |
+| 🌐 | **Persistent Agent Teams: Recreating the Grok Bot Experience wit...** | `ai`, `devtools`, `tutorial` | [Read →](https://dev.to/maximsaplin/persistent-agent-teams-recreating-the-grok-bot-experience-with-herdr-claude-code-and-pi-2aea) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: October 20, 2026 • 11:08 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 20, 2026 • 07:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
