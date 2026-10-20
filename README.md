@@ -57,19 +57,19 @@
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **"Rails Magic" Isn't Magic. How a Request Actually Travels Thro...** | `rails`, `ruby`, `webdev` | [Read →](https://dev.to/smtahosin/rails-magic-isnt-magic-how-a-request-actually-travels-through-rails-5gc5) |
-| ⚡ | **The Terminal Made Me a Better Developer (And Not for the Reaso...** | `productivity`, `linux`, `beginners` | [Read →](https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6) |
-| 🚀 | **Bank alerts to a day-book, with a local Gemma** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/dannwaneri/bank-alerts-to-a-day-book-with-a-local-gemma-21dl) |
+| ⚡ | **Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game...** | `flutter`, `ai`, `webassembly` | [Read →](https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha) |
+| 🚀 | **An App Built for One: Why a Devpost Skill Pack Made Me Spec It...** | `ai`, `webdev`, `hackathon` | [Read →](https://dev.to/earlgreyhot1701d/an-app-built-for-one-why-a-devpost-skill-pack-made-me-spec-it-anyway-knh) |
 | 💡 | **Writing C for the Web in 2026 Isn't Insane. It Might Be the Fu...** | `webdev`, `c`, `architecture` | [Read →](https://dev.to/james_anderson_h/writing-c-for-the-web-in-2026-isnt-insane-it-might-be-the-future-529c) |
-| 🧠 | **The Verification Trap: Why Generative AI Is Making Senior Engi...** | `discuss`, `ai`, `softwareengineering` | [Read →](https://dev.to/debashish_ghosal/the-verification-trap-why-generative-ai-is-making-senior-engineers-slower-and-how-to-fix-it-245m) |
-| 🌐 | **Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game...** | `flutter`, `ai`, `webassembly` | [Read →](https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha) |
+| 🧠 | **I built an AWS agent that scores any GitHub repo before you cl...** | `aws`, `ai`, `security` | [Read →](https://dev.to/aws-builders/i-built-an-aws-agent-that-scores-any-github-repo-before-you-clone-it-4omp) |
+| 🌐 | **Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050** | `gemma`, `llamacpp`, `cuda` | [Read →](https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn) |
 
 <blockquote>
-<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
+<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** React.js was first deployed on Facebook's news feed in 2011 ⚛️
 
-<p align="center"><sub>⏰ Last updated: October 20, 2026 • 02:27 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 20, 2026 • 11:08 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
