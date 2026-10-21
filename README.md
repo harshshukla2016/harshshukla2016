@@ -56,20 +56,20 @@
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Somewhere, Coding Stopped Being Allowed to Be Fun** | `career`, `discuss`, `ai` | [Read →](https://dev.to/james_anderson_h/somewhere-coding-stopped-being-allowed-to-be-fun-14pe) |
-| ⚡ | **An App Built for One: Why a Devpost Skill Pack Made Me Spec It...** | `ai`, `webdev`, `hackathon` | [Read →](https://dev.to/earlgreyhot1701d/an-app-built-for-one-why-a-devpost-skill-pack-made-me-spec-it-anyway-knh) |
-| 🚀 | **I Fixed The Bug. Then My Pipeline Refused to Run.** | `devops`, `gitlab`, `cicd` | [Read →](https://dev.to/maame-codes/i-fixed-the-bug-then-my-pipeline-refused-to-run-4c7i) |
-| 💡 | **I Miss Writing Code** | `career`, `ai`, `programming` | [Read →](https://dev.to/luminousmen/i-miss-writing-code-5hla) |
-| 🧠 | **Generative UI Without the Async Tax: Introducing bloc_signals_...** | `flutter`, `dart`, `ai` | [Read →](https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge) |
-| 🌐 | **Stop Shipping Marketing Pages Like Product Features** | `webdev`, `programming`, `marketing` | [Read →](https://dev.to/yassersoliman/stop-shipping-marketing-pages-like-product-features-374d) |
+| 🔥 | **I Miss Writing Code** | `career`, `ai`, `programming` | [Read →](https://dev.to/luminousmen/i-miss-writing-code-5hla) |
+| ⚡ | **Qwen3.8-Flash-Next vs Claude Opus 5.5: Six-way benchmark on a ...** | `ai`, `qwen38flashnext`, `localllm` | [Read →](https://dev.to/deepu105/qwen38-flash-next-vs-claude-opus-55-six-way-benchmark-on-a-real-rust-feature-1n98) |
+| 🚀 | **2 Agent Skills Every Frontend Developer Should Try** | `ai`, `webdev`, `frontend` | [Read →](https://dev.to/erikch/2-agent-skills-every-frontend-developer-should-try-16pl) |
+| 💡 | **Stuck in the same dev.to topics? An open model fixed it.** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc) |
+| 🧠 | **Tuesday Isn't a Valid State Transition** | `observability`, `programming`, `architecture` | [Read →](https://dev.to/kenwalger/tuesday-isnt-a-valid-state-transition-16ln) |
+| 🌐 | **The Hidden Cost of AI-Generated PRs: Why Most Teams Are Missin...** | `devdiscuss`, `productivity`, `programming` | [Read →](https://dev.to/johnnylemonny/the-hidden-cost-of-ai-generated-prs-why-most-teams-are-missing-silent-breakages-3g46) |
 
 <blockquote>
-<p>💬 <em>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: October 21, 2026 • 01:26 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 21, 2026 • 11:10 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
