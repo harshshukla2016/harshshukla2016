@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2272</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2273</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **How to Become a Tech Conference Speaker (And Why You Might Reg...** | `career`, `speaking`, `techtalks` | [Read →](https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink) |
-| ⚡ | **In Ruby, Objects Don't Have Methods. How Method Lookup Actuall...** | `ruby`, `programming`, `webdev` | [Read →](https://dev.to/smtahosin/in-ruby-objects-dont-have-methods-how-method-lookup-actually-works-31g9) |
-| 🚀 | **I'm Building a Hiring Platform That Starts With People, Not Jo...** | `jobmarket`, `building`, `project` | [Read →](https://dev.to/hubedav/im-building-a-hiring-platform-that-starts-with-people-not-job-descriptions-ha6) |
-| 💡 | **How to publish posts via the dev.to API** | `python`, `automation`, `beginners` | [Read →](https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd) |
-| 🧠 | **Building an Open-Source Support Tool That Turns Your Docs into...** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604) |
-| 🌐 | **Processes vs Threads, as the Linux Kernel Sees Them** | `linux`, `operatingsystems`, `concurrency` | [Read →](https://dev.to/lovestaco/processes-vs-threads-as-the-linux-kernel-sees-them-55pk) |
+| ⚡ | **I Got Tired of Coming into my Lab to Check the Pressure of my ...** | `devchallenge`, `hf26challenge`, `tigerdata` | [Read →](https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7) |
+| 🚀 | **Stuck in the same dev.to topics? An open model fixed it.** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc) |
+| 💡 | **In Ruby, Objects Don't Have Methods. How Method Lookup Actuall...** | `ruby`, `programming`, `webdev` | [Read →](https://dev.to/smtahosin/in-ruby-objects-dont-have-methods-how-method-lookup-actually-works-31g9) |
+| 🧠 | **is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50** | `typescript`, `opensource`, `webdev` | [Read →](https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf) |
+| 🌐 | **I'm Building a Hiring Platform That Starts With People, Not Jo...** | `jobmarket`, `building`, `project` | [Read →](https://dev.to/hubedav/im-building-a-hiring-platform-that-starts-with-people-not-job-descriptions-ha6) |
 
 <blockquote>
-<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
+> **🧪 Did You Know?** The first YouTube video was uploaded on April 23, 2005 🎬
 
-<p align="center"><sub>⏰ Last updated: October 21, 2026 • 07:49 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 22, 2026 • 01:30 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
