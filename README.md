@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2272</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2272</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **I Miss Writing Code** | `career`, `ai`, `programming` | [Read →](https://dev.to/luminousmen/i-miss-writing-code-5hla) |
-| ⚡ | **Qwen3.8-Flash-Next vs Claude Opus 5.5: Six-way benchmark on a ...** | `ai`, `qwen38flashnext`, `localllm` | [Read →](https://dev.to/deepu105/qwen38-flash-next-vs-claude-opus-55-six-way-benchmark-on-a-real-rust-feature-1n98) |
-| 🚀 | **2 Agent Skills Every Frontend Developer Should Try** | `ai`, `webdev`, `frontend` | [Read →](https://dev.to/erikch/2-agent-skills-every-frontend-developer-should-try-16pl) |
-| 💡 | **Stuck in the same dev.to topics? An open model fixed it.** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc) |
-| 🧠 | **Tuesday Isn't a Valid State Transition** | `observability`, `programming`, `architecture` | [Read →](https://dev.to/kenwalger/tuesday-isnt-a-valid-state-transition-16ln) |
-| 🌐 | **The Hidden Cost of AI-Generated PRs: Why Most Teams Are Missin...** | `devdiscuss`, `productivity`, `programming` | [Read →](https://dev.to/johnnylemonny/the-hidden-cost-of-ai-generated-prs-why-most-teams-are-missing-silent-breakages-3g46) |
+| 🔥 | **How to Become a Tech Conference Speaker (And Why You Might Reg...** | `career`, `speaking`, `techtalks` | [Read →](https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink) |
+| ⚡ | **In Ruby, Objects Don't Have Methods. How Method Lookup Actuall...** | `ruby`, `programming`, `webdev` | [Read →](https://dev.to/smtahosin/in-ruby-objects-dont-have-methods-how-method-lookup-actually-works-31g9) |
+| 🚀 | **I'm Building a Hiring Platform That Starts With People, Not Jo...** | `jobmarket`, `building`, `project` | [Read →](https://dev.to/hubedav/im-building-a-hiring-platform-that-starts-with-people-not-job-descriptions-ha6) |
+| 💡 | **How to publish posts via the dev.to API** | `python`, `automation`, `beginners` | [Read →](https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd) |
+| 🧠 | **Building an Open-Source Support Tool That Turns Your Docs into...** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604) |
+| 🌐 | **Processes vs Threads, as the Linux Kernel Sees Them** | `linux`, `operatingsystems`, `concurrency` | [Read →](https://dev.to/lovestaco/processes-vs-threads-as-the-linux-kernel-sees-them-55pk) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: October 21, 2026 • 11:10 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 21, 2026 • 07:49 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
