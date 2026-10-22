@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2273</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2273</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **How to Become a Tech Conference Speaker (And Why You Might Reg...** | `career`, `speaking`, `techtalks` | [Read →](https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink) |
-| ⚡ | **I Got Tired of Coming into my Lab to Check the Pressure of my ...** | `devchallenge`, `hf26challenge`, `tigerdata` | [Read →](https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7) |
-| 🚀 | **is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50** | `typescript`, `opensource`, `webdev` | [Read →](https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf) |
-| 💡 | **In Ruby, Objects Don't Have Methods. How Method Lookup Actuall...** | `ruby`, `programming`, `webdev` | [Read →](https://dev.to/smtahosin/in-ruby-objects-dont-have-methods-how-method-lookup-actually-works-31g9) |
-| 🧠 | **How to publish posts via the dev.to API** | `python`, `automation`, `beginners` | [Read →](https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd) |
-| 🌐 | **I Built slothd: A Local-First, Offline-Capable AI Daemon That ...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7) |
+| 🔥 | **I Got Tired of Coming into my Lab to Check the Pressure of my ...** | `devchallenge`, `hf26challenge`, `tigerdata` | [Read →](https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7) |
+| ⚡ | **is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50** | `typescript`, `opensource`, `webdev` | [Read →](https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf) |
+| 🚀 | **I Built slothd: A Local-First, Offline-Capable AI Daemon That ...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7) |
+| 💡 | **AI Made Coding Cheaper. So Why Is Building Software Still So E...** | `ai`, `productivity`, `career` | [Read →](https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m) |
+| 🧠 | **Docker Containers Aren't Virtual Machines: How Namespaces, cgr...** | `docker`, `devops`, `linux` | [Read →](https://dev.to/smtahosin/docker-containers-arent-virtual-machines-how-namespaces-cgroups-and-overlayfs-actually-work-4nkb) |
+| 🌐 | **I Fixed WebGPU on Linux. Then Forgot How I Did It.** | `linux`, `webdev`, `ai` | [Read →](https://dev.to/sizzlebop/i-fixed-webgpu-on-linux-then-forgot-how-i-did-it-5hjd) |
 
 <blockquote>
-<p>💬 <em>"The only way to learn a new programming language is by writing programs in it."</em> — <strong>Dennis Ritchie</strong></p>
+<p>💬 <em>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</em> — <strong>Bill Gates</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first YouTube video was uploaded on April 23, 2005 🎬
 
-<p align="center"><sub>⏰ Last updated: October 22, 2026 • 11:13 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 22, 2026 • 07:49 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
