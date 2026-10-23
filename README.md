@@ -56,20 +56,20 @@
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Don't Be a Proxy Between Me and Your AI** | `ai`, `discuss`, `career` | [Read →](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn) |
-| ⚡ | **Congrats to the Sanity Challenge Winners!** | `devchallenge`, `sanitychallenge`, `sanity` | [Read →](https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140) |
-| 🚀 | **I Built slothd: A Local-First, Offline-Capable AI Daemon That ...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7) |
-| 💡 | **Scaling stateful Gemini 4 Argon agent sessions on GKE: Connect...** | `kubernetes`, `ai`, `gke` | [Read →](https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln) |
-| 🧠 | **I Fixed WebGPU on Linux. Then Forgot How I Did It.** | `linux`, `webdev`, `ai` | [Read →](https://dev.to/sizzlebop/i-fixed-webgpu-on-linux-then-forgot-how-i-did-it-5hjd) |
-| 🌐 | **Buried Reads #1: Five Good Posts That Deserve More Attention** | `discuss`, `writing`, `devjournal` | [Read →](https://dev.to/dj29/buried-reads-1-five-good-posts-that-deserve-more-attention-40ib) |
+| 🔥 | **Scaling stateful Gemini 4 Argon agent sessions on GKE: Connect...** | `kubernetes`, `ai`, `gke` | [Read →](https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln) |
+| ⚡ | **Buried Reads #1: Five Good Posts That Deserve More Attention** | `discuss`, `writing`, `devjournal` | [Read →](https://dev.to/dj29/buried-reads-1-five-good-posts-that-deserve-more-attention-40ib) |
+| 🚀 | **PHP2Shell: Your Code Was Fine, The Engine Was Not** | `php`, `security`, `webdev` | [Read →](https://dev.to/lovestaco/php2shell-your-code-was-fine-the-engine-was-not-gc2) |
+| 💡 | **Nothing Reported It** | `ai`, `testing`, `programming` | [Read →](https://dev.to/kenwalger/nothing-reported-it-9ke) |
+| 🧠 | **Android 16 on a 4.9 Kernel: LineageOS 23.2 on the Pixel 3a** | `android`, `linux`, `kernel` | [Read →](https://dev.to/gde/android-16-on-a-49-kernel-lineageos-232-on-the-pixel-3a-5e79) |
+| 🌐 | **926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca) |
 
 <blockquote>
-<p>💬 <em>"If debugging is the process of removing bugs, then programming must be the process of putting them in."</em> — <strong>Edsger Dijkstra</strong></p>
+<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first Apple computer sold for $666.66 🍎
 
-<p align="center"><sub>⏰ Last updated: October 23, 2026 • 01:24 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 23, 2026 • 11:11 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
