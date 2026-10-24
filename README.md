@@ -58,18 +58,18 @@
 |:---:|---|---|:---:|
 | 🔥 | **Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity A...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806) |
 | ⚡ | **5 Steps on How to not loose at a hackathon?** | `ai`, `programming`, `majorleaguehacking` | [Read →](https://dev.to/sanidhya_at_mlh/5-steps-on-how-to-not-loose-at-a-hackathon-3hd1) |
-| 🚀 | **926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca) |
-| 💡 | **Building a Multimodal, Suggestion-Based AI Writing Coach with ...** | `ai`, `gemini`, `googleappsscript` | [Read →](https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4) |
-| 🧠 | **PHP2Shell: Your Code Was Fine, The Engine Was Not** | `php`, `security`, `webdev` | [Read →](https://dev.to/lovestaco/php2shell-your-code-was-fine-the-engine-was-not-gc2) |
-| 🌐 | **AI Is Winning Literary Awards. The Data Says That's Not What's...** | `ai`, `writing`, `data` | [Read →](https://dev.to/james_anderson_h/ai-is-winning-literary-awards-the-data-says-thats-not-whats-happening-179d) |
+| 🚀 | **Building a Multimodal, Suggestion-Based AI Writing Coach with ...** | `ai`, `gemini`, `googleappsscript` | [Read →](https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4) |
+| 💡 | **Availazy: Gemma 4 reads the volunteer group chat on my laptop,...** | `gemma`, `devchallenge`, `hf26challenge` | [Read →](https://dev.to/bipul_chamoli_09b5f0cc719/availazy-gemma-4-reads-the-volunteer-group-chat-on-my-laptop-python-does-the-dates-and-i-just-1nm8) |
+| 🧠 | **AI Is Winning Literary Awards. The Data Says That's Not What's...** | `ai`, `writing`, `data` | [Read →](https://dev.to/james_anderson_h/ai-is-winning-literary-awards-the-data-says-thats-not-whats-happening-179d) |
+| 🌐 | **Breach Week Dropped 10 'Patch Now' Posts. A Local Gemma Boiled...** | `devchallenge`, `hf26challenge`, `temporal` | [Read →](https://dev.to/t-rexbytes/breach-week-dropped-10-patch-now-posts-a-local-gemma-boiled-them-down-to-2-lines-and-code-53n6) |
 
 <blockquote>
-<p>💬 <em>"A good programmer is someone who always looks both ways before crossing a one-way street."</em> — <strong>Doug Linder</strong></p>
+<p>💬 <em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
 
-<p align="center"><sub>⏰ Last updated: October 24, 2026 • 01:23 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 24, 2026 • 10:50 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
