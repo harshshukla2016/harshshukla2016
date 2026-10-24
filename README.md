@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2275</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2276</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity A...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806) |
-| ⚡ | **Hours, Not Weeks: How AI Rewrote the Clock of Software Security** | `security`, `ai`, `startup` | [Read →](https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg) |
-| 🚀 | **Availazy: Gemma 4 reads the volunteer group chat on my laptop,...** | `gemma`, `devchallenge`, `hf26challenge` | [Read →](https://dev.to/bipul_chamoli_09b5f0cc719/availazy-gemma-4-reads-the-volunteer-group-chat-on-my-laptop-python-does-the-dates-and-i-just-1nm8) |
-| 💡 | **Breach Week Dropped 10 'Patch Now' Posts. A Local Gemma Boiled...** | `devchallenge`, `hf26challenge`, `temporal` | [Read →](https://dev.to/t-rexbytes/breach-week-dropped-10-patch-now-posts-a-local-gemma-boiled-them-down-to-2-lines-and-code-53n6) |
-| 🧠 | **🔢 The JSON Numbers JavaScript Quietly Corrupts** | `javascript`, `json`, `webdev` | [Read →](https://dev.to/alexi_be3/the-json-numbers-javascript-quietly-corrupts-m2k) |
-| 🌐 | **I Built a Pixel Hero That Nags Me to Drink Water (and Runs 100...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/kumuda/i-built-a-pixel-hero-that-nags-me-to-drink-water-and-runs-100-on-my-laptop-2ilb) |
+| 🔥 | **Hours, Not Weeks: How AI Rewrote the Clock of Software Security** | `security`, `ai`, `startup` | [Read →](https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg) |
+| ⚡ | **Sloth Reads: an open model reads my read-later pile overnight,...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/sbis04/sloth-reads-an-open-model-reads-my-read-later-pile-overnight-then-reads-me-the-good-ones-3o14) |
+| 🚀 | **PyTorch on TPU: Hands On With Colab** | `pytorch`, `tpu`, `gemma` | [Read →](https://dev.to/gde/pytorch-on-tpu-hands-on-with-colab-5b5g) |
+| 💡 | **I Built Mimu Because Even Taking Notes Is Too Much Work** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/sizzlebop/i-built-mimu-because-even-taking-notes-is-too-much-work-2dg) |
+| 🧠 | **'Baad mein' means later. Gemma reads the WhatsApp chat you kee...** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/codeswithroh/baad-mein-means-later-gemma-reads-the-whatsapp-chat-you-keep-with-yourself-and-tells-you-what-3i45) |
+| 🌐 | **👾 Nested Bookmarks Organizer for Chrome w/Custom Ticker** | `webdev`, `themes`, `customization` | [Read →](https://dev.to/annavi11arrea1/nested-bookmarks-organizer-for-chrome-wcustom-ticker-267p) |
 
 <blockquote>
-<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Over 3.5 billion Google searches are made every day 🔎
+> **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: October 24, 2026 • 06:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 25, 2026 • 12:11 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
