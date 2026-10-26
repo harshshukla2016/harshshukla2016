@@ -57,19 +57,19 @@
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **I Earned a Seat at GitHub Universe. It'll Stay Empty, and That...** | `conference`, `github` | [Read →](https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k) |
-| ⚡ | **Three Times My Test Failed and the LLM Was Right** | `ai`, `programming`, `llm` | [Read →](https://dev.to/debashish_ghosal/three-times-my-test-failed-and-the-llm-was-right-43l2) |
-| 🚀 | **A small, not-so-smart model went from 10% to 99.6% at reading ...** | `tinker`, `hf26challenge`, `devchallenge` | [Read →](https://dev.to/advikdivekar/a-small-not-so-smart-model-went-from-10-to-996-at-reading-property-deeds-for-115-and-it-says-490k) |
-| 💡 | **👻 The $249 Ghost Sale** | `google`, `webdev`, `rails` | [Read →](https://dev.to/annavi11arrea1/the-249-ghost-sale-12do) |
-| 🧠 | **Postmortem: The Tuesday Our AI Bill Had No Owner** | `discuss`, `vertexai`, `sre` | [Read →](https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd) |
-| 🌐 | **🐾 DEV Pet Corner #3: Show Us Your Pets!** | `discuss`, `community`, `watercooler` | [Read →](https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n) |
+| ⚡ | **🐾 DEV Pet Corner #3: Show Us Your Pets!** | `discuss`, `community`, `watercooler` | [Read →](https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n) |
+| 🚀 | **Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0) |
+| 💡 | **A small, not-so-smart model went from 10% to 99.6% at reading ...** | `tinker`, `hf26challenge`, `devchallenge` | [Read →](https://dev.to/advikdivekar/a-small-not-so-smart-model-went-from-10-to-996-at-reading-property-deeds-for-115-and-it-says-490k) |
+| 🧠 | **🦥 We built a pixel-art office where five cats do your data ana...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/fionakhl/we-built-a-pixel-art-office-where-five-cats-do-your-data-analysis-while-a-sloth-naps-1in8) |
+| 🌐 | **Slowth Money: a local AI agent for your financial goals** | `devchallenge`, `hf26challenge`, `fintech` | [Read →](https://dev.to/javz/slowth-money-a-local-ai-agent-for-your-financial-goals-2ki2) |
 
 <blockquote>
-<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
+<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
 
-<p align="center"><sub>⏰ Last updated: October 26, 2026 • 12:21 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 26, 2026 • 11:14 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
