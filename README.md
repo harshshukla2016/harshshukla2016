@@ -57,19 +57,19 @@
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Doors I Walked Through to Reach DEV** | `career`, `community`, `writing` | [Read →](https://dev.to/devengers/doors-i-walked-through-to-reach-dev-5294) |
-| ⚡ | **When Recovering From Burnout, Writing Became My Therapy. And T...** | `discuss`, `watercooler`, `ama` | [Read →](https://dev.to/canro91/to-recover-from-burnout-writing-became-my-therapy-and-this-week-my-first-coding-book-turns-1-year-388e) |
-| 🚀 | **Não precisa ser popular pra compartilhar: minha história até B...** | `community`, `braziliandevs`, `career` | [Read →](https://dev.to/he4rt/nao-precisa-ser-popular-pra-compartilhar-minha-historia-ate-berlim-1hbc) |
-| 💡 | **Why bloc.add(...) Isn't What You Think: Synchronous Event Fast...** | `flutter`, `dart`, `architecture` | [Read →](https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o) |
-| 🧠 | **HEXAW programming language for WebAssembly instead WAT** | `devchallenge`, `hf26challenge`, `webassembly` | [Read →](https://dev.to/pengeszikra/hexaw-a-lazy-wasm-text-format-5g5n) |
-| 🌐 | **I Don’t Write Ruby. A Fix I Sent Is Now in Forem.** | `opensource`, `forem`, `devto` | [Read →](https://dev.to/dannwaneri/i-dont-write-ruby-a-fix-i-sent-is-now-in-forem-13c5) |
+| ⚡ | **Não precisa ser popular pra compartilhar: minha história até B...** | `community`, `braziliandevs`, `career` | [Read →](https://dev.to/he4rt/nao-precisa-ser-popular-pra-compartilhar-minha-historia-ate-berlim-1hbc) |
+| 🚀 | **I Don’t Write Ruby. A Fix I Sent Is Now in Forem.** | `opensource`, `forem`, `devto` | [Read →](https://dev.to/dannwaneri/i-dont-write-ruby-a-fix-i-sent-is-now-in-forem-13c5) |
+| 💡 | **GraphQL Isn't Magic: How ASTs, Resolvers, and DataLoaders Actu...** | `graphql`, `webdev`, `backend` | [Read →](https://dev.to/smtahosin/graphql-isnt-magic-how-asts-resolvers-and-dataloaders-actually-work-under-the-hood-17gp) |
+| 🧠 | **How long a serverless function stays warm on DigitalOcean** | `serverless`, `digitalocean`, `performance` | [Read →](https://dev.to/remdore/how-long-a-serverless-function-stays-warm-on-digitalocean-59d7) |
+| 🌐 | **MCP Token Cost: I Cut My MCP Server From 15 Tools to 4** | `mcp`, `aws`, `ai` | [Read →](https://dev.to/aws-builders/mcp-token-cost-i-cut-my-mcp-server-from-15-tools-to-4-cek) |
 
 <blockquote>
-<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
+<p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
 
-<p align="center"><sub>⏰ Last updated: October 27, 2026 • 02:27 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 27, 2026 • 11:26 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
