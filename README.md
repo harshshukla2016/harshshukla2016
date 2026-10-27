@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌇 Good Evening! • Day <strong>2278</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2279</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Doors I Walked Through to Reach DEV** | `career`, `community`, `writing` | [Read →](https://dev.to/devengers/doors-i-walked-through-to-reach-dev-5294) |
-| ⚡ | **Não precisa ser popular pra compartilhar: minha história até B...** | `community`, `braziliandevs`, `career` | [Read →](https://dev.to/he4rt/nao-precisa-ser-popular-pra-compartilhar-minha-historia-ate-berlim-1hbc) |
-| 🚀 | **I Don’t Write Ruby. A Fix I Sent Is Now in Forem.** | `opensource`, `forem`, `devto` | [Read →](https://dev.to/dannwaneri/i-dont-write-ruby-a-fix-i-sent-is-now-in-forem-13c5) |
+| 🔥 | **Your DEV posts have a beautiful new share card ✨** | `devto`, `showdev`, `opensource` | [Read →](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8) |
+| ⚡ | **Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.** | `ai`, `discuss`, `programming` | [Read →](https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2) |
+| 🚀 | **The Most Embarrassing Private Key in Web PKI History** | `security`, `webdev`, `devops` | [Read →](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b) |
 | 💡 | **I deleted the mail server from my VPS and got 1.2 GB of RAM back** | `django`, `email`, `selfhosted` | [Read →](https://dev.to/remdore/i-deleted-the-mail-server-from-my-vps-and-got-12-gb-of-ram-back-cdc) |
-| 🧠 | **Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Appr...** | `dart`, `flutter`, `ai` | [Read →](https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc) |
-| 🌐 | **5 Best Open-source LLM Gateways 💎** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/anthonymax/5-best-open-source-llm-gateways-10bi) |
+| 🧠 | **The Rootkit Exorcist: Summoning Local AI to Investigate Suspic...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/data_secchronicles/the-rootkit-exorcist-summoning-local-ai-to-investigate-suspicious-scripts-an1) |
+| 🌐 | **Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Appr...** | `dart`, `flutter`, `ai` | [Read →](https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
+> **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
 
-<p align="center"><sub>⏰ Last updated: October 27, 2026 • 08:36 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 28, 2026 • 02:02 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
