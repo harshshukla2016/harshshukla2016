@@ -51,7 +51,7 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2278</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2278</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
@@ -59,17 +59,17 @@
 | 🔥 | **Doors I Walked Through to Reach DEV** | `career`, `community`, `writing` | [Read →](https://dev.to/devengers/doors-i-walked-through-to-reach-dev-5294) |
 | ⚡ | **Não precisa ser popular pra compartilhar: minha história até B...** | `community`, `braziliandevs`, `career` | [Read →](https://dev.to/he4rt/nao-precisa-ser-popular-pra-compartilhar-minha-historia-ate-berlim-1hbc) |
 | 🚀 | **I Don’t Write Ruby. A Fix I Sent Is Now in Forem.** | `opensource`, `forem`, `devto` | [Read →](https://dev.to/dannwaneri/i-dont-write-ruby-a-fix-i-sent-is-now-in-forem-13c5) |
-| 💡 | **GraphQL Isn't Magic: How ASTs, Resolvers, and DataLoaders Actu...** | `graphql`, `webdev`, `backend` | [Read →](https://dev.to/smtahosin/graphql-isnt-magic-how-asts-resolvers-and-dataloaders-actually-work-under-the-hood-17gp) |
-| 🧠 | **How long a serverless function stays warm on DigitalOcean** | `serverless`, `digitalocean`, `performance` | [Read →](https://dev.to/remdore/how-long-a-serverless-function-stays-warm-on-digitalocean-59d7) |
-| 🌐 | **MCP Token Cost: I Cut My MCP Server From 15 Tools to 4** | `mcp`, `aws`, `ai` | [Read →](https://dev.to/aws-builders/mcp-token-cost-i-cut-my-mcp-server-from-15-tools-to-4-cek) |
+| 💡 | **I deleted the mail server from my VPS and got 1.2 GB of RAM back** | `django`, `email`, `selfhosted` | [Read →](https://dev.to/remdore/i-deleted-the-mail-server-from-my-vps-and-got-12-gb-of-ram-back-cdc) |
+| 🧠 | **Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Appr...** | `dart`, `flutter`, `ai` | [Read →](https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc) |
+| 🌐 | **5 Best Open-source LLM Gateways 💎** | `ai`, `webdev`, `programming` | [Read →](https://dev.to/anthonymax/5-best-open-source-llm-gateways-10bi) |
 
 <blockquote>
-<p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
+<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first website ever made is still online: info.cern.ch 🌐
 
-<p align="center"><sub>⏰ Last updated: October 27, 2026 • 11:26 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 27, 2026 • 08:36 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
