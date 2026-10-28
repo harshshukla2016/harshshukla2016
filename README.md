@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2279</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2279</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Your DEV posts have a beautiful new share card ✨** | `devto`, `showdev`, `opensource` | [Read →](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8) |
 | ⚡ | **Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.** | `ai`, `discuss`, `programming` | [Read →](https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2) |
-| 🚀 | **I deleted the mail server from my VPS and got 1.2 GB of RAM back** | `django`, `email`, `selfhosted` | [Read →](https://dev.to/remdore/i-deleted-the-mail-server-from-my-vps-and-got-12-gb-of-ram-back-cdc) |
-| 💡 | **The Rootkit Exorcist: Summoning Local AI to Investigate Suspic...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/data_secchronicles/the-rootkit-exorcist-summoning-local-ai-to-investigate-suspicious-scripts-an1) |
-| 🧠 | **Lessons Learned: Wifi Server Disaster** | `beginners`, `webdev`, `learning` | [Read →](https://dev.to/annavi11arrea1/lessons-learned-wifi-server-disaster-16oc) |
-| 🌐 | **Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Appr...** | `dart`, `flutter`, `ai` | [Read →](https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc) |
+| 🚀 | **MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol P...** | `iot`, `networking`, `architecture` | [Read →](https://dev.to/smtahosin/mqtt-doesnt-have-message-queues-inside-the-2-byte-protocol-powering-modern-iot-161) |
+| 💡 | **Lessons Learned: Wifi Server Disaster** | `beginners`, `webdev`, `learning` | [Read →](https://dev.to/annavi11arrea1/lessons-learned-wifi-server-disaster-16oc) |
+| 🧠 | **Give Your Desktop App a Useful Title Bar and Real Tools** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/give-your-desktop-app-a-useful-title-bar-and-real-tools-199h) |
+| 🌐 | **Not the End, but a Shift: How AI Is Pushing Computer Science T...** | `career`, `ai`, `computerscience` | [Read →](https://dev.to/james_anderson_h/not-the-end-but-a-shift-how-ai-is-pushing-computer-science-toward-deeper-engineering-47mk) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
 
-<p align="center"><sub>⏰ Last updated: October 28, 2026 • 12:05 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 28, 2026 • 09:12 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
