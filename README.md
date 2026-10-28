@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2279</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2280</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Your DEV posts have a beautiful new share card ✨** | `devto`, `showdev`, `opensource` | [Read →](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8) |
-| ⚡ | **Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.** | `ai`, `discuss`, `programming` | [Read →](https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2) |
-| 🚀 | **MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol P...** | `iot`, `networking`, `architecture` | [Read →](https://dev.to/smtahosin/mqtt-doesnt-have-message-queues-inside-the-2-byte-protocol-powering-modern-iot-161) |
-| 💡 | **Lessons Learned: Wifi Server Disaster** | `beginners`, `webdev`, `learning` | [Read →](https://dev.to/annavi11arrea1/lessons-learned-wifi-server-disaster-16oc) |
-| 🧠 | **Give Your Desktop App a Useful Title Bar and Real Tools** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/give-your-desktop-app-a-useful-title-bar-and-real-tools-199h) |
-| 🌐 | **Not the End, but a Shift: How AI Is Pushing Computer Science T...** | `career`, `ai`, `computerscience` | [Read →](https://dev.to/james_anderson_h/not-the-end-but-a-shift-how-ai-is-pushing-computer-science-toward-deeper-engineering-47mk) |
+| 🔥 | **Lessons Learned: Wifi Server Disaster** | `beginners`, `webdev`, `learning` | [Read →](https://dev.to/annavi11arrea1/lessons-learned-wifi-server-disaster-16oc) |
+| ⚡ | **MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol P...** | `iot`, `networking`, `architecture` | [Read →](https://dev.to/smtahosin/mqtt-doesnt-have-message-queues-inside-the-2-byte-protocol-powering-modern-iot-161) |
+| 🚀 | **Four Ways a Test Can Lie to You** | `testing`, `ai`, `programming` | [Read →](https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf) |
+| 💡 | **Not the End, but a Shift: How AI Is Pushing Computer Science T...** | `career`, `ai`, `computerscience` | [Read →](https://dev.to/james_anderson_h/not-the-end-but-a-shift-how-ai-is-pushing-computer-science-toward-deeper-engineering-47mk) |
+| 🧠 | **Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to...** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea) |
+| 🌐 | **Mercury 3: When AI Is Fast Enough to Stay in the Loop** | `ai`, `agents`, `development` | [Read →](https://dev.to/maximsaplin/mercury-3-when-ai-is-fast-enough-to-stay-in-the-loop-3oe5) |
 
 <blockquote>
-<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
+> **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
 
-<p align="center"><sub>⏰ Last updated: October 28, 2026 • 09:12 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 29, 2026 • 02:24 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
