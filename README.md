@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2280</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2281</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **No Human Will Ever Write Code Better Than LLMs? Better at What?** | `ai`, `programming`, `softwareengineering` | [Read →](https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme) |
-| ⚡ | **I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Sour...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm) |
-| 🚀 | **Every App Eventually Becomes a Dashboard. Please Make It Stop.** | `programming`, `webdev`, `productivity` | [Read →](https://dev.to/the_nortern_dev/every-app-eventually-becomes-a-dashboard-please-make-it-stop-37e9) |
-| 💡 | **Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to...** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea) |
-| 🧠 | **Ghost in the Shell: Can a Log File Hijack an AI?** | `ai`, `security`, `halloween` | [Read →](https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk) |
+| ⚡ | **Every App Eventually Becomes a Dashboard. Please Make It Stop.** | `programming`, `webdev`, `productivity` | [Read →](https://dev.to/the_nortern_dev/every-app-eventually-becomes-a-dashboard-please-make-it-stop-37e9) |
+| 🚀 | **I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Sour...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm) |
+| 💡 | **Ghost in the Shell: Can a Log File Hijack an AI?** | `ai`, `security`, `halloween` | [Read →](https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk) |
+| 🧠 | **Yes, {} + [] = 0. No, JavaScript Isn’t Broken** | `javascript`, `webdev`, `node` | [Read →](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob) |
 | 🌐 | **AI Engineering Is Easy. Do We Really Have to Change How We Work?** | `ai`, `agents`, `softwaredevelopment` | [Read →](https://dev.to/ujja/ai-engineering-is-easy-do-we-really-have-to-change-how-we-work-31n7) |
 
 <blockquote>
-<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
+<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
+> **🧪 Did You Know?** The first computer programmer was Ada Lovelace, in the 1840s 👩‍💻
 
-<p align="center"><sub>⏰ Last updated: October 29, 2026 • 09:20 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 30, 2026 • 02:28 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
