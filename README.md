@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2281</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2281</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **No Human Will Ever Write Code Better Than LLMs? Better at What?** | `ai`, `programming`, `softwareengineering` | [Read →](https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme) |
-| ⚡ | **Every App Eventually Becomes a Dashboard. Please Make It Stop.** | `programming`, `webdev`, `productivity` | [Read →](https://dev.to/the_nortern_dev/every-app-eventually-becomes-a-dashboard-please-make-it-stop-37e9) |
+| ⚡ | **Yes, {} + [] = 0. No, JavaScript Isn’t Broken** | `javascript`, `webdev`, `node` | [Read →](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob) |
 | 🚀 | **I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Sour...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm) |
-| 💡 | **Ghost in the Shell: Can a Log File Hijack an AI?** | `ai`, `security`, `halloween` | [Read →](https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk) |
-| 🧠 | **Yes, {} + [] = 0. No, JavaScript Isn’t Broken** | `javascript`, `webdev`, `node` | [Read →](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob) |
-| 🌐 | **AI Engineering Is Easy. Do We Really Have to Change How We Work?** | `ai`, `agents`, `softwaredevelopment` | [Read →](https://dev.to/ujja/ai-engineering-is-easy-do-we-really-have-to-change-how-we-work-31n7) |
+| 💡 | **Every App Eventually Becomes a Dashboard. Please Make It Stop.** | `programming`, `webdev`, `productivity` | [Read →](https://dev.to/the_nortern_dev/every-app-eventually-becomes-a-dashboard-please-make-it-stop-37e9) |
+| 🧠 | **Ghost in the Shell: Can a Log File Hijack an AI?** | `ai`, `security`, `halloween` | [Read →](https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk) |
+| 🌐 | **Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?** | `discuss`, `beginners`, `community` | [Read →](https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p) |
 
 <blockquote>
-<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer programmer was Ada Lovelace, in the 1840s 👩‍💻
 
-<p align="center"><sub>⏰ Last updated: October 30, 2026 • 02:28 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 30, 2026 • 12:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
