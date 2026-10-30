@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2281</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2281</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **No Human Will Ever Write Code Better Than LLMs? Better at What?** | `ai`, `programming`, `softwareengineering` | [Read →](https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme) |
-| ⚡ | **Yes, {} + [] = 0. No, JavaScript Isn’t Broken** | `javascript`, `webdev`, `node` | [Read →](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob) |
-| 🚀 | **I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Sour...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm) |
-| 💡 | **Every App Eventually Becomes a Dashboard. Please Make It Stop.** | `programming`, `webdev`, `productivity` | [Read →](https://dev.to/the_nortern_dev/every-app-eventually-becomes-a-dashboard-please-make-it-stop-37e9) |
-| 🧠 | **Ghost in the Shell: Can a Log File Hijack an AI?** | `ai`, `security`, `halloween` | [Read →](https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk) |
-| 🌐 | **Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?** | `discuss`, `beginners`, `community` | [Read →](https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p) |
+| 🔥 | **Yes, {} + [] = 0. No, JavaScript Isn’t Broken** | `javascript`, `webdev`, `node` | [Read →](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob) |
+| ⚡ | **Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?** | `discuss`, `beginners`, `community` | [Read →](https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p) |
+| 🚀 | **We Need to Talk About How Gross Modern Web Design Has Become (...** | `discuss`, `showdev`, `webdev` | [Read →](https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin) |
+| 💡 | **What was your win this week?** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-47ci) |
+| 🧠 | **Giving AI Pain: The Architecture of Synthetic Scars & The Rapi...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740) |
+| 🌐 | **💀I'm the last mail carrier in the land of the dead. An open-we...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/minhlong2605/im-the-last-mail-carrier-in-the-land-of-the-dead-an-open-weight-model-writes-all-the-mail-2cal) |
 
 <blockquote>
-<p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
+<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first computer programmer was Ada Lovelace, in the 1840s 👩‍💻
 
-<p align="center"><sub>⏰ Last updated: October 30, 2026 • 12:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 30, 2026 • 09:00 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
