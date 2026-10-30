@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2281</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2282</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Yes, {} + [] = 0. No, JavaScript Isn’t Broken** | `javascript`, `webdev`, `node` | [Read →](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob) |
-| ⚡ | **Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?** | `discuss`, `beginners`, `community` | [Read →](https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p) |
-| 🚀 | **We Need to Talk About How Gross Modern Web Design Has Become (...** | `discuss`, `showdev`, `webdev` | [Read →](https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin) |
-| 💡 | **What was your win this week?** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-47ci) |
-| 🧠 | **Giving AI Pain: The Architecture of Synthetic Scars & The Rapi...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740) |
-| 🌐 | **💀I'm the last mail carrier in the land of the dead. An open-we...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/minhlong2605/im-the-last-mail-carrier-in-the-land-of-the-dead-an-open-weight-model-writes-all-the-mail-2cal) |
+| 🔥 | **What was your win this week?** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-47ci) |
+| ⚡ | **We Need to Talk About How Gross Modern Web Design Has Become (...** | `discuss`, `showdev`, `webdev` | [Read →](https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin) |
+| 🚀 | **My open source project is brand new and already has contributo...** | `opensource`, `github`, `ai` | [Read →](https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4) |
+| 💡 | **Congrats to the Hacktoberfest Open-Source AI Challenge Week 3:...** | `devchallenge`, `hf26challenge`, `hacktoberfest` | [Read →](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a) |
+| 🧠 | **Four GPUs, One Quantization Ladder: Gemma 4 E2B From a 4 GB La...** | `gemma`, `llamacpp`, `quantization` | [Read →](https://dev.to/gde/four-gpus-one-quantization-ladder-gemma-4-e2b-from-a-4-gb-laptop-to-an-nvidia-l4-4olp) |
+| 🌐 | **MoE Offloading Isn’t Always Faster: I Tested 5 Models on a 16G...** | `ai`, `machinelearning`, `llm` | [Read →](https://dev.to/sizzlebop/moe-offloading-isnt-always-faster-i-tested-5-models-on-a-16gb-gpu-498a) |
 
 <blockquote>
-<p>💬 <em>"Talk is cheap. Show me the code."</em> — <strong>Linus Torvalds</strong></p>
+<p>💬 <em>"Debugging is twice as hard as writing the code in the first place."</em> — <strong>Brian Kernighan</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first computer programmer was Ada Lovelace, in the 1840s 👩‍💻
+> **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
 
-<p align="center"><sub>⏰ Last updated: October 30, 2026 • 09:00 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 31, 2026 • 02:07 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
