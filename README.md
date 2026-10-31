@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2282</strong> of my coding journey</em>
+<em>🌇 Good Evening! • Day <strong>2282</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **What was your win this week?** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-47ci) |
-| ⚡ | **We Need to Talk About How Gross Modern Web Design Has Become (...** | `discuss`, `showdev`, `webdev` | [Read →](https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin) |
-| 🚀 | **MoE Offloading Isn’t Always Faster: I Tested 5 Models on a 16G...** | `ai`, `machinelearning`, `llm` | [Read →](https://dev.to/sizzlebop/moe-offloading-isnt-always-faster-i-tested-5-models-on-a-16gb-gpu-498a) |
-| 💡 | **My open source project is brand new and already has contributo...** | `opensource`, `github`, `ai` | [Read →](https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4) |
-| 🧠 | **Marigold /router - A Private Ofrenda for the Memories We Refus...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68) |
-| 🌐 | **How I Made Yet Another Project During a Global Teen Hackathon ...** | `opensource`, `showdev`, `cpp` | [Read →](https://dev.to/thetylern/how-i-made-yet-another-project-during-a-global-teen-hackathon-with-prizes-38hc) |
+| 🔥 | **Singularity News :: CCG** | `devchallenge`, `hf26challenge`, `gamedev` | [Read →](https://dev.to/pengeszikra/singularity-news-ccg-5ejk) |
+| ⚡ | **My open source project is brand new and already has contributo...** | `opensource`, `github`, `ai` | [Read →](https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4) |
+| 🚀 | **How I Made Yet Another Project During a Global Teen Hackathon ...** | `opensource`, `showdev`, `cpp` | [Read →](https://dev.to/thetylern/how-i-made-yet-another-project-during-a-global-teen-hackathon-with-prizes-38hc) |
+| 💡 | **I Built 101 Indian Monuments in the Browser Using Only Code (N...** | `webdev`, `javascript`, `beginners` | [Read →](https://dev.to/amananandrai/i-built-101-indian-monuments-in-the-browser-using-only-code-no-3d-models-3000) |
+| 🧠 | **Rewrite Everything in Java: Not Rust** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/rewrite-everything-in-java-not-rust-5co8) |
+| 🌐 | **Same Evidence, Different Judgment? A Small Experiment on Impli...** | `ai`, `machinelearning`, `rag` | [Read →](https://dev.to/gnomeman4201/same-evidence-different-judgment-a-small-experiment-on-implied-conclusions-and-evidence-ordering-ndg) |
 
 <blockquote>
-<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
+<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Samsung started as a grocery trading store in 1938 📦
 
-<p align="center"><sub>⏰ Last updated: October 31, 2026 • 12:05 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: October 31, 2026 • 08:31 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
