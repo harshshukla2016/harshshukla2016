@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2283</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2283</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Nec...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5) |
-| ⚡ | **I Retested My MoE Offloading Benchmarks. Some of My Conclusion...** | `ai`, `machinelearning`, `llm` | [Read →](https://dev.to/sizzlebop/i-retested-my-moe-offloading-benchmarks-some-of-my-conclusions-changed-6f4) |
-| 🚀 | **Trick or Type Guard? Surviving `unknown` with is-kit 🎃** | `typescript`, `opensource`, `beginners` | [Read →](https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2) |
-| 💡 | **My Local AI Invented 162 Python Packages. I Reran Everything F...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/soumyadeepdey/my-local-ai-invented-162-python-packages-i-reran-everything-from-scratch-and-161-came-back-4j73) |
-| 🧠 | **Here Lies My Toaster** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/nazar-boyko/here-lies-my-toaster-1nmm) |
-| 🌐 | **🕯️ Ofrenda: The Ghost in the Machine — An Offering to Abandone...** | `devchallenge`, `hf26challenge` | [Read →](https://dev.to/rajan_mishra_a9f78ad216b4/ofrenda-the-ghost-in-the-machine-an-offering-to-abandoned-software-pk2) |
+| 🔥 | **My Local AI Invented 162 Python Packages. I Reran Everything F...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/soumyadeepdey/my-local-ai-invented-162-python-packages-i-reran-everything-from-scratch-and-161-came-back-4j73) |
+| ⚡ | **Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Nec...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5) |
+| 🚀 | **I Retested My MoE Offloading Benchmarks. Some of My Conclusion...** | `ai`, `machinelearning`, `llm` | [Read →](https://dev.to/sizzlebop/i-retested-my-moe-offloading-benchmarks-some-of-my-conclusions-changed-6f4) |
+| 💡 | **Gravespeaker: Giving the Person Behind the Headstone a Voice** | `devchallenge`, `hf26challenge` | [Read →](https://dev.to/anchildress1/gravespeaker-giving-the-person-behind-the-headstone-a-voice-329e) |
+| 🧠 | **All That Glisters Is Softmax: Shiny-Object Interns, Airplane-M...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af) |
+| 🌐 | **ESA's satellite is dead. Its ghost: 2,123 signals. TabPFN beat...** | `devchallenge`, `hf26challenge`, `hacktoberfest` | [Read →](https://dev.to/advikdivekar/esas-satellite-is-dead-its-ghost-2123-signals-tabpfn-beat-the-published-sota-83c-of-tinker-3ke1) |
 
 <blockquote>
-<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
+<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Stack Overflow is visited by 50 million developers every month 📚
 
-<p align="center"><sub>⏰ Last updated: November 01, 2026 • 12:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 01, 2026 • 09:14 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
