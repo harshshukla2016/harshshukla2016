@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2283</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2283</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Singularity News :: CCG** | `devchallenge`, `hf26challenge`, `gamedev` | [Read →](https://dev.to/pengeszikra/singularity-news-ccg-5ejk) |
-| ⚡ | **A Two-Line Function Caught AI Collusion Better Than the AI Did** | `ai`, `agents`, `airesearch` | [Read →](https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd) |
-| 🚀 | **Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Nec...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5) |
-| 💡 | **How I Made Yet Another Project During a Global Teen Hackathon ...** | `opensource`, `showdev`, `cpp` | [Read →](https://dev.to/thetylern/how-i-made-yet-another-project-during-a-global-teen-hackathon-with-prizes-38hc) |
-| 🧠 | **Rewrite Everything in Java: Not Rust** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/rewrite-everything-in-java-not-rust-5co8) |
-| 🌐 | **Same Evidence, Different Judgment? A Small Experiment on Impli...** | `ai`, `machinelearning`, `rag` | [Read →](https://dev.to/gnomeman4201/same-evidence-different-judgment-a-small-experiment-on-implied-conclusions-and-evidence-ordering-ndg) |
+| 🔥 | **Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Nec...** | `devchallenge`, `hf26challenge`, `opensource` | [Read →](https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5) |
+| ⚡ | **I Retested My MoE Offloading Benchmarks. Some of My Conclusion...** | `ai`, `machinelearning`, `llm` | [Read →](https://dev.to/sizzlebop/i-retested-my-moe-offloading-benchmarks-some-of-my-conclusions-changed-6f4) |
+| 🚀 | **Trick or Type Guard? Surviving `unknown` with is-kit 🎃** | `typescript`, `opensource`, `beginners` | [Read →](https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2) |
+| 💡 | **My Local AI Invented 162 Python Packages. I Reran Everything F...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/soumyadeepdey/my-local-ai-invented-162-python-packages-i-reran-everything-from-scratch-and-161-came-back-4j73) |
+| 🧠 | **Here Lies My Toaster** | `devchallenge`, `hf26challenge`, `gemma` | [Read →](https://dev.to/nazar-boyko/here-lies-my-toaster-1nmm) |
+| 🌐 | **🕯️ Ofrenda: The Ghost in the Machine — An Offering to Abandone...** | `devchallenge`, `hf26challenge` | [Read →](https://dev.to/rajan_mishra_a9f78ad216b4/ofrenda-the-ghost-in-the-machine-an-offering-to-abandoned-software-pk2) |
 
 <blockquote>
-<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Stack Overflow is visited by 50 million developers every month 📚
 
-<p align="center"><sub>⏰ Last updated: November 01, 2026 • 01:20 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 01, 2026 • 12:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
