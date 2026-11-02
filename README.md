@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2284</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2285</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **🐾 DEV Pet Corner #4: Show Us Your Pets!** | `discuss`, `community`, `watercooler` | [Read →](https://dev.to/hemapriya_kanagala/dev-pet-corner-4-show-us-your-pets-55jh) |
-| ⚡ | **Your AI Agent Trusts Everything It Reads — A Field Guide to Hi...** | `security`, `ai`, `llm` | [Read →](https://dev.to/rudratosh/your-ai-agent-trusts-everything-it-reads-a-field-guide-to-hijacking-claude-gpt-gemini-copilot-1l6k) |
-| 🚀 | **I grepped for @ts-ignore and found zero. Then I grepped for th...** | `typescript`, `ai`, `code` | [Read →](https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723) |
-| 💡 | **SQLite 3.54 stops rewriting an expression index when the index...** | `sqlite`, `database`, `performance` | [Read →](https://dev.to/alexgeorgiev17/sqlite-354-stops-rewriting-an-expression-index-when-the-indexed-value-hasnt-changed-56bb) |
-| 🧠 | **Can a research review leave a checkable record? Help me break ...** | `security`, `cryptography`, `python` | [Read →](https://dev.to/gnomeman4201/can-a-research-review-leave-a-checkable-record-help-me-break-this-35g1) |
-| 🌐 | **Overbuilding Part 1: Discord Bot MVP** | `architecture`, `bot`, `discord` | [Read →](https://dev.to/rpalo/overbuilding-part-1-discord-bot-mvp-3h8n) |
+| 🔥 | **This is my first HacktoberFest, and I don't know what to feel.** | `discuss`, `community`, `mlh` | [Read →](https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f) |
+| ⚡ | **gp-grid: A Free, Open-Source TypeScript Data Grid for React, V...** | `programming`, `react`, `vue` | [Read →](https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb) |
+| 🚀 | **I shipped my biggest project ever and felt… nothing** | `discuss`, `ai`, `career` | [Read →](https://dev.to/dhananjay_mundhada_02c326/i-shipped-my-biggest-project-ever-and-felt-nothing-585f) |
+| 💡 | **Gemma 4 in Rust on TorchTPU: Hands On With Colab** | `rust`, `pytorch`, `tpu` | [Read →](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi) |
+| 🧠 | **Butter Scraped Over Too Much Bread** | `culture`, `discuss`, `productivity` | [Read →](https://dev.to/aws-heroes/butter-scraped-over-too-much-bread-55jn) |
+| 🌐 | **Codex Was Torching Your SSD and Nobody Noticed for Months** | `codex`, `security`, `devops` | [Read →](https://dev.to/varshithvhegde/codex-was-torching-your-ssd-and-nobody-noticed-for-months-4c5h) |
 
 <blockquote>
-<p>💬 <em>"The best error message is the one that never shows up."</em> — <strong>Thomas Fuchs</strong></p>
+<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
+> **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
 
-<p align="center"><sub>⏰ Last updated: November 02, 2026 • 12:39 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 03, 2026 • 12:40 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
