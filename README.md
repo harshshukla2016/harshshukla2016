@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2284</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2284</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **My Local AI Invented 162 Python Packages. I Reran Everything F...** | `devchallenge`, `hf26challenge`, `ai` | [Read →](https://dev.to/soumyadeepdey/my-local-ai-invented-162-python-packages-i-reran-everything-from-scratch-and-161-came-back-4j73) |
-| ⚡ | **🐾 DEV Pet Corner #4: Show Us Your Pets!** | `discuss`, `community`, `watercooler` | [Read →](https://dev.to/hemapriya_kanagala/dev-pet-corner-4-show-us-your-pets-55jh) |
-| 🚀 | **Gravespeaker: Giving the Person Behind the Headstone a Voice** | `devchallenge`, `hf26challenge` | [Read →](https://dev.to/anchildress1/gravespeaker-giving-the-person-behind-the-headstone-a-voice-329e) |
-| 💡 | **All That Glisters Is Softmax: Shiny-Object Interns, Airplane-M...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af) |
-| 🧠 | **ESA's satellite is dead. Its ghost: 2,123 signals. TabPFN beat...** | `devchallenge`, `hf26challenge`, `hacktoberfest` | [Read →](https://dev.to/advikdivekar/esas-satellite-is-dead-its-ghost-2123-signals-tabpfn-beat-the-published-sota-83c-of-tinker-3ke1) |
-| 🌐 | **Agent Skills Drift: A Feedback Loop for Keeping One True** | `ai`, `devtools`, `productivity` | [Read →](https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7) |
+| 🔥 | **🐾 DEV Pet Corner #4: Show Us Your Pets!** | `discuss`, `community`, `watercooler` | [Read →](https://dev.to/hemapriya_kanagala/dev-pet-corner-4-show-us-your-pets-55jh) |
+| ⚡ | **Your AI Agent Trusts Everything It Reads — A Field Guide to Hi...** | `security`, `ai`, `llm` | [Read →](https://dev.to/rudratosh/your-ai-agent-trusts-everything-it-reads-a-field-guide-to-hijacking-claude-gpt-gemini-copilot-1l6k) |
+| 🚀 | **I grepped for @ts-ignore and found zero. Then I grepped for th...** | `typescript`, `ai`, `code` | [Read →](https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723) |
+| 💡 | **SQLite 3.54 stops rewriting an expression index when the index...** | `sqlite`, `database`, `performance` | [Read →](https://dev.to/alexgeorgiev17/sqlite-354-stops-rewriting-an-expression-index-when-the-indexed-value-hasnt-changed-56bb) |
+| 🧠 | **Can a research review leave a checkable record? Help me break ...** | `security`, `cryptography`, `python` | [Read →](https://dev.to/gnomeman4201/can-a-research-review-leave-a-checkable-record-help-me-break-this-35g1) |
+| 🌐 | **Overbuilding Part 1: Discord Bot MVP** | `architecture`, `bot`, `discord` | [Read →](https://dev.to/rpalo/overbuilding-part-1-discord-bot-mvp-3h8n) |
 
 <blockquote>
-<p>💬 <em>"Software is a great combination between artistry and engineering."</em> — <strong>Bill Gates</strong></p>
+<p>💬 <em>"The best error message is the one that never shows up."</em> — <strong>Thomas Fuchs</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: November 02, 2026 • 01:53 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 02, 2026 • 12:39 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
