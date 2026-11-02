@@ -57,11 +57,11 @@
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **This is my first HacktoberFest, and I don't know what to feel.** | `discuss`, `community`, `mlh` | [Read →](https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f) |
-| ⚡ | **gp-grid: A Free, Open-Source TypeScript Data Grid for React, V...** | `programming`, `react`, `vue` | [Read →](https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb) |
+| ⚡ | **Butter Scraped Over Too Much Bread** | `culture`, `discuss`, `productivity` | [Read →](https://dev.to/aws-heroes/butter-scraped-over-too-much-bread-55jn) |
 | 🚀 | **I shipped my biggest project ever and felt… nothing** | `discuss`, `ai`, `career` | [Read →](https://dev.to/dhananjay_mundhada_02c326/i-shipped-my-biggest-project-ever-and-felt-nothing-585f) |
-| 💡 | **Gemma 4 in Rust on TorchTPU: Hands On With Colab** | `rust`, `pytorch`, `tpu` | [Read →](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi) |
-| 🧠 | **Butter Scraped Over Too Much Bread** | `culture`, `discuss`, `productivity` | [Read →](https://dev.to/aws-heroes/butter-scraped-over-too-much-bread-55jn) |
-| 🌐 | **Codex Was Torching Your SSD and Nobody Noticed for Months** | `codex`, `security`, `devops` | [Read →](https://dev.to/varshithvhegde/codex-was-torching-your-ssd-and-nobody-noticed-for-months-4c5h) |
+| 💡 | **gp-grid: A Free, Open-Source TypeScript Data Grid for React, V...** | `programming`, `react`, `vue` | [Read →](https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb) |
+| 🧠 | **I built a 3D game about my Nigerian childhood (and I'm not a g...** | `gamedev`, `webdev`, `ai` | [Read →](https://dev.to/deborahemeni1/i-built-a-3d-game-about-my-nigerian-childhood-and-im-not-a-game-developer-281g) |
+| 🌐 | **Does AbortSignal Cancel a Node.js Database Query? 4 Drivers Te...** | `node`, `postgres`, `mysql` | [Read →](https://dev.to/shubhradev/does-abortsignal-cancel-a-nodejs-database-query-4-drivers-tested-al0) |
 
 <blockquote>
 <p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
 
-<p align="center"><sub>⏰ Last updated: November 03, 2026 • 12:40 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 03, 2026 • 04:52 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
