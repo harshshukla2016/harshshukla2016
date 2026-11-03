@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2285</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2286</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **One Last Post, and a Proper Goodbye** | `watercooler`, `writing`, `community` | [Read →](https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2) |
-| ⚡ | **Use it, or lose it 🧠** | `discuss`, `ai`, `softwaredevelopment` | [Read →](https://dev.to/fm/use-it-or-lose-it-42l) |
-| 🚀 | **I Built a Visual System Design Reference — Switch Any Architec...** | `systemdesign`, `webdev`, `opensource` | [Read →](https://dev.to/amananandrai/i-built-a-visual-system-design-reference-switch-any-architecture-between-aws-azure-gcp-open-55og) |
-| 💡 | **Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP** | `rust`, `pytorch`, `tpu` | [Read →](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1) |
-| 🧠 | **I Built LLM Explained: 43 Interactive Pages That Take You From...** | `ai`, `showdev`, `beginners` | [Read →](https://dev.to/amananandrai/i-built-llm-explained-43-interactive-pages-that-take-you-from-tokens-to-ai-agents-2n37) |
-| 🌐 | **I lost half a day to an n8n workflow that was "working." It ne...** | `n8n`, `aws`, `devops` | [Read →](https://dev.to/sarvar_04/i-lost-half-a-day-to-an-n8n-workflow-that-was-working-it-never-ran-43p) |
+| ⚡ | **Let's see where you code!** | `watercooler`, `discuss` | [Read →](https://dev.to/maame-codes/lets-see-where-you-code-147) |
+| 🚀 | **Use it, or lose it 🧠** | `discuss`, `ai`, `softwaredevelopment` | [Read →](https://dev.to/fm/use-it-or-lose-it-42l) |
+| 💡 | **I lost half a day to an n8n workflow that was "working." It ne...** | `n8n`, `aws`, `devops` | [Read →](https://dev.to/sarvar_04/i-lost-half-a-day-to-an-n8n-workflow-that-was-working-it-never-ran-43p) |
+| 🧠 | **You're Still Writing CSS Like It's 2015: The Modern Architectu...** | `css`, `webdev`, `frontend` | [Read →](https://dev.to/smtahosin/youre-still-writing-css-like-its-2015-the-modern-architecture-guide-that-fixes-specificity-nlh) |
+| 🌐 | **I Let AI Build a Feature Without Giving It the Full Context** | `ai`, `programming`, `webdev` | [Read →](https://dev.to/harsh2644/i-let-ai-build-a-feature-without-giving-it-the-full-context-6h) |
 
 <blockquote>
-<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
+<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
+> **🧪 Did You Know?** The first domain ever registered was Symbolics.com on March 15, 1985 🏷️
 
-<p align="center"><sub>⏰ Last updated: November 03, 2026 • 10:18 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 04, 2026 • 03:08 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
