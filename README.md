@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2285</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2285</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **This is my first HacktoberFest, and I don't know what to feel.** | `discuss`, `community`, `mlh` | [Read →](https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f) |
-| ⚡ | **I built a 3D game about my Nigerian childhood (and I'm not a g...** | `gamedev`, `webdev`, `ai` | [Read →](https://dev.to/deborahemeni1/i-built-a-3d-game-about-my-nigerian-childhood-and-im-not-a-game-developer-281g) |
-| 🚀 | **Butter Scraped Over Too Much Bread** | `culture`, `discuss`, `productivity` | [Read →](https://dev.to/aws-heroes/butter-scraped-over-too-much-bread-55jn) |
-| 💡 | **gp-grid: A Free, Open-Source TypeScript Data Grid for React, V...** | `programming`, `react`, `vue` | [Read →](https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb) |
-| 🧠 | **Two Truths and a Lie: Developer Edition.** | `programming`, `webdev`, `devdiscuss` | [Read →](https://dev.to/elsie-rainee/two-truths-and-a-lie-developer-edition-k8n) |
-| 🌐 | **Next.js Doesn't Render Pages Anymore. It Streams Something Str...** | `nextjs`, `react`, `webdev` | [Read →](https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij) |
+| 🔥 | **One Last Post, and a Proper Goodbye** | `watercooler`, `writing`, `community` | [Read →](https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2) |
+| ⚡ | **Use it, or lose it 🧠** | `discuss`, `ai`, `softwaredevelopment` | [Read →](https://dev.to/fm/use-it-or-lose-it-42l) |
+| 🚀 | **I Built a Visual System Design Reference — Switch Any Architec...** | `systemdesign`, `webdev`, `opensource` | [Read →](https://dev.to/amananandrai/i-built-a-visual-system-design-reference-switch-any-architecture-between-aws-azure-gcp-open-55og) |
+| 💡 | **Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP** | `rust`, `pytorch`, `tpu` | [Read →](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1) |
+| 🧠 | **I Built LLM Explained: 43 Interactive Pages That Take You From...** | `ai`, `showdev`, `beginners` | [Read →](https://dev.to/amananandrai/i-built-llm-explained-43-interactive-pages-that-take-you-from-tokens-to-ai-agents-2n37) |
+| 🌐 | **I lost half a day to an n8n workflow that was "working." It ne...** | `n8n`, `aws`, `devops` | [Read →](https://dev.to/sarvar_04/i-lost-half-a-day-to-an-n8n-workflow-that-was-working-it-never-ran-43p) |
 
 <blockquote>
-<p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> — <strong>Cory House</strong></p>
+<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The average person unlocks their phone 150 times a day 📱
 
-<p align="center"><sub>⏰ Last updated: November 03, 2026 • 01:00 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 03, 2026 • 10:18 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
