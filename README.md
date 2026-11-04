@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2286</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2286</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **One Last Post, and a Proper Goodbye** | `watercooler`, `writing`, `community` | [Read →](https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2) |
+| 🔥 | **We're Building AI to Replace Ourselves. What's the Plan?** | `discuss`, `ai` | [Read →](https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll) |
 | ⚡ | **That's a Wrap on Hacktoberfest 2026! 🎃👻** | `hacktoberfest`, `hf26challenge`, `opensource` | [Read →](https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k) |
-| 🚀 | **I lost half a day to an n8n workflow that was "working." It ne...** | `n8n`, `aws`, `devops` | [Read →](https://dev.to/aws-builders/i-lost-half-a-day-to-an-n8n-workflow-that-was-working-it-never-ran-43p) |
-| 💡 | **Let's see where you code!** | `watercooler`, `discuss` | [Read →](https://dev.to/maame-codes/lets-see-where-you-code-147) |
-| 🧠 | **Stop Generating Changelogs from Git Commits: How I Fixed the '...** | `devops`, `github`, `opensource` | [Read →](https://dev.to/johnnylemonny/stop-generating-changelogs-from-git-commits-how-i-fixed-the-why-problem-in-changelogbot-11n9) |
-| 🌐 | **Rack Before You Remember** | `ai`, `llm`, `architecture` | [Read →](https://dev.to/kenwalger/rack-before-you-remember-2jl3) |
+| 🚀 | **Let's see where you code!** | `watercooler`, `discuss` | [Read →](https://dev.to/maame-codes/lets-see-where-you-code-147) |
+| 💡 | **After 5 years, Wasp 1.0 is coming: a 6-month plan for our full...** | `webdev`, `typescript`, `react` | [Read →](https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf) |
+| 🧠 | **The A2A CLI and Rust: The Same Code, Three Ways to Serve It** | `rust`, `a2a`, `ai` | [Read →](https://dev.to/gde/the-a2a-cli-and-rust-the-same-code-three-ways-to-serve-it-4el0) |
+| 🌐 | **More of the Java API, and an Experiment With Unity Games** | `java`, `mobile`, `android` | [Read →](https://dev.to/codenameone/more-of-the-java-api-and-an-experiment-with-unity-games-4ae6) |
 
 <blockquote>
-<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
+<p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first domain ever registered was Symbolics.com on March 15, 1985 🏷️
 
-<p align="center"><sub>⏰ Last updated: November 04, 2026 • 12:42 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 04, 2026 • 10:19 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
