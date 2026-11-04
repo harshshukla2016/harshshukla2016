@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2286</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2286</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **One Last Post, and a Proper Goodbye** | `watercooler`, `writing`, `community` | [Read →](https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2) |
-| ⚡ | **Let's see where you code!** | `watercooler`, `discuss` | [Read →](https://dev.to/maame-codes/lets-see-where-you-code-147) |
-| 🚀 | **Use it, or lose it 🧠** | `discuss`, `ai`, `softwaredevelopment` | [Read →](https://dev.to/fm/use-it-or-lose-it-42l) |
-| 💡 | **I lost half a day to an n8n workflow that was "working." It ne...** | `n8n`, `aws`, `devops` | [Read →](https://dev.to/sarvar_04/i-lost-half-a-day-to-an-n8n-workflow-that-was-working-it-never-ran-43p) |
-| 🧠 | **You're Still Writing CSS Like It's 2015: The Modern Architectu...** | `css`, `webdev`, `frontend` | [Read →](https://dev.to/smtahosin/youre-still-writing-css-like-its-2015-the-modern-architecture-guide-that-fixes-specificity-nlh) |
-| 🌐 | **I Let AI Build a Feature Without Giving It the Full Context** | `ai`, `programming`, `webdev` | [Read →](https://dev.to/harsh2644/i-let-ai-build-a-feature-without-giving-it-the-full-context-6h) |
+| ⚡ | **That's a Wrap on Hacktoberfest 2026! 🎃👻** | `hacktoberfest`, `hf26challenge`, `opensource` | [Read →](https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k) |
+| 🚀 | **I lost half a day to an n8n workflow that was "working." It ne...** | `n8n`, `aws`, `devops` | [Read →](https://dev.to/aws-builders/i-lost-half-a-day-to-an-n8n-workflow-that-was-working-it-never-ran-43p) |
+| 💡 | **Let's see where you code!** | `watercooler`, `discuss` | [Read →](https://dev.to/maame-codes/lets-see-where-you-code-147) |
+| 🧠 | **Stop Generating Changelogs from Git Commits: How I Fixed the '...** | `devops`, `github`, `opensource` | [Read →](https://dev.to/johnnylemonny/stop-generating-changelogs-from-git-commits-how-i-fixed-the-why-problem-in-changelogbot-11n9) |
+| 🌐 | **Rack Before You Remember** | `ai`, `llm`, `architecture` | [Read →](https://dev.to/kenwalger/rack-before-you-remember-2jl3) |
 
 <blockquote>
-<p>💬 <em>"Knowledge is power."</em> — <strong>Francis Bacon</strong></p>
+<p>💬 <em>"Make it work, make it right, make it fast."</em> — <strong>Kent Beck</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The first domain ever registered was Symbolics.com on March 15, 1985 🏷️
 
-<p align="center"><sub>⏰ Last updated: November 04, 2026 • 03:08 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 04, 2026 • 12:42 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
