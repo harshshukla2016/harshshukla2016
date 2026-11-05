@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2287</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2287</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **We're Building AI to Replace Ourselves. What's the Plan?** | `discuss`, `ai` | [Read →](https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll) |
-| ⚡ | **How Hackers Weaponized DEV.to's Mention System to Spread a Phi...** | `security`, `devto`, `phising` | [Read →](https://dev.to/ggle_in/how-hackers-weaponized-devtos-mention-system-to-spread-a-phishing-scam-1j7c) |
-| 🚀 | **Scared to Publish Your First Technical Article? Don't Be. I'll...** | `community`, `beginners`, `writing` | [Read →](https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2) |
-| 💡 | **Meet Necoz! 😸 Small. Simple. Useful.** | `opensource`, `typescript`, `software` | [Read →](https://dev.to/nyaomaru/meet-necoz-small-simple-useful-ppo) |
-| 🧠 | **"Mandatory user verification" on DEV is a scam. Here's how to ...** | `security`, `discuss`, `webdev` | [Read →](https://dev.to/ayoub_hammoudi/mandatory-user-verification-on-dev-is-a-scam-heres-how-to-spot-it-in-30-seconds-1594) |
-| 🌐 | **Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Si...** | `svelte`, `javascript`, `webdev` | [Read →](https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3) |
+| 🔥 | **Scared to Publish Your First Technical Article? Don't Be. I'll...** | `community`, `beginners`, `writing` | [Read →](https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2) |
+| ⚡ | **Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Exp...** | `ai`, `programming`, `neuroscience` | [Read →](https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a) |
+| 🚀 | **"Mandatory user verification" on DEV is a scam. Here's how to ...** | `security`, `discuss`, `webdev` | [Read →](https://dev.to/ayoub_hammoudi/mandatory-user-verification-on-dev-is-a-scam-heres-how-to-spot-it-in-30-seconds-1594) |
+| 💡 | **Plan Stamping, for Software** | `ai`, `career`, `discuss` | [Read →](https://dev.to/kenwalger/plan-stamping-for-software-4ein) |
+| 🧠 | **WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?** | `ai`, `webmcp`, `angular` | [Read →](https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5) |
+| 🌐 | **Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Ru...** | `jax`, `tpu`, `gemma` | [Read →](https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72) |
 
 <blockquote>
-<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
+<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
 
-<p align="center"><sub>⏰ Last updated: November 05, 2026 • 01:09 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 05, 2026 • 10:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
