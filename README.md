@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2287</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2287</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **We're Building AI to Replace Ourselves. What's the Plan?** | `discuss`, `ai` | [Read →](https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll) |
-| ⚡ | **That's a Wrap on Hacktoberfest 2026! 🎃👻** | `hacktoberfest`, `hf26challenge`, `opensource` | [Read →](https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k) |
+| ⚡ | **How Hackers Weaponized DEV.to's Mention System to Spread a Phi...** | `security`, `devto`, `phising` | [Read →](https://dev.to/ggle_in/how-hackers-weaponized-devtos-mention-system-to-spread-a-phishing-scam-1j7c) |
 | 🚀 | **Scared to Publish Your First Technical Article? Don't Be. I'll...** | `community`, `beginners`, `writing` | [Read →](https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2) |
 | 💡 | **Meet Necoz! 😸 Small. Simple. Useful.** | `opensource`, `typescript`, `software` | [Read →](https://dev.to/nyaomaru/meet-necoz-small-simple-useful-ppo) |
-| 🧠 | **After 5 years, Wasp 1.0 is coming: a 6-month plan for our full...** | `webdev`, `typescript`, `react` | [Read →](https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf) |
-| 🌐 | **"Mandatory user verification" on DEV is a scam. Here's how to ...** | `security`, `discuss`, `webdev` | [Read →](https://dev.to/ayoub_hammoudi/mandatory-user-verification-on-dev-is-a-scam-heres-how-to-spot-it-in-30-seconds-1594) |
+| 🧠 | **"Mandatory user verification" on DEV is a scam. Here's how to ...** | `security`, `discuss`, `webdev` | [Read →](https://dev.to/ayoub_hammoudi/mandatory-user-verification-on-dev-is-a-scam-heres-how-to-spot-it-in-30-seconds-1594) |
+| 🌐 | **Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Si...** | `svelte`, `javascript`, `webdev` | [Read →](https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3) |
 
 <blockquote>
-<p>💬 <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em> — <strong>Antoine de Saint-Exupery</strong></p>
+<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
 
-<p align="center"><sub>⏰ Last updated: November 05, 2026 • 03:16 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 05, 2026 • 01:09 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
