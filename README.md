@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2287</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2301</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Scared to Publish Your First Technical Article? Don't Be. I'll...** | `community`, `beginners`, `writing` | [Read →](https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2) |
-| ⚡ | **Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Exp...** | `ai`, `programming`, `neuroscience` | [Read →](https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a) |
-| 🚀 | **"Mandatory user verification" on DEV is a scam. Here's how to ...** | `security`, `discuss`, `webdev` | [Read →](https://dev.to/ayoub_hammoudi/mandatory-user-verification-on-dev-is-a-scam-heres-how-to-spot-it-in-30-seconds-1594) |
-| 💡 | **Plan Stamping, for Software** | `ai`, `career`, `discuss` | [Read →](https://dev.to/kenwalger/plan-stamping-for-software-4ein) |
-| 🧠 | **WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?** | `ai`, `webmcp`, `angular` | [Read →](https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5) |
-| 🌐 | **Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Ru...** | `jax`, `tpu`, `gemma` | [Read →](https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72) |
+| 🔥 | **The CodeNewbie Podcast is Back for Season 28!** | `codenewbie`, `ai`, `podcast` | [Read →](https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484) |
+| ⚡ | **Stratagems #36: They Finished Their Coffee. The AI Still Has N...** | `discuss`, `ai`, `career` | [Read →](https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh) |
+| 🚀 | **My Linux Course Put Me to Sleep, So I Built Something That Wou...** | `beginners`, `learning`, `linux` | [Read →](https://dev.to/maame-codes/my-linux-course-put-me-to-sleep-so-i-built-something-that-wouldnt-5g4k) |
+| 💡 | **My First GitHub Issue & My First Forem (DEV.to) Issue 🚀** | `discuss`, `github`, `opensource` | [Read →](https://dev.to/necoz/my-first-github-issue-my-first-forem-devto-issue-5eap) |
+| 🧠 | **Exploring Decision Models, Part 1: Putting Gemini Decision 1 t...** | `ai`, `googlecloud`, `gemini` | [Read →](https://dev.to/googleai/exploring-decision-models-part-1-putting-gemini-decision-1-to-the-test-50f0) |
+| 🌐 | **Day 86: A Per-Host Variable and an Account-Wide Rule** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-86-a-per-host-variable-and-an-account-wide-rule-538c) |
 
 <blockquote>
-<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Git was created by Linus Torvalds in just 10 days 🔧
+> **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: November 05, 2026 • 10:35 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 19, 2026 • 11:27 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
