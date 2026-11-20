@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2302</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2302</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **My First GitHub Issue & My First Forem (DEV.to) Issue 🚀** | `discuss`, `github`, `opensource` | [Read →](https://dev.to/necoz/my-first-github-issue-my-first-forem-devto-issue-5eap) |
-| ⚡ | **What team-wide AI adoption actually takes** | `ai`, `productivity`, `discuss` | [Read →](https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh) |
-| 🚀 | **Adopt Pre-Existing Docker Containers with Zero Downtime: Rever...** | `devops`, `docker`, `opensource` | [Read →](https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic) |
-| 💡 | **Maintaining open source projects up to date with Renovate and ...** | `antigravity`, `renovate`, `development` | [Read →](https://dev.to/gde/maintaining-open-source-projects-up-to-date-with-renovate-and-antigravity-3haj) |
-| 🧠 | **Can a plain table hijack an AI agent?** | `ai`, `security`, `llm` | [Read →](https://dev.to/edbrdi/can-a-plain-table-hijack-an-ai-agent-2pde) |
-| 🌐 | **Day 87: A Redirected Module and a Renamed Publisher** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-87-a-redirected-module-and-a-renamed-publisher-1280) |
+| 🔥 | **Tell us your story, and we might read it on the CodeNewbie Pod...** | `codenewbie`, `ai`, `beginners` | [Read →](https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840) |
+| ⚡ | **I can't believe the podcast I learned to code with is back!** | `codenewbie`, `podcast`, `ai` | [Read →](https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5) |
+| 🚀 | **What team-wide AI adoption actually takes** | `ai`, `productivity`, `discuss` | [Read →](https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh) |
+| 💡 | **Agentic engineering a smart home energy system with Antigravit...** | `ai`, `antigravity`, `smarthome` | [Read →](https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md) |
+| 🧠 | **Day 87: A Redirected Module and a Renamed Publisher** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-87-a-redirected-module-and-a-renamed-publisher-1280) |
+| 🌐 | **Everybody Has an AI Apocalypse Story. Almost Nobody Reads the ...** | `ai`, `discuss`, `devjournal` | [Read →](https://dev.to/kenielzep97/everybody-has-an-ai-apocalypse-story-almost-nobody-reads-the-fine-print-43hm) |
 
 <blockquote>
-<p>💬 <em>"AI is the new electricity."</em> — <strong>Andrew Ng</strong></p>
+<p>💬 <em>"Programming is the art of telling another human being what one wants the computer to do."</em> — <strong>Donald Knuth</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** The QWERTY keyboard layout was designed to slow typists down ⌨️
 
-<p align="center"><sub>⏰ Last updated: November 20, 2026 • 01:31 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 20, 2026 • 11:01 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
