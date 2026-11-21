@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2303</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2304</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **🐱 The Function Factory of Necoz! ⚙️ - Learning Python Functions 🚀** | `beginners`, `python` | [Read →](https://dev.to/necoz/the-function-factory-of-necoz-learning-python-functions-2ikd) |
-| ⚡ | **Zombie Sweep on Google Cloud: A Daily Waste Report on AlloyDB ...** | `googlecloud`, `postgres`, `finops` | [Read →](https://dev.to/gde/zombie-sweep-on-google-cloud-a-daily-waste-report-on-alloydb-express-with-a-database-bill-you-can-305g) |
-| 🚀 | **The Chairs Are Back. The Coffee Is On. ☕** | `community`, `discuss`, `ai` | [Read →](https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p) |
-| 💡 | **Day 88: A Marker in the File and a Disputed Status Code** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-88-a-dead-service-and-a-disputed-status-code-48j5) |
-| 🧠 | **Day 89: A Dead Service and a Private Container That Serves** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-89-a-marker-in-the-file-and-a-grant-somewhere-else-1deo) |
-| 🌐 | **Test the npm Package, Not Just the Monorepo** | `typescript`, `testing`, `docker` | [Read →](https://dev.to/gde/test-the-npm-package-not-just-the-monorepo-2j1e) |
+| 🔥 | **The Chairs Are Back. The Coffee Is On. ☕** | `community`, `discuss`, `ai` | [Read →](https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p) |
+| ⚡ | **🐱 The Function Factory of Necoz! ⚙️ - Learning Python Functions 🚀** | `beginners`, `python` | [Read →](https://dev.to/necoz/the-function-factory-of-necoz-learning-python-functions-2ikd) |
+| 🚀 | **Day 89: A Dead Service and a Private Container That Serves** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-89-a-marker-in-the-file-and-a-grant-somewhere-else-1deo) |
+| 💡 | **Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy...** | `ai`, `kiro`, `gamedev` | [Read →](https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2) |
+| 🧠 | **Test the npm Package, Not Just the Monorepo** | `typescript`, `testing`, `docker` | [Read →](https://dev.to/gde/test-the-npm-package-not-just-the-monorepo-2j1e) |
+| 🌐 | **A VS Code extension to turn ANY free chatbot website into an A...** | `ai`, `programming`, `opensource` | [Read →](https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21) |
 
 <blockquote>
-<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
+<p>💬 <em>"Experience is the name everyone gives to their mistakes."</em> — <strong>Oscar Wilde</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
+> **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: November 21, 2026 • 10:05 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 22, 2026 • 03:02 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
