@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2303</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2303</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Tell us your story, and we might read it on the CodeNewbie Pod...** | `codenewbie`, `ai`, `beginners` | [Read →](https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840) |
-| ⚡ | **Dev Opportunity Radar #26: $85K Claude Corps Fellowship, a16z ...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2) |
-| 🚀 | **I can't believe the podcast I learned to code with is back!** | `codenewbie`, `podcast`, `ai` | [Read →](https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5) |
-| 💡 | **Agentic engineering a smart home energy system with Antigravit...** | `ai`, `antigravity`, `smarthome` | [Read →](https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md) |
-| 🧠 | **Cozy Bytes 🍺 - Rust::Who Owns the Cat? 🐈🦀** | `rust`, `learning`, `beginners` | [Read →](https://dev.to/_yourbrainbuffer_/cozy-bytes-rustwho-owns-the-cat-13ch) |
-| 🌐 | **🐱 The Function Factory of Necoz! ⚙️ - Learning Python Functions 🚀** | `beginners`, `python` | [Read →](https://dev.to/necoz/the-function-factory-of-necoz-learning-python-functions-2ikd) |
+| 🔥 | **🐱 The Function Factory of Necoz! ⚙️ - Learning Python Functions 🚀** | `beginners`, `python` | [Read →](https://dev.to/necoz/the-function-factory-of-necoz-learning-python-functions-2ikd) |
+| ⚡ | **Zombie Sweep on Google Cloud: A Daily Waste Report on AlloyDB ...** | `googlecloud`, `postgres`, `finops` | [Read →](https://dev.to/gde/zombie-sweep-on-google-cloud-a-daily-waste-report-on-alloydb-express-with-a-database-bill-you-can-305g) |
+| 🚀 | **The Chairs Are Back. The Coffee Is On. ☕** | `community`, `discuss`, `ai` | [Read →](https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p) |
+| 💡 | **Day 88: A Marker in the File and a Disputed Status Code** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-88-a-dead-service-and-a-disputed-status-code-48j5) |
+| 🧠 | **Day 89: A Dead Service and a Private Container That Serves** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-89-a-marker-in-the-file-and-a-grant-somewhere-else-1deo) |
+| 🌐 | **Test the npm Package, Not Just the Monorepo** | `typescript`, `testing`, `docker` | [Read →](https://dev.to/gde/test-the-npm-package-not-just-the-monorepo-2j1e) |
 
 <blockquote>
-<p>💬 <em>"In order to be irreplaceable, one must always be different."</em> — <strong>Coco Chanel</strong></p>
+<p>💬 <em>"Stay hungry, stay foolish."</em> — <strong>Steve Jobs</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** TypeScript was created by Microsoft in 2012 🏗️
 
-<p align="center"><sub>⏰ Last updated: November 21, 2026 • 01:26 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 21, 2026 • 10:05 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
