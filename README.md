@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2304</strong> of my coding journey</em>
+<em>🌙 Good Night! • Day <strong>2304</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The Chairs Are Back. The Coffee Is On. ☕** | `community`, `discuss`, `ai` | [Read →](https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p) |
-| ⚡ | **Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy...** | `ai`, `kiro`, `gamedev` | [Read →](https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2) |
-| 🚀 | **Monuments of India, Part 3: Sixteen Statues Sculpted from Phot...** | `javascript`, `threejs`, `webdev` | [Read →](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm) |
-| 💡 | **Day 89: A Dead Service and a Private Container That Serves** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-89-a-marker-in-the-file-and-a-grant-somewhere-else-1deo) |
-| 🧠 | **A VS Code extension to turn ANY free chatbot website into an A...** | `ai`, `programming`, `opensource` | [Read →](https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21) |
-| 🌐 | **Test the npm Package, Not Just the Monorepo** | `typescript`, `testing`, `docker` | [Read →](https://dev.to/gde/test-the-npm-package-not-just-the-monorepo-2j1e) |
+| 🔥 | **Necoz Is Building a New House!! 🛸 All Cats, Follow Me!! 🐈🚀** | `necoz`, `opensource`, `community` | [Read →](https://dev.to/necoz/necoz-is-building-a-new-house-all-cats-follow-me-530n) |
+| ⚡ | **The Third Cup: Five Elements, One IT Company** | `discuss`, `management`, `career` | [Read →](https://dev.to/thethirdcup/the-third-cup-five-elements-one-it-company-1bca) |
+| 🚀 | **Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy...** | `ai`, `kiro`, `gamedev` | [Read →](https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2) |
+| 💡 | **Monuments of India, Part 3: Sixteen Statues Sculpted from Phot...** | `javascript`, `threejs`, `webdev` | [Read →](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm) |
+| 🧠 | **Day 90: A Mask in the Way and a Policy Pointing at Nothing** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-90-a-mask-in-the-way-and-a-policy-pointing-at-nothing-390o) |
+| 🌐 | **I turned my GitHub contribution graph into a Bloomberg-style t...** | `discuss`, `github`, `webdev` | [Read →](https://dev.to/necoz/i-turned-my-github-contribution-graph-into-a-bloomberg-style-trading-terminal-31eh) |
 
 <blockquote>
-<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
+<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
 
-<p align="center"><sub>⏰ Last updated: November 22, 2026 • 01:13 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 22, 2026 • 10:22 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
