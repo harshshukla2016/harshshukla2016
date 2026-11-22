@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌙 Good Night! • Day <strong>2304</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2305</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **Necoz Is Building a New House!! 🛸 All Cats, Follow Me!! 🐈🚀** | `necoz`, `opensource`, `community` | [Read →](https://dev.to/necoz/necoz-is-building-a-new-house-all-cats-follow-me-530n) |
 | ⚡ | **The Third Cup: Five Elements, One IT Company** | `discuss`, `management`, `career` | [Read →](https://dev.to/thethirdcup/the-third-cup-five-elements-one-it-company-1bca) |
-| 🚀 | **Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy...** | `ai`, `kiro`, `gamedev` | [Read →](https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2) |
-| 💡 | **Monuments of India, Part 3: Sixteen Statues Sculpted from Phot...** | `javascript`, `threejs`, `webdev` | [Read →](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm) |
+| 🚀 | **I turned my GitHub contribution graph into a Bloomberg-style t...** | `discuss`, `github`, `webdev` | [Read →](https://dev.to/necoz/i-turned-my-github-contribution-graph-into-a-bloomberg-style-trading-terminal-31eh) |
+| 💡 | **I Made My RAG Safer. It Got Worse Under Load** | `ai`, `rag`, `discuss` | [Read →](https://dev.to/ayush_singh_9b0d83152be5b/i-made-my-rag-safer-it-got-worse-under-load-3olm) |
 | 🧠 | **Day 90: A Mask in the Way and a Policy Pointing at Nothing** | `devops`, `ansible`, `azure` | [Read →](https://dev.to/ndcodes/day-90-a-mask-in-the-way-and-a-policy-pointing-at-nothing-390o) |
-| 🌐 | **I turned my GitHub contribution graph into a Bloomberg-style t...** | `discuss`, `github`, `webdev` | [Read →](https://dev.to/necoz/i-turned-my-github-contribution-graph-into-a-bloomberg-style-trading-terminal-31eh) |
+| 🌐 | **Monuments of India, Part 4: 100 New Monuments, from Harappan D...** | `javascript`, `threejs`, `webdev` | [Read →](https://dev.to/amananandrai/monuments-of-india-part-4-100-new-monuments-from-harappan-dholavira-to-the-chenab-rail-bridge-3n6p) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</em> — <strong>Dan Salomon</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Python was named after Monty Python, not the snake 🐍
+> **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: November 22, 2026 • 10:22 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 23, 2026 • 03:09 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
