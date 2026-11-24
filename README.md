@@ -58,10 +58,10 @@
 |:---:|---|---|:---:|
 | 🔥 | **What are you Grateful for this Thanksgiving?** | `discuss`, `community`, `watercooler` | [Read →](https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570) |
 | ⚡ | **The Third Cup: Change Never Sleeps** | `discuss`, `career`, `programming` | [Read →](https://dev.to/thethirdcup/the-third-cup-change-never-sleeps-2ldf) |
-| 🚀 | **Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isol...** | `netlify`, `webdev`, `architecture` | [Read →](https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136) |
-| 💡 | **Wrist vs Camera: Can I Trust a Camera Pulse on My Own Laptop?** | `devchallenge`, `presagechallenge` | [Read →](https://dev.to/dannwaneri/wrist-vs-camera-can-i-trust-a-camera-pulse-on-my-own-laptop-4g3o) |
-| 🧠 | **Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not th...** | `webdev`, `ai`, `typescript` | [Read →](https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9) |
-| 🌐 | **🎨 NECOZ Art Class: The Day 35 Cats Painted a Portrait of the K...** | `python`, `beginners`, `discuss` | [Read →](https://dev.to/necoz/necoz-art-class-the-day-35-cats-painted-a-portrait-of-the-king-how-pixels-work-10en) |
+| 🚀 | **Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not th...** | `webdev`, `ai`, `typescript` | [Read →](https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9) |
+| 💡 | **Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isol...** | `netlify`, `webdev`, `architecture` | [Read →](https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136) |
+| 🧠 | **Wrist vs Camera: Can I Trust a Camera Pulse on My Own Laptop?** | `devchallenge`, `presagechallenge` | [Read →](https://dev.to/dannwaneri/wrist-vs-camera-can-i-trust-a-camera-pulse-on-my-own-laptop-4g3o) |
+| 🌐 | **C# 15 Unpacked: Practical Use Cases for Unions with Real Examples** | `microsoft`, `dotnet`, `csharp` | [Read →](https://dev.to/georgekobaidze/c-15-unpacked-practical-use-cases-for-unions-with-real-examples-e32) |
 
 <blockquote>
 <p>💬 <em>"Walking on water and developing software from a specification are easy if both are frozen."</em> — <strong>Edward V. Berard</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** The first Apple logo featured Isaac Newton sitting under a tree 🍏
 
-<p align="center"><sub>⏰ Last updated: November 24, 2026 • 02:21 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 24, 2026 • 08:19 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
