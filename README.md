@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2307</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2308</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **Why Your AI Release Notes Hallucinate: The "Why vs What" Probl...** | `ai`, `devops`, `github` | [Read →](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0) |
-| ⚡ | **I Let Claude Code Create My AWS Account** | `aws`, `ai`, `mcp` | [Read →](https://dev.to/aws/i-let-claude-code-create-my-aws-account-12gb) |
+| 🔥 | **The Price You Pay for Passion** | `discuss`, `mentalhealth` | [Read →](https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l) |
+| ⚡ | **The mental toll of working in tech** | `mentalhealth`, `discuss`, `career` | [Read →](https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k) |
 | 🚀 | **Lazy Senior Dev Mode Made My App Smaller. Was It Better?** | `ai`, `webdev`, `claude` | [Read →](https://dev.to/necoz/lazy-senior-dev-mode-made-my-app-smaller-was-it-better-90i) |
-| 💡 | **String Type In C** | `c`, `beginners`, `necoz` | [Read →](https://dev.to/necoz/string-type-in-c-3aep) |
-| 🧠 | **A Year of Hacking: a Cloudinary Hackathon Retrospective** | `api`, `cloud`, `softwaredevelopment` | [Read →](https://dev.to/cloudinary/a-year-of-hacking-a-cloudinary-hackathon-retrospective-3odm) |
-| 🌐 | **The Price You Pay for Passion** | `discuss`, `mentalhealth` | [Read →](https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l) |
+| 💡 | **The Third Cup: You Don't Have to Fly That High** | `discuss`, `career`, `programming` | [Read →](https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd) |
+| 🧠 | **I Know It's You, But I Can't Prove It** | `jwt`, `security`, `backend` | [Read →](https://dev.to/codingwithjiro/i-know-its-you-but-i-cant-prove-it-39i2) |
+| 🌐 | **Stop AI Agents Acting on Bluffs? A Strands Decider 2B Tool Gat...** | `ai`, `aws`, `agents` | [Read →](https://dev.to/aws-builders/stop-ai-agents-acting-on-bluffs-a-strands-decider-2b-tool-gate-test-5004) |
 
 <blockquote>
-<p>💬 <em>"The most disastrous thing that you can ever learn is your first programming language."</em> — <strong>Alan Kay</strong></p>
+<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** The first YouTube video was uploaded on April 23, 2005 🎬
+> **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: November 25, 2026 • 02:59 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 26, 2026 • 12:27 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
