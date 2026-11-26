@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>☀️ Good Afternoon! • Day <strong>2308</strong> of my coding journey</em>
+<em>🌅 Good Morning! • Day <strong>2309</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The mental toll of working in tech** | `mentalhealth`, `discuss`, `career` | [Read →](https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k) |
-| ⚡ | **I Built My First Multi-Agent System on AWS, and It Was Easier ...** | `discuss`, `aws`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/i-built-my-first-multi-agent-system-on-aws-and-it-was-easier-than-i-expected-58c2) |
-| 🚀 | **Home Office Nightmare** | `discuss`, `mentalhealth`, `productivity` | [Read →](https://dev.to/thethirdcup/home-office-nightmare-2ja0) |
-| 💡 | **Which OpenAPI Codegen Should You Choose in 2026? 🤔 openapi-typ...** | `typescript`, `frontend`, `backend` | [Read →](https://dev.to/necoz/which-openapi-codegen-should-you-choose-in-2026-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-m8c) |
-| 🧠 | **I Know It's You, But I Can't Prove It** | `jwt`, `security`, `backend` | [Read →](https://dev.to/codingwithjiro/i-know-its-you-but-i-cant-prove-it-39i2) |
-| 🌐 | **Stop AI Agents Acting on Bluffs? A Strands Decider 2B Tool Gat...** | `ai`, `aws`, `agents` | [Read →](https://dev.to/aws-builders/stop-ai-agents-acting-on-bluffs-a-strands-decider-2b-tool-gate-test-5004) |
+| 🔥 | **Nostalgia and the AI Productivity Paradox** | `ai`, `productivity`, `watercooler` | [Read →](https://dev.to/gramli/nostalgia-and-the-ai-productivity-paradox-4f33) |
+| ⚡ | **I Built AI Test Automation. Today, I Went Back to Manual Testing.** | `discuss`, `testing`, `ai` | [Read →](https://dev.to/thethirdcup/i-built-ai-test-automation-today-i-went-back-to-manual-testing-mlh) |
+| 🚀 | **On reviewing AI-generated code** | `ai`, `codereview`, `opinion` | [Read →](https://dev.to/nfrankel/on-reviewing-ai-generated-code-3olj) |
+| 💡 | **Can Your Agent Review Your Cloud Architecture?** | `aws`, `ai`, `architecture` | [Read →](https://dev.to/aws/can-your-agent-review-your-cloud-architecture-4coh) |
+| 🧠 | **From a feed full of Fable 5.2 demos to a 20-episode Indian epi...** | `python`, `ai`, `animation` | [Read →](https://dev.to/amananandrai/from-a-feed-full-of-fable-52-demos-to-a-20-episode-indian-epic-how-i-built-the-eighteen-days-14mm) |
+| 🌐 | **Why Can't We Just #include "functions.c" in "main.c"? 🤔** | `programming`, `tutorial`, `beginners` | [Read →](https://dev.to/necoz/why-cant-we-just-include-functionsc-in-mainc-1a73) |
 
 <blockquote>
-<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
+<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
 </blockquote>
 
-> **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
+> **🧪 Did You Know?** The first domain ever registered was Symbolics.com on March 15, 1985 🏷️
 
-<p align="center"><sub>⏰ Last updated: November 26, 2026 • 02:37 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 27, 2026 • 12:19 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
