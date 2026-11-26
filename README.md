@@ -58,10 +58,10 @@
 |:---:|---|---|:---:|
 | 🔥 | **The Price You Pay for Passion** | `discuss`, `mentalhealth` | [Read →](https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l) |
 | ⚡ | **The mental toll of working in tech** | `mentalhealth`, `discuss`, `career` | [Read →](https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k) |
-| 🚀 | **Lazy Senior Dev Mode Made My App Smaller. Was It Better?** | `ai`, `webdev`, `claude` | [Read →](https://dev.to/necoz/lazy-senior-dev-mode-made-my-app-smaller-was-it-better-90i) |
-| 💡 | **The Third Cup: You Don't Have to Fly That High** | `discuss`, `career`, `programming` | [Read →](https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd) |
-| 🧠 | **I Know It's You, But I Can't Prove It** | `jwt`, `security`, `backend` | [Read →](https://dev.to/codingwithjiro/i-know-its-you-but-i-cant-prove-it-39i2) |
-| 🌐 | **Stop AI Agents Acting on Bluffs? A Strands Decider 2B Tool Gat...** | `ai`, `aws`, `agents` | [Read →](https://dev.to/aws-builders/stop-ai-agents-acting-on-bluffs-a-strands-decider-2b-tool-gate-test-5004) |
+| 🚀 | **The Third Cup: You Don't Have to Fly That High** | `discuss`, `career`, `programming` | [Read →](https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd) |
+| 💡 | **Lazy Senior Dev Mode Made My App Smaller. Was It Better?** | `ai`, `webdev`, `claude` | [Read →](https://dev.to/necoz/lazy-senior-dev-mode-made-my-app-smaller-was-it-better-90i) |
+| 🧠 | **Home Office Nightmare** | `discuss`, `mentalhealth`, `productivity` | [Read →](https://dev.to/thethirdcup/home-office-nightmare-2ja0) |
+| 🌐 | **I Built My First Multi-Agent System on AWS, and It Was Easier ...** | `discuss`, `aws`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/i-built-my-first-multi-agent-system-on-aws-and-it-was-easier-than-i-expected-58c2) |
 
 <blockquote>
 <p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: November 26, 2026 • 12:27 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 26, 2026 • 05:36 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
