@@ -51,25 +51,25 @@
 
 <!-- TECH_NEWS_START -->
 <div align="center">
-<em>🌅 Good Morning! • Day <strong>2308</strong> of my coding journey</em>
+<em>☀️ Good Afternoon! • Day <strong>2308</strong> of my coding journey</em>
 </div>
 
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
-| 🔥 | **The Price You Pay for Passion** | `discuss`, `mentalhealth` | [Read →](https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l) |
-| ⚡ | **The mental toll of working in tech** | `mentalhealth`, `discuss`, `career` | [Read →](https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k) |
-| 🚀 | **The Third Cup: You Don't Have to Fly That High** | `discuss`, `career`, `programming` | [Read →](https://dev.to/thethirdcup/the-third-cup-you-dont-have-to-fly-that-high-3ehd) |
-| 💡 | **Lazy Senior Dev Mode Made My App Smaller. Was It Better?** | `ai`, `webdev`, `claude` | [Read →](https://dev.to/necoz/lazy-senior-dev-mode-made-my-app-smaller-was-it-better-90i) |
-| 🧠 | **Home Office Nightmare** | `discuss`, `mentalhealth`, `productivity` | [Read →](https://dev.to/thethirdcup/home-office-nightmare-2ja0) |
-| 🌐 | **I Built My First Multi-Agent System on AWS, and It Was Easier ...** | `discuss`, `aws`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/i-built-my-first-multi-agent-system-on-aws-and-it-was-easier-than-i-expected-58c2) |
+| 🔥 | **The mental toll of working in tech** | `mentalhealth`, `discuss`, `career` | [Read →](https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k) |
+| ⚡ | **I Built My First Multi-Agent System on AWS, and It Was Easier ...** | `discuss`, `aws`, `beginners` | [Read →](https://dev.to/hemapriya_kanagala/i-built-my-first-multi-agent-system-on-aws-and-it-was-easier-than-i-expected-58c2) |
+| 🚀 | **Home Office Nightmare** | `discuss`, `mentalhealth`, `productivity` | [Read →](https://dev.to/thethirdcup/home-office-nightmare-2ja0) |
+| 💡 | **Which OpenAPI Codegen Should You Choose in 2026? 🤔 openapi-typ...** | `typescript`, `frontend`, `backend` | [Read →](https://dev.to/necoz/which-openapi-codegen-should-you-choose-in-2026-openapi-typescript-vs-hey-api-vs-orval-vs-kubb-m8c) |
+| 🧠 | **I Know It's You, But I Can't Prove It** | `jwt`, `security`, `backend` | [Read →](https://dev.to/codingwithjiro/i-know-its-you-but-i-cant-prove-it-39i2) |
+| 🌐 | **Stop AI Agents Acting on Bluffs? A Strands Decider 2B Tool Gat...** | `ai`, `aws`, `agents` | [Read →](https://dev.to/aws-builders/stop-ai-agents-acting-on-bluffs-a-strands-decider-2b-tool-gate-test-5004) |
 
 <blockquote>
-<p>💬 <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong></p>
+<p>💬 <em>"Java is to JavaScript what Car is to Carpet."</em> — <strong>Chris Heilmann</strong></p>
 </blockquote>
 
 > **🧪 Did You Know?** Wi-Fi doesn't stand for 'Wireless Fidelity' — it's just a brand name 📶
 
-<p align="center"><sub>⏰ Last updated: November 26, 2026 • 05:36 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 26, 2026 • 02:37 PM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
