@@ -59,7 +59,7 @@
 | 🔥 | **Nostalgia and the AI Productivity Paradox** | `ai`, `productivity`, `watercooler` | [Read →](https://dev.to/gramli/nostalgia-and-the-ai-productivity-paradox-4f33) |
 | ⚡ | **I Built AI Test Automation. Today, I Went Back to Manual Testing.** | `discuss`, `testing`, `ai` | [Read →](https://dev.to/thethirdcup/i-built-ai-test-automation-today-i-went-back-to-manual-testing-mlh) |
 | 🚀 | **On reviewing AI-generated code** | `ai`, `codereview`, `opinion` | [Read →](https://dev.to/nfrankel/on-reviewing-ai-generated-code-3olj) |
-| 💡 | **Can Your Agent Review Your Cloud Architecture?** | `aws`, `ai`, `architecture` | [Read →](https://dev.to/aws/can-your-agent-review-your-cloud-architecture-4coh) |
+| 💡 | **Your Second Brain Is Just A Digital Hoarding Pile (And How To ...** | `productivity`, `pkm`, `learning` | [Read →](https://dev.to/johnnylemonny/your-second-brain-is-just-a-digital-hoarding-pile-and-how-to-fix-it-3n1o) |
 | 🧠 | **From a feed full of Fable 5.2 demos to a 20-episode Indian epi...** | `python`, `ai`, `animation` | [Read →](https://dev.to/amananandrai/from-a-feed-full-of-fable-52-demos-to-a-20-episode-indian-epic-how-i-built-the-eighteen-days-14mm) |
 | 🌐 | **Why Can't We Just #include "functions.c" in "main.c"? 🤔** | `programming`, `tutorial`, `beginners` | [Read →](https://dev.to/necoz/why-cant-we-just-include-functionsc-in-mainc-1a73) |
 
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** The first domain ever registered was Symbolics.com on March 15, 1985 🏷️
 
-<p align="center"><sub>⏰ Last updated: November 27, 2026 • 12:19 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 27, 2026 • 05:57 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
