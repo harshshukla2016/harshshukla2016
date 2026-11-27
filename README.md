@@ -57,11 +57,11 @@
 | # | **Trending in Tech Today** | **Tags** | **Link** |
 |:---:|---|---|:---:|
 | 🔥 | **What was your win this week!?** | `weeklyretro` | [Read →](https://dev.to/devteam/what-was-your-win-this-week-h3d) |
-| ⚡ | **Writing Is Really Fun, But My Luck Had Other Plans 🐿** | `writing`, `discuss`, `cafe` | [Read →](https://dev.to/thethirdcup/writing-is-really-fun-but-my-luck-had-other-plans-493m) |
-| 🚀 | **The Best Café in Town Turns People Away. Your System Should Too** | `discuss`, `api`, `backend` | [Read →](https://dev.to/thethirdcup/the-best-cafe-in-town-turns-people-away-your-system-should-too-5ehh) |
-| 💡 | **Zero Repeat Regressions: The Golden Metric & The Future of Age...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/zero-repeat-regressions-the-golden-metric-the-future-of-agentic-trust-4857) |
-| 🧠 | **Introducing a Website That Absolutely Nobody Asked For** | `showdev`, `cybersecurity`, `webdev` | [Read →](https://dev.to/gnomeman4201/introducing-a-website-that-absolutely-nobody-asked-for-3bng) |
-| 🌐 | **I Got Two AI Agents Talking. Then I Found Out They Weren't Hea...** | `ai`, `agents`, `discord` | [Read →](https://dev.to/kenielzep97/i-got-two-ai-agents-talking-then-i-found-out-they-werent-hearing-each-other-1fn6) |
+| ⚡ | **Dev Opportunity Radar #27: $400K Google AI Competition, Vercel...** | `discuss`, `community`, `opportunities` | [Read →](https://dev.to/devengers/dev-opportunity-radar-27-400k-google-ai-competition-vercel-x-ai-accelerator-and-fully-funded-1jl2) |
+| 🚀 | **How I built my own OS** | `ai`, `linux`, `programming` | [Read →](https://dev.to/cloudwerx/how-i-built-my-own-os-942) |
+| 💡 | **Writing Is Really Fun, But My Luck Had Other Plans 🐿** | `writing`, `discuss`, `cafe` | [Read →](https://dev.to/thethirdcup/writing-is-really-fun-but-my-luck-had-other-plans-493m) |
+| 🧠 | **Thinking on Constrained Deployments: Gemma E4B on 4GB 1650** | `gemma`, `llm`, `benchmark` | [Read →](https://dev.to/gde/thinking-on-constrained-deployments-gemma-e4b-on-4gb-1650-2cc6) |
+| 🌐 | **Zero Repeat Regressions: The Golden Metric & The Future of Age...** | `ai`, `programming`, `architecture` | [Read →](https://dev.to/gde/zero-repeat-regressions-the-golden-metric-the-future-of-agentic-trust-4857) |
 
 <blockquote>
 <p>💬 <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong></p>
@@ -69,7 +69,7 @@
 
 > **🧪 Did You Know?** More than 6,000 new computer viruses are created every month 🦠
 
-<p align="center"><sub>⏰ Last updated: November 28, 2026 • 12:10 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
+<p align="center"><sub>⏰ Last updated: November 28, 2026 • 05:28 AM IST • Auto-updated 3x daily via GitHub Actions</sub></p>
 <!-- TECH_NEWS_END -->
 
 ---
